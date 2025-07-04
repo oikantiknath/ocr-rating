@@ -1,0 +1,32 @@
+{
+  "page_number": 668,
+  "ocr_output": {
+    "blocks": [
+      {
+        "block_text": "Bandyopadhyay . Mehanad Saha and Satyen Bose unstintingly . Jyotirmoyee Devi's centenary seems to need a \" special pleading \" from feminists . This is as it should be . From within the four walls that seemed to preserve the purity of upper caste Hindu orthodoxy . Jyotirmoyee Devi's pen relentlessly exposed the systemic violation of human rights in the humiliation dished out to its women by the socially acceptable practices of Hindu orthodox society . Her protests are not flawed by any paranoid edge . She achieves it with her rare ability to blend her defence of the marginal and destitute women with a clear headed understanding of the working of the \" public domain \" , that is history and politics . In Jyotirmoyee Devi's writings , not only is the \" personal \" , \" political \" ; the \" political \" is also etched with the conviction of the \" personal \" .",
+        "lines": [
+          "Bandyopadhyay . Mehanad Saha and Satyen Bose unstintingly . Jyotirmoyee Devi's centenary seems to need a \" special pleading \" from feminists . This is as it should be . From within the four walls that seemed to preserve the purity of upper caste Hindu orthodoxy . Jyotirmoyee Devi's pen relentlessly exposed the systemic violation of human rights in the humiliation dished out to its women by the socially acceptable practices of Hindu orthodox society . Her protests are not flawed by any paranoid edge . She achieves it with her rare ability to blend her defence of the marginal and destitute women with a clear headed understanding of the working of the \" public domain \" , that is history and politics . In Jyotirmoyee Devi's writings , not only is the \" personal \" , \" political \" ; the \" political \" is also etched with the conviction of the \" personal \" ."
+        ],
+        "bounding_box": [
+          {
+            "x": 17,
+            "y": 21
+          },
+          {
+            "x": 884,
+            "y": 21
+          },
+          {
+            "x": 884,
+            "y": 754
+          },
+          {
+            "x": 17,
+            "y": 754
+          }
+        ],
+        "confidence": 0.97831833
+      }
+    ]
+  }
+}

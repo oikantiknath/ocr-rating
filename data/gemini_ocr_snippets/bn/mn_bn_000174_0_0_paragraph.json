@@ -1,0 +1,79 @@
+{
+  "sdk_http_response": {
+    "headers": {
+      "content-type": "application/json; charset=UTF-8",
+      "vary": "Origin, X-Origin, Referer",
+      "content-encoding": "gzip",
+      "date": "Fri, 04 Jul 2025 03:32:52 GMT",
+      "server": "scaffolding on HTTPServer2",
+      "x-xss-protection": "0",
+      "x-frame-options": "SAMEORIGIN",
+      "x-content-type-options": "nosniff",
+      "server-timing": "gfet4t7; dur=36584",
+      "alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
+      "transfer-encoding": "chunked"
+    },
+    "body": null
+  },
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "ইহা হইতে বুঝা যাইবে যে জ্ঞান বলিয়া ব্যক্তিগত কিছুই নাই; ইহা আমাদের\nমনের সৃষ্টি মাত্র। প্রত্যেক মানুষের মনেই এই সূত্র বিদ্যমান আছে, ইহারই\nসাহায্যে আমরা জ্ঞান অর্জন করি, সেইজন্য ইহাকে আমরা জ্ঞান-সূত্র বলিয়াছি;\nক্যান্টের এই মতবাদের সহিত Subjective মতবাদের পার্থক্য কোথায়—\nতাহা একটু ব্যাখ্যা করা যাউক। তাঁহাদের মতে, আমরা প্রথমে সংবেদন পাই,\nতারপরে সেই সংবেদনের মাধ্যমে মনের জ্ঞান আহরণ করি; অভিজ্ঞতার পরে\nআসে ‘মন-জ্ঞান’—তাই ইহাকে ‘A posteriori’ বলে। কিন্তু ক্যান্টের মতানুসারে\nঅভিজ্ঞতার পরে আমরা এই জ্ঞান লাভ করি না; অভিজ্ঞতার পূর্ব হইতেই উহা\nআমাদের মনের মধ্যে সঞ্চিত থাকে। বস্তুতঃ এই সঞ্চিত বা প্রাকসিদ্ধ জ্ঞানের\nসাহায্যেই আমরা অভিজ্ঞতা লাভ করি; তাই ইহাকে A priori জ্ঞান বলে। এই\nপার্থক্য সত্ত্বেও এই দুই মতবাদের মধ্যে যথেষ্ট সাদৃশ্য আছে; Subjective\nমতানুসারে জ্ঞানের কোন জাগতিক সত্তা নাই; ইহা আমাদের মানসিক সৃষ্টি\nমাত্র। ক্যান্টের মতানুসারেও ইহার কোন জাগতিক সত্তা নাই, ইহাও\nসত্তা মানসিক। তবে মানসিক হইলেও ইহাকে ঠিক মনের সৃষ্টি বলা যায় না, বরং\nইহাকে ভদ্র বলাই বিধেয়। কারণ, এই সূত্র আমরা তো সৃষ্টি করি না, যেমনভাবে\nমানসিক বিকাররূপে ধারণা বা Conceptual Space সৃষ্টি করা হয়, সেইরূপ\nভাবে ইহা চেষ্টা সহকারে সৃষ্টি করা হয় না। ইহা স্বরূপে আমাদের “মনের মধ্যে”\nচিরকালই বিদ্যমান আছে। তবে লক্ষ্য করিতে হইবে, ইহা শুধু “মনের মধ্যেই”\nবিদ্যমান আছে, বহির্জগতে ইহার কোন অস্তিত্ব নাই। বহির্জগৎ প্রত্যক্ষ বিষয়, এ\nপক্ষে জ্ঞান এক অপরিহার্য্য আকার (Form) মাত্র; এই চাঁচে ঢালিয়া আমরা\nজাগতিক বস্তুকে জ্ঞানবদ্ধ বলিয়া প্রত্যক্ষ করি। তাই ক্যান্ট বলিতে পারেন, যে\nপৃথিবী হইতে যদি আমাদের মনের অস্তিত্ব অবলুপ্ত হইয়া যায়, তাহা হইলে\nপৃথিবীর কোথাও কোনও জ্ঞান থাকিবে না; পৃথিবী একেবারে জ্ঞানহীন নিরাকার\nপদার্থে পরিণত হইয়া যাইবে। কারণ, জ্ঞান তো মনের অবদান মাত্র, যদি মনই\nনা থাকিল, তবে জ্ঞান থাকিবে কেমন করিয়া?"
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": "STOP",
+      "safety_ratings": [
+        {
+          "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HATE_SPEECH",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HARASSMENT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+          "probability": "NEGLIGIBLE"
+        }
+      ],
+      "token_count": null
+    }
+  ],
+  "create_time": null,
+  "response_id": null,
+  "model_version": "gemini-2.5-pro",
+  "prompt_feedback": null,
+  "usage_metadata": {
+    "cache_tokens_details": null,
+    "cached_content_token_count": null,
+    "candidates_token_count": 452,
+    "candidates_tokens_details": null,
+    "prompt_token_count": 748,
+    "prompt_tokens_details": [
+      {
+        "modality": "TEXT",
+        "token_count": 490
+      },
+      {
+        "modality": "IMAGE",
+        "token_count": 258
+      }
+    ],
+    "thoughts_token_count": 2422,
+    "tool_use_prompt_token_count": null,
+    "tool_use_prompt_tokens_details": null,
+    "total_token_count": 3622,
+    "traffic_type": null
+  },
+  "automatic_function_calling_history": [],
+  "parsed": null,
+  "page_number": 90
+}

@@ -1,0 +1,79 @@
+{
+  "sdk_http_response": {
+    "headers": {
+      "content-type": "application/json; charset=UTF-8",
+      "vary": "Origin, X-Origin, Referer",
+      "content-encoding": "gzip",
+      "date": "Fri, 04 Jul 2025 03:38:03 GMT",
+      "server": "scaffolding on HTTPServer2",
+      "x-xss-protection": "0",
+      "x-frame-options": "SAMEORIGIN",
+      "x-content-type-options": "nosniff",
+      "server-timing": "gfet4t7; dur=56404",
+      "alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
+      "transfer-encoding": "chunked"
+    },
+    "body": null
+  },
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "কিন্তু গত দুই শতাব্দীতে পরিবর্তনের গতিটা এত বেড়ে গেছে\nযে সামাজিক কাঠামোটা খুব গতিময় আর নমনীয় হয়ে গেছে। এটা\nএখন একটা নিয়ত পরিবর্তনশীল অবস্থায় আছে। আধুনিক বিপ্লবের\nকথা বললে আমাদের চোখের সামনে ভেসে ওঠে ১৭৮৯ সালের\nফরাসি বিপ্লব, ১৮৪৮ সালের ইউরোপের বসন্ত অথবা ১৯১৭ সালের\nরাশিয়ান বিপ্লব। সত্যি কথা বলতে আজকালকার দিনে প্রতিটা\nবছরই বৈপ্লবিক। এখন একজন ৩০ বছর বয়সি লোকও তরুণদের\nগল্প বলতে পারে এভাবে— ‘আমরা যখন ছোটো ছিলাম তখনকার\nপৃথিবীটা ছিল অন্যরকম।’ উদাহরণস্বরূপ, ইন্টারনেট জিনিসটাই তো\nনব্বইয়ের দশকে তৈরি, মাত্র বছর পঁচিশ আগের কথা। অথচ আজ\nআমরা ইন্টারনেট ছাড়া পৃথিবীর কথা কল্পনাই করতে পারি না।"
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": "STOP",
+      "safety_ratings": [
+        {
+          "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HATE_SPEECH",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HARASSMENT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+          "probability": "NEGLIGIBLE"
+        }
+      ],
+      "token_count": null
+    }
+  ],
+  "create_time": null,
+  "response_id": null,
+  "model_version": "gemini-2.5-pro",
+  "prompt_feedback": null,
+  "usage_metadata": {
+    "cache_tokens_details": null,
+    "cached_content_token_count": null,
+    "candidates_token_count": 162,
+    "candidates_tokens_details": null,
+    "prompt_token_count": 748,
+    "prompt_tokens_details": [
+      {
+        "modality": "TEXT",
+        "token_count": 490
+      },
+      {
+        "modality": "IMAGE",
+        "token_count": 258
+      }
+    ],
+    "thoughts_token_count": 5442,
+    "tool_use_prompt_token_count": null,
+    "tool_use_prompt_tokens_details": null,
+    "total_token_count": 6352,
+    "traffic_type": null
+  },
+  "automatic_function_calling_history": [],
+  "parsed": null,
+  "page_number": 355
+}

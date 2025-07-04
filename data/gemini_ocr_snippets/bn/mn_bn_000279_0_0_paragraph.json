@@ -1,0 +1,79 @@
+{
+  "sdk_http_response": {
+    "headers": {
+      "content-type": "application/json; charset=UTF-8",
+      "vary": "Origin, X-Origin, Referer",
+      "content-encoding": "gzip",
+      "date": "Fri, 04 Jul 2025 03:33:32 GMT",
+      "server": "scaffolding on HTTPServer2",
+      "x-xss-protection": "0",
+      "x-frame-options": "SAMEORIGIN",
+      "x-content-type-options": "nosniff",
+      "server-timing": "gfet4t7; dur=73398",
+      "alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
+      "transfer-encoding": "chunked"
+    },
+    "body": null
+  },
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "দ্বিতীয়তঃ দ্রব্য শক্তির আধার। ইহার গুণ সম্বন্ধে যাহা বলা\nহইয়াছে, ইহার শক্তি সম্বন্ধেও ঠিক সেই কথা প্রযোজ্য। প্রত্যেক দ্রব্যেই\nকিঞ্চিৎ শক্তি আছে; এই শক্তি প্রয়োগ করিয়া ইহা নিজ সত্তা বজায় রাখে।\nজীবজন্তু, পশুপক্ষী প্রভৃতি প্রাণবন্ত দ্রব্যের যে শক্তি আছে—তাহা আমরা সকলেই\nস্বীকার করি, সেবিষয়ে কাহারো কোন সন্দেহ নাই। কিন্তু জড়দ্রব্যের শক্তি\nআছে কি না—সেবিষয়ে কেহ হয়ত সন্দেহ করিতে পারেন। সেইজন্য এস্থানে\nজীবন্তের উদাহরণ না দিয়া জড়বস্তুর উদাহরণ দেওয়া যাউক। জড় দ্রব্য, যেমন\nঘর টেবিল। টেবিলটি সরাইতে যাও, দেখিবে তোমার আক্রমণ প্রতিরোধ\nকরিবার জন্য টেবিলও নিজ শক্তি প্রয়োগ করিতেছে। অবশ্য মানুষ যেভাবে\nশক্তি প্রয়োগ করে, টেবিল ঠিক তেমনভাবে শক্তি প্রয়োগ করে না। তবুও\nনিজের ভারে বলীয়ান হইয়া উহা নিজের স্থানটুকুতে জাঁকিয়া বসিয়া থাকিতে চায়,"
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": "STOP",
+      "safety_ratings": [
+        {
+          "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HATE_SPEECH",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HARASSMENT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+          "probability": "NEGLIGIBLE"
+        }
+      ],
+      "token_count": null
+    }
+  ],
+  "create_time": null,
+  "response_id": null,
+  "model_version": "gemini-2.5-pro",
+  "prompt_feedback": null,
+  "usage_metadata": {
+    "cache_tokens_details": null,
+    "cached_content_token_count": null,
+    "candidates_token_count": 196,
+    "candidates_tokens_details": null,
+    "prompt_token_count": 748,
+    "prompt_tokens_details": [
+      {
+        "modality": "TEXT",
+        "token_count": 490
+      },
+      {
+        "modality": "IMAGE",
+        "token_count": 258
+      }
+    ],
+    "thoughts_token_count": 6731,
+    "tool_use_prompt_token_count": null,
+    "tool_use_prompt_tokens_details": null,
+    "total_token_count": 7675,
+    "traffic_type": null
+  },
+  "automatic_function_calling_history": [],
+  "parsed": null,
+  "page_number": 94
+}

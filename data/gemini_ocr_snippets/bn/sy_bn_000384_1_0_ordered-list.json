@@ -1,0 +1,79 @@
+{
+  "sdk_http_response": {
+    "headers": {
+      "content-type": "application/json; charset=UTF-8",
+      "vary": "Origin, X-Origin, Referer",
+      "content-encoding": "gzip",
+      "date": "Fri, 04 Jul 2025 03:36:34 GMT",
+      "server": "scaffolding on HTTPServer2",
+      "x-xss-protection": "0",
+      "x-frame-options": "SAMEORIGIN",
+      "x-content-type-options": "nosniff",
+      "server-timing": "gfet4t7; dur=18258",
+      "alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
+      "transfer-encoding": "chunked"
+    },
+    "body": null
+  },
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "7.5.1. An arrear paper is defined as one in which a candidate has failed to secure minimum\npass marks (i.e. 40%) or in which he/she remains absent in the Semester-end Examination. A\nstudent shall be permitted to appear in such arrear paper(s) only when the respective\nSemester-end Examination will be subsequently held, and this will be applicable for the 1st and\n2nd semester only. A candidate who is eligible to appear for the 1st and 2nd semester-end\nexamination, but not actually appeared in the examination on valid ground, he/she be\npermitted to continue the next semester as per ‘No Detention System’ provided that the\ncandidate has to clear/qualify the previous semester with his/her current semester at a time."
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": "STOP",
+      "safety_ratings": [
+        {
+          "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HATE_SPEECH",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HARASSMENT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+          "probability": "NEGLIGIBLE"
+        }
+      ],
+      "token_count": null
+    }
+  ],
+  "create_time": null,
+  "response_id": null,
+  "model_version": "gemini-2.5-pro",
+  "prompt_feedback": null,
+  "usage_metadata": {
+    "cache_tokens_details": null,
+    "cached_content_token_count": null,
+    "candidates_token_count": 172,
+    "candidates_tokens_details": null,
+    "prompt_token_count": 751,
+    "prompt_tokens_details": [
+      {
+        "modality": "TEXT",
+        "token_count": 493
+      },
+      {
+        "modality": "IMAGE",
+        "token_count": 258
+      }
+    ],
+    "thoughts_token_count": 1116,
+    "tool_use_prompt_token_count": null,
+    "tool_use_prompt_tokens_details": null,
+    "total_token_count": 2039,
+    "traffic_type": null
+  },
+  "automatic_function_calling_history": [],
+  "parsed": null,
+  "page_number": 310
+}

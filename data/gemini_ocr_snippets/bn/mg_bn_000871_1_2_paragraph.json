@@ -1,0 +1,79 @@
+{
+  "sdk_http_response": {
+    "headers": {
+      "content-type": "application/json; charset=UTF-8",
+      "vary": "Origin, X-Origin, Referer",
+      "content-encoding": "gzip",
+      "date": "Fri, 04 Jul 2025 03:32:42 GMT",
+      "server": "scaffolding on HTTPServer2",
+      "x-xss-protection": "0",
+      "x-frame-options": "SAMEORIGIN",
+      "x-content-type-options": "nosniff",
+      "server-timing": "gfet4t7; dur=41854",
+      "alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
+      "transfer-encoding": "chunked"
+    },
+    "body": null
+  },
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "ফের শুরু করলেন দীপকবাবু, “নরবু প্রকাশকে ফলো করে যে\nবাড়ির সন্ধান দিল, সেখানে গিয়ে পেলাম আততায়ীর জ্যাকেট,\nমিলিটারি জুতো। তা হলে কি রোশন কেরকেট্টা মূল অপরাধী? কেননা,\nওরকম গাছবাড়ি রোশন কেরকেট্টাই বানায় গাছ পাহারা দেওয়ার জন্য।\nআর প্রকাশ রোশনের লোক। ওই জমিটা রোশনের হতেই পারে। তার\nপ্রচুর জমি। আমি সিদ্ধান্তে পৌঁছে গিয়েছিলাম রোশন কেরকেট্টাই মূল\nষড়যন্ত্রী। ধারণাটা পালটাল ঘণ্টাখানেকের মধ্যেই। সুনীল কাজি আমাকে\nএকটা গ্রুপ ফোটো দেখাবে বলেছিল। যেখানে আচার্যর জীবন্ত ছবি\nদেখা যাবে। তার আগে পর্যন্ত ওঁর কোনও ফোটো দেখিনি আমি। আর\nদেখা যাবে আচার্যর ঘনিষ্ঠজনদের। দীপক প্রধানের ওখানে ব্রেকফাস্ট\nকরার সময় সুনীল কাজির ফোন এল। ফোটোটা খুঁজে পেয়েছেন।\nআমি দেখতে গেলাম, পিছনে পড়লাম সিঁড়িতে। পড়তে-পড়তেই"
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": "STOP",
+      "safety_ratings": [
+        {
+          "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HATE_SPEECH",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HARASSMENT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+          "probability": "NEGLIGIBLE"
+        }
+      ],
+      "token_count": null
+    }
+  ],
+  "create_time": null,
+  "response_id": null,
+  "model_version": "gemini-2.5-pro",
+  "prompt_feedback": null,
+  "usage_metadata": {
+    "cache_tokens_details": null,
+    "cached_content_token_count": null,
+    "candidates_token_count": 217,
+    "candidates_tokens_details": null,
+    "prompt_token_count": 748,
+    "prompt_tokens_details": [
+      {
+        "modality": "TEXT",
+        "token_count": 490
+      },
+      {
+        "modality": "IMAGE",
+        "token_count": 258
+      }
+    ],
+    "thoughts_token_count": 3660,
+    "tool_use_prompt_token_count": null,
+    "tool_use_prompt_tokens_details": null,
+    "total_token_count": 4625,
+    "traffic_type": null
+  },
+  "automatic_function_calling_history": [],
+  "parsed": null,
+  "page_number": 72
+}

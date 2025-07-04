@@ -1,0 +1,79 @@
+{
+  "sdk_http_response": {
+    "headers": {
+      "content-type": "application/json; charset=UTF-8",
+      "vary": "Origin, X-Origin, Referer",
+      "content-encoding": "gzip",
+      "date": "Fri, 04 Jul 2025 03:33:37 GMT",
+      "server": "scaffolding on HTTPServer2",
+      "x-xss-protection": "0",
+      "x-frame-options": "SAMEORIGIN",
+      "x-content-type-options": "nosniff",
+      "server-timing": "gfet4t7; dur=33710",
+      "alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
+      "transfer-encoding": "chunked"
+    },
+    "body": null
+  },
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "পুলিশ প্রশাসনের ঝলক সক্রিয়তা\nলক্ষ্য করা গেছে। একই ভাবে এবার\nরানিগঞ্জে সোনার দোকানে ডাকাতির\nঘটনায় আবারও নায়কের ভূমিকায়\nসেই পুলিশ। নিজের জীবনের পরোয়া\nনা করে সাতজন দুষ্কৃতীর সঙ্গে লড়াই\nকরে পুলিশের ওই আধিকারিক, এক\nডাকাত আহত হয়। পরবর্তীতে পুলিশ\nপ্রশাসন তাদের ধাওয়া করে, ঝাড়খ-\nণ্ডের গিরিডি জেলার সরিয়ার জঙ্গল\nথেকে দুষ্কৃতীর ছিনতাই করা চারচাকা\nগাড়ি ও বেশ কিছু কার্তুজ সহ, লুট\nকরা বেশ কিছু সোনার গয়না সমেত\nউদ্ধার করে এক ডাকাতকে।\nআসানসোল দুর্গাপুর পুলিশ"
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": "STOP",
+      "safety_ratings": [
+        {
+          "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HATE_SPEECH",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HARASSMENT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+          "probability": "NEGLIGIBLE"
+        }
+      ],
+      "token_count": null
+    }
+  ],
+  "create_time": null,
+  "response_id": null,
+  "model_version": "gemini-2.5-pro",
+  "prompt_feedback": null,
+  "usage_metadata": {
+    "cache_tokens_details": null,
+    "cached_content_token_count": null,
+    "candidates_token_count": 141,
+    "candidates_tokens_details": null,
+    "prompt_token_count": 748,
+    "prompt_tokens_details": [
+      {
+        "modality": "TEXT",
+        "token_count": 490
+      },
+      {
+        "modality": "IMAGE",
+        "token_count": 258
+      }
+    ],
+    "thoughts_token_count": 3205,
+    "tool_use_prompt_token_count": null,
+    "tool_use_prompt_tokens_details": null,
+    "total_token_count": 4094,
+    "traffic_type": null
+  },
+  "automatic_function_calling_history": [],
+  "parsed": null,
+  "page_number": 134
+}

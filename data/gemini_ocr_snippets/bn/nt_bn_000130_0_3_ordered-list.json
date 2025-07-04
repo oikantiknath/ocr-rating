@@ -1,0 +1,79 @@
+{
+  "sdk_http_response": {
+    "headers": {
+      "content-type": "application/json; charset=UTF-8",
+      "vary": "Origin, X-Origin, Referer",
+      "content-encoding": "gzip",
+      "date": "Fri, 04 Jul 2025 03:33:59 GMT",
+      "server": "scaffolding on HTTPServer2",
+      "x-xss-protection": "0",
+      "x-frame-options": "SAMEORIGIN",
+      "x-content-type-options": "nosniff",
+      "server-timing": "gfet4t7; dur=34757",
+      "alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
+      "transfer-encoding": "chunked"
+    },
+    "body": null
+  },
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "০১। সচিব, মাধ্যমিক ও উচ্চ শিক্ষা বিভাগ, শিক্ষা মন্ত্রণালয়, বাংলাদেশ সচিবালয়, ঢাকা;\n০২। চেয়ারম্যান, জাতীয় শিক্ষাক্রম ও পাঠ্যপুস্তক বোর্ড, ঢাকা;\n০৩। চেয়ারম্যান, মাধ্যমিক ও উচ্চ মাধ্যমিক শিক্ষা বোর্ড, ঢাকা;\n০৪। মাননীয় মন্ত্রীর একান্ত সচিব, মন্ত্রীর দপ্তর, মাধ্যমিক ও উচ্চ শিক্ষা বিভাগ, শিক্ষা মন্ত্রণালয়, ঢাকা;\n০৫। মাননীয় উপমন্ত্রীর একান্ত সচিব, উপমন্ত্রীর দপ্তর, মাধ্যমিক ও উচ্চ শিক্ষা বিভাগ, শিক্ষা মন্ত্রণালয়, ঢাকা;\n০৬। পরিচালক (কলেজ ও প্রশাসন/মাধ্যমিক/পরি: ও উনঃ/প্রশিক্ষণ/অর্থ ও ক্রয়/মনি: এন্ড ইভা:), মাধ্যমিক ও\nউচ্চ শিক্ষা অধিদপ্তর, বাংলাদেশ, ঢাকা;\n০৭। চেয়ারম্যান, মাধ্যমিক ও উচ্চ মাধ্যমিক শিক্ষা বোর্ড (সকল);\n০৮। পরিচালক, মাধ্যমিক ও উচ্চ শিক্ষা, (সকল অঞ্চল);\n০৯। সিনিয়র সিস্টেম এনালিস্ট, এমআইএস সেল, মাধ্যমিক ও উচ্চ শিক্ষা অধিদপ্তর, বাংলাদেশ, ঢাকা\n(পত্রটি মাউশি অধিদপ্তরের ওয়েব সাইটে প্রকাশের অনুরোধসহ);\n১০। পি এ টু মহাপরিচালক, মাধ্যমিক ও উচ্চ শিক্ষা অধিদপ্তর, বাংলাদেশ, ঢাকা।\n১১। সংরক্ষণ নথি।"
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": "STOP",
+      "safety_ratings": [
+        {
+          "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HATE_SPEECH",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HARASSMENT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+          "probability": "NEGLIGIBLE"
+        }
+      ],
+      "token_count": null
+    }
+  ],
+  "create_time": null,
+  "response_id": null,
+  "model_version": "gemini-2.5-pro",
+  "prompt_feedback": null,
+  "usage_metadata": {
+    "cache_tokens_details": null,
+    "cached_content_token_count": null,
+    "candidates_token_count": 248,
+    "candidates_tokens_details": null,
+    "prompt_token_count": 750,
+    "prompt_tokens_details": [
+      {
+        "modality": "TEXT",
+        "token_count": 492
+      },
+      {
+        "modality": "IMAGE",
+        "token_count": 258
+      }
+    ],
+    "thoughts_token_count": 2707,
+    "tool_use_prompt_token_count": null,
+    "tool_use_prompt_tokens_details": null,
+    "total_token_count": 3705,
+    "traffic_type": null
+  },
+  "automatic_function_calling_history": [],
+  "parsed": null,
+  "page_number": 153
+}

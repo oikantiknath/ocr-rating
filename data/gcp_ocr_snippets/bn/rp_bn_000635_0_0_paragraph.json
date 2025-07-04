@@ -1,0 +1,32 @@
+{
+  "page_number": 635,
+  "ocr_output": {
+    "blocks": [
+      {
+        "block_text": "Besides these , a large number of articles , essays , stories , poems etc. written by her have been published since 1922 in various journals and magazines though not collected in book form . She is a pioneer as well as one of the formost among women writers in Bengali on the rights of women and their problems . She was and is a member of All India Women's Confernce , Calcutta Branch , since its inception and was a vice - president for several years .",
+        "lines": [
+          "Besides these , a large number of articles , essays , stories , poems etc. written by her have been published since 1922 in various journals and magazines though not collected in book form . She is a pioneer as well as one of the formost among women writers in Bengali on the rights of women and their problems . She was and is a member of All India Women's Confernce , Calcutta Branch , since its inception and was a vice - president for several years ."
+        ],
+        "bounding_box": [
+          {
+            "x": 8,
+            "y": 15
+          },
+          {
+            "x": 877,
+            "y": 16
+          },
+          {
+            "x": 877,
+            "y": 264
+          },
+          {
+            "x": 8,
+            "y": 263
+          }
+        ],
+        "confidence": 0.9838997
+      }
+    ]
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "sdk_http_response": {
+    "headers": {
+      "content-type": "application/json; charset=UTF-8",
+      "vary": "Origin, X-Origin, Referer",
+      "content-encoding": "gzip",
+      "date": "Fri, 04 Jul 2025 03:33:34 GMT",
+      "server": "scaffolding on HTTPServer2",
+      "x-xss-protection": "0",
+      "x-frame-options": "SAMEORIGIN",
+      "x-content-type-options": "nosniff",
+      "server-timing": "gfet4t7; dur=66164",
+      "alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
+      "transfer-encoding": "chunked"
+    },
+    "body": null
+  },
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "২। ষ্ট্যাফিলোমা প্রকাণ্ড আকারের হইলে, এমন কি তদ্দ্বারা কর্ণিয়ার\nচতুর্থ বা তদপেক্ষা অধিকাংশ ভাগ আক্রমিত হইলে, আইরিডেক্টমী অস্ত্র-\nপ্রক্রিয়া দ্বারা আইরিসকে কর্তন করিয়া ফেলিলে নিশ্চয়ই পীড়া আরোগ্য\nহইতে পারে। যদি উপেক্ষা করিয়া এইরূপ করা না যায়, তবে তৎপরে\nআইরিস্ এবং কনীনিকা কর্ণিয়ার আকর্ষিত ও সংযুক্ত হইয়া পড়িতে পারে।\nআমরা এই দুর্ঘটনার বিষয় পূর্ব্বেই অনুমান করিয়া, কর্ণিয়ার সুস্থ অংশের\nপশ্চাৎ হইতে আইরিসের প্রায় চতুর্থাংশ নিষ্কাশিত করিয়া, আইরিস্কে\nসমুদয় সংযোগ হইতে নিষ্কৃতি প্রদান করিয়া থাকি ; এবং এইরূপে আইরিসের\nউপরিভাগের রসস্রাবের অল্পতা সম্পাদন করায়, এ্যাকুইয়াস্ অধিক পরিমাণে\nসঞ্চিত হইতে পারে না। আইরিডেক্টমী সম্পাদন করিবার অব্যবহিত\nপরেই চক্ষুতে যত্নপূর্ব্বক কোল্ড এবং ব্যান্ডেজ্ বন্ধন করিলে, উক্ত\nষ্ট্যাফিলোমার আকারও লঘু হইয়া যায়, এবং ইহাদ্বারা চক্ষুতে গ্লোকোমা\nজনিত পরিবর্ত্তন ঘটিতে বাধা প্রদত্ত হয়।"
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": "STOP",
+      "safety_ratings": [
+        {
+          "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HATE_SPEECH",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HARASSMENT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+          "probability": "NEGLIGIBLE"
+        }
+      ],
+      "token_count": null
+    }
+  ],
+  "create_time": null,
+  "response_id": null,
+  "model_version": "gemini-2.5-pro",
+  "prompt_feedback": null,
+  "usage_metadata": {
+    "cache_tokens_details": null,
+    "cached_content_token_count": null,
+    "candidates_token_count": 252,
+    "candidates_tokens_details": null,
+    "prompt_token_count": 748,
+    "prompt_tokens_details": [
+      {
+        "modality": "TEXT",
+        "token_count": 490
+      },
+      {
+        "modality": "IMAGE",
+        "token_count": 258
+      }
+    ],
+    "thoughts_token_count": 6465,
+    "tool_use_prompt_token_count": null,
+    "tool_use_prompt_tokens_details": null,
+    "total_token_count": 7465,
+    "traffic_type": null
+  },
+  "automatic_function_calling_history": [],
+  "parsed": null,
+  "page_number": 105
+}

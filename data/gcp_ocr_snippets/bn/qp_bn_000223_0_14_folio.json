@@ -1,0 +1,32 @@
+{
+  "page_number": 223,
+  "ocr_output": {
+    "blocks": [
+      {
+        "block_text": "MVD18 - I",
+        "lines": [
+          "MVD18 - I"
+        ],
+        "bounding_box": [
+          {
+            "x": 10,
+            "y": 5
+          },
+          {
+            "x": 182,
+            "y": 3
+          },
+          {
+            "x": 182,
+            "y": 28
+          },
+          {
+            "x": 10,
+            "y": 30
+          }
+        ],
+        "confidence": 0.94834614
+      }
+    ]
+  }
+}

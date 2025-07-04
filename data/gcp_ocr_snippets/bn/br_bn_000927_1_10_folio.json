@@ -1,0 +1,27 @@
+{
+  "page_number": 927,
+  "ocr_output": {
+    "blocks": [
+      {
+        "block_text": "সুশাসন",
+        "lines": [
+          "সুশাসন"
+        ],
+        "bounding_box": [
+          {},
+          {
+            "x": 390
+          },
+          {
+            "x": 390,
+            "y": 127
+          },
+          {
+            "y": 131
+          }
+        ],
+        "confidence": 0.979916
+      }
+    ]
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "sdk_http_response": {
+    "headers": {
+      "content-type": "application/json; charset=UTF-8",
+      "vary": "Origin, X-Origin, Referer",
+      "content-encoding": "gzip",
+      "date": "Fri, 04 Jul 2025 03:36:21 GMT",
+      "server": "scaffolding on HTTPServer2",
+      "x-xss-protection": "0",
+      "x-frame-options": "SAMEORIGIN",
+      "x-content-type-options": "nosniff",
+      "server-timing": "gfet4t7; dur=37031",
+      "alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
+      "transfer-encoding": "chunked"
+    },
+    "body": null
+  },
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "সেন, প্রবোধচন্দ্র। রবীন্দ্রনাথের শিক্ষাচিন্তা z LmL¡aj x f h%o। ¡SÉf ùL f oÑ\n2007z ¢ W z\nসেন, সুকুমার। বাঙ্গালা সাহিত্যের ইতিহাস ৩য় খণ্ড z LmL¡aj x B e¾ f ¡h¢m¡pN\n1350 z ¢ W z\nসেন, সুকুমার। বাঙ্গালা সাহিত্যের ইতিহাস ৪র্থ খণ্ড z LmL¡aj x CøZN f ¡h¢m¡pN\n1976 z ¢ W z\nসেন, সুকুমার। বাঙ্গালা সাহিত্যের ইতিহাস ৫ম খণ্ড z LmL¡aj x B e¾ f ¡h¢m¡pN\n1365 z ¢ W z\nসেনগুপ্ত, অতিতকুমার। কল্লোলযুগ z LmL¡aj x Hj .Ф. pl L¡l AÉä pep¡ f Ë\ncn, 1357 z ¢ W z\nসেনগুপ্ত, গীতশ্রীবন্দনা। সম্পাদিত আলোেক - আত্মচরিতে নারী প্রগতির ধারা z\nকলকাতাঃ পত্রপি f ¡h¢m¡pN1999 z ¢ W z\nসেনগুপ্ত, মল্লিকা। Ù‰%o.ej Ñ z LmL¡aj x B e¾ f ¡h¢m¡pN1994 z ¢ W z\nহালদার, শ্রী গৌরাঙ্গ। শিক্ষণ প্রসঙ্গে শিক্ষার ইতিহাস z LmL¡aj x hÉe¡SÑ\nf ¡h¢m¡pN1987 z ¢ W z\nহালদার, গোপাল। বাংলা সাহিত্যের রূপ-রেখা ২য় খণ্ড z LmL¡aj x Al¡Z¡\nf Ë¡jne£ 1401 z ¢ W z"
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": "STOP",
+      "safety_ratings": [
+        {
+          "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HATE_SPEECH",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HARASSMENT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+          "probability": "NEGLIGIBLE"
+        }
+      ],
+      "token_count": null
+    }
+  ],
+  "create_time": null,
+  "response_id": null,
+  "model_version": "gemini-2.5-pro",
+  "prompt_feedback": null,
+  "usage_metadata": {
+    "cache_tokens_details": null,
+    "cached_content_token_count": null,
+    "candidates_token_count": 379,
+    "candidates_tokens_details": null,
+    "prompt_token_count": 750,
+    "prompt_tokens_details": [
+      {
+        "modality": "TEXT",
+        "token_count": 492
+      },
+      {
+        "modality": "IMAGE",
+        "token_count": 258
+      }
+    ],
+    "thoughts_token_count": 2960,
+    "tool_use_prompt_token_count": null,
+    "tool_use_prompt_tokens_details": null,
+    "total_token_count": 4089,
+    "traffic_type": null
+  },
+  "automatic_function_calling_history": [],
+  "parsed": null,
+  "page_number": 285
+}

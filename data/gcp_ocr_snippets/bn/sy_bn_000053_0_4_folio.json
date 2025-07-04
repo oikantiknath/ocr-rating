@@ -1,0 +1,32 @@
+{
+  "page_number": 53,
+  "ocr_output": {
+    "blocks": [
+      {
+        "block_text": "CREDIT : 4 ( THEORY + TUTORIAL )",
+        "lines": [
+          "CREDIT : 4 ( THEORY + TUTORIAL )"
+        ],
+        "bounding_box": [
+          {
+            "x": 6,
+            "y": 7
+          },
+          {
+            "x": 496,
+            "y": 7
+          },
+          {
+            "x": 496,
+            "y": 28
+          },
+          {
+            "x": 6,
+            "y": 28
+          }
+        ],
+        "confidence": 0.9630344
+      }
+    ]
+  }
+}

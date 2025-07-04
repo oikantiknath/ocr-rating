@@ -1,0 +1,32 @@
+{
+  "page_number": 186,
+  "ocr_output": {
+    "blocks": [
+      {
+        "block_text": "8AS",
+        "lines": [
+          "8AS"
+        ],
+        "bounding_box": [
+          {
+            "x": 45,
+            "y": 23
+          },
+          {
+            "x": 13,
+            "y": 23
+          },
+          {
+            "x": 13,
+            "y": 10
+          },
+          {
+            "x": 45,
+            "y": 10
+          }
+        ],
+        "confidence": 0.5138571
+      }
+    ]
+  }
+}

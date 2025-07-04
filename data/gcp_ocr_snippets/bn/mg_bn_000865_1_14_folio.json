@@ -1,0 +1,57 @@
+{
+  "page_number": 865,
+  "ocr_output": {
+    "blocks": [
+      {
+        "block_text": "ALSO AVAILABLE ONLINE AT",
+        "lines": [
+          "ALSO AVAILABLE ONLINE AT"
+        ],
+        "bounding_box": [
+          {
+            "x": 89,
+            "y": 18
+          },
+          {
+            "x": 304,
+            "y": 18
+          },
+          {
+            "x": 304,
+            "y": 31
+          },
+          {
+            "x": 89,
+            "y": 31
+          }
+        ],
+        "confidence": 0.99122447
+      },
+      {
+        "block_text": "LANDMARK SHOPS.IN",
+        "lines": [
+          "LANDMARK SHOPS.IN"
+        ],
+        "bounding_box": [
+          {
+            "x": 86,
+            "y": 52
+          },
+          {
+            "x": 315,
+            "y": 53
+          },
+          {
+            "x": 315,
+            "y": 113
+          },
+          {
+            "x": 86,
+            "y": 112
+          }
+        ],
+        "confidence": 0.98331517
+      }
+    ]
+  }
+}

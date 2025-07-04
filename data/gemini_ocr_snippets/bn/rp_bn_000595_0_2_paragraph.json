@@ -1,0 +1,79 @@
+{
+  "sdk_http_response": {
+    "headers": {
+      "content-type": "application/json; charset=UTF-8",
+      "vary": "Origin, X-Origin, Referer",
+      "content-encoding": "gzip",
+      "date": "Fri, 04 Jul 2025 03:36:05 GMT",
+      "server": "scaffolding on HTTPServer2",
+      "x-xss-protection": "0",
+      "x-frame-options": "SAMEORIGIN",
+      "x-content-type-options": "nosniff",
+      "server-timing": "gfet4t7; dur=25819",
+      "alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
+      "transfer-encoding": "chunked"
+    },
+    "body": null
+  },
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "অন্যদিকে জ্যোতির্ময়ী দেবীর রচনার বৈশিষ্ট্য তাঁর অনুসন্ধান। জ্যোতির্ময়ী\nদেবীর ‘দর ও দস্তুর’ গল্পে অর্থনৈতিক প্রশ্ন ছাড়াও কন দেখার প্রচলিত রীতির\nমধ্যেও মেয়েদের যে অপমানবোধ থাকে তার কথা পাওয়া যায়। বহু অপমানজনক\nপরিস্থিতির মধ্য দিয়ে যাওয়ার পরেও কী করে স্বামীকে ভালোবাসা যায় এমন প্রশ্নের\nজবাব অবাক হয়ে খোঁজে তাঁর নারী চরিত্র। জ্যোতির্ময়ী দেবীর ‘বেটি কা বাপ’"
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": "STOP",
+      "safety_ratings": [
+        {
+          "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HATE_SPEECH",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HARASSMENT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+          "probability": "NEGLIGIBLE"
+        }
+      ],
+      "token_count": null
+    }
+  ],
+  "create_time": null,
+  "response_id": null,
+  "model_version": "gemini-2.5-pro",
+  "prompt_feedback": null,
+  "usage_metadata": {
+    "cache_tokens_details": null,
+    "cached_content_token_count": null,
+    "candidates_token_count": 90,
+    "candidates_tokens_details": null,
+    "prompt_token_count": 750,
+    "prompt_tokens_details": [
+      {
+        "modality": "TEXT",
+        "token_count": 492
+      },
+      {
+        "modality": "IMAGE",
+        "token_count": 258
+      }
+    ],
+    "thoughts_token_count": 2070,
+    "tool_use_prompt_token_count": null,
+    "tool_use_prompt_tokens_details": null,
+    "total_token_count": 2910,
+    "traffic_type": null
+  },
+  "automatic_function_calling_history": [],
+  "parsed": null,
+  "page_number": 283
+}

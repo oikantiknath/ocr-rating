@@ -1,0 +1,79 @@
+{
+  "sdk_http_response": {
+    "headers": {
+      "content-type": "application/json; charset=UTF-8",
+      "vary": "Origin, X-Origin, Referer",
+      "content-encoding": "gzip",
+      "date": "Fri, 04 Jul 2025 03:33:32 GMT",
+      "server": "scaffolding on HTTPServer2",
+      "x-xss-protection": "0",
+      "x-frame-options": "SAMEORIGIN",
+      "x-content-type-options": "nosniff",
+      "server-timing": "gfet4t7; dur=50200",
+      "alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
+      "transfer-encoding": "chunked"
+    },
+    "body": null
+  },
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "জনিউলার্ ক্যাট্যার‍্যাক্টকে দুই শ্রেণীতে বিভক্ত করা যাইতে পারে।\n১ ষ্টেসনারি ( Stationary ) স্থায়ী। ২ প্রগ্রেসিত্ ( Progressive ) বা\nক্রমবর্দ্ধিত। প্রথমোক্ত শ্রেণীতে অক্ষিমুকুরের স্বল্পাংশ আক্রান্ত হয় এবং ঐ\nরূপ অস্বচ্ছতার সীমা বিলক্ষণ নির্দিষ্ট ও অক্ষিমুকুরের পরিধিদেশ সম্পূর্ণ স্বচ্ছ\nথাকে। জনিউলার্ ক্যাট্যার‍্যাক্টে রোগে যদি এবম্বিধ পূর্ব্বোক্ত লক্ষণ সকল\nবর্ত্তমান থাকে, তাহা হইলে নিশ্চয়ই বহুকাল বা জীবনাবধি ঐরূপ অস্বচ্ছতা\nবর্দ্ধিত হইবে না। অল্প পক্ষে যদি কৈন্দ্রিক অস্বচ্ছতার সঙ্গে সঙ্গে লেন্‌সের\nপরিধি মধ্যে ক্ষুদ্র ক্ষুদ্র অস্বচ্ছ বিন্দু বা স্ত্রী অর্থাৎ রেখা দৃষ্ট হয়, তাহা হইলে\nএরূপ ক্যাট্যার‍্যাক্ট নিশ্চয়ই বৃদ্ধি হইবে। এবম্বিধ স্থলে রোগের স্বভাবানু-\nসারে চিকিৎসা প্রণালী অবলম্বন করা উচিত। পার্শ্ববর্ত্তী আলোক দ্বারা\nপরীক্ষা করিলে কর্টিক্যাল্ পদার্থস্থ দাগ ও রেখা সমূহ উত্তমরূপে দৃষ্ট হয়।"
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": "STOP",
+      "safety_ratings": [
+        {
+          "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HATE_SPEECH",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HARASSMENT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+          "probability": "NEGLIGIBLE"
+        }
+      ],
+      "token_count": null
+    }
+  ],
+  "create_time": null,
+  "response_id": null,
+  "model_version": "gemini-2.5-pro",
+  "prompt_feedback": null,
+  "usage_metadata": {
+    "cache_tokens_details": null,
+    "cached_content_token_count": null,
+    "candidates_token_count": 226,
+    "candidates_tokens_details": null,
+    "prompt_token_count": 748,
+    "prompt_tokens_details": [
+      {
+        "modality": "TEXT",
+        "token_count": 490
+      },
+      {
+        "modality": "IMAGE",
+        "token_count": 258
+      }
+    ],
+    "thoughts_token_count": 4371,
+    "tool_use_prompt_token_count": null,
+    "tool_use_prompt_tokens_details": null,
+    "total_token_count": 5345,
+    "traffic_type": null
+  },
+  "automatic_function_calling_history": [],
+  "parsed": null,
+  "page_number": 117
+}

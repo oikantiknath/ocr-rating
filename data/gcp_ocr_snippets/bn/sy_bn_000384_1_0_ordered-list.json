@@ -1,0 +1,32 @@
+{
+  "page_number": 384,
+  "ocr_output": {
+    "blocks": [
+      {
+        "block_text": "7.5.1 . An arrear paper is defined as one in which a candidate has failed to secure minimum pass marks ( i.e. 40 % ) or in which he / she remains absent in the Semester - end Examination . A student shall be permitted to appear in such arrear paper ( s ) only when the respective Semester - end Examination will be subsequently held , and this will be applicable for the 1st and 2nd semester only . A candidate who is eligible to appear for the 1st and 2nd semester - end examination , but not actually appeared in the examination on valid ground , he / she be permitted to continue the next semester as per ' No Detention System ' provided that the candidate has to clear / qualify the previous semester with his / her current semester at a time .",
+        "lines": [
+          "7.5.1 . An arrear paper is defined as one in which a candidate has failed to secure minimum pass marks ( i.e. 40 % ) or in which he / she remains absent in the Semester - end Examination . A student shall be permitted to appear in such arrear paper ( s ) only when the respective Semester - end Examination will be subsequently held , and this will be applicable for the 1st and 2nd semester only . A candidate who is eligible to appear for the 1st and 2nd semester - end examination , but not actually appeared in the examination on valid ground , he / she be permitted to continue the next semester as per ' No Detention System ' provided that the candidate has to clear / qualify the previous semester with his / her current semester at a time ."
+        ],
+        "bounding_box": [
+          {
+            "x": 17,
+            "y": 16
+          },
+          {
+            "x": 2364,
+            "y": 16
+          },
+          {
+            "x": 2364,
+            "y": 836
+          },
+          {
+            "x": 17,
+            "y": 836
+          }
+        ],
+        "confidence": 0.9837391
+      }
+    ]
+  }
+}

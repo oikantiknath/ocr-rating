@@ -1,0 +1,79 @@
+{
+  "sdk_http_response": {
+    "headers": {
+      "content-type": "application/json; charset=UTF-8",
+      "vary": "Origin, X-Origin, Referer",
+      "content-encoding": "gzip",
+      "date": "Fri, 04 Jul 2025 03:35:15 GMT",
+      "server": "scaffolding on HTTPServer2",
+      "x-xss-protection": "0",
+      "x-frame-options": "SAMEORIGIN",
+      "x-content-type-options": "nosniff",
+      "server-timing": "gfet4t7; dur=38991",
+      "alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
+      "transfer-encoding": "chunked"
+    },
+    "body": null
+  },
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "আধিকারিক হিসেবে কেন্দ্রীয় ভূমিকা পালন করতে হয়। জেলা উন্নয়নের যাবতীয় কর্মসূচী\nযেমন - শিক্ষা, স্বাস্থ্য, নিয়োগ, গৃহ নির্মাণ, নারী-শিশু অনগ্রসর মানুষের জন্য বিশেষ কর্মসূচী -\n- যা সরকারের পক্ষ থেকে গ্রহণ করা হয় এবং ৭০ বা ৮০-এর দশক থেকে যে সব উন্নয়ন\nপরিকল্পনা গৃহীত হয়েছে তার রূপায়নে জেলা প্রশাসনের পক্ষে সবচেয়ে দায়িত্বশীল ভূমিকা\nনিতে হয় জেলাশাসককে। কারিগরি সহায়তা, ঋণ, পরিকল্পনা অগ্রাধিকার, বন্যা ও খরা প্রবণ\nএলাকার কর্মসূচী, স্বনির্ভর नियुक्ति, কর্মসূচী প্রেরণের সর্বক্ষেত্রেই জেলাশাসক হলেন জেলার\nসর্বোচ্চ কর্মাধ্যক্ষ। প্রতিটি উন্নয়ন প্রকল্প ও সংস্থার তিনি পদাধিকার বলে সভাপতি হন বা\nউচ্চপদে থাকেন। এক্ষেত্রে জেলাশাসক রাজ্য সরকারের হয়েই দায়িত্ব পালন করেন।"
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": "STOP",
+      "safety_ratings": [
+        {
+          "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HATE_SPEECH",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HARASSMENT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+          "probability": "NEGLIGIBLE"
+        }
+      ],
+      "token_count": null
+    }
+  ],
+  "create_time": null,
+  "response_id": null,
+  "model_version": "gemini-2.5-pro",
+  "prompt_feedback": null,
+  "usage_metadata": {
+    "cache_tokens_details": null,
+    "cached_content_token_count": null,
+    "candidates_token_count": 162,
+    "candidates_tokens_details": null,
+    "prompt_token_count": 750,
+    "prompt_tokens_details": [
+      {
+        "modality": "TEXT",
+        "token_count": 492
+      },
+      {
+        "modality": "IMAGE",
+        "token_count": 258
+      }
+    ],
+    "thoughts_token_count": 3329,
+    "tool_use_prompt_token_count": null,
+    "tool_use_prompt_tokens_details": null,
+    "total_token_count": 4241,
+    "traffic_type": null
+  },
+  "automatic_function_calling_history": [],
+  "parsed": null,
+  "page_number": 234
+}

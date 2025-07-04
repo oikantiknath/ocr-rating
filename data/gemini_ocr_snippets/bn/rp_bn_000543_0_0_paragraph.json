@@ -1,0 +1,79 @@
+{
+  "sdk_http_response": {
+    "headers": {
+      "content-type": "application/json; charset=UTF-8",
+      "vary": "Origin, X-Origin, Referer",
+      "content-encoding": "gzip",
+      "date": "Fri, 04 Jul 2025 03:36:10 GMT",
+      "server": "scaffolding on HTTPServer2",
+      "x-xss-protection": "0",
+      "x-frame-options": "SAMEORIGIN",
+      "x-content-type-options": "nosniff",
+      "server-timing": "gfet4t7; dur=36238",
+      "alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
+      "transfer-encoding": "chunked"
+    },
+    "body": null
+  },
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "অনেকসময় রবীন্দ্রনাথ তাঁর লক্ষ্যের ক্ষেত্রে ভাববাদী (Idealist) côi &% Nîe\nকরলেও, বাস্তবজীবনের ক্ষেত্রে দর্শনের প্রয়োগ করেছেন স্বভাববাদী (Naturalist)\nদৃষ্টিভঙ্গির মাধ্যমে। আমেরিকার জন ডিউই-এর সঙ্গে এই বিষয়ে তাঁর অনেক মিল\nদেখতে পাওয়া যায়। জীবনের লক্ষ্যের ক্ষেত্রে ডিউই-Hl côi &% eua f¢haðhîm\nপ্রয়োগফলের ওপর নির্ভরশীল। তাই এই নূতন দার্শনিক দৃষ্টিভঙ্গির নামকরণ করা\nহয়েছে প্রয়োগবাদী (Pragmatist) দর্শন রূপে। রবীন্দ্রনাথের ক্ষেত্রে ‘ভাববাদ’ এবং\n‘প্রকৃতিবাদে’র যে ভাব মিশ্রণ হয়েছে, ডিউই-এর ক্ষেত্রে তার কিছুটা অন্য চিত্র লক্ষ্য\nLl¡ kju z l h%Êb aý nr ¡-¢oul Q¡ju HL hýv আদর্শকে ও উদার্ত্তকে\nগ্রহণ করেছেন। তাই রবীন্দ্রনাথের মতে জীবনের যা লক্ষ্য, শিক্ষারও লক্ষ্য তাই।\nতিনি বলেছেন - “শিক্ষা জিনিসটা তো জীবনের সঙ্গে সংগতিহীন একটা কৃত্রিম জিনিস\nনহে। আমরা কী হইব এবং কী শিখিব, এ দুটি কথা একেবারে গায়ে গায়ে সংলগ্ন।\nপাত্র যত বড়ো জল তাহার চেয়ে বেশী ধরে e¡ z’"
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": "STOP",
+      "safety_ratings": [
+        {
+          "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HATE_SPEECH",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HARASSMENT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+          "probability": "NEGLIGIBLE"
+        }
+      ],
+      "token_count": null
+    }
+  ],
+  "create_time": null,
+  "response_id": null,
+  "model_version": "gemini-2.5-pro",
+  "prompt_feedback": null,
+  "usage_metadata": {
+    "cache_tokens_details": null,
+    "cached_content_token_count": null,
+    "candidates_token_count": 253,
+    "candidates_tokens_details": null,
+    "prompt_token_count": 750,
+    "prompt_tokens_details": [
+      {
+        "modality": "TEXT",
+        "token_count": 492
+      },
+      {
+        "modality": "IMAGE",
+        "token_count": 258
+      }
+    ],
+    "thoughts_token_count": 2989,
+    "tool_use_prompt_token_count": null,
+    "tool_use_prompt_tokens_details": null,
+    "total_token_count": 3992,
+    "traffic_type": null
+  },
+  "automatic_function_calling_history": [],
+  "parsed": null,
+  "page_number": 279
+}

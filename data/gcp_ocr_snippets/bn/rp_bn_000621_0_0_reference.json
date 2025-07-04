@@ -1,0 +1,382 @@
+{
+  "page_number": 621,
+  "ocr_output": {
+    "blocks": [
+      {
+        "block_text": "Castells , M. The Rise of the Network Society . Oxford x Basil Blackwell ,",
+        "lines": [
+          "Castells , M. The Rise of the Network Society . Oxford x Basil Blackwell ,"
+        ],
+        "bounding_box": [
+          {
+            "x": 14,
+            "y": 28
+          },
+          {
+            "x": 880,
+            "y": 28
+          },
+          {
+            "x": 880,
+            "y": 53
+          },
+          {
+            "x": 14,
+            "y": 53
+          }
+        ],
+        "confidence": 0.9730802
+      },
+      {
+        "block_text": "1996. Print .",
+        "lines": [
+          "1996. Print ."
+        ],
+        "bounding_box": [
+          {
+            "x": 92,
+            "y": 85
+          },
+          {
+            "x": 224,
+            "y": 85
+          },
+          {
+            "x": 224,
+            "y": 103
+          },
+          {
+            "x": 92,
+            "y": 103
+          }
+        ],
+        "confidence": 0.9661063
+      },
+      {
+        "block_text": "Castells , M. The Power of Identity . Oxford xBasil Blackwell , 1997. Print .",
+        "lines": [
+          "Castells , M. The Power of Identity . Oxford xBasil Blackwell , 1997. Print ."
+        ],
+        "bounding_box": [
+          {
+            "x": 14,
+            "y": 161
+          },
+          {
+            "x": 873,
+            "y": 161
+          },
+          {
+            "x": 873,
+            "y": 186
+          },
+          {
+            "x": 14,
+            "y": 186
+          }
+        ],
+        "confidence": 0.97995865
+      },
+      {
+        "block_text": "Castells , M. End of Millennium . Oxford x Basil Blackwell , 1998. Print .",
+        "lines": [
+          "Castells , M. End of Millennium . Oxford x Basil Blackwell , 1998. Print ."
+        ],
+        "bounding_box": [
+          {
+            "x": 13,
+            "y": 243
+          },
+          {
+            "x": 839,
+            "y": 243
+          },
+          {
+            "x": 839,
+            "y": 267
+          },
+          {
+            "x": 13,
+            "y": 267
+          }
+        ],
+        "confidence": 0.9723957
+      },
+      {
+        "block_text": "Courtney , Willam Leonard . The Feminine Note on Fiction . London x Penguine , 1904. Print .",
+        "lines": [
+          "Courtney , Willam Leonard . The Feminine Note on Fiction . London x Penguine , 1904. Print ."
+        ],
+        "bounding_box": [
+          {
+            "x": 14,
+            "y": 325
+          },
+          {
+            "x": 885,
+            "y": 319
+          },
+          {
+            "x": 886,
+            "y": 399
+          },
+          {
+            "x": 15,
+            "y": 405
+          }
+        ],
+        "confidence": 0.97178864
+      },
+      {
+        "block_text": "Devi , A. Anindita Devir Rachana Samkalan . Kolkata . School of Women's Studies and Dey's Publishing Co. , 1997. Print .",
+        "lines": [
+          "Devi , A. Anindita Devir Rachana Samkalan . Kolkata . School of Women's Studies and Dey's Publishing Co. , 1997. Print ."
+        ],
+        "bounding_box": [
+          {
+            "x": 14,
+            "y": 455
+          },
+          {
+            "x": 883,
+            "y": 455
+          },
+          {
+            "x": 883,
+            "y": 532
+          },
+          {
+            "x": 14,
+            "y": 532
+          }
+        ],
+        "confidence": 0.9807622
+      },
+      {
+        "block_text": "Devi , Jyotirmoyee . The Impermanence of Lies : Stories of Jyotirmoyee",
+        "lines": [
+          "Devi , Jyotirmoyee . The Impermanence of Lies : Stories of Jyotirmoyee"
+        ],
+        "bounding_box": [
+          {
+            "x": 14,
+            "y": 581
+          },
+          {
+            "x": 881,
+            "y": 581
+          },
+          {
+            "x": 881,
+            "y": 607
+          },
+          {
+            "x": 14,
+            "y": 607
+          }
+        ],
+        "confidence": 0.9757873
+      },
+      {
+        "block_text": "Devi . Kolkata x Stree , 1998. Print .",
+        "lines": [
+          "Devi . Kolkata x Stree , 1998. Print ."
+        ],
+        "bounding_box": [
+          {
+            "x": 88,
+            "y": 633
+          },
+          {
+            "x": 486,
+            "y": 633
+          },
+          {
+            "x": 486,
+            "y": 655
+          },
+          {
+            "x": 88,
+            "y": 655
+          }
+        ],
+        "confidence": 0.9669417
+      },
+      {
+        "block_text": "Elias , A. Khowabnama . Kolkata xNaya Udyog , 1996. Print .",
+        "lines": [
+          "Elias , A. Khowabnama . Kolkata xNaya Udyog , 1996. Print ."
+        ],
+        "bounding_box": [
+          {
+            "x": 15,
+            "y": 715
+          },
+          {
+            "x": 714,
+            "y": 715
+          },
+          {
+            "x": 714,
+            "y": 741
+          },
+          {
+            "x": 15,
+            "y": 741
+          }
+        ],
+        "confidence": 0.9715359
+      },
+      {
+        "block_text": "Forster , E. M. Aspects of the Novel . London x Penguine , 1970. Print .",
+        "lines": [
+          "Forster , E. M. Aspects of the Novel . London x Penguine , 1970. Print ."
+        ],
+        "bounding_box": [
+          {
+            "x": 14,
+            "y": 797
+          },
+          {
+            "x": 810,
+            "y": 797
+          },
+          {
+            "x": 810,
+            "y": 822
+          },
+          {
+            "x": 14,
+            "y": 822
+          }
+        ],
+        "confidence": 0.965352
+      },
+      {
+        "block_text": "Fox , Ralph . The Novel of the People . London x Corbett Press , 1948. Print .",
+        "lines": [
+          "Fox , Ralph . The Novel of the People . London x Corbett Press , 1948. Print ."
+        ],
+        "bounding_box": [
+          {
+            "x": 14,
+            "y": 879
+          },
+          {
+            "x": 873,
+            "y": 879
+          },
+          {
+            "x": 873,
+            "y": 905
+          },
+          {
+            "x": 14,
+            "y": 905
+          }
+        ],
+        "confidence": 0.97746617
+      },
+      {
+        "block_text": "Ghosh , S. Supuriboner Sari . Kolkata x Aruna , 1990. Print .",
+        "lines": [
+          "Ghosh , S. Supuriboner Sari . Kolkata x Aruna , 1990. Print ."
+        ],
+        "bounding_box": [
+          {
+            "x": 15,
+            "y": 959
+          },
+          {
+            "x": 689,
+            "y": 959
+          },
+          {
+            "x": 689,
+            "y": 984
+          },
+          {
+            "x": 15,
+            "y": 984
+          }
+        ],
+        "confidence": 0.97810316
+      },
+      {
+        "block_text": "Gupta , N.L. Women's Education Through Ages . New Delhi x Concept Publications Co , 2003. Print .",
+        "lines": [
+          "Gupta , N.L. Women's Education Through Ages . New Delhi x Concept Publications Co , 2003. Print ."
+        ],
+        "bounding_box": [
+          {
+            "x": 14,
+            "y": 1036
+          },
+          {
+            "x": 881,
+            "y": 1036
+          },
+          {
+            "x": 881,
+            "y": 1114
+          },
+          {
+            "x": 14,
+            "y": 1114
+          }
+        ],
+        "confidence": 0.96976036
+      },
+      {
+        "block_text": "Gandhi , R. Gandhi : The Man , His People , and the Empire . London xHaus Publishing , 2010. Print",
+        "lines": [
+          "Gandhi , R. Gandhi : The Man , His People , and the Empire . London xHaus Publishing , 2010. Print"
+        ],
+        "bounding_box": [
+          {
+            "x": 15,
+            "y": 1168
+          },
+          {
+            "x": 879,
+            "y": 1159
+          },
+          {
+            "x": 880,
+            "y": 1243
+          },
+          {
+            "x": 16,
+            "y": 1252
+          }
+        ],
+        "confidence": 0.97408783
+      },
+      {
+        "block_text": "Hart , Chris . Doing a Literature Review . New Delhi x Sage Publications India Pvt . Ltd. , 2000. Print .",
+        "lines": [
+          "Hart , Chris . Doing a Literature Review . New Delhi x Sage Publications India Pvt . Ltd. , 2000. Print ."
+        ],
+        "bounding_box": [
+          {
+            "x": 15,
+            "y": 1301
+          },
+          {
+            "x": 880,
+            "y": 1301
+          },
+          {
+            "x": 880,
+            "y": 1378
+          },
+          {
+            "x": 15,
+            "y": 1378
+          }
+        ],
+        "confidence": 0.9773055
+      }
+    ]
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "page_number": 789,
+  "ocr_output": {
+    "blocks": [
+      {
+        "block_text": "Enquire of",
+        "lines": [
+          "Enquire of"
+        ],
+        "bounding_box": [
+          {
+            "x": 175,
+            "y": 20
+          },
+          {
+            "x": 285,
+            "y": 20
+          },
+          {
+            "x": 285,
+            "y": 38
+          },
+          {
+            "x": 175,
+            "y": 38
+          }
+        ],
+        "confidence": 0.9855672
+      },
+      {
+        "block_text": "J. K. MITRA , Managing Partner",
+        "lines": [
+          "J. K. MITRA , Managing Partner"
+        ],
+        "bounding_box": [
+          {
+            "y": 58
+          },
+          {
+            "x": 441,
+            "y": 53
+          },
+          {
+            "x": 441,
+            "y": 84
+          },
+          {
+            "y": 89
+          }
+        ],
+        "confidence": 0.9837202
+      },
+      {
+        "block_text": "Phone B. B. 244. 64 , Balaram De St. , Cal .",
+        "lines": [
+          "Phone B. B. 244. 64 , Balaram De St. , Cal ."
+        ],
+        "bounding_box": [
+          {
+            "x": 1,
+            "y": 108
+          },
+          {
+            "x": 447,
+            "y": 106
+          },
+          {
+            "x": 447,
+            "y": 126
+          },
+          {
+            "x": 1,
+            "y": 128
+          }
+        ],
+        "confidence": 0.9643925
+      },
+      {
+        "block_text": "or KALI FILMS",
+        "lines": [
+          "or KALI FILMS"
+        ],
+        "bounding_box": [
+          {
+            "x": 117,
+            "y": 152
+          },
+          {
+            "x": 335,
+            "y": 148
+          },
+          {
+            "x": 335,
+            "y": 168
+          },
+          {
+            "x": 117,
+            "y": 172
+          }
+        ],
+        "confidence": 0.9843179
+      }
+    ]
+  }
+}

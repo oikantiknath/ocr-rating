@@ -1,0 +1,32 @@
+{
+  "page_number": 680,
+  "ocr_output": {
+    "blocks": [
+      {
+        "block_text": "Download more from https://ProExamTips.com",
+        "lines": [
+          "Download more from https://ProExamTips.com"
+        ],
+        "bounding_box": [
+          {
+            "x": 20,
+            "y": 9
+          },
+          {
+            "x": 657,
+            "y": 15
+          },
+          {
+            "x": 657,
+            "y": 46
+          },
+          {
+            "x": 20,
+            "y": 41
+          }
+        ],
+        "confidence": 0.9708593
+      }
+    ]
+  }
+}

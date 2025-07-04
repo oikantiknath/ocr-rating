@@ -1,0 +1,79 @@
+{
+  "sdk_http_response": {
+    "headers": {
+      "content-type": "application/json; charset=UTF-8",
+      "vary": "Origin, X-Origin, Referer",
+      "content-encoding": "gzip",
+      "date": "Fri, 04 Jul 2025 03:34:50 GMT",
+      "server": "scaffolding on HTTPServer2",
+      "x-xss-protection": "0",
+      "x-frame-options": "SAMEORIGIN",
+      "x-content-type-options": "nosniff",
+      "server-timing": "gfet4t7; dur=51342",
+      "alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
+      "transfer-encoding": "chunked"
+    },
+    "body": null
+  },
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "বাতিকগ্রস্তান বাতাহত। বিবাহের পরই রামলোচন লক্ষ্য করিলেন যে, ক্ষেমঙ্করীর\nদেহ-গ্রন্থিগুলি কেমন যেন অমজবুত ধরনের। একটু ঠাণ্ডা লাগিলে অথবা পরিশ্রম\nকরিলে গাঁটে গাঁটে ব্যথা হয়—শয্যাগত হইয়া পড়েন। ইহার জন্য প্রথম প্রথম তিনি\nঅদৃষ্টকেই দায়ী করিতেন। কিন্তু ক্রমাগত সন্তান প্রসব করিয়া ক্ষেমঙ্করী যখন জখম\nহইয়া পড়িলেন, তখন কারণ আর অদৃষ্ট রহিল না—দৃষ্ট হইয়া পড়িল।\nডাক্তারদের নির্দেশ অনুযায়ী তিনি নিজেকেই ইহার জন্য দোষী সাব্যস্ত করিলেন এবং\nক্ষেমঙ্করীর সহিত অন্যরূপ ব্যবহার করিতে লাগিলেন। ক্ষেমঙ্করী-সন্নিধানে যতক্ষণ\nতিনি থাকিতেন, চলিত বাংলায় বলিতে গেলে, গর্-চোরের ন্যায় সংক্ষিপ্ত হইয়া\nথাকিতেন। এতাদৃশ বিপর্যয়ের মধ্যে ক্ষেমঙ্করীর সঙ্গীতকলার সম্যক পরিচয় পাইবার\nসুযোগ তো রামলোচনের ঘটিলই না, উপরন্তু রামলোচন পাচক-সমস্যায় দিশাহারা হইয়া\nপড়িলেন। বস্তুত ইহাই এখন তাঁহার জীবনের প্রধান সমস্যা। ক্ষেমঙ্করী পণ্য\nহইলেও রন্ধন-শিল্পী। সুতরাং যা-তা ঠাকুর তাঁহার পছন্দ হয় না। রামলোচন অনেক\nকষ্টে একটি ঠাকুর যোগাড় করিয়া আনেন; দুই-চারি দিনেই তাহার নানা দোষ\nক্ষেমঙ্করীর নিকট প্রকট হইয়া পড়ে। রামলোচনকেও সে সকল দোষের অমার্জনীয়তা\nস্বীকার করিয়া অবিলম্বে তাহাকে ছাড়াইয়া দিতে হয় এবং নূতন পাচকের সন্ধানে\nবাহির হইতে হয়। যৌবনকালে পত্নী-অনুসন্ধানকালে যে সত্য তিনি আভাসে অনুভব\nকরিয়াছিলেন, সারা জীবন ধরিয়া পাচক-অনুসন্ধান করিতে করিতে তাহা সম্পূর্ণভাবেই\nহৃদয়ঙ্গম করিতে লাগিলেন—এ দেশে নির্ঘাৎ কিছু পাওয়া অসম্ভব।"
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": "STOP",
+      "safety_ratings": [
+        {
+          "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HATE_SPEECH",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HARASSMENT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+          "probability": "NEGLIGIBLE"
+        }
+      ],
+      "token_count": null
+    }
+  ],
+  "create_time": null,
+  "response_id": null,
+  "model_version": "gemini-2.5-pro",
+  "prompt_feedback": null,
+  "usage_metadata": {
+    "cache_tokens_details": null,
+    "cached_content_token_count": null,
+    "candidates_token_count": 387,
+    "candidates_tokens_details": null,
+    "prompt_token_count": 748,
+    "prompt_tokens_details": [
+      {
+        "modality": "TEXT",
+        "token_count": 490
+      },
+      {
+        "modality": "IMAGE",
+        "token_count": 258
+      }
+    ],
+    "thoughts_token_count": 4149,
+    "tool_use_prompt_token_count": null,
+    "tool_use_prompt_tokens_details": null,
+    "total_token_count": 5284,
+    "traffic_type": null
+  },
+  "automatic_function_calling_history": [],
+  "parsed": null,
+  "page_number": 196
+}

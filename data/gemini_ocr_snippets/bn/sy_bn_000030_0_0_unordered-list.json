@@ -1,0 +1,79 @@
+{
+  "sdk_http_response": {
+    "headers": {
+      "content-type": "application/json; charset=UTF-8",
+      "vary": "Origin, X-Origin, Referer",
+      "content-encoding": "gzip",
+      "date": "Fri, 04 Jul 2025 03:37:07 GMT",
+      "server": "scaffolding on HTTPServer2",
+      "x-xss-protection": "0",
+      "x-frame-options": "SAMEORIGIN",
+      "x-content-type-options": "nosniff",
+      "server-timing": "gfet4t7; dur=61961",
+      "alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
+      "transfer-encoding": "chunked"
+    },
+    "body": null
+  },
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "❖ যে Major বাংলা পত্রগুলিতে প্রকল্প নির্মাণ, ক্ষেত্রসমীক্ষা বা শিক্ষামূলক ভ্রমণ রয়েছে, সেগুলিতে সরাসরি\nপাঠদানের জন্য (Theory) ৪০টি, প্রকল্প নির্মাণ/ ক্ষেত্রসমীক্ষা/ শিক্ষামূলক ভ্রমণের জন্য ১৬টি এবং অন্তর্বর্তী\nমূল্যায়নের জন্য (Internal Assessment) ৪টি ক্লাস বরাদ্দ করা হয়েছে।\n❖ প্রতিটি Major বাংলা পত্রের মোট নম্বর ৭৫।\n❖ যে Major বাংলা পত্রগুলিতে প্রকল্প নির্মাণ, ক্ষেত্রসমীক্ষা বা শিক্ষামূলক ভ্রমণ নেই, সেগুলির নম্বর বিভাজন\nএরকম :\n    • Final Written Exam.   -   60\n    • Internal Assessment   -   10\n    • Attendance           -   05\n❖ যে Major বাংলা পত্রগুলিতে প্রকল্প নির্মাণ, ক্ষেত্রসমীক্ষা বা শিক্ষামূলক ভ্রমণ আছে, সেগুলির নম্বর বিভাজন\nএরকম :\n    • Final Written Exam.   -   40\n    • Field Work/ Study Tour/\n      Project Report      -   20\n    • Internal Assessment   -   10\n    • Attendance           -   05\n❖ প্রতিটি Major বাংলা পত্রে ১০ নম্বরের অন্তর্বর্তী মূল্যায়ন (Internal Assessment) থাকবে। এই মূল্যায়নের\nপ্রক্রিয়াটি লিখিত পরীক্ষা/ মৌখিক পরীক্ষা/ দলগত আলোচনা/ স্টুডেন্ট সেমিনার/ ওপেনবুক এক্সাম- এগুলির\nমাধ্যমে গ্রহণ করা যেতে পারে। এক্ষেত্রে কোনো প্রকল্প (Assignment/ Project) গ্রহণ করা যাবে না।\nঅন্তর্বর্তী মূল্যায়নের নথিপত্র কলেজে সংরক্ষণ করে রাখা বাঞ্ছনীয়।\n❖ প্রতিটি Major বাংলা পত্রের ক্লাসে উপস্থিতির জন্য (Attendance) ৫ নম্বর বরাদ্দ থাকবে। উপস্থিতির নম্বর\nবিভাজন এরকম :\n    • ৭৫% - ৮০%          -   ০২\n    • ৮০% - ৮৫%          -   ০৩\n    • ৮৫% - ৯০%          -   ০৪\n    • ৯০% বা তার বেশি      -   ০৫"
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": "STOP",
+      "safety_ratings": [
+        {
+          "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HATE_SPEECH",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HARASSMENT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+          "probability": "NEGLIGIBLE"
+        }
+      ],
+      "token_count": null
+    }
+  ],
+  "create_time": null,
+  "response_id": null,
+  "model_version": "gemini-2.5-pro",
+  "prompt_feedback": null,
+  "usage_metadata": {
+    "cache_tokens_details": null,
+    "cached_content_token_count": null,
+    "candidates_token_count": 397,
+    "candidates_tokens_details": null,
+    "prompt_token_count": 751,
+    "prompt_tokens_details": [
+      {
+        "modality": "TEXT",
+        "token_count": 493
+      },
+      {
+        "modality": "IMAGE",
+        "token_count": 258
+      }
+    ],
+    "thoughts_token_count": 5618,
+    "tool_use_prompt_token_count": null,
+    "tool_use_prompt_tokens_details": null,
+    "total_token_count": 6766,
+    "traffic_type": null
+  },
+  "automatic_function_calling_history": [],
+  "parsed": null,
+  "page_number": 295
+}

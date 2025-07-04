@@ -1,0 +1,57 @@
+{
+  "page_number": 551,
+  "ocr_output": {
+    "blocks": [
+      {
+        "block_text": "শ্রীঅরবিন্দ মানুষ সম্পর্কে স্পষ্ট মতামত রেখেছেন - ' \" ' \" He ( man ) is the divine incarnate with a mission to be fulfilled . ' ' শ্রী অরবিন্দ জ্ঞানের",
+        "lines": [
+          "শ্রীঅরবিন্দ মানুষ সম্পর্কে স্পষ্ট মতামত রেখেছেন - ' \" ' \" He ( man ) is the divine incarnate with a mission to be fulfilled . ' ' শ্রী অরবিন্দ জ্ঞানের"
+        ],
+        "bounding_box": [
+          {
+            "x": 13,
+            "y": 4
+          },
+          {
+            "x": 879,
+            "y": 4
+          },
+          {
+            "x": 879,
+            "y": 89
+          },
+          {
+            "x": 13,
+            "y": 89
+          }
+        ],
+        "confidence": 0.9575812
+      },
+      {
+        "block_text": "বিভিন্ন ক্ষেত্রগুলিকে ( Different branches of human knowledge ) LaL .. Ef ju ( Means ) বলেছেন , যেগুলির মাধ্যমে ব্যক্তি তার পরমসত্তাকে উপলব্ধির মধ্য দিয়ে তার জীবনের চরম পরিণতিতে পৌঁছাতে পারে ।",
+        "lines": [
+          "বিভিন্ন ক্ষেত্রগুলিকে ( Different branches of human knowledge ) LaL .. Ef ju ( Means ) বলেছেন , যেগুলির মাধ্যমে ব্যক্তি তার পরমসত্তাকে উপলব্ধির মধ্য দিয়ে তার জীবনের চরম পরিণতিতে পৌঁছাতে পারে ।"
+        ],
+        "bounding_box": [
+          {
+            "x": 9,
+            "y": 113
+          },
+          {
+            "x": 875,
+            "y": 113
+          },
+          {
+            "x": 875,
+            "y": 254
+          },
+          {
+            "x": 9,
+            "y": 254
+          }
+        ],
+        "confidence": 0.98517615
+      }
+    ]
+  }
+}

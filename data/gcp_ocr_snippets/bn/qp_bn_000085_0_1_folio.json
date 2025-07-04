@@ -1,0 +1,32 @@
+{
+  "page_number": 85,
+  "ocr_output": {
+    "blocks": [
+      {
+        "block_text": "I P.T.O",
+        "lines": [
+          "I P.T.O"
+        ],
+        "bounding_box": [
+          {
+            "x": 4,
+            "y": 5
+          },
+          {
+            "x": 79,
+            "y": 5
+          },
+          {
+            "x": 79,
+            "y": 19
+          },
+          {
+            "x": 4,
+            "y": 19
+          }
+        ],
+        "confidence": 0.7873655
+      }
+    ]
+  }
+}

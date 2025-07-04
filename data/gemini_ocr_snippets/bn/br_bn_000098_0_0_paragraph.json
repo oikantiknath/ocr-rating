@@ -1,0 +1,79 @@
+{
+  "sdk_http_response": {
+    "headers": {
+      "content-type": "application/json; charset=UTF-8",
+      "vary": "Origin, X-Origin, Referer",
+      "content-encoding": "gzip",
+      "date": "Fri, 04 Jul 2025 03:31:53 GMT",
+      "server": "scaffolding on HTTPServer2",
+      "x-xss-protection": "0",
+      "x-frame-options": "SAMEORIGIN",
+      "x-content-type-options": "nosniff",
+      "server-timing": "gfet4t7; dur=28022",
+      "alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
+      "transfer-encoding": "chunked"
+    },
+    "body": null
+  },
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "টেংলু—১০,০৭৪ ফুট উচ্চতার সিঙ্গালিলার আরেক শৃঙ্গ। নেপাল সীমান্তের এই গ্রাম\nদার্জিলিং শহর থেকে ২৩ মাইল দূরে। এখান থেকে দেখা যায় নেপালি উপত্যকা,\nউত্তরবঙ্গের সমভূমি, পূর্বে তিস্তা, পশ্চিমে কোশি এবং মাঝে অনেক ছোটো ছোটো নদী।\nটেংলুর ট্রেকের বাংলো থেকে আজও হয়তো পর্যটকরা সেই অপরূপ দৃশ্য দেখবেন,\nস্যার জোসেফ হুকার (Sir Joseph Hooker) হিমালয়ান জার্নালে যেমন লিখেছিলেন,\n“From the summit of Tonglu I enjoyed the view... In the early\nmorning the transparency of the atmosphere- readers this view\none of astonishing grandeur, Kinchinjunga bore nearly due north,\na dazzling mass of snowy peaks, interested by blue glaciers, which\ngleamed in the standing rays of the rising sun, like aquamarines\nset in frosted silver.”"
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": "STOP",
+      "safety_ratings": [
+        {
+          "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HATE_SPEECH",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HARASSMENT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+          "probability": "NEGLIGIBLE"
+        }
+      ],
+      "token_count": null
+    }
+  ],
+  "create_time": null,
+  "response_id": null,
+  "model_version": "gemini-2.5-pro",
+  "prompt_feedback": null,
+  "usage_metadata": {
+    "cache_tokens_details": null,
+    "cached_content_token_count": null,
+    "candidates_token_count": 190,
+    "candidates_tokens_details": null,
+    "prompt_token_count": 748,
+    "prompt_tokens_details": [
+      {
+        "modality": "TEXT",
+        "token_count": 490
+      },
+      {
+        "modality": "IMAGE",
+        "token_count": 258
+      }
+    ],
+    "thoughts_token_count": 2201,
+    "tool_use_prompt_token_count": null,
+    "tool_use_prompt_tokens_details": null,
+    "total_token_count": 3139,
+    "traffic_type": null
+  },
+  "automatic_function_calling_history": [],
+  "parsed": null,
+  "page_number": 2
+}

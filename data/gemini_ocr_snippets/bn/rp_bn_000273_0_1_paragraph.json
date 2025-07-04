@@ -1,0 +1,79 @@
+{
+  "sdk_http_response": {
+    "headers": {
+      "content-type": "application/json; charset=UTF-8",
+      "vary": "Origin, X-Origin, Referer",
+      "content-encoding": "gzip",
+      "date": "Fri, 04 Jul 2025 03:35:40 GMT",
+      "server": "scaffolding on HTTPServer2",
+      "x-xss-protection": "0",
+      "x-frame-options": "SAMEORIGIN",
+      "x-content-type-options": "nosniff",
+      "server-timing": "gfet4t7; dur=33402",
+      "alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
+      "transfer-encoding": "chunked"
+    },
+    "body": null
+  },
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "অন্যদিকে নারী শিক্ষার ক্ষেত্রে কিছু সরকারী প্রচেষ্টা লক্ষ্য করা যায়। স্ত্রী\nশিক্ষার অগ্রগতিতে উৎসাহী স্কুল ইনসপেক্টরদের প্রেরণায় ১৮৫৭ সালে আগ্রা, মথুরা,\nমেনপুরী (উত্তর প্রদেশ) প্রভৃতি স্থানে বেশ কয়েকটি মেয়েদের স্কুল প্রতিষ্ঠিত হয়।\nüuw ḍcÉfsāgar এসময় স্কুল ইন্সপেক্টর ছিলেন এবং তাঁর উদ্যোগে ১৮৫৫ থেকে\n১৮৫৮ সালের মধ্যে মেয়েদের ১০টি স্কুল প্রতিষ্ঠিত হতে দেখা যায়। নারী শিক্ষাক্ষাতে\nসরকারী অর্থসাহায্যের বৃদ্ধি পেতে দেখা যায় সিপাহী বিদ্রোহের পর থেকে, যা ঊনবিংশ\nna jë ëf ĉàa fu¡dÑz"
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": "STOP",
+      "safety_ratings": [
+        {
+          "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HATE_SPEECH",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HARASSMENT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+          "probability": "NEGLIGIBLE"
+        }
+      ],
+      "token_count": null
+    }
+  ],
+  "create_time": null,
+  "response_id": null,
+  "model_version": "gemini-2.5-pro",
+  "prompt_feedback": null,
+  "usage_metadata": {
+    "cache_tokens_details": null,
+    "cached_content_token_count": null,
+    "candidates_token_count": 135,
+    "candidates_tokens_details": null,
+    "prompt_token_count": 750,
+    "prompt_tokens_details": [
+      {
+        "modality": "TEXT",
+        "token_count": 492
+      },
+      {
+        "modality": "IMAGE",
+        "token_count": 258
+      }
+    ],
+    "thoughts_token_count": 2437,
+    "tool_use_prompt_token_count": null,
+    "tool_use_prompt_tokens_details": null,
+    "total_token_count": 3322,
+    "traffic_type": null
+  },
+  "automatic_function_calling_history": [],
+  "parsed": null,
+  "page_number": 264
+}

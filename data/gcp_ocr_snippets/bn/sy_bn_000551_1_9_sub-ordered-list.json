@@ -1,0 +1,157 @@
+{
+  "page_number": 551,
+  "ocr_output": {
+    "blocks": [
+      {
+        "block_text": "i )",
+        "lines": [
+          "i )"
+        ],
+        "bounding_box": [
+          {
+            "x": 21,
+            "y": 10
+          },
+          {
+            "x": 52,
+            "y": 10
+          },
+          {
+            "x": 51,
+            "y": 51
+          },
+          {
+            "x": 20,
+            "y": 51
+          }
+        ],
+        "confidence": 0.8306502
+      },
+      {
+        "block_text": "Concept of ratio and proportion in Algebra .",
+        "lines": [
+          "Concept of ratio and proportion in Algebra ."
+        ],
+        "bounding_box": [
+          {
+            "x": 135,
+            "y": 10
+          },
+          {
+            "x": 1075,
+            "y": 10
+          },
+          {
+            "x": 1075,
+            "y": 58
+          },
+          {
+            "x": 135,
+            "y": 58
+          }
+        ],
+        "confidence": 0.981346
+      },
+      {
+        "block_text": "ii )",
+        "lines": [
+          "ii )"
+        ],
+        "bounding_box": [
+          {
+            "x": 23,
+            "y": 79
+          },
+          {
+            "x": 62,
+            "y": 79
+          },
+          {
+            "x": 62,
+            "y": 119
+          },
+          {
+            "x": 23,
+            "y": 119
+          }
+        ],
+        "confidence": 0.8960081
+      },
+      {
+        "block_text": "Concept of different types of ratio and proportion",
+        "lines": [
+          "Concept of different types of ratio and proportion"
+        ],
+        "bounding_box": [
+          {
+            "x": 136,
+            "y": 79
+          },
+          {
+            "x": 1215,
+            "y": 79
+          },
+          {
+            "x": 1215,
+            "y": 127
+          },
+          {
+            "x": 136,
+            "y": 127
+          }
+        ],
+        "confidence": 0.98798907
+      },
+      {
+        "block_text": "iii )",
+        "lines": [
+          "iii )"
+        ],
+        "bounding_box": [
+          {
+            "x": 21,
+            "y": 145
+          },
+          {
+            "x": 74,
+            "y": 145
+          },
+          {
+            "x": 74,
+            "y": 196
+          },
+          {
+            "x": 21,
+            "y": 196
+          }
+        ],
+        "confidence": 0.686487
+      },
+      {
+        "block_text": "Concept of application of different proportional properties in the problems related to proportion",
+        "lines": [
+          "Concept of application of different proportional properties in the problems related to proportion"
+        ],
+        "bounding_box": [
+          {
+            "x": 135,
+            "y": 145
+          },
+          {
+            "x": 2203,
+            "y": 145
+          },
+          {
+            "x": 2203,
+            "y": 196
+          },
+          {
+            "x": 135,
+            "y": 196
+          }
+        ],
+        "confidence": 0.9845363
+      }
+    ]
+  }
+}

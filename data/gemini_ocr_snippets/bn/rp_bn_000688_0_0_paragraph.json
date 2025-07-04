@@ -1,0 +1,79 @@
+{
+  "sdk_http_response": {
+    "headers": {
+      "content-type": "application/json; charset=UTF-8",
+      "vary": "Origin, X-Origin, Referer",
+      "content-encoding": "gzip",
+      "date": "Fri, 04 Jul 2025 03:37:03 GMT",
+      "server": "scaffolding on HTTPServer2",
+      "x-xss-protection": "0",
+      "x-frame-options": "SAMEORIGIN",
+      "x-content-type-options": "nosniff",
+      "server-timing": "gfet4t7; dur=67116",
+      "alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
+      "transfer-encoding": "chunked"
+    },
+    "body": null
+  },
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "øwn na jé f প্রথমার্থে জ্যোতির্ময়ী দেবীর ja e¡l f p¡dáÉ ay pj pju Hhw\ni jhf¡m একইসঙ্গে প্রভাবিত করেছেন। জ্যোতির্ময়ী দেবী তাঁর শিক্ষা দর্শনে প্রতিটি ব্যক্তির মধ্যে\nএভাবেই সামাজিক বোধের উন্মেষ ঘটাতে চেয়েছেন। ‘স্বার্থপরতা’ ব্যক্তিজীবনের যেন এক বিশেষ\nদিক যা কখনো মানুষের ক্ষেত্রে üji jøL ভাবেই আসে। কিন্তু জ্যোতির্ময়ী দেবী দেখিয়েছেন,\nপরিপূর্ণ শিক্ষা সেই স্বার্থচিন্তা থেকে মুক্তি দিয়ে ক্রমশ বৃহত্তর আদর্শে নিজেকে Eàü করে থাকে।\nøhr ju a sÄfä üjl সচেতন প্রয়াস বা সাফল্যের ভাবনা, হয়তো সেদিন কোনটাই জ্যোতির্ময়ী\nদেবীর ছিলনা। শিক্ষাজগতের B cnÄøল্যাণের তৈরী ক্ষেত্রও হয়তো তাঁর pju Rme¡ z a¡\nসঙ্গেও অজান্তেই সাহিত্যিক জ্যোতির্ময়ী একের f l HL pøl মাধ্যমে তাঁর লেখার hý স্থানে\nB cnÑør ¡c¡e Hhw যথার্থ শিক্ষালাভের প্রসঙ্গ এনেছেন hýh¡l z HIC পাশে f þlo J e¡l f\npødma প্রয়াসে a yl pj pju J pj সমাজকে pj ü করতে চেয়েছেন cï ভাবে, আর সেখানেই\nজ্যোতির্ময়ী দেবীর A p¡jÉÉ প্রতিভা আজকের পাঠককে বিস্মিত ও মুগ্ধ করে তোলে।"
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": "STOP",
+      "safety_ratings": [
+        {
+          "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HATE_SPEECH",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HARASSMENT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+          "probability": "NEGLIGIBLE"
+        }
+      ],
+      "token_count": null
+    }
+  ],
+  "create_time": null,
+  "response_id": null,
+  "model_version": "gemini-2.5-pro",
+  "prompt_feedback": null,
+  "usage_metadata": {
+    "cache_tokens_details": null,
+    "cached_content_token_count": null,
+    "candidates_token_count": 283,
+    "candidates_tokens_details": null,
+    "prompt_token_count": 750,
+    "prompt_tokens_details": [
+      {
+        "modality": "TEXT",
+        "token_count": 492
+      },
+      {
+        "modality": "IMAGE",
+        "token_count": 258
+      }
+    ],
+    "thoughts_token_count": 5643,
+    "tool_use_prompt_token_count": null,
+    "tool_use_prompt_tokens_details": null,
+    "total_token_count": 6676,
+    "traffic_type": null
+  },
+  "automatic_function_calling_history": [],
+  "parsed": null,
+  "page_number": 292
+}

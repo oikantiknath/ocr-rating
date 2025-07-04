@@ -1,0 +1,79 @@
+{
+  "sdk_http_response": {
+    "headers": {
+      "content-type": "application/json; charset=UTF-8",
+      "vary": "Origin, X-Origin, Referer",
+      "content-encoding": "gzip",
+      "date": "Fri, 04 Jul 2025 03:33:07 GMT",
+      "server": "scaffolding on HTTPServer2",
+      "x-xss-protection": "0",
+      "x-frame-options": "SAMEORIGIN",
+      "x-content-type-options": "nosniff",
+      "server-timing": "gfet4t7; dur=61421",
+      "alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
+      "transfer-encoding": "chunked"
+    },
+    "body": null
+  },
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "নাহ, পৃথিবীতে কারও এত দুঃসাহস থাকা অসম্ভব। অতএব\nগুপ্তচরটার পুরো খবর বিশ্বাসযোগ্য নয়। তবে এটা হয়তো ঠিক যে\nওয়েলেসলি কোনওভাবে এর কিছু হদিশ পেয়েছে। এইসব তুচ্ছ\nইংরেজের সঙ্গে সম্রাটকে এই ব্যাপারে প্রতিযোগিতায় নামতে হবে\nনাকি? নাহ, গুপ্তচরগুলো অপদার্থ। ওখানে ফরাসি সেনাদের নেতৃত্ব\nদিচ্ছে যে, সে-ও তাই। বুদ্ধি ও শক্তির চূড়ান্ত প্রকাশ ঘটেছে একমাত্র\nনেপোলিয়নের মধ্যে। সেই তিনি একটা জিনিস স্ত্রীকে দিতে চাইবেন\nআর সেটা তাঁর হাতে পৌঁছবে না, এর চেয়ে অসম্মানের ব্যাপার আর\nআছে নাকি? তবে রাশিয়ার সমস্যাটাও আর জিইয়ে রাখা যাবে না।\nসম্রাট হিসেবে রাশিয়া নিয়ে পরিকল্পনা করা এখনই দরকার। আর\nনিজে গিয়ে অনুসন্ধান চালিয়ে একটা জিনিস বের করা, তা সে যত\nদুষ্প্রাপ্য হোক না কেন, তা নেপোলিয়নের কাজ নাকি? জোসেফকে\nরাজা করা গিয়েছে কেন? তারই তো উচিত দায়িত্ব নিয়ে ব্যাপারটার"
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": "STOP",
+      "safety_ratings": [
+        {
+          "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HATE_SPEECH",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HARASSMENT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+          "probability": "NEGLIGIBLE"
+        }
+      ],
+      "token_count": null
+    }
+  ],
+  "create_time": null,
+  "response_id": null,
+  "model_version": "gemini-2.5-pro",
+  "prompt_feedback": null,
+  "usage_metadata": {
+    "cache_tokens_details": null,
+    "cached_content_token_count": null,
+    "candidates_token_count": 206,
+    "candidates_tokens_details": null,
+    "prompt_token_count": 748,
+    "prompt_tokens_details": [
+      {
+        "modality": "TEXT",
+        "token_count": 490
+      },
+      {
+        "modality": "IMAGE",
+        "token_count": 258
+      }
+    ],
+    "thoughts_token_count": 6053,
+    "tool_use_prompt_token_count": null,
+    "tool_use_prompt_tokens_details": null,
+    "total_token_count": 7007,
+    "traffic_type": null
+  },
+  "automatic_function_calling_history": [],
+  "parsed": null,
+  "page_number": 76
+}

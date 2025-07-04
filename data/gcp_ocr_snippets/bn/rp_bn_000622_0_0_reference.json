@@ -1,0 +1,457 @@
+{
+  "page_number": 622,
+  "ocr_output": {
+    "blocks": [
+      {
+        "block_text": "Hossain , R.S. Sultana's Dream and Padmarag : Two Feminist Utopias .",
+        "lines": [
+          "Hossain , R.S. Sultana's Dream and Padmarag : Two Feminist Utopias ."
+        ],
+        "bounding_box": [
+          {
+            "x": 35,
+            "y": 31
+          },
+          {
+            "x": 898,
+            "y": 31
+          },
+          {
+            "x": 898,
+            "y": 57
+          },
+          {
+            "x": 35,
+            "y": 57
+          }
+        ],
+        "confidence": 0.983161
+      },
+      {
+        "block_text": "New Delhi xPenguin , 2005. Print .",
+        "lines": [
+          "New Delhi xPenguin , 2005. Print ."
+        ],
+        "bounding_box": [
+          {
+            "x": 109,
+            "y": 83
+          },
+          {
+            "x": 506,
+            "y": 83
+          },
+          {
+            "x": 506,
+            "y": 107
+          },
+          {
+            "x": 109,
+            "y": 107
+          }
+        ],
+        "confidence": 0.9648981
+      },
+      {
+        "block_text": "Hyder , Qurratulain . River of Fire . New Delhi x Women unlimited , 1998 .",
+        "lines": [
+          "Hyder , Qurratulain . River of Fire . New Delhi x Women unlimited , 1998 ."
+        ],
+        "bounding_box": [
+          {
+            "x": 35,
+            "y": 165
+          },
+          {
+            "x": 897,
+            "y": 165
+          },
+          {
+            "x": 897,
+            "y": 190
+          },
+          {
+            "x": 35,
+            "y": 190
+          }
+        ],
+        "confidence": 0.98173463
+      },
+      {
+        "block_text": "Print .",
+        "lines": [
+          "Print ."
+        ],
+        "bounding_box": [
+          {
+            "x": 109,
+            "y": 220
+          },
+          {
+            "x": 173,
+            "y": 221
+          },
+          {
+            "x": 173,
+            "y": 241
+          },
+          {
+            "x": 109,
+            "y": 240
+          }
+        ],
+        "confidence": 0.97695696
+      },
+      {
+        "block_text": "Ibsen , Henrik . IBSEN / PLAYS . England xPenguine Books , 1974. Print .",
+        "lines": [
+          "Ibsen , Henrik . IBSEN / PLAYS . England xPenguine Books , 1974. Print ."
+        ],
+        "bounding_box": [
+          {
+            "x": 34,
+            "y": 297
+          },
+          {
+            "x": 853,
+            "y": 297
+          },
+          {
+            "x": 853,
+            "y": 322
+          },
+          {
+            "x": 34,
+            "y": 322
+          }
+        ],
+        "confidence": 0.9702987
+      },
+      {
+        "block_text": "Koul , Lokesh . Methodology of Educational Research . Uttar Pradesh x",
+        "lines": [
+          "Koul , Lokesh . Methodology of Educational Research . Uttar Pradesh x"
+        ],
+        "bounding_box": [
+          {
+            "x": 35,
+            "y": 379
+          },
+          {
+            "x": 905,
+            "y": 379
+          },
+          {
+            "x": 905,
+            "y": 404
+          },
+          {
+            "x": 35,
+            "y": 404
+          }
+        ],
+        "confidence": 0.9724229
+      },
+      {
+        "block_text": "Vikas ( R ) Publishing House Pvt . Ltd. , 2007. Print .",
+        "lines": [
+          "Vikas ( R ) Publishing House Pvt . Ltd. , 2007. Print ."
+        ],
+        "bounding_box": [
+          {
+            "x": 111,
+            "y": 434
+          },
+          {
+            "x": 696,
+            "y": 434
+          },
+          {
+            "x": 696,
+            "y": 460
+          },
+          {
+            "x": 111,
+            "y": 460
+          }
+        ],
+        "confidence": 0.9734346
+      },
+      {
+        "block_text": "Kuper , Adam . The Social Science . London xRoutledge , 1980. Print .",
+        "lines": [
+          "Kuper , Adam . The Social Science . London xRoutledge , 1980. Print ."
+        ],
+        "bounding_box": [
+          {
+            "x": 35,
+            "y": 511
+          },
+          {
+            "x": 827,
+            "y": 511
+          },
+          {
+            "x": 827,
+            "y": 536
+          },
+          {
+            "x": 35,
+            "y": 536
+          }
+        ],
+        "confidence": 0.968983
+      },
+      {
+        "block_text": "Menon , Dilip M. Cultural History of Modern India . New Delhi x Social Science Press , 2006. Print .",
+        "lines": [
+          "Menon , Dilip M. Cultural History of Modern India . New Delhi x Social Science Press , 2006. Print ."
+        ],
+        "bounding_box": [
+          {
+            "x": 34,
+            "y": 593
+          },
+          {
+            "x": 899,
+            "y": 593
+          },
+          {
+            "x": 899,
+            "y": 670
+          },
+          {
+            "x": 34,
+            "y": 670
+          }
+        ],
+        "confidence": 0.9736088
+      },
+      {
+        "block_text": "Menon , Ritu . Borders & Boundaries . New Delhi x Kali for women , 2007 .",
+        "lines": [
+          "Menon , Ritu . Borders & Boundaries . New Delhi x Kali for women , 2007 ."
+        ],
+        "bounding_box": [
+          {
+            "x": 34,
+            "y": 725
+          },
+          {
+            "x": 899,
+            "y": 725
+          },
+          {
+            "x": 899,
+            "y": 747
+          },
+          {
+            "x": 34,
+            "y": 747
+          }
+        ],
+        "confidence": 0.9781433
+      },
+      {
+        "block_text": "Reprint .",
+        "lines": [
+          "Reprint ."
+        ],
+        "bounding_box": [
+          {
+            "x": 110,
+            "y": 782
+          },
+          {
+            "x": 203,
+            "y": 782
+          },
+          {
+            "x": 203,
+            "y": 806
+          },
+          {
+            "x": 110,
+            "y": 806
+          }
+        ],
+        "confidence": 0.97281003
+      },
+      {
+        "block_text": "Misra , Nuri ( tr ) . A Plot of Land . Cuttack x Cuttack Student's Store , 1969 .",
+        "lines": [
+          "Misra , Nuri ( tr ) . A Plot of Land . Cuttack x Cuttack Student's Store , 1969 ."
+        ],
+        "bounding_box": [
+          {
+            "x": 35,
+            "y": 858
+          },
+          {
+            "x": 898,
+            "y": 858
+          },
+          {
+            "x": 898,
+            "y": 882
+          },
+          {
+            "x": 35,
+            "y": 882
+          }
+        ],
+        "confidence": 0.9682594
+      },
+      {
+        "block_text": "Print .",
+        "lines": [
+          "Print ."
+        ],
+        "bounding_box": [
+          {
+            "x": 110,
+            "y": 914
+          },
+          {
+            "x": 171,
+            "y": 914
+          },
+          {
+            "x": 171,
+            "y": 933
+          },
+          {
+            "x": 110,
+            "y": 933
+          }
+        ],
+        "confidence": 0.9802229
+      },
+      {
+        "block_text": "Mitchell , Juliet . What is Feminism . London xOxford , 1986. Print .",
+        "lines": [
+          "Mitchell , Juliet . What is Feminism . London xOxford , 1986. Print ."
+        ],
+        "bounding_box": [
+          {
+            "x": 35,
+            "y": 990
+          },
+          {
+            "x": 800,
+            "y": 990
+          },
+          {
+            "x": 800,
+            "y": 1012
+          },
+          {
+            "x": 35,
+            "y": 1012
+          }
+        ],
+        "confidence": 0.97753984
+      },
+      {
+        "block_text": "Mohon , Dr. Radha . Research Methods in Education . Hyderabad x",
+        "lines": [
+          "Mohon , Dr. Radha . Research Methods in Education . Hyderabad x"
+        ],
+        "bounding_box": [
+          {
+            "x": 34,
+            "y": 1072
+          },
+          {
+            "x": 905,
+            "y": 1072
+          },
+          {
+            "x": 905,
+            "y": 1098
+          },
+          {
+            "x": 34,
+            "y": 1098
+          }
+        ],
+        "confidence": 0.9681671
+      },
+      {
+        "block_text": "Neelkamal Publication Pvt . Ltd. , 2011. Print .",
+        "lines": [
+          "Neelkamal Publication Pvt . Ltd. , 2011. Print ."
+        ],
+        "bounding_box": [
+          {
+            "x": 109,
+            "y": 1128
+          },
+          {
+            "x": 635,
+            "y": 1128
+          },
+          {
+            "x": 635,
+            "y": 1150
+          },
+          {
+            "x": 109,
+            "y": 1150
+          }
+        ],
+        "confidence": 0.9794111
+      },
+      {
+        "block_text": "Mukherjee , Meenakshi . Upanyasey Ateet : Itihas o Kalpaitihas . Kolkata x Thema , 2003. Print .",
+        "lines": [
+          "Mukherjee , Meenakshi . Upanyasey Ateet : Itihas o Kalpaitihas . Kolkata x Thema , 2003. Print ."
+        ],
+        "bounding_box": [
+          {
+            "x": 34,
+            "y": 1204
+          },
+          {
+            "x": 905,
+            "y": 1202
+          },
+          {
+            "x": 905,
+            "y": 1279
+          },
+          {
+            "x": 34,
+            "y": 1281
+          }
+        ],
+        "confidence": 0.9756553
+      },
+      {
+        "block_text": "Naqvi , Tahira ( tr ) . The Quilt and Other Stories . New Delhi x Kali for Women , 1990. Print .",
+        "lines": [
+          "Naqvi , Tahira ( tr ) . The Quilt and Other Stories . New Delhi x Kali for Women , 1990. Print ."
+        ],
+        "bounding_box": [
+          {
+            "x": 34,
+            "y": 1337
+          },
+          {
+            "x": 900,
+            "y": 1337
+          },
+          {
+            "x": 900,
+            "y": 1415
+          },
+          {
+            "x": 34,
+            "y": 1415
+          }
+        ],
+        "confidence": 0.9779583
+      }
+    ]
+  }
+}

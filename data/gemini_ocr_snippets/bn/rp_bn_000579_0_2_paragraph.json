@@ -1,0 +1,79 @@
+{
+  "sdk_http_response": {
+    "headers": {
+      "content-type": "application/json; charset=UTF-8",
+      "vary": "Origin, X-Origin, Referer",
+      "content-encoding": "gzip",
+      "date": "Fri, 04 Jul 2025 03:36:09 GMT",
+      "server": "scaffolding on HTTPServer2",
+      "x-xss-protection": "0",
+      "x-frame-options": "SAMEORIGIN",
+      "x-content-type-options": "nosniff",
+      "server-timing": "gfet4t7; dur=34131",
+      "alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
+      "transfer-encoding": "chunked"
+    },
+    "body": null
+  },
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "মানুষ সামাজিক জীব, সামাজিক জীব হিসাবে মানুষ পারিবারিক ও সামাজিক\nজীবনযাপনের জন্য কিছু নিয়ম-কানুন, কিছু ন্যায়নীতি গড়ে তুলেছিল । ভালো-j ‰,\neÉú-AeÉú, EŒa-অনুচিত ইত্যাদি নিয়ে ভাবনা-চিন্তা করে মানুষ একটি জীবনাদর্শ\nগড়ে তুলেছিল । এই জীবনাদর্শ সম্পর্কিত যে বোধ বা চেতনা বহু যুগ ধরে\nপরম্পরাক্রমে মানুষ মেনে চলেছে, তাই মূল্যবোধ বলে বিবেচিত । আত্মরক্ষা,\nজীবনধারণ ও আত্মবিকাশের প্রয়োজন সমগ্র maiehSãior জীবনে এটাই হল শ্রেষ্ঠ\neÉ| মানুষের দাঁড়িয়ে আছে তার নিজের সৃষ্ট বিভিন্ন মূল্যবোধের ওপর । সভ্যতার\nবিবর্তনের সাথে সাথে মূল্যবোধেরও পরিবর্তন হয় ।"
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": "STOP",
+      "safety_ratings": [
+        {
+          "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HATE_SPEECH",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HARASSMENT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+          "probability": "NEGLIGIBLE"
+        }
+      ],
+      "token_count": null
+    }
+  ],
+  "create_time": null,
+  "response_id": null,
+  "model_version": "gemini-2.5-pro",
+  "prompt_feedback": null,
+  "usage_metadata": {
+    "cache_tokens_details": null,
+    "cached_content_token_count": null,
+    "candidates_token_count": 148,
+    "candidates_tokens_details": null,
+    "prompt_token_count": 750,
+    "prompt_tokens_details": [
+      {
+        "modality": "TEXT",
+        "token_count": 492
+      },
+      {
+        "modality": "IMAGE",
+        "token_count": 258
+      }
+    ],
+    "thoughts_token_count": 2840,
+    "tool_use_prompt_token_count": null,
+    "tool_use_prompt_tokens_details": null,
+    "total_token_count": 3738,
+    "traffic_type": null
+  },
+  "automatic_function_calling_history": [],
+  "parsed": null,
+  "page_number": 281
+}

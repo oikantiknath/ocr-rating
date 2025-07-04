@@ -1,0 +1,79 @@
+{
+  "sdk_http_response": {
+    "headers": {
+      "content-type": "application/json; charset=UTF-8",
+      "vary": "Origin, X-Origin, Referer",
+      "content-encoding": "gzip",
+      "date": "Fri, 04 Jul 2025 03:33:24 GMT",
+      "server": "scaffolding on HTTPServer2",
+      "x-xss-protection": "0",
+      "x-frame-options": "SAMEORIGIN",
+      "x-content-type-options": "nosniff",
+      "server-timing": "gfet4t7; dur=66790",
+      "alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
+      "transfer-encoding": "chunked"
+    },
+    "body": null
+  },
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "তিনিই একমাত্র সত্য ; তিনিই জগতের মূল-তত্ত্ব (ultimate reality)। তাহা\nহইলে জড়বস্তুর কি হয় ? ইহা কি তবে একেবারে মিথ্যা ? ইহার কি কোন\nস্বাধীন ও স্বতন্ত্র সত্তা নাই ? বস্তুতঃ এই প্রশ্ন লইয়াই অদ্বৈতবাদিগণের মধ্যে\nবিশেষ মতভেদ দেখা যায়, কেহ কেহ বলেন যে, জড়জগতের কোনপ্রকার স্বাধীন\nসত্তা নাই, ইহা একেবারে মিথ্যা। আর কেহ কেহ বলেন যে জগৎকে একেবারে\nমিথ্যা বলিয়া উড়াইয়া দেওয়া যায় না ; ব্রহ্মের ন্যায় ইহা ultimate reality\n( মূল-তত্ত্ব ) নহে বটে, তবুও ইহাকে একেবারে অগ্রাহ্য করা যায় না ; ইহারও\nপ্রয়োজনীয়তা আছে। যাঁহারা ইহার প্রয়োজনীয়তা স্বীকার করেন, তাঁহাদের\nমতবাদের নাম Concrete Monism; আর যাঁহারা ইহাকে মিথ্যা বলিয়া\nউড়াইয়া দিতে চান, তাঁহাদের মতবাদের নাম Abstract Monism। প্রথমে\nAbstract Monism ব্যাখ্যা করা যাউক, উহাকে সাধারণতঃ Pantheism\nনামে অভিহিত করা হয়। Pan মানে All, আর Theos মানে God ; অতএব\nPantheism মানে All is God অর্থাৎ সবই ঈশ্বর বা ঈশ্বরই সব ; ঈশ্বর ব্যতীত\nআর কিছুই নাই। এই মতানুসারে “ঈশাবাস্যমিদং সর্বং যৎকিঞ্চ জগত্যাং জগৎ”,\nঅর্থাৎ জগতে যাহা কিছু আছে, সবই ঈশ্বরের দ্বারা পরিব্যাপ্ত। এই জগৎ হইতে\nযদি ঈশ্বরকে পৃথক করিয়া ফেলা হয়, তাহা হইলে জগতের কোন অস্তিত্বই থাকে\nনা। সমুদ্রেব মধ্যে তরঙ্গ অবস্থিত এবং তরঙ্গের মধ্যেই সমুদ্র পরিব্যাপ্ত।\nএমতাবস্থায় আমরা কি তরঙ্গগুলিকে সমুদ্র হইতে পৃথক করিয়া ভাবিতে\nপারি ? মোটেই না, সমুদ্র ব্যতীত তরঙ্গের অস্তিত্ব যেমন সম্ভব নহে, সেইরূপ\nঈশ্বর ব্যতীত বিশ্বেরও স্বতন্ত্র সত্তা সম্ভব নহে।"
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": "STOP",
+      "safety_ratings": [
+        {
+          "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HATE_SPEECH",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HARASSMENT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+          "probability": "NEGLIGIBLE"
+        }
+      ],
+      "token_count": null
+    }
+  ],
+  "create_time": null,
+  "response_id": null,
+  "model_version": "gemini-2.5-pro",
+  "prompt_feedback": null,
+  "usage_metadata": {
+    "cache_tokens_details": null,
+    "cached_content_token_count": null,
+    "candidates_token_count": 356,
+    "candidates_tokens_details": null,
+    "prompt_token_count": 748,
+    "prompt_tokens_details": [
+      {
+        "modality": "TEXT",
+        "token_count": 490
+      },
+      {
+        "modality": "IMAGE",
+        "token_count": 258
+      }
+    ],
+    "thoughts_token_count": 6165,
+    "tool_use_prompt_token_count": null,
+    "tool_use_prompt_tokens_details": null,
+    "total_token_count": 7269,
+    "traffic_type": null
+  },
+  "automatic_function_calling_history": [],
+  "parsed": null,
+  "page_number": 92
+}

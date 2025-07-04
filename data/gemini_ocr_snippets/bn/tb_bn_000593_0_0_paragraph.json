@@ -1,0 +1,79 @@
+{
+  "sdk_http_response": {
+    "headers": {
+      "content-type": "application/json; charset=UTF-8",
+      "vary": "Origin, X-Origin, Referer",
+      "content-encoding": "gzip",
+      "date": "Fri, 04 Jul 2025 03:37:37 GMT",
+      "server": "scaffolding on HTTPServer2",
+      "x-xss-protection": "0",
+      "x-frame-options": "SAMEORIGIN",
+      "x-content-type-options": "nosniff",
+      "server-timing": "gfet4t7; dur=34778",
+      "alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
+      "transfer-encoding": "chunked"
+    },
+    "body": null
+  },
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "এর মধ্যে অনেক অভিযান আর ফেরেইনি। হিমশৈলের ধাক্কায়,\nসামুদ্রিক ঝড়ে অথবা জলদস্যুদের হাতে অনেক জাহাজ হারিয়েছে\nতারা। বিনিয়োগকারীর সংখ্যা বাড়াতে আর ঝুঁকির পরিমাণ কমাতে\nতখন ইউরোপীয়রা যৌথ মূলধনি ব্যবসায়-প্রতিষ্ঠান (Limited\nLiability Joint-stock Company) তৈরি করে। এর পরের\nঅভিযানগুলোতে একজন মানুষের পরিবর্তে এরকম প্রতিষ্ঠানগুলো\nবিনিয়োগ করতে শুরু করে। তাতে অনেকজন মানুষ মিলে টাকা\nদেয়, তাই জনপ্রতি ঝুঁকির পরিমাণ অনেক কমে যায়। তবে ঝুঁকি\nসীমিত হলেও লাভ কিন্তু সীমিত নয়। অনেক সময় সামান্য\nবিনিয়োগে শুরু হওয়া অভিযান থেকেই আসত লাখ লাখ টাকা।"
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": "STOP",
+      "safety_ratings": [
+        {
+          "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HATE_SPEECH",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HARASSMENT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+          "probability": "NEGLIGIBLE"
+        }
+      ],
+      "token_count": null
+    }
+  ],
+  "create_time": null,
+  "response_id": null,
+  "model_version": "gemini-2.5-pro",
+  "prompt_feedback": null,
+  "usage_metadata": {
+    "cache_tokens_details": null,
+    "cached_content_token_count": null,
+    "candidates_token_count": 140,
+    "candidates_tokens_details": null,
+    "prompt_token_count": 748,
+    "prompt_tokens_details": [
+      {
+        "modality": "TEXT",
+        "token_count": 490
+      },
+      {
+        "modality": "IMAGE",
+        "token_count": 258
+      }
+    ],
+    "thoughts_token_count": 2999,
+    "tool_use_prompt_token_count": null,
+    "tool_use_prompt_tokens_details": null,
+    "total_token_count": 3887,
+    "traffic_type": null
+  },
+  "automatic_function_calling_history": [],
+  "parsed": null,
+  "page_number": 350
+}

@@ -1,0 +1,79 @@
+{
+  "sdk_http_response": {
+    "headers": {
+      "content-type": "application/json; charset=UTF-8",
+      "vary": "Origin, X-Origin, Referer",
+      "content-encoding": "gzip",
+      "date": "Fri, 04 Jul 2025 03:35:51 GMT",
+      "server": "scaffolding on HTTPServer2",
+      "x-xss-protection": "0",
+      "x-frame-options": "SAMEORIGIN",
+      "x-content-type-options": "nosniff",
+      "server-timing": "gfet4t7; dur=35776",
+      "alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
+      "transfer-encoding": "chunked"
+    },
+    "body": null
+  },
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "নহে।” কি ঘৃণার্হ কথা ? এ থেকে যে কি প্রকাশ পায়, তা আর লিখে বা বলে\nনিজেকে কলঙ্কিত করতে ইচ্ছা হয় না।” এই ধরনের সমালোচনা-মূলক বিশ্লেষণ সেই\npju e¡l£পুরুষ নির্বিশেষে যেকোন পুরুষের কাছেই বিস্ময়ের ! জ্যোতির্ময়ী দেবীর\nলেখা ‘বাল্যবিধবা ও ব্রহ্মচর্য’ প্রবন্ধটি সে-যুগের পক্ষে অনেক প্রগতিশীল রচনা যেখানে\nতিনি বাল্যবিধবাকে জোর করে ব্রহ্মচর্য পালনের নির্দেশ কে বুদ্ধীদীপ্ত বিশ্লেষণ করে\nদেখিয়েছেন। বিবাহিত জীবনের কথা শুনিয়ে-শুনিয়ে বা চেষ্টাটুকুও মুক্তা আরোপ করে,\nমেয়েদের মনে সংসারকেই একমাত্র সত্য শ্লৈষ্মাত্মক নিন্দা করেছেন তিনি।"
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": "STOP",
+      "safety_ratings": [
+        {
+          "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HATE_SPEECH",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HARASSMENT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+          "probability": "NEGLIGIBLE"
+        }
+      ],
+      "token_count": null
+    }
+  ],
+  "create_time": null,
+  "response_id": null,
+  "model_version": "gemini-2.5-pro",
+  "prompt_feedback": null,
+  "usage_metadata": {
+    "cache_tokens_details": null,
+    "cached_content_token_count": null,
+    "candidates_token_count": 151,
+    "candidates_tokens_details": null,
+    "prompt_token_count": 750,
+    "prompt_tokens_details": [
+      {
+        "modality": "TEXT",
+        "token_count": 492
+      },
+      {
+        "modality": "IMAGE",
+        "token_count": 258
+      }
+    ],
+    "thoughts_token_count": 3226,
+    "tool_use_prompt_token_count": null,
+    "tool_use_prompt_tokens_details": null,
+    "total_token_count": 4127,
+    "traffic_type": null
+  },
+  "automatic_function_calling_history": [],
+  "parsed": null,
+  "page_number": 273
+}

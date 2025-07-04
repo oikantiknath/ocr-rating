@@ -1,0 +1,79 @@
+{
+  "sdk_http_response": {
+    "headers": {
+      "content-type": "application/json; charset=UTF-8",
+      "vary": "Origin, X-Origin, Referer",
+      "content-encoding": "gzip",
+      "date": "Fri, 04 Jul 2025 03:37:47 GMT",
+      "server": "scaffolding on HTTPServer2",
+      "x-xss-protection": "0",
+      "x-frame-options": "SAMEORIGIN",
+      "x-content-type-options": "nosniff",
+      "server-timing": "gfet4t7; dur=56140",
+      "alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
+      "transfer-encoding": "chunked"
+    },
+    "body": null
+  },
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "পৃথিবী থেকে সূর্য কত দূরে? অনেক জ্যোতির্বিদকে গলদঘর্ম করে\nছেড়েছে এই প্রশ্নটা। বিশেষ করে কোপার্নিকাস যখন বললেন পৃথিবী\nনয়, সূর্যই মহাবিশ্বের কেন্দ্র, তখন থেকে আরো বেশি করে এই\nপ্রশ্নের উত্তর খুঁজছে সবাই। অনেক জ্যোতির্বিদ আর গণিতবিদ\nবিভিন্ন পদ্ধতিতে এই দূরত্ব মাপার চেষ্টা করেছেন, আর তাঁদের\nউত্তরও এসেছে বিভিন্ন রকম। শেষমেশ আঠারো শতকের\nমাঝামাঝির দিকে একটা নির্ভরযোগ্য উপায় পাওয়া গেল। কয়েক\nবছর পরপর শুক্র গ্রহ পৃথিবী আর সূর্যের মধ্যের জায়গাটা অতিক্রম\nকরে। এই পথটুকু পার হতে শুক্র গ্রহের কতটুকু সময় লাগে সেটা\nপৃথিবীর একেক জায়গায় বসে মাপলে একেক রকম হয়। ভিন্ন ভিন্ন\nদৃষ্টিকোণের কারণেই এই ভিন্নতা। এই সময়টুকুই যদি দু-তিনটা\nমহাদেশ থেকে মাপা যায়, তাহলেই একটু ত্রিকোণমিতি কাজে\nলাগিয়ে পৃথিবী আর সূর্যের দূরত্বটা নির্ভুলভাবে জানা যায়।"
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": "STOP",
+      "safety_ratings": [
+        {
+          "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HATE_SPEECH",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HARASSMENT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+          "probability": "NEGLIGIBLE"
+        }
+      ],
+      "token_count": null
+    }
+  ],
+  "create_time": null,
+  "response_id": null,
+  "model_version": "gemini-2.5-pro",
+  "prompt_feedback": null,
+  "usage_metadata": {
+    "cache_tokens_details": null,
+    "cached_content_token_count": null,
+    "candidates_token_count": 205,
+    "candidates_tokens_details": null,
+    "prompt_token_count": 748,
+    "prompt_tokens_details": [
+      {
+        "modality": "TEXT",
+        "token_count": 490
+      },
+      {
+        "modality": "IMAGE",
+        "token_count": 258
+      }
+    ],
+    "thoughts_token_count": 5430,
+    "tool_use_prompt_token_count": null,
+    "tool_use_prompt_tokens_details": null,
+    "total_token_count": 6383,
+    "traffic_type": null
+  },
+  "automatic_function_calling_history": [],
+  "parsed": null,
+  "page_number": 347
+}

@@ -1,0 +1,32 @@
+{
+  "page_number": 331,
+  "ocr_output": {
+    "blocks": [
+      {
+        "block_text": "Page 7 of 11",
+        "lines": [
+          "Page 7 of 11"
+        ],
+        "bounding_box": [
+          {
+            "x": 15,
+            "y": 26
+          },
+          {
+            "x": 286,
+            "y": 17
+          },
+          {
+            "x": 287,
+            "y": 60
+          },
+          {
+            "x": 16,
+            "y": 69
+          }
+        ],
+        "confidence": 0.9854115
+      }
+    ]
+  }
+}

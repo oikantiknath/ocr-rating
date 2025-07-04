@@ -1,0 +1,79 @@
+{
+  "sdk_http_response": {
+    "headers": {
+      "content-type": "application/json; charset=UTF-8",
+      "vary": "Origin, X-Origin, Referer",
+      "content-encoding": "gzip",
+      "date": "Fri, 04 Jul 2025 03:37:36 GMT",
+      "server": "scaffolding on HTTPServer2",
+      "x-xss-protection": "0",
+      "x-frame-options": "SAMEORIGIN",
+      "x-content-type-options": "nosniff",
+      "server-timing": "gfet4t7; dur=29026",
+      "alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
+      "transfer-encoding": "chunked"
+    },
+    "body": null
+  },
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "এই চারটি দিকের মধ্যেই কিন্তু আবার একটা ইতিবাচক\nপ্রতিক্রিয়া চক্র কাজ করে। পারমাণবিক হত্যাকাণ্ডের হুমকি\nশান্তিবাদকে চালিত করে, যখন শান্তির বার্তা চারদিকে ছড়িয়ে পড়ে\nতখন যুদ্ধ দূরে সরে যায় আর বাণিজ্যের প্রসার হয়, আর এই\nবাণিজ্যের প্রসার পক্ষান্তরে শান্তির লাভ আর যুদ্ধের লোকসানকে\nআরো বাড়িয়ে দেয়। সময়ের সঙ্গে সঙ্গে এই প্রতিক্রিয়া চক্র যুদ্ধের\nজন্য আরেকটা বাধা তৈরি করে, যেটা হয়তো সবচেয়ে গুরুত্বপূর্ণ\nহয়ে দাঁড়াবে। জালের মতো ছড়িয়ে যাওয়া আন্তর্জাতিক\nযোগাযোগের শক্ত বন্ধন বেশিরভাগ দেশেই স্বাধীনতাকে ক্ষুণ্ণ\nকরে। এর ফলে যেটা হয়, এদের মধ্যে কোনো একটা দেশ যে একা\nএকাই যুদ্ধ বাধিয়ে বসবে, সেই সম্ভাবনাটা প্রায় নেই বললেই চলে।\nবেশিরভাগ দেশই যে পুরো মাত্রার যুদ্ধে আর জড়ায় না তার একটা\nখুব সহজ কারণ হলো তারা আর মোটেই স্বাধীন নেই। যদিও\nইসরায়েল, ইতালি, মেক্সিকো কিংবা থাইল্যান্ডের লোকজন হয়তো\nস্বাধীনতার একটা মোহ ধারণ করে, কিন্তু সত্যি বলতে তাদের\nসরকারের পক্ষে সম্পূর্ণ স্বাধীন অর্থনৈতিক অথবা বৈদেশিক নীতি\nতৈরি করা প্রায় অসম্ভব। আর নিশ্চিতভাবেই তাদের পক্ষে কোনো\nপুরো মাত্রার যুদ্ধ নিজে নিজে শুরু করা সম্ভব নয়। এগারো অধ্যায়ে\nযেমন ব্যাখ্যা করা হয়েছে যে, আমরা এখন প্রত্যক্ষ করছি একটা\nবৈশ্বিক সাম্রাজ্যের উত্থান। আগের সব সাম্রাজ্যের মতোই এই\nসাম্রাজ্যও এর নিজের সীমারেখায় শান্তি নিশ্চিত করে। আর যেহেতু\nএর সীমারেখা হলো পুরো পৃথিবী, তার মানে এই ‘বিশ্বসাম্রাজ্য’\nকার্যকরভাবেই বিশ্বশান্তি নিশ্চিত করে।"
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": "STOP",
+      "safety_ratings": [
+        {
+          "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HATE_SPEECH",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HARASSMENT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+          "probability": "NEGLIGIBLE"
+        }
+      ],
+      "token_count": null
+    }
+  ],
+  "create_time": null,
+  "response_id": null,
+  "model_version": "gemini-2.5-pro",
+  "prompt_feedback": null,
+  "usage_metadata": {
+    "cache_tokens_details": null,
+    "cached_content_token_count": null,
+    "candidates_token_count": 329,
+    "candidates_tokens_details": null,
+    "prompt_token_count": 748,
+    "prompt_tokens_details": [
+      {
+        "modality": "TEXT",
+        "token_count": 490
+      },
+      {
+        "modality": "IMAGE",
+        "token_count": 258
+      }
+    ],
+    "thoughts_token_count": 1931,
+    "tool_use_prompt_token_count": null,
+    "tool_use_prompt_tokens_details": null,
+    "total_token_count": 3008,
+    "traffic_type": null
+  },
+  "automatic_function_calling_history": [],
+  "parsed": null,
+  "page_number": 356
+}

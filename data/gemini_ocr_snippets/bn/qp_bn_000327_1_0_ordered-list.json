@@ -1,0 +1,79 @@
+{
+  "sdk_http_response": {
+    "headers": {
+      "content-type": "application/json; charset=UTF-8",
+      "vary": "Origin, X-Origin, Referer",
+      "content-encoding": "gzip",
+      "date": "Fri, 04 Jul 2025 03:35:04 GMT",
+      "server": "scaffolding on HTTPServer2",
+      "x-xss-protection": "0",
+      "x-frame-options": "SAMEORIGIN",
+      "x-content-type-options": "nosniff",
+      "server-timing": "gfet4t7; dur=28940",
+      "alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
+      "transfer-encoding": "chunked"
+    },
+    "body": null
+  },
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "(ii) সমাজতান্ত্রিক রাষ্ট্রের প্রকৃতি :- বুর্জোয়া রাষ্ট্রে শোষণের মাত্রা বৃদ্ধি পেলে\nসর্বহারা শ্রেণির মুক্তির জন্য বিপ্লবের পন্থা অনুসরণ করে রাষ্ট্রকে শোষণের হাত\nথেকে মুক্ত করে সর্বহারাদের শাসক পদে অধিষ্ঠিত করে। এই চূড়ান্ত ও চরম\nসংগ্রামে সর্বহারা শ্রেণীর জয় হয় এবং বুর্জোয়া শক্তির পতন হয়ে ‘সর্বহারা শ্রেণির\nএকনায়কত্ব’ প্রতিষ্ঠা হয়। এইরূপ রাষ্ট্রকে সমাজতান্ত্রিক রাষ্ট্র বলা হয়। এইরূপ রাষ্ট্রে\nউৎপাদনের ওপর ব্যক্তিগত মালিকানার পরিবর্তে সামাজিক মালিকানা প্রতিষ্ঠিত\nহয়। সবাই তার শ্রমের আনুপাতিক হারে মজুরি পায়। এইরূপ রাষ্ট্রের বৈশিষ্ট্য\nহল- (a) সমাজতান্ত্রিক রাষ্ট্রে শ্রমিক ও কৃষক সমাজতন্ত্রের স্বার্থে সশস্ত্র শক্তির\nকেন্দ্র কিন্তু জনগণের সঙ্গে নিবিড় সম্পর্কযুক্ত। (b) রাষ্ট্রের ক্ষমতাসীন প্রতিনিধি\nবর্গ জনগণ কর্তৃক নির্বাচিত হবে এবং গণ ইচ্ছায় বরখাস্তও হতে পারবে। (c)\nসর্বক্ষেত্রে রাষ্ট্রযন্ত্রের প্রত্যক্ষ সংযোগ থাকার ফলে আমলাতন্ত্র ছাড়াই রাষ্ট্রের\nসর্ববিধ সংস্কার সাধন সম্ভব। (d) এছাড়া শ্রেণী সচেতন গতিশীল নেতৃত্বে\nরাষ্ট্ররূপ সংগঠনের কার্যক্রম গতিশীল থাকবে। সমাজতান্ত্রিক রাষ্ট্রের কার্যাবলীর\nমধ্যে উল্লেখযোগ্য হল ব্যক্তিগত সম্পত্তির অবলুপ্তি, দেশের সম্পদ জনগণের হাতে\nপ্রদান, জনসাধারণকে রাজনৈতিক ও সামাজিক অধিকার দান, নারীর সম্ভ্রম ও সুরক্ষা\nনিশ্চিত করা, জাতিবিভাজন দূর করাসহ প্রধান লক্ষ্য হল শ্রেণি শোষণের অবসান\nএবং শোষণহীন সমাজব্যবস্থার প্রবর্তন।\n(iii) রাষ্ট্রের অবসান :- সমাজতান্ত্রিক সমাজ যখন ‘সাম্যবাদী সমাজে’ পরিবর্তিত হবে\nতখন উৎপাদনের ওপর পুঁজির নিয়ন্ত্রণ না থাকার ফলে কোনোরূপ শ্রম বিভাজন\nথাকবে না। সমাজে প্রত্যেকে তার সামর্থ্য অনুযায়ী কাজ করবে এবং প্রয়োজন\nঅনুসারে সব পাবে। এই অবস্থায় রাষ্ট্রের ‘বিলুপ্তি ঘটবে’।\n(iv) গুরুত্ব :- মার্কসের রাষ্ট্রতত্ত্ব নানাদিক থেকে সমালোচিত হয়েছে। যেমন- রাষ্ট্রের\nউৎপত্তি, প্রকৃতি এবং পরিবর্তনের ব্যাখ্যা দিতে গিয়ে মার্কস শুধুমাত্র উৎপাদন\nব্যবস্থার ওপর গুরুত্ব দিয়েছেন। এছাড়া সমাজ বিবর্তনের স্তরে ধর্ম, আদর্শ, সংস্কৃতি,\nন্যায়নীতি প্রভৃতি উপাদানের অপরিহার্য ভূমিকা উপেক্ষা করা যায় না।"
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": "STOP",
+      "safety_ratings": [
+        {
+          "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HATE_SPEECH",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HARASSMENT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+          "probability": "NEGLIGIBLE"
+        }
+      ],
+      "token_count": null
+    }
+  ],
+  "create_time": null,
+  "response_id": null,
+  "model_version": "gemini-2.5-pro",
+  "prompt_feedback": null,
+  "usage_metadata": {
+    "cache_tokens_details": null,
+    "cached_content_token_count": null,
+    "candidates_token_count": 437,
+    "candidates_tokens_details": null,
+    "prompt_token_count": 752,
+    "prompt_tokens_details": [
+      {
+        "modality": "TEXT",
+        "token_count": 494
+      },
+      {
+        "modality": "IMAGE",
+        "token_count": 258
+      }
+    ],
+    "thoughts_token_count": 1646,
+    "tool_use_prompt_token_count": null,
+    "tool_use_prompt_tokens_details": null,
+    "total_token_count": 2835,
+    "traffic_type": null
+  },
+  "automatic_function_calling_history": [],
+  "parsed": null,
+  "page_number": 233
+}

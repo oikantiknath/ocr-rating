@@ -1,0 +1,79 @@
+{
+  "sdk_http_response": {
+    "headers": {
+      "content-type": "application/json; charset=UTF-8",
+      "vary": "Origin, X-Origin, Referer",
+      "content-encoding": "gzip",
+      "date": "Fri, 04 Jul 2025 03:37:06 GMT",
+      "server": "scaffolding on HTTPServer2",
+      "x-xss-protection": "0",
+      "x-frame-options": "SAMEORIGIN",
+      "x-content-type-options": "nosniff",
+      "server-timing": "gfet4t7; dur=33875",
+      "alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
+      "transfer-encoding": "chunked"
+    },
+    "body": null
+  },
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "লাইন-বরাবর হয়েছিল, তেমনি এখানেও ঝোলানো চুম্বক অর্থাৎ\nপ্রথম কুণ্ডলীটা ঘুরে গেলো আর দু পাশের চুম্বকের লাইন-\nবরাবর হলো মাঝের চুম্বকটা। দ্বিতীয় কুণ্ডলীতে এতক্ষণ\nকোনো কারেন্ট ছিলো না, কাজেই সেটাকে কেউ টানাটানি\nকরেনি। কিন্তু এই দ্বিতীয় কুণ্ডলীটা প্রথমটার সঙ্গে বাঁধা,\nকাজেই প্রথম কুণ্ডলীটা ঘোরার সঙ্গে সঙ্গে এই দ্বিতীয়টাও কান\nটেনে মাথা আসার মতো বাধ্য হয়ে খানিকটা ঘুরে গিয়েছিল।\nএইবার প্রথম কুণ্ডলীটায় কারেন্ট বন্ধ করে দ্বিতীয়টায় কারেন্ট\nপাঠালে দ্বিতীয় কুণ্ডলীটা চুম্বক হলো, আর এই চুম্বকটাও\nদুপাশের চুম্বকের লাইন-বরাবর হওয়ার চেষ্টা করার জন্যে দ্বিতীয়\nকুণ্ডলীটাকে খানিকটা ঘুরতে হলো—আর ঠিকি বাঁধা বলে প্রথম\nকুণ্ডলীটাও ঘোরা থেকে রেহাই পেলো না। কাজেই ব্যাপারটা\nহলো কি, একবার প্রথম কুণ্ডলীতায় আর একবার দ্বিতীয়\nকুণ্ডলীতায় তারপর আবার প্রথমটায়—এই রকম করে কারেন্ট\nপাঠালে তারের কুণ্ডলী জোড়া ঘাঁই-ঘাঁই করে ঘুরবে। এই\nরকমভাবে ইলেক্‌ট্রিক কারেন্ট নিয়ে ঘোরার কলকে বলে\nইলেক্‌ট্রিক মোটর।"
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": "STOP",
+      "safety_ratings": [
+        {
+          "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+          "probability": "LOW"
+        },
+        {
+          "category": "HARM_CATEGORY_HATE_SPEECH",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HARASSMENT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+          "probability": "NEGLIGIBLE"
+        }
+      ],
+      "token_count": null
+    }
+  ],
+  "create_time": null,
+  "response_id": null,
+  "model_version": "gemini-2.5-pro",
+  "prompt_feedback": null,
+  "usage_metadata": {
+    "cache_tokens_details": null,
+    "cached_content_token_count": null,
+    "candidates_token_count": 279,
+    "candidates_tokens_details": null,
+    "prompt_token_count": 748,
+    "prompt_tokens_details": [
+      {
+        "modality": "TEXT",
+        "token_count": 490
+      },
+      {
+        "modality": "IMAGE",
+        "token_count": 258
+      }
+    ],
+    "thoughts_token_count": 2776,
+    "tool_use_prompt_token_count": null,
+    "tool_use_prompt_tokens_details": null,
+    "total_token_count": 3803,
+    "traffic_type": null
+  },
+  "automatic_function_calling_history": [],
+  "parsed": null,
+  "page_number": 328
+}

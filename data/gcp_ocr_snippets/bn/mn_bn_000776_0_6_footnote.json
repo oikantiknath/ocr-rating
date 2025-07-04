@@ -1,0 +1,32 @@
+{
+  "page_number": 776,
+  "ocr_output": {
+    "blocks": [
+      {
+        "block_text": "\" Atlas d ' ophthalmoscopie \" par le D. Liebreich P. 16",
+        "lines": [
+          "\" Atlas d ' ophthalmoscopie \" par le D. Liebreich P. 16"
+        ],
+        "bounding_box": [
+          {
+            "x": 4,
+            "y": 3
+          },
+          {
+            "x": 423,
+            "y": 7
+          },
+          {
+            "x": 423,
+            "y": 27
+          },
+          {
+            "x": 4,
+            "y": 23
+          }
+        ],
+        "confidence": 0.9567789
+      }
+    ]
+  }
+}

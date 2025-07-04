@@ -1,0 +1,79 @@
+{
+  "sdk_http_response": {
+    "headers": {
+      "content-type": "application/json; charset=UTF-8",
+      "vary": "Origin, X-Origin, Referer",
+      "content-encoding": "gzip",
+      "date": "Fri, 04 Jul 2025 03:36:08 GMT",
+      "server": "scaffolding on HTTPServer2",
+      "x-xss-protection": "0",
+      "x-frame-options": "SAMEORIGIN",
+      "x-content-type-options": "nosniff",
+      "server-timing": "gfet4t7; dur=22036",
+      "alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
+      "transfer-encoding": "chunked"
+    },
+    "body": null
+  },
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "Hossain, R.S. Sultana's Dream and Padmarag: Two Feminist Utopias.\nNew Delhi x Penguin, 2005. Print.\n\nHyder, Qurratulain. River of Fire. New Delhi x Women unlimited, 1998.\nPrint.\n\nIbsen, Henrik. IBSEN/PLAYS. England xPenguine Books, 1974. Print.\n\nKoul, Lokesh. Methodology of Educational Research. Uttar Pradesh x\nVikas (R) Publishing House Pvt. Ltd., 2007. Print.\n\nKuper, Adam. The Social Science. London x Routledge, 1980. Print.\n\nMenon, Dilip M. Cultural History of Modern India. New Delhi x Social\nScience Press, 2006. Print.\n\nMenon, Ritu. Borders & Boundaries. New Delhi x Kali for women, 2007.\nReprint.\n\nMisra, Nuri (tr). A Plot of Land. Cuttack x Cuttack Student's Store, 1969.\nPrint.\n\nMitchell, Juliet. What is Feminism. London x Oxford, 1986. Print.\n\nMohon, Dr. Radha. Research Methods in Education. Hyderabad x\nNeelkamal Publication Pvt. Ltd., 2011. Print.\n\nMukherjee, Meenakshi. Upanyasey Ateet: Itihas o Kalpaitihas. Kolkata x\nThema, 2003. Print.\n\nNaqvi, Tahira (tr). The Quilt and Other Stories. New Delhi x Kali for\nWomen, 1990. Print."
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": "STOP",
+      "safety_ratings": [
+        {
+          "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HATE_SPEECH",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HARASSMENT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+          "probability": "NEGLIGIBLE"
+        }
+      ],
+      "token_count": null
+    }
+  ],
+  "create_time": null,
+  "response_id": null,
+  "model_version": "gemini-2.5-pro",
+  "prompt_feedback": null,
+  "usage_metadata": {
+    "cache_tokens_details": null,
+    "cached_content_token_count": null,
+    "candidates_token_count": 368,
+    "candidates_tokens_details": null,
+    "prompt_token_count": 750,
+    "prompt_tokens_details": [
+      {
+        "modality": "TEXT",
+        "token_count": 492
+      },
+      {
+        "modality": "IMAGE",
+        "token_count": 258
+      }
+    ],
+    "thoughts_token_count": 1335,
+    "tool_use_prompt_token_count": null,
+    "tool_use_prompt_tokens_details": null,
+    "total_token_count": 2453,
+    "traffic_type": null
+  },
+  "automatic_function_calling_history": [],
+  "parsed": null,
+  "page_number": 287
+}

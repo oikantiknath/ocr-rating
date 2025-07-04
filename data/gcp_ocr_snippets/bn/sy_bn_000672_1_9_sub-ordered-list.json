@@ -1,0 +1,157 @@
+{
+  "page_number": 672,
+  "ocr_output": {
+    "blocks": [
+      {
+        "block_text": "a . About your aim in life .",
+        "lines": [
+          "a . About your aim in life ."
+        ],
+        "bounding_box": [
+          {
+            "x": 15,
+            "y": 8
+          },
+          {
+            "x": 540,
+            "y": 4
+          },
+          {
+            "x": 540,
+            "y": 50
+          },
+          {
+            "x": 15,
+            "y": 54
+          }
+        ],
+        "confidence": 0.9841759
+      },
+      {
+        "block_text": "b . About the necessity of reading newspaper . c . About climate change .",
+        "lines": [
+          "b . About the necessity of reading newspaper . c . About climate change ."
+        ],
+        "bounding_box": [
+          {
+            "x": 15,
+            "y": 57
+          },
+          {
+            "x": 948,
+            "y": 67
+          },
+          {
+            "x": 947,
+            "y": 175
+          },
+          {
+            "x": 14,
+            "y": 165
+          }
+        ],
+        "confidence": 0.98111314
+      },
+      {
+        "block_text": "d . About the importance of rising early .",
+        "lines": [
+          "d . About the importance of rising early ."
+        ],
+        "bounding_box": [
+          {
+            "x": 16,
+            "y": 177
+          },
+          {
+            "x": 833,
+            "y": 183
+          },
+          {
+            "x": 833,
+            "y": 232
+          },
+          {
+            "x": 16,
+            "y": 226
+          }
+        ],
+        "confidence": 0.9797452
+      },
+      {
+        "block_text": "e . About the importance of games and sports . f . About the importance of tree plantation . g . About issuing a transfer certificate .",
+        "lines": [
+          "e . About the importance of games and sports . f . About the importance of tree plantation . g . About issuing a transfer certificate ."
+        ],
+        "bounding_box": [
+          {
+            "x": 15,
+            "y": 234
+          },
+          {
+            "x": 956,
+            "y": 238
+          },
+          {
+            "x": 955,
+            "y": 402
+          },
+          {
+            "x": 14,
+            "y": 398
+          }
+        ],
+        "confidence": 0.9805822
+      },
+      {
+        "block_text": "h . About how to improve the skills of English . i . About proper use of time",
+        "lines": [
+          "h . About how to improve the skills of English . i . About proper use of time"
+        ],
+        "bounding_box": [
+          {
+            "x": 15,
+            "y": 409
+          },
+          {
+            "x": 978,
+            "y": 409
+          },
+          {
+            "x": 978,
+            "y": 512
+          },
+          {
+            "x": 15,
+            "y": 512
+          }
+        ],
+        "confidence": 0.98294
+      },
+      {
+        "block_text": "j . About eradicating illiteracy",
+        "lines": [
+          "j . About eradicating illiteracy"
+        ],
+        "bounding_box": [
+          {
+            "x": 11,
+            "y": 520
+          },
+          {
+            "x": 631,
+            "y": 523
+          },
+          {
+            "x": 631,
+            "y": 571
+          },
+          {
+            "x": 11,
+            "y": 568
+          }
+        ],
+        "confidence": 0.9901331
+      }
+    ]
+  }
+}

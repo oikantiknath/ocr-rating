@@ -1,0 +1,79 @@
+{
+  "sdk_http_response": {
+    "headers": {
+      "content-type": "application/json; charset=UTF-8",
+      "vary": "Origin, X-Origin, Referer",
+      "content-encoding": "gzip",
+      "date": "Fri, 04 Jul 2025 03:33:17 GMT",
+      "server": "scaffolding on HTTPServer2",
+      "x-xss-protection": "0",
+      "x-frame-options": "SAMEORIGIN",
+      "x-content-type-options": "nosniff",
+      "server-timing": "gfet4t7; dur=64755",
+      "alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
+      "transfer-encoding": "chunked"
+    },
+    "body": null
+  },
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "কিন্তু Abiogenesis গ্রহণ করিলে যে আমাদের সমস্ত সমস্যার সমাধান\nহইয়া যায়—তাহাও নহে। কারণ, উপরে আমরা ইহার যে ব্যাখ্যা দিয়াছি,\nতাহা পড়িলেই বুঝা যাইবে যে ইহা Mechanical Evolution বা যান্ত্রিক\nবিবর্তনবাদেরই প্রকারান্তর মাত্র। Mechanical Evolution কি—তাহা\nপূর্ব্ব অধ্যায়ে যথাস্থানে ব্যাখ্যা করা হইয়াছে। এই মতানুসারে আদিকালে\nপ্রাণ বা জীবন বলিয়া কোথাও কিছু ছিল না; ছিল শুধু অণুপরমাণু;\nযুগযুগান্তের ক্রিয়ার ফলে ইহারা প্রাণ সঞ্জীবিত হইয়া উঠিয়াছে; জড়ের মধ্যে\nপ্রাণ প্রতিষ্ঠিত হইয়াছে। এক কথায় লক্ষ লক্ষ বৎসরের বিবর্ত্তনের ফলে\nজড়শক্তি প্রাণশক্তিতে বিবর্ত্তিত হইয়াছে; এই বিবর্ত্তনের মধ্যে কোথাও\nকোন ভগবানের উদ্দেশ্য নিহিত নাই; সবই স্বয়ং সংঘটিত হইয়াছে। কিন্তু\nসত্যই যদি ইহাতে ঈশ্বরের পরিচালনা না থাকিত, তাহা হইলে এই\nজড়শক্তি তো যে কোন শক্তিরূপেই বিবর্ত্তিত হইতে পারিত; কিন্তু তাহা\nনা হইয়া উহা উচ্চতর প্রাণ-শক্তিতে পরিণত হইতে গেল কেন? ইহার\nকারণ কি? যান্ত্রিক মতবাদে ইহার কোন সন্তোষজনক ব্যাখ্যা পাওয়া যায়\nনা; বরং আমরা দেখিয়াছি যে, যান্ত্রিক মতানুসারে জড়শক্তি হইতে শুধু\nজড়শক্তিই উৎপন্ন হইতে পারে; জড়শক্তি ব্যতীত অন্য কোন প্রকার\nশক্তির উৎপত্তি হওয়া সম্ভব নহে। তাই যান্ত্রিক মতবাদকে ইংরাজীতে\nRepetitive Evolution বলে; এই মতানুসারে যাহা পূর্ব্বে বিদ্যমান ছিল\nতাহাই একটু অন্যরূপে পুনরায় আবির্ভূত হয়; কিন্তু উহা হইতে এক\nসম্পূর্ণ নূতন ধরণের জিনিষ উৎপন্ন হইতে পারে না। এমতাবস্থায় জড়\nহইতে সম্পূর্ণ বিপরীত ধর্মী প্রাণের উদ্ভব হইবে কেমন করিয়া?"
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": "STOP",
+      "safety_ratings": [
+        {
+          "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HATE_SPEECH",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HARASSMENT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+          "probability": "NEGLIGIBLE"
+        }
+      ],
+      "token_count": null
+    }
+  ],
+  "create_time": null,
+  "response_id": null,
+  "model_version": "gemini-2.5-pro",
+  "prompt_feedback": null,
+  "usage_metadata": {
+    "cache_tokens_details": null,
+    "cached_content_token_count": null,
+    "candidates_token_count": 364,
+    "candidates_tokens_details": null,
+    "prompt_token_count": 748,
+    "prompt_tokens_details": [
+      {
+        "modality": "TEXT",
+        "token_count": 490
+      },
+      {
+        "modality": "IMAGE",
+        "token_count": 258
+      }
+    ],
+    "thoughts_token_count": 6132,
+    "tool_use_prompt_token_count": null,
+    "tool_use_prompt_tokens_details": null,
+    "total_token_count": 7244,
+    "traffic_type": null
+  },
+  "automatic_function_calling_history": [],
+  "parsed": null,
+  "page_number": 86
+}

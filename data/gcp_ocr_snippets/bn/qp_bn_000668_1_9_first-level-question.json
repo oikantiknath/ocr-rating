@@ -1,0 +1,132 @@
+{
+  "page_number": 668,
+  "ocr_output": {
+    "blocks": [
+      {
+        "block_text": "( ii ) If ay - bx cx - az",
+        "lines": [
+          "( ii ) If ay - bx cx - az"
+        ],
+        "bounding_box": [
+          {
+            "x": 108,
+            "y": 37
+          },
+          {
+            "x": 330,
+            "y": 3
+          },
+          {
+            "x": 335,
+            "y": 30
+          },
+          {
+            "x": 112,
+            "y": 64
+          }
+        ],
+        "confidence": 0.892093
+      },
+      {
+        "block_text": "bz - cy , then prove that",
+        "lines": [
+          "bz - cy , then prove that"
+        ],
+        "bounding_box": [
+          {
+            "x": 356,
+            "y": 6
+          },
+          {
+            "x": 601,
+            "y": 27
+          },
+          {
+            "x": 599,
+            "y": 53
+          },
+          {
+            "x": 354,
+            "y": 32
+          }
+        ],
+        "confidence": 0.9404023
+      },
+      {
+        "block_text": "a",
+        "lines": [
+          "a"
+        ],
+        "bounding_box": [
+          {
+            "x": 380,
+            "y": 44
+          },
+          {
+            "x": 393,
+            "y": 44
+          },
+          {
+            "x": 393,
+            "y": 56
+          },
+          {
+            "x": 380,
+            "y": 56
+          }
+        ],
+        "confidence": 0.9370902
+      },
+      {
+        "block_text": "NO",
+        "lines": [
+          "NO"
+        ],
+        "bounding_box": [
+          {
+            "x": 240,
+            "y": 93
+          },
+          {
+            "x": 239,
+            "y": 140
+          },
+          {
+            "x": 224,
+            "y": 140
+          },
+          {
+            "x": 225,
+            "y": 93
+          }
+        ],
+        "confidence": 0.61467063
+      },
+      {
+        "block_text": "abc",
+        "lines": [
+          "abc"
+        ],
+        "bounding_box": [
+          {
+            "x": 147,
+            "y": 126
+          },
+          {
+            "x": 235,
+            "y": 120
+          },
+          {
+            "x": 236,
+            "y": 137
+          },
+          {
+            "x": 148,
+            "y": 143
+          }
+        ],
+        "confidence": 0.98287535
+      }
+    ]
+  }
+}

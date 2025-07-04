@@ -1,0 +1,32 @@
+{
+  "page_number": 98,
+  "ocr_output": {
+    "blocks": [
+      {
+        "block_text": "টংলু –১০,০৭৪ ফুট উচ্চতার সিঙ্গলিলার আরেক শৃঙ্গ । নেপাল সীমান্তের এই গ্রাম দার্জিলিং শহর থেকে ২৩ মাইল দূরে । এখান থেকে দেখা যায় নেপালি উপত্যকা , উত্তরবঙ্গের সমভূমি , পূবে তিস্তা , পশ্চিমে কোশি এবং মাঝে অনেক ছোটো ছোটো নদী । টংলুর টঙের বাংলো থেকে আজও হয়তো পর্যটকরা সেই অপরূপ দৃশ্য দেখবেন , স্যার জোসেফ হুকার ( Sir Joseph Hooker ) হিমালয়ান জার্নালে যেমন লিখেছিলেন , “ From the summit of Tonglu I enjoyed the view ... In the early morning the transparency of the atmosphere- readers this view one of astonishing grandeur , Kinchinjunga bore nearly due north , a dazzling mass of snowy peaks , interested by blue glaciers , which gleamed in the standing rays of the rising sun , like aquamarines set in frosted silver . ”",
+        "lines": [
+          "টংলু –১০,০৭৪ ফুট উচ্চতার সিঙ্গলিলার আরেক শৃঙ্গ । নেপাল সীমান্তের এই গ্রাম দার্জিলিং শহর থেকে ২৩ মাইল দূরে । এখান থেকে দেখা যায় নেপালি উপত্যকা , উত্তরবঙ্গের সমভূমি , পূবে তিস্তা , পশ্চিমে কোশি এবং মাঝে অনেক ছোটো ছোটো নদী । টংলুর টঙের বাংলো থেকে আজও হয়তো পর্যটকরা সেই অপরূপ দৃশ্য দেখবেন , স্যার জোসেফ হুকার ( Sir Joseph Hooker ) হিমালয়ান জার্নালে যেমন লিখেছিলেন , “ From the summit of Tonglu I enjoyed the view ... In the early morning the transparency of the atmosphere- readers this view one of astonishing grandeur , Kinchinjunga bore nearly due north , a dazzling mass of snowy peaks , interested by blue glaciers , which gleamed in the standing rays of the rising sun , like aquamarines set in frosted silver . ”"
+        ],
+        "bounding_box": [
+          {
+            "x": 5,
+            "y": 6
+          },
+          {
+            "x": 925,
+            "y": 5
+          },
+          {
+            "x": 925,
+            "y": 453
+          },
+          {
+            "x": 5,
+            "y": 454
+          }
+        ],
+        "confidence": 0.98828524
+      }
+    ]
+  }
+}

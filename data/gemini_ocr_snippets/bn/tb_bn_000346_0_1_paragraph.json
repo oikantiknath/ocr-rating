@@ -1,0 +1,79 @@
+{
+  "sdk_http_response": {
+    "headers": {
+      "content-type": "application/json; charset=UTF-8",
+      "vary": "Origin, X-Origin, Referer",
+      "content-encoding": "gzip",
+      "date": "Fri, 04 Jul 2025 03:37:23 GMT",
+      "server": "scaffolding on HTTPServer2",
+      "x-xss-protection": "0",
+      "x-frame-options": "SAMEORIGIN",
+      "x-content-type-options": "nosniff",
+      "server-timing": "gfet4t7; dur=40383",
+      "alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
+      "transfer-encoding": "chunked"
+    },
+    "body": null
+  },
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "বোঝাত রাষ্ট্র খুব বেশি জরুরি দরকার না পড়লে কারো ব্যক্তিগত\nসম্পত্তি বাজেয়াপ্ত করতে পারবে না কিংবা সেই সম্পত্তি রাষ্ট্রের\nইচ্ছামতো কোনো কাজে ব্যবহার করতে পারবে না। সে হিসেবে,\nআমেরিকান সমাজ জন্মলগ্ন থেকেই ব্যক্তিগত সম্পত্তির ভিত্তিতে\nমানুষের স্তরবিন্যাসের ব্যাপারটি সমর্থন করে এসেছে। অনেকে\nবোঝানোর চেষ্টা করেছেন মানুষে মানুষে সম্পত্তির এই যে তারতম্য–\nএটা স্রষ্টার ইচ্ছা, তার লীলা মাত্র। আবার অনেকে ভাবেন,\nঅর্থনৈতিক এই বৈষম্য অনাদিকাল থেকে চলে আসা প্রকৃতির এক\nঅপরিবর্তনীয় বিধান। তাঁদের মতে, প্রকৃতিই কিছু মানুষকে মেধাবী\nহিসেবে তৈরি করে, যাতে তারা অগাধ ধনসম্পত্তির মালিক হতে\nপারে। আর সেই প্রকৃতিই বাকি লোকদের তৈরি করে মেধাহীন,\nশ্রমবিমুখ, অলস হিসেবে, ফলে তারা ধনসম্পদ অর্জনের সুযোগ\nথেকে বঞ্চিত হয়।"
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": "STOP",
+      "safety_ratings": [
+        {
+          "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HATE_SPEECH",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HARASSMENT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+          "probability": "NEGLIGIBLE"
+        }
+      ],
+      "token_count": null
+    }
+  ],
+  "create_time": null,
+  "response_id": null,
+  "model_version": "gemini-2.5-pro",
+  "prompt_feedback": null,
+  "usage_metadata": {
+    "cache_tokens_details": null,
+    "cached_content_token_count": null,
+    "candidates_token_count": 184,
+    "candidates_tokens_details": null,
+    "prompt_token_count": 748,
+    "prompt_tokens_details": [
+      {
+        "modality": "TEXT",
+        "token_count": 490
+      },
+      {
+        "modality": "IMAGE",
+        "token_count": 258
+      }
+    ],
+    "thoughts_token_count": 3508,
+    "tool_use_prompt_token_count": null,
+    "tool_use_prompt_tokens_details": null,
+    "total_token_count": 4440,
+    "traffic_type": null
+  },
+  "automatic_function_calling_history": [],
+  "parsed": null,
+  "page_number": 338
+}

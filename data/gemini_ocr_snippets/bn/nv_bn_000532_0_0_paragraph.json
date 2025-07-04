@@ -1,0 +1,79 @@
+{
+  "sdk_http_response": {
+    "headers": {
+      "content-type": "application/json; charset=UTF-8",
+      "vary": "Origin, X-Origin, Referer",
+      "content-encoding": "gzip",
+      "date": "Fri, 04 Jul 2025 03:34:50 GMT",
+      "server": "scaffolding on HTTPServer2",
+      "x-xss-protection": "0",
+      "x-frame-options": "SAMEORIGIN",
+      "x-content-type-options": "nosniff",
+      "server-timing": "gfet4t7; dur=51613",
+      "alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
+      "transfer-encoding": "chunked"
+    },
+    "body": null
+  },
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "কিন্তু উড্ডীয়মান মনের সূত্র লাটাইয়ের পাকে পাকে জড়ানো। লাটাই ওড়ে না, সে\nমৃত্তিকার, সে সূত্রধারক, সে ওড়ায়। দার্শনিকতার অবতারণা করিতেছি না; কথাটা মনে\nহইল, তাই বলিলাম। যাহা মনে হয়, তাহা বলার নামই দার্শনিকতা নয়। বস্তুত, যাহা\nসহজে মনে হয় না, তাহাই মনে পড়াইয়া দেওয়ার নাম দার্শনিকতা। যাহা বহুর মধ্যে\nএক-আধজন দেখে তাহাই দর্শন, বহুজন যাহাকে দেখে তাহাও একপ্রকার দর্শন, কিন্তু\nতাহা মহাজ্ঞা-দর্শন—বড় জোর দেব-দর্শন, তত্ত্ব-দর্শন নয়। বিচিত্র! তত্ত্বটা আছে, কিন্তু\nসকলে দেখিতে পায় না, দেখিতে পাইলেও তদনুসারে চলিতে পারে না। সংসারে কথাটি\nঅনেক, এ কথা অনেকেই বোঝেন, কিন্তু বুদ্ধ বা চৈতন্যের মতো কয়জন পলাইতে\nপারিলেন? অনেক দূরে···বনে···পর্ব্বতে···সুদূরে দ্বীপে···সমুদ্রের ঢেউ আসিয়া প্রবাল-\nতটে লাগিতেছে—ছলাৎ-ছলাৎ-ছলাৎ···কোথাও যেন বাঁশী বাজিতেছে···না না, পারিব\nনা, পারিব না—"
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": "STOP",
+      "safety_ratings": [
+        {
+          "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HATE_SPEECH",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HARASSMENT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+          "probability": "NEGLIGIBLE"
+        }
+      ],
+      "token_count": null
+    }
+  ],
+  "create_time": null,
+  "response_id": null,
+  "model_version": "gemini-2.5-pro",
+  "prompt_feedback": null,
+  "usage_metadata": {
+    "cache_tokens_details": null,
+    "cached_content_token_count": null,
+    "candidates_token_count": 248,
+    "candidates_tokens_details": null,
+    "prompt_token_count": 748,
+    "prompt_tokens_details": [
+      {
+        "modality": "TEXT",
+        "token_count": 490
+      },
+      {
+        "modality": "IMAGE",
+        "token_count": 258
+      }
+    ],
+    "thoughts_token_count": 4496,
+    "tool_use_prompt_token_count": null,
+    "tool_use_prompt_tokens_details": null,
+    "total_token_count": 5492,
+    "traffic_type": null
+  },
+  "automatic_function_calling_history": [],
+  "parsed": null,
+  "page_number": 195
+}

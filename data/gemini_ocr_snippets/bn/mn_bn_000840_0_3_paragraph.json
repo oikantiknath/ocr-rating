@@ -1,0 +1,79 @@
+{
+  "sdk_http_response": {
+    "headers": {
+      "content-type": "application/json; charset=UTF-8",
+      "vary": "Origin, X-Origin, Referer",
+      "content-encoding": "gzip",
+      "date": "Fri, 04 Jul 2025 03:33:34 GMT",
+      "server": "scaffolding on HTTPServer2",
+      "x-xss-protection": "0",
+      "x-frame-options": "SAMEORIGIN",
+      "x-content-type-options": "nosniff",
+      "server-timing": "gfet4t7; dur=51284",
+      "alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
+      "transfer-encoding": "chunked"
+    },
+    "body": null
+  },
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "কর্টিক্যাল ক্যাট্যার‍্যাক্টে পূর্ব্বাবস্থা প্রাপ্ত হইলে সম্মুখ প্রদেশে অস্বচ্ছ\nকণ্ডরাবৎ রেখা সকল দৃষ্ট হয়, ঐ রেখা বা সূত্র সকল পূর্ব্বোক্ত রোগের বিশেষ\nলক্ষণ। কঠিন নিউক্লিয়াস্, নানা বর্ণে বিচিত্রিত (Opaline) মেদযুক্ত\nকর্টিক্যাল্ পদার্থে প্রায় সচরাচর পরিবেষ্টিত থাকে। বিশেষতঃ রোগীর বয়স\nচত্বারিংশৎ বৎসরের অধিক হইলে এরূপ ঘটনা সচরাচর দৃষ্ট হয়। কর্টিক্যাল\nক্যাট্যার‍্যাক্ট দ্বারা চক্ষু আক্রান্ত হইয়াছে, এরূপ বোধ হইলে, ইল্যুমিনেটেড্\nআলোক দ্বারা সাবধান পূর্ব্বক তাহা পরীক্ষা করা উচিত। এরূপ পরীক্ষা\nদ্বারা ক্যাট্যার‍্যাক্টের মধ্যস্থলে যদি শ্বেত বা বিচিত্রিত স্তার বর্ণ লক্ষিত হয়,\nতাহা হইলে নিউক্লিয়াস্ যে কঠিন হইয়াছে, তাহার কোন সন্দেহ থাকে না।"
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": "STOP",
+      "safety_ratings": [
+        {
+          "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HATE_SPEECH",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HARASSMENT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+          "probability": "NEGLIGIBLE"
+        }
+      ],
+      "token_count": null
+    }
+  ],
+  "create_time": null,
+  "response_id": null,
+  "model_version": "gemini-2.5-pro",
+  "prompt_feedback": null,
+  "usage_metadata": {
+    "cache_tokens_details": null,
+    "cached_content_token_count": null,
+    "candidates_token_count": 193,
+    "candidates_tokens_details": null,
+    "prompt_token_count": 748,
+    "prompt_tokens_details": [
+      {
+        "modality": "TEXT",
+        "token_count": 490
+      },
+      {
+        "modality": "IMAGE",
+        "token_count": 258
+      }
+    ],
+    "thoughts_token_count": 4540,
+    "tool_use_prompt_token_count": null,
+    "tool_use_prompt_tokens_details": null,
+    "total_token_count": 5481,
+    "traffic_type": null
+  },
+  "automatic_function_calling_history": [],
+  "parsed": null,
+  "page_number": 118
+}

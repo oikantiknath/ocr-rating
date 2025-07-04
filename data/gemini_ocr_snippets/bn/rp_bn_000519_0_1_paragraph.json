@@ -1,0 +1,79 @@
+{
+  "sdk_http_response": {
+    "headers": {
+      "content-type": "application/json; charset=UTF-8",
+      "vary": "Origin, X-Origin, Referer",
+      "content-encoding": "gzip",
+      "date": "Fri, 04 Jul 2025 03:36:03 GMT",
+      "server": "scaffolding on HTTPServer2",
+      "x-xss-protection": "0",
+      "x-frame-options": "SAMEORIGIN",
+      "x-content-type-options": "nosniff",
+      "server-timing": "gfet4t7; dur=37864",
+      "alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
+      "transfer-encoding": "chunked"
+    },
+    "body": null
+  },
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "সতীদাহের ঘটনা পাওয়া যায়। অথচ কলকাতা ও তার পার্শ্ববর্তী জেলাগুলিতে এর\nনমুনা ছিল অনেক বেশি। ১৮১২ সালের ‘মে’ ও ‘জুন’ মাসের পরিসংখ্যান থেকে\nS¡e¡ k¡u, L¡m¡ h¡S¡l J ýNÑl¡r মধ্যবর্তী অঞ্চলে প্রায় ৬৯টি সতীদাহের নমুনা পাই,\nযার মধ্যে ২৫ জন হল ব্রাহ্মণ ও অন্যরা কিছুটা নীচু সম্প্রদায়ের মেয়ে। সতীদাহের\nএই ধরনের সংখ্যা আমাদের অবাক করে তোলে। অবশ্য এর পর ইতিহাসে দেখা\nযায় যে, জনৈক সাহেবের কালেক্টর M.H. Brooke তাঁর জেলায় সতীদাহ প্রথা বন্ধ\nL¡l¡l SeÉ লর্ড কর্নওয়ালিসকে আবেদন জানিয়ে চিঠি লেখেন। এর ঠিক ষোলো বছর\nপর অর্থাৎ ১৮০৫ সালে গয়ায় ব্রিটিশ ম্যাজিস্ট্রেটMr. Elphinstonej q¡nu HLSe\nঅপ্রাপ্তবয়স্কা বিধবাকে সতীদাহ প্রথার হাত থেকে বাঁচিয়েছিলেন। তাঁর এই সাহস ও\nপ্রতিবাদ প্রশংসা যোগ্য।"
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": "STOP",
+      "safety_ratings": [
+        {
+          "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HATE_SPEECH",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HARASSMENT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+          "probability": "NEGLIGIBLE"
+        }
+      ],
+      "token_count": null
+    }
+  ],
+  "create_time": null,
+  "response_id": null,
+  "model_version": "gemini-2.5-pro",
+  "prompt_feedback": null,
+  "usage_metadata": {
+    "cache_tokens_details": null,
+    "cached_content_token_count": null,
+    "candidates_token_count": 220,
+    "candidates_tokens_details": null,
+    "prompt_token_count": 750,
+    "prompt_tokens_details": [
+      {
+        "modality": "TEXT",
+        "token_count": 492
+      },
+      {
+        "modality": "IMAGE",
+        "token_count": 258
+      }
+    ],
+    "thoughts_token_count": 3167,
+    "tool_use_prompt_token_count": null,
+    "tool_use_prompt_tokens_details": null,
+    "total_token_count": 4137,
+    "traffic_type": null
+  },
+  "automatic_function_calling_history": [],
+  "parsed": null,
+  "page_number": 277
+}

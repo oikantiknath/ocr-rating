@@ -1,0 +1,79 @@
+{
+  "sdk_http_response": {
+    "headers": {
+      "content-type": "application/json; charset=UTF-8",
+      "vary": "Origin, X-Origin, Referer",
+      "content-encoding": "gzip",
+      "date": "Fri, 04 Jul 2025 03:33:40 GMT",
+      "server": "scaffolding on HTTPServer2",
+      "x-xss-protection": "0",
+      "x-frame-options": "SAMEORIGIN",
+      "x-content-type-options": "nosniff",
+      "server-timing": "gfet4t7; dur=71347",
+      "alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
+      "transfer-encoding": "chunked"
+    },
+    "body": null
+  },
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "পূর্ণ বা রেখিত ষ্ট্রেটম্ ম্যাট্রিক্স্ ( Striated matrix ) বা ভিত্তিভূমি\nহয় ও যাহাতে এলিমেন্টারি ক্যাপিলারি‍জ্ ( Elementary capillaries ), বা\nপ্রাথমিক কৈশিক নাড়ী, অপরিমিত নিউক্লিয়াই ( Nuclei ) এবং অনেক\nসময়ে পিগ্‌মেন্ট বা বর্ণদায়ক পদার্থ দ্বারা গঠিত হয়। উহারা আইরিসের\nএক বা অনেক স্তরাধিকারে করিয়া থাকে। এই অপস্বর্গ উপবৃদ্ধিগুলির\n( Excrescences ) আকার নানাবিধ হয়। কোন কোন স্থলে উহারা\nআল্‌পিনের মস্তকের ন্যায় ক্ষুদ্র হয়, এবং কোন কোন স্থলে আই-\nরিসের অধিকাংশ স্থান আবৃত করিয়া রাখে এবং করিয়া পর্যন্ত উন্নত হইয়া\nথাকে। রোগের প্রাবস্থায় উহারা সচরাচর লোহিত আভাযুক্ত পীতবর্ণ\nহইয়া থাকে। তৎপরে উহারা শ্বেতবর্ণ হয় এবং ঐ সকল উৎপত্তিস্থানে পূয়-\nরাশি স্রাব দেখায় বা উহারা হয় শোষিত, না হয় পূয়ে পরিণত হয়।\nপূর্ব্বোক্ত ঘটনা হইলে, আইরিস্ উহার প্রকৃতাবস্থায় পুনরাগমন করে; কিন্তু\nঅপর ঘটনা অতি বিরল। অধিকাংশ সময়েই আইরিসে পিন্ডটি বা\nকতক উৎপন্ন হয় এবং এইরূপ অবস্থায় প্রদাহে চরণে বিস্তৃত স্থানব্যাপী\nসাইনেকিয়া উৎপন্ন হয়। পশ্চাতে যদি এই প্রদাহে পূয়োৎপত্তি হয়, তাহা\nহইলে পূয় সম্মুখবর্ত্তী কুটীরে অবতীর্ণ হইয়া হাইপোপিয়ন্ নামক\n( Hypopion ) রোগ উৎপন্ন করে।"
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": "STOP",
+      "safety_ratings": [
+        {
+          "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HATE_SPEECH",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HARASSMENT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+          "probability": "NEGLIGIBLE"
+        }
+      ],
+      "token_count": null
+    }
+  ],
+  "create_time": null,
+  "response_id": null,
+  "model_version": "gemini-2.5-pro",
+  "prompt_feedback": null,
+  "usage_metadata": {
+    "cache_tokens_details": null,
+    "cached_content_token_count": null,
+    "candidates_token_count": 326,
+    "candidates_tokens_details": null,
+    "prompt_token_count": 748,
+    "prompt_tokens_details": [
+      {
+        "modality": "TEXT",
+        "token_count": 490
+      },
+      {
+        "modality": "IMAGE",
+        "token_count": 258
+      }
+    ],
+    "thoughts_token_count": 6782,
+    "tool_use_prompt_token_count": null,
+    "tool_use_prompt_tokens_details": null,
+    "total_token_count": 7856,
+    "traffic_type": null
+  },
+  "automatic_function_calling_history": [],
+  "parsed": null,
+  "page_number": 107
+}

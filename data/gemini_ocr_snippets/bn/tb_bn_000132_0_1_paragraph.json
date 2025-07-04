@@ -1,0 +1,79 @@
+{
+  "sdk_http_response": {
+    "headers": {
+      "content-type": "application/json; charset=UTF-8",
+      "vary": "Origin, X-Origin, Referer",
+      "content-encoding": "gzip",
+      "date": "Fri, 04 Jul 2025 03:37:13 GMT",
+      "server": "scaffolding on HTTPServer2",
+      "x-xss-protection": "0",
+      "x-frame-options": "SAMEORIGIN",
+      "x-content-type-options": "nosniff",
+      "server-timing": "gfet4t7; dur=38923",
+      "alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
+      "transfer-encoding": "chunked"
+    },
+    "body": null
+  },
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "ইউভাল নোয়া হারারির লেখা সেপিয়েন্স এই সময়ের খুব গুরুত্বপূর্ণ\nএকটা বই। বইটি নিউ ইয়র্ক টাইমস-এর বেস্ট সেলার হয়েছে, এখন\nপর্যন্ত ৪৫টি ভাষায় অনুবাদ করা হয়েছে এবং সবচেয়ে বড় কথা, সব\nধরনের মানুষের কাছে প্রবলভাবে আলোচিত হয়েছে। বহুল আলোচিত\nবই মানেই কিন্তু বহুল পঠিত বই নয় কিন্তু সেপিয়েন্স-এর বেলায়\nনির্দ্বিধায় বলা যায়, এটি একইসঙ্গে বহুল আলোচিত এবং বহুল পঠিত\nএকটা বই। সত্যি কথা বলতে কি, বইটি এর মধ্যেই একটা\nপ্রবাদবাক্যের রূপ নিয়েছে। কারণটা খুব সহজ, এটা খুব সহজপাঠ্য\nএকটা বই। এর মধ্যে ইতিহাস, বিজ্ঞান, দর্শন কিংবা অর্থনীতি সবই\nআছে কিন্তু বইটি পড়ার সময় কেউ জ্ঞানের চাপে ভারাক্রান্ত হয় না।\nহারারি বইটিতে নিজের যুক্তিকে প্রমাণ করার জন্য অসংখ্য তথ্য\nউপস্থাপন করেছেন, সেই সেই তথ্যগুলো প্রায় সময়ই এত চমকপ্রদ যে\nপাঠক বিস্ময়ে হতবাক হয়ে যান।"
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": "STOP",
+      "safety_ratings": [
+        {
+          "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HATE_SPEECH",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HARASSMENT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+          "probability": "NEGLIGIBLE"
+        }
+      ],
+      "token_count": null
+    }
+  ],
+  "create_time": null,
+  "response_id": null,
+  "model_version": "gemini-2.5-pro",
+  "prompt_feedback": null,
+  "usage_metadata": {
+    "cache_tokens_details": null,
+    "cached_content_token_count": null,
+    "candidates_token_count": 202,
+    "candidates_tokens_details": null,
+    "prompt_token_count": 748,
+    "prompt_tokens_details": [
+      {
+        "modality": "TEXT",
+        "token_count": 490
+      },
+      {
+        "modality": "IMAGE",
+        "token_count": 258
+      }
+    ],
+    "thoughts_token_count": 3215,
+    "tool_use_prompt_token_count": null,
+    "tool_use_prompt_tokens_details": null,
+    "total_token_count": 4165,
+    "traffic_type": null
+  },
+  "automatic_function_calling_history": [],
+  "parsed": null,
+  "page_number": 331
+}

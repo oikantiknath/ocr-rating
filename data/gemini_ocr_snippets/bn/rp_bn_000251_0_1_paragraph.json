@@ -1,0 +1,79 @@
+{
+  "sdk_http_response": {
+    "headers": {
+      "content-type": "application/json; charset=UTF-8",
+      "vary": "Origin, X-Origin, Referer",
+      "content-encoding": "gzip",
+      "date": "Fri, 04 Jul 2025 03:36:11 GMT",
+      "server": "scaffolding on HTTPServer2",
+      "x-xss-protection": "0",
+      "x-frame-options": "SAMEORIGIN",
+      "x-content-type-options": "nosniff",
+      "server-timing": "gfet4t7; dur=66927",
+      "alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
+      "transfer-encoding": "chunked"
+    },
+    "body": null
+  },
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "বিশেষত ব্রাহ্মসমাজের কথা মাথায় রেখে ১৮৬৮-তে কেশবচন্দ্র সেন মেয়েদের\nবাল্যবিবাহ বন্ধ করার ব্যাপারে অত্যন্ত জোর দেন। কিন্তু শুধুমাত্র ব্রাহ্মসমাজ নয়,\npj U' q%&%pj iS Hl à¡l¡ Ef La qu z HC pj U' d.f¥ po§f ß¡l £ gmül ©\n১৮৭২ সালে এই সংক্রান্ত আইন প্রণয়ন হতে দেখা যায়। রাজা রামমোহন রায়\nস্পষ্টভাবে সম্পত্তিতে উওর অধিকার, সতীদাহ প্রথা রোধ করা এবং নারীশিক্ষা প্রচলন\npwo<binary data, 1 bytes>¿¹ hou..cn pj -সমাজের চোখে নিয়ে আসেন। এরপর ১৮৭৩ সালে ঢাকায়\n\"h¡mÉf eh¡l Z£ pi ¡' Ae<binary data, 1 bytes>a qu Hhw \"j q¡f ¡f eh¡l Z£ f c<binary data, 1 bytes>d ¡J l <binary data, 1 bytes>a qu\nযেখানে বাল্যবিবাহের বিরোধিতা করা হয়। ১৮৭৬ সালে মinaria ‘রাইট নাইট\nপত্রিকায় মেয়েদের নির্যাতনের বিরুদ্ধে লিখেন। ১৮৭৭ সালে স্কুলবাল্যবিবাহ বন্ধের\nজন্য সরকারের কাছে দাবি জানানো হয় এবং এরই পাশে জন-j à¡Éf<binary data, 1 bytes> সংক্রান্ত\nদাবি জানালেন। শ্রদ্ধেয় টি. এস. পেন্টার মাদ্রাজে এবিষয়ে সভা করেন। আবার\nএকজন পার্সি ব্যক্তিত্ব মিঃ মালাবারি ১৮৮৪ সালে তৎকালীন বড়লাট লর্ড রিপনের\nকাছে বাল্যবিবাহের বিরুদ্ধে প্রস্তাব রাখলেন। ‘বেঙ্গল স্পেকটেটর’ পত্রিকায় তিনি\nলিখেন। ১৮৮৪ সালের ১৮-ই আগষ্ট লিখিত আকারে বাল্যবিবাহের বিরুদ্ধে প্রস্তাব\nআনা হয়। কেশবচন্দ্র সেন শুধুমাত্র ব্রাহ্মদের জন্য আবেদন করেছিলেন, কিন্তু\nমালাবারি মাদ্রাজ সরকারের কাছে স্পষ্টভাষায় প্রস্তাব জানালেন সমস্ত ভারতীয় রমণীদের\nজন্য এমনকি হিন্দুদের জন্যও। কিন্তু সমগ্র বাঙালী জাতি বা হিন্দুদের সকলেই\nপ্রগতিশীল ছিলেন না, এমনকি এর বিপক্ষে মত দিয়েছিলেন। ১৮৮৭ সালের আগষ্ট\nমাসে ‘শোভাজার রাজবাড়ি’তে সভা হয়েছিল, যেখানে দুটি দল বাল্যবিবাহের পক্ষে\nএবং বিপক্ষে বলেছিল। যেমন পন্ডিত হরপ্রসাদ শাস্ত্রী এর পক্ষে ছিলেন। আবার"
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": "STOP",
+      "safety_ratings": [
+        {
+          "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HATE_SPEECH",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HARASSMENT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+          "probability": "NEGLIGIBLE"
+        }
+      ],
+      "token_count": null
+    }
+  ],
+  "create_time": null,
+  "response_id": null,
+  "model_version": "gemini-2.5-pro",
+  "prompt_feedback": null,
+  "usage_metadata": {
+    "cache_tokens_details": null,
+    "cached_content_token_count": null,
+    "candidates_token_count": 470,
+    "candidates_tokens_details": null,
+    "prompt_token_count": 750,
+    "prompt_tokens_details": [
+      {
+        "modality": "TEXT",
+        "token_count": 492
+      },
+      {
+        "modality": "IMAGE",
+        "token_count": 258
+      }
+    ],
+    "thoughts_token_count": 5772,
+    "tool_use_prompt_token_count": null,
+    "tool_use_prompt_tokens_details": null,
+    "total_token_count": 6992,
+    "traffic_type": null
+  },
+  "automatic_function_calling_history": [],
+  "parsed": null,
+  "page_number": 262
+}

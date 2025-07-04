@@ -1,0 +1,79 @@
+{
+  "sdk_http_response": {
+    "headers": {
+      "content-type": "application/json; charset=UTF-8",
+      "vary": "Origin, X-Origin, Referer",
+      "content-encoding": "gzip",
+      "date": "Fri, 04 Jul 2025 03:33:37 GMT",
+      "server": "scaffolding on HTTPServer2",
+      "x-xss-protection": "0",
+      "x-frame-options": "SAMEORIGIN",
+      "x-content-type-options": "nosniff",
+      "server-timing": "gfet4t7; dur=33805",
+      "alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
+      "transfer-encoding": "chunked"
+    },
+    "body": null
+  },
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "ধারণার জন্য সমর্থন তৈরি করে এবং রাজনৈতিক উদ্বেগ\nসম্পর্কে জনসাধারণের বোঝা বাড়ায়। একটি শক্তিশালী\nবিরোধী দল ক্ষমতাসীন দলকে জনগণের দাবি ও\nউদ্বেগের প্রতি মনোযোগ দিতে বাধ্য করে। সরকারগুলি\nজনগণের স্বার্থে কাজ করতে আরও অনুপ্রাণিত হয় যখন\nতারা সচেতন যে তাদের সিদ্ধান্তগুলি ঘনিষ্ঠভাবে\nপরীক্ষা করা হবে এবং চ্যালেঞ্জ করা হবে। প্রশাসনকে\nতার কর্মের জন্য জবাবদিহি করাতে বিরোধী দলগুলি\nঅপরিহার্য। তারা তথ্য অনুসন্ধান করে সংসদীয় প্রশ্ন,\nবিতর্ক এবং অডিট কমিটি সহ প্রক্রিয়ার মাধ্যমে\nসরকারের স্বচ্ছতা প্রচার করে। লোকসভার বিরোধী\nদলনেতার ভূমিকা সংসদীয় রাজনীতির জন্য অত্যন্ত\nগুরুত্বপূর্ণ। সংসদের পাবলিক অ্যাকাউন্ট কমিটি,\nপাবলিক আন্ডারটেকিং এবং যৌথ সংসদীয় কমিটির\nসদস্য হন তিনি। সেন্ট্রাল ভিজিল্যান্স কমিশন, সেন্ট্রাল\nইনফরমেশন কমিশন, সিবিআই ডিরেক্টর, জাতীয়\nমানবাধিকার সংগঠনের চেয়ারপার্সন, লোকপাল বাছাই\nযে কমিটিতেও শামিল থাকেন লোকসভার বিরোধী\nদলনেতা। সংসদ ভবনে সরকার পক্ষ এবং বিরোধী\nপক্ষের উপস্থিত মনে করিয়ে দেবে ভারতবর্ষ বৈচিত্রের\nমধ্যে ঐক্য। নরেন্দ্র মোদির নেতৃত্বে এনডিএ টানা তৃতীয়\nবার ভারতবাসীর দায়িত্বে। মোদির নেতৃত্বেই দেশের\nগৌরব এবং সমৃদ্ধি বৃদ্ধি পাবে। আগামী পাঁচ বছর এই\nদৃষ্টিভঙ্গি বাস্তবায়নে এবং বৈশ্বিক মঞ্চে একটি গতিশীল\nও প্রগতিশীল জাতি হিসেবে ভারতের অবস্থানকে\nআরও দৃঢ় করার জন্য খুবই গুরুত্ব পূর্ণ হয়ে উঠবে।\nযেখানে দেশের প্রধানমন্ত্রী হতে চলেছেন নরেন্দ্র মোদি\nসেখানে কর্মী সমর্থকদের চিন্তার কোন কারণ নেই।\nকারণ তিনি সংসদ ভবন কে যেমন মন্দির মনে করেন\nতেমনি প্রত্যেক কর্মী সমর্থকদের এক একটা বুকের\nপাঁজর মনে করেন। কারণ তিনি জয়ী হবার পর প্রথমেই\nদেশবাসীকে তার পরই কর্মীদের কথাই বলেছেন। এটাই\nতো নরেন্দ্র মোদি। সুতরাং বিরোধীরা বিরোধিতা করুক\nরাজনৈতিক ভাবে অনৈতিক গায়ে হাত দিয়ে নয়। কারণ\nরাজ্যে শুভবুদ্ধা আছে। যিনি আজ না হোক কয়েক\nবছরের মধ্যেই বাংলার জনগণকে বোঝাতে পারবেন\nডবল ইঞ্জিন সরকার কতটা প্রাসঙ্গিক।"
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": "STOP",
+      "safety_ratings": [
+        {
+          "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HATE_SPEECH",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HARASSMENT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+          "probability": "NEGLIGIBLE"
+        }
+      ],
+      "token_count": null
+    }
+  ],
+  "create_time": null,
+  "response_id": null,
+  "model_version": "gemini-2.5-pro",
+  "prompt_feedback": null,
+  "usage_metadata": {
+    "cache_tokens_details": null,
+    "cached_content_token_count": null,
+    "candidates_token_count": 429,
+    "candidates_tokens_details": null,
+    "prompt_token_count": 748,
+    "prompt_tokens_details": [
+      {
+        "modality": "TEXT",
+        "token_count": 490
+      },
+      {
+        "modality": "IMAGE",
+        "token_count": 258
+      }
+    ],
+    "thoughts_token_count": 2044,
+    "tool_use_prompt_token_count": null,
+    "tool_use_prompt_tokens_details": null,
+    "total_token_count": 3221,
+    "traffic_type": null
+  },
+  "automatic_function_calling_history": [],
+  "parsed": null,
+  "page_number": 133
+}

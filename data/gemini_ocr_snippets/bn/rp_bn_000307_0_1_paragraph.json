@@ -1,0 +1,79 @@
+{
+  "sdk_http_response": {
+    "headers": {
+      "content-type": "application/json; charset=UTF-8",
+      "vary": "Origin, X-Origin, Referer",
+      "content-encoding": "gzip",
+      "date": "Fri, 04 Jul 2025 03:36:22 GMT",
+      "server": "scaffolding on HTTPServer2",
+      "x-xss-protection": "0",
+      "x-frame-options": "SAMEORIGIN",
+      "x-content-type-options": "nosniff",
+      "server-timing": "gfet4t7; dur=74349",
+      "alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
+      "transfer-encoding": "chunked"
+    },
+    "body": null
+  },
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "ভূদেব মুখোপাধ্যায় কয়েকটি সাময়িক পত্র পরিচালনা করেন\nযেখানে শিক্ষাসংক্রান্ত বিষয় নিয়ে আলাপ আলোচনা চলত । ১৮৫৪ খ্রী:এ\nতিনি ‘শিক্ষাদর্পণ ও সংবাদসার’ নামে পত্রিকা প্রকাশ করেন । চার বছরের\nবেশি সময় ধরে পত্রিকাটি প্রচলিত ছিল । ‘শিক্ষাপ্রণালী শীর্ষক এবং তৎসম্বন্ধীয়\nসংবাদ প্রদায়ক সাময়িক পত্রিকা’ বলে এর পরিচয় দেওয়া হয় । ‘এডুকেশন\nগেজেট’ ( ১৮৫৬ খ্রী:প্রকাশিত হয়, ১৮৬৮ খ্রী: ভূদেব মুখোপাধ্যায় এর\nসম্পাদনার ভার গ্রহণ করেন ) এই পত্রিকার সূত্রেই শিক্ষিত বাঙালী তাঁর শিক্ষা\nচিন্তা , মনীষা , তাঁর আদর্শের সান্নিধ্য পেয়েছে । স্কুল পাঠ্য গ্রন্থ\nছাড়াও ভূদেব মুখোপাধ্যায় সমাজ ও পারিবারিক জীবন সংস্কারের উদ্দেশ্যে\nকতগুলি গ্রন্থ লেখেন । তাঁর ‘পারিবারিক প্রবন্ধ’ (১৮৮২ খ্রী:), ‘সামা-\nজিক প্রবন্ধ’ (১৮৯২ খ্রী:) এবং ‘আচার’ প্রবন্ধে (১৮৯২ খ্রী:), তিনি পারি-\nবারিক ও সামাজিক জীবনের স্বার্থ সম্পর্ক কী হওয়া উচিত , সমাজ ও পরি-\nবারের সঙ্গে ব্যক্তির সম্পর্ক কীভাবে ফলপ্রদ হয়ে উঠতে পারে , সে বিষয়ে\nআলোচনা করেছেন, এখানেও তাঁর শিক্ষকের ভূমিকা ।"
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": "STOP",
+      "safety_ratings": [
+        {
+          "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HATE_SPEECH",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HARASSMENT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+          "probability": "NEGLIGIBLE"
+        }
+      ],
+      "token_count": null
+    }
+  ],
+  "create_time": null,
+  "response_id": null,
+  "model_version": "gemini-2.5-pro",
+  "prompt_feedback": null,
+  "usage_metadata": {
+    "cache_tokens_details": null,
+    "cached_content_token_count": null,
+    "candidates_token_count": 259,
+    "candidates_tokens_details": null,
+    "prompt_token_count": 750,
+    "prompt_tokens_details": [
+      {
+        "modality": "TEXT",
+        "token_count": 492
+      },
+      {
+        "modality": "IMAGE",
+        "token_count": 258
+      }
+    ],
+    "thoughts_token_count": 7215,
+    "tool_use_prompt_token_count": null,
+    "tool_use_prompt_tokens_details": null,
+    "total_token_count": 8224,
+    "traffic_type": null
+  },
+  "automatic_function_calling_history": [],
+  "parsed": null,
+  "page_number": 266
+}

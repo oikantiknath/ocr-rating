@@ -1,0 +1,79 @@
+{
+  "sdk_http_response": {
+    "headers": {
+      "content-type": "application/json; charset=UTF-8",
+      "vary": "Origin, X-Origin, Referer",
+      "content-encoding": "gzip",
+      "date": "Fri, 04 Jul 2025 03:33:59 GMT",
+      "server": "scaffolding on HTTPServer2",
+      "x-xss-protection": "0",
+      "x-frame-options": "SAMEORIGIN",
+      "x-content-type-options": "nosniff",
+      "server-timing": "gfet4t7; dur=87106",
+      "alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
+      "transfer-encoding": "chunked"
+    },
+    "body": null
+  },
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "না। ইরিডোকোরইডাইটীস্ রোগের মন্দ অবস্থাতে মিষ্টার বোম্যানের *\nপরামর্শানুসারে আমরা আইরিসকে তৃতীবার পর্য্যন্ত ছেদন করিতে পারি।\nইহার একটি কারণ এই যে, স্বতঃ আইরিসের যে স্থল হইতে প্রথম এবং\nদ্বিতীয়বার উহার অংশ ছেদন করা হইয়াছিল, তাহা ইউভিয়্যাল ( Uveal )\nপ্রদেশস্থ নবোৎপত্তির দ্বারা পরিপূর্ণ হইয়াছে বা হইতে পারে। তাহাতে\nআলোক রেটিনায় উপস্থিত হইতে পারে না। তত্রাচ প্রথম বারের অস্ত্র-\nক্রিয়ার দ্বারা ঐ অংশগত হাইপার্‌প্লাক্‌শন্ বা বর্দ্ধিত ক্রিয়া ন্যুন হয়, তাহাতে\nতৃতীবার আইরিডেক্টমী অস্ত্রক্রিয়ার সময় পর্য্যন্ত আইরিসের মধ্যস্থ ঐ ছিদ্রের\nঅভ্যন্তর প্রদেশ পরিষ্কার থাকে। এইরূপে শেষ অস্ত্রক্রিয়াতে, বিশেষতঃ সিরাস্\nইরিডো-কোরইডাইটীস্ রোগে, অত্যন্ত সন্তোষজনক ফল পাওয়া যায়।\nপ্যারেন্‌কাইমেটাস্ প্রকারের পীড়াতে, সর্ব্বস্থলেই প্রচুর নবোৎপন্ন পদার্থ\n( Neo-plasm ) আমাদের বস্ত্রকে বিশেষরূপে বিকল করিতে চেষ্টা করে এবং\nআইরিসের যে কিয়দংশ স্থানান্তরিত করা হয়, তৎস্থান উহা দ্বারা পুনরায় আবৃত\nহয়; তদ্বিষয়ে আশঙ্কা না করিয়া থাকিতে পারা যায় না। অধ্যাপক ডন্\nডার্স্ বলেন যে, এইরূপ স্থলে আইরিসের একটি অংশ ছেদন করিয়াই\nক্ষান্ত থাকা উচিত নহে কিন্তু তৎসঙ্গে সঙ্গে ইহার পশ্চাতে উৎপন্ন পদার্থ ও\n( Neo-plastic ) স্থানান্তরিত করা বিধেয়। এইরূপে আইরিস্ ছেদন\nকরিবার পক্ষে সরল বক্রাবিশিষ্ট ফরসেপ্স্ ( Straight-hooked forceps )\nউত্তম। এই অস্ত্রের দ্বারা আইরিসের পশ্চাদ্ভাগে সংযুক্ত ঝিল্লির অংশ\nসকলও অপনীত করা যাইতে পারে; কিন্তু দর্শককে কোন রূপে আঘাত না\nকরিয়া তাহাদিগকে স্থানান্তরিত করা অনেক সময়ে অসম্ভব হইয়া উঠে। এই\nকারণে এবং আরও লেন্স্ আইরিসে সংলগ্ন থাকে বলিয়া, চক্ষুর অনিষ্ট ঘটিবার\nসম্ভাবনা, একারণ তঁল্লেফ্ লেন্স্ স্থানান্তরিত করিবার নিমিত্ত আইরিডেক্টমী\nঅস্ত্রক্রিয়ার সহিত নিম্নোক্ত প্রকার অস্ত্রক্রিয়া অবলম্বনের পরামর্শ দেনঃ—"
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": "STOP",
+      "safety_ratings": [
+        {
+          "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HATE_SPEECH",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HARASSMENT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+          "probability": "NEGLIGIBLE"
+        }
+      ],
+      "token_count": null
+    }
+  ],
+  "create_time": null,
+  "response_id": null,
+  "model_version": "gemini-2.5-pro",
+  "prompt_feedback": null,
+  "usage_metadata": {
+    "cache_tokens_details": null,
+    "cached_content_token_count": null,
+    "candidates_token_count": 484,
+    "candidates_tokens_details": null,
+    "prompt_token_count": 748,
+    "prompt_tokens_details": [
+      {
+        "modality": "TEXT",
+        "token_count": 490
+      },
+      {
+        "modality": "IMAGE",
+        "token_count": 258
+      }
+    ],
+    "thoughts_token_count": 8080,
+    "tool_use_prompt_token_count": null,
+    "tool_use_prompt_tokens_details": null,
+    "total_token_count": 9312,
+    "traffic_type": null
+  },
+  "automatic_function_calling_history": [],
+  "parsed": null,
+  "page_number": 110
+}

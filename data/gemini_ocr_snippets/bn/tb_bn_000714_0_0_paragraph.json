@@ -1,0 +1,79 @@
+{
+  "sdk_http_response": {
+    "headers": {
+      "content-type": "application/json; charset=UTF-8",
+      "vary": "Origin, X-Origin, Referer",
+      "content-encoding": "gzip",
+      "date": "Fri, 04 Jul 2025 03:38:05 GMT",
+      "server": "scaffolding on HTTPServer2",
+      "x-xss-protection": "0",
+      "x-frame-options": "SAMEORIGIN",
+      "x-content-type-options": "nosniff",
+      "server-timing": "gfet4t7; dur=52020",
+      "alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
+      "transfer-encoding": "chunked"
+    },
+    "body": null
+  },
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "এরকম একধরনের প্রোগ্রামের নমুনার সঙ্গে আমরা ইতিমধ্যেই\nকমবেশি পরিচিত- এদের নাম কম্পিউটার ভাইরাস। এরকম\nনামকরণের কারণ হলো, উৎপত্তির পর এটি ইন্টারনেটের মাধ্যমে\nসর্বত্র ছড়িয়ে পড়ে, নিজের কোটি কোটি অনুলিপি তৈরি করে, তাকে\nধরার জন্য ধেয়ে আসা অ্যান্টিভাইরাস প্রোগ্রামগুলোর সঙ্গে লড়াই\nকরে টিকে থাকার চেষ্টা করে এবং অন্যান্য ভাইরাসগুলোর সঙ্গে\nপ্রতিযোগিতা করে সাইবার জগতে নিজের অবস্থান নিশ্চিত করার\nচেষ্টা করে। একদিন এই ভাইরাস প্রোগ্রামটি নিজের অনুলিপি তৈরির\nসময় একটু গরমিল করে ফেলে- অনেকটা জৈব মিউটেশনের মতো।\nএই মিউটেশন সম্ভবত এই কারণে হয় যে প্রোগ্রামার এটিকে\nএমনভাবে তৈরি করেছেন, যাতে এটি মাঝে মাঝে দৈবযোগে\nঅনুলিপি তৈরির সময় কিছু ভুলচুক করে ফেলে। সম্ভবত এই\nমিউটেশন কোনো অনিয়মিত, দৈবভাবে ঘটা কোনো ভুলের ফসল।\nযদি এই বিবর্তিত ভাইরাসটি তার কম্পিউটারকে দখল করার ক্ষমতা\nঅক্ষুণ্ণ রেখে আক্রমণকারী অ্যান্টিভাইরাসকে প্রতিহত করতে\nঅধিকতর সক্ষম হয়, তাহলে সেই বিবর্তিত ভাইরাসটি সমস্ত\nসাইবার জগতে ছড়িয়ে পড়ে। বিবর্তিত ভাইরাসটি টিকে যায় এবং\nনতুন নতুন অনুলিপি তৈরি করতে থাকে। সময়ের অগ্রগতির সঙ্গে\nসঙ্গে ভাইরাসের বিবর্তন প্রক্রিয়াটিও চলতে থাকে এবং একসময়\nসাইবার জগৎ এমন চরিত্রের ভাইরাসে ভরে যায়, যাকে কোনো\nপ্রোগ্রামার বানাননি, যার জন্য সম্ভব হয়েছে ভাইরাসের অজেয়\nবিবর্তনের ফলে।"
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": "STOP",
+      "safety_ratings": [
+        {
+          "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HATE_SPEECH",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HARASSMENT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+          "probability": "NEGLIGIBLE"
+        }
+      ],
+      "token_count": null
+    }
+  ],
+  "create_time": null,
+  "response_id": null,
+  "model_version": "gemini-2.5-pro",
+  "prompt_feedback": null,
+  "usage_metadata": {
+    "cache_tokens_details": null,
+    "cached_content_token_count": null,
+    "candidates_token_count": 306,
+    "candidates_tokens_details": null,
+    "prompt_token_count": 748,
+    "prompt_tokens_details": [
+      {
+        "modality": "TEXT",
+        "token_count": 490
+      },
+      {
+        "modality": "IMAGE",
+        "token_count": 258
+      }
+    ],
+    "thoughts_token_count": 4762,
+    "tool_use_prompt_token_count": null,
+    "tool_use_prompt_tokens_details": null,
+    "total_token_count": 5816,
+    "traffic_type": null
+  },
+  "automatic_function_calling_history": [],
+  "parsed": null,
+  "page_number": 361
+}

@@ -1,0 +1,56 @@
+{
+  "page_number": 816,
+  "ocr_output": {
+    "blocks": [
+      {
+        "block_text": "Picture Credit : SheT",
+        "lines": [
+          "Picture Credit : SheT"
+        ],
+        "bounding_box": [
+          {
+            "x": 608
+          },
+          {
+            "x": 752,
+            "y": 1
+          },
+          {
+            "x": 752,
+            "y": 16
+          },
+          {
+            "x": 608,
+            "y": 15
+          }
+        ],
+        "confidence": 0.9826435
+      },
+      {
+        "block_text": "মহিলাদের ওপর নির্যাতন বন্ধ করুন",
+        "lines": [
+          "মহিলাদের ওপর নির্যাতন বন্ধ করুন"
+        ],
+        "bounding_box": [
+          {
+            "x": 13,
+            "y": 6
+          },
+          {
+            "x": 732,
+            "y": 12
+          },
+          {
+            "x": 731,
+            "y": 77
+          },
+          {
+            "x": 12,
+            "y": 73
+          }
+        ],
+        "confidence": 0.9870372
+      }
+    ]
+  }
+}

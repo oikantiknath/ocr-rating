@@ -1,0 +1,79 @@
+{
+  "sdk_http_response": {
+    "headers": {
+      "content-type": "application/json; charset=UTF-8",
+      "vary": "Origin, X-Origin, Referer",
+      "content-encoding": "gzip",
+      "date": "Fri, 04 Jul 2025 03:36:14 GMT",
+      "server": "scaffolding on HTTPServer2",
+      "x-xss-protection": "0",
+      "x-frame-options": "SAMEORIGIN",
+      "x-content-type-options": "nosniff",
+      "server-timing": "gfet4t7; dur=61455",
+      "alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
+      "transfer-encoding": "chunked"
+    },
+    "body": null
+  },
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "এর পিছনে পূর্বপ্রকাশিত সমাজের অঙ্কের হিসাবটাও ধরে ফেলেছিলেন।” জ্যোতির্ময়ী\nতাঁর ছোটগল্পের অসহায় নারীচরিত্রগুলিকে বিভিন্ন ভাবে শিক্ষা দিয়ে সমস্যার সমাধান\nকরতে চেয়েছিলেন। সেইশিক্ষা কখনো দিতে চেয়েছিলেন নিয়ম মেনে, কখনোবা অন্তরে\nযথার্থ শিক্ষা দিয়ে স্ব-সমাজের মেয়েদের স্বশিক্ষায় সুশিক্ষিত করে তুলতে চেয়েছিলেন।\nসেজন্য পুনর্বার প্রশ্ন উত্থাপন যে কত লজ্জাজনক ছিল কোন কমবয়সী বিধবা\nমেয়ের কাছে, তা তাঁর ‘লোটাস ক্লাব’ গল্পে বীণার লজ্জিত মনোভাবে ধরা পড়ে।\nগল্পে দেখা যায় যে, বিধবা দিদির সঙ্গে বিধবা বোন বীণা যখন একটি লোটাস ক্লাবে\nযায়এবং সেখানে নানা ধর্ম-সম্প্রদায়েরমহিলা জড় হয়। তারা একদম সাদা বেশে\nবীণাকে দেখে অবাক হয়। তাই গল্পে সহানুভূতির সঙ্গে কোন বিদেশিনী যখন বীণার\nদিদিকে বীণার পুনর্বিবাহের কথা বলেন, তখন আর বীণার লজ্জার সীমা থাকে না, বরং\nসে তখনই দিদিকে অনুরোধ করে সেই ‘লোটাস ক্লাব’ থেকে চলে যেতে। জ্যোতির্ময়ী\nদেবী হয়তো নিজেও বৈধব্যের সংস্কারকে মেনে নিতে বাধ্য হন, কিন্তু তাঁর লেখাই\nপ্রমাণ করে প্রকৃত জীবনে তিনি এই সংস্কারের অনেক ঊর্ধ্বে বিচরণ করতেন। তাই\nতাঁর লেখায় অসহায় বিধবার জীবনযাপনের প্রশ্ন উঠে আসে এবং সমাজের এই\nঅন্যায় সংস্কারকে মানতে পারেন না। তাঁর ‘কম্পাস’ গল্পে স্বামীর অকালমৃত্যু পত্নীর\nজীবন থেকে সব রং মুছে দিল এবং স্বামীর কাছ থেকে প্রথম পাওয়া উপহার ‘রঙিন\nসুতোয় বোনা শাড়িটা’ নতুন-ই থেকে গেল।"
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": "STOP",
+      "safety_ratings": [
+        {
+          "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HATE_SPEECH",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HARASSMENT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+          "probability": "NEGLIGIBLE"
+        }
+      ],
+      "token_count": null
+    }
+  ],
+  "create_time": null,
+  "response_id": null,
+  "model_version": "gemini-2.5-pro",
+  "prompt_feedback": null,
+  "usage_metadata": {
+    "cache_tokens_details": null,
+    "cached_content_token_count": null,
+    "candidates_token_count": 339,
+    "candidates_tokens_details": null,
+    "prompt_token_count": 750,
+    "prompt_tokens_details": [
+      {
+        "modality": "TEXT",
+        "token_count": 492
+      },
+      {
+        "modality": "IMAGE",
+        "token_count": 258
+      }
+    ],
+    "thoughts_token_count": 5372,
+    "tool_use_prompt_token_count": null,
+    "tool_use_prompt_tokens_details": null,
+    "total_token_count": 6461,
+    "traffic_type": null
+  },
+  "automatic_function_calling_history": [],
+  "parsed": null,
+  "page_number": 270
+}

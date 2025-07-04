@@ -1,0 +1,79 @@
+{
+  "sdk_http_response": {
+    "headers": {
+      "content-type": "application/json; charset=UTF-8",
+      "vary": "Origin, X-Origin, Referer",
+      "content-encoding": "gzip",
+      "date": "Fri, 04 Jul 2025 03:37:38 GMT",
+      "server": "scaffolding on HTTPServer2",
+      "x-xss-protection": "0",
+      "x-frame-options": "SAMEORIGIN",
+      "x-content-type-options": "nosniff",
+      "server-timing": "gfet4t7; dur=50326",
+      "alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
+      "transfer-encoding": "chunked"
+    },
+    "body": null
+  },
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "যদি আমরা কোনো রাজনৈতিক, অর্থনৈতিক অথবা ধর্মীয়\nউদ্দেশ্য ছাড়া বিশুদ্ধ বৈজ্ঞানিক গবেষণায় বিনিয়োগ করতে\nচাইতাম, তা গ্রাহ্য করা সম্ভবপর হতো না। তার প্রধান কারণ,\nআমাদের সম্পদের পরিমাণ সীমিত। একজন সংসদ সদস্যকে\nজাতীয় বিজ্ঞান সমিতির প্রাথমিক গবেষণা কাজের জন্য কোটি টাকা\nবিনিয়োগের প্রস্তাব দিন, তিনি হয়ত কাজেই জিগ্যেস করবেন, এর\nচেয়ে শিক্ষকদের প্রশিক্ষণের ব্যাপারে বা একটি উড়তে বসা\nপায়খানার দর কষাকষির কাজে এই অর্থ ব্যয় করলে তা কি বেশি\nকার্যকর হবে না? সীমিত সম্পদের বণ্টনের জন্য সব সময় আমাদের\nযে প্রশ্নটির মুখোমুখি হতে হয় তা হলো— ‘কোন কাজটি সবচেয়ে\nবেশি গুরুত্বপূর্ণ?’ আর ‘কোন কাজটি কল্যাণকর?’ এই প্রশ্নগুলোর\nউত্তর বিজ্ঞানের আলোচনার বিষয় নয়। বিজ্ঞান দুনিয়াতে কী কী\nআছে তার বিস্তারিত ব্যাখ্যা দেয়, কোন জিনিসটি কীভাবে কাজ করে\nতা জানায় এবং ভবিষ্যতের পৃথিবী কেমন হতে পারে সে সম্পর্কে\nআমাদের একটা ধারণা দেয়। সহজভাষায়, ভবিষ্যতের পৃথিবী\nকেমন হওয়া উচিত এই প্রশ্নটি বিজ্ঞানের আওতার বাইরে। ধর্ম ও\nদর্শনগুলোই কেবল এই ধরনের প্রশ্ন নিয়ে আলোচনা করে।"
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": "STOP",
+      "safety_ratings": [
+        {
+          "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HATE_SPEECH",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HARASSMENT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+          "probability": "NEGLIGIBLE"
+        }
+      ],
+      "token_count": null
+    }
+  ],
+  "create_time": null,
+  "response_id": null,
+  "model_version": "gemini-2.5-pro",
+  "prompt_feedback": null,
+  "usage_metadata": {
+    "cache_tokens_details": null,
+    "cached_content_token_count": null,
+    "candidates_token_count": 229,
+    "candidates_tokens_details": null,
+    "prompt_token_count": 748,
+    "prompt_tokens_details": [
+      {
+        "modality": "TEXT",
+        "token_count": 490
+      },
+      {
+        "modality": "IMAGE",
+        "token_count": 258
+      }
+    ],
+    "thoughts_token_count": 4367,
+    "tool_use_prompt_token_count": null,
+    "tool_use_prompt_tokens_details": null,
+    "total_token_count": 5344,
+    "traffic_type": null
+  },
+  "automatic_function_calling_history": [],
+  "parsed": null,
+  "page_number": 346
+}

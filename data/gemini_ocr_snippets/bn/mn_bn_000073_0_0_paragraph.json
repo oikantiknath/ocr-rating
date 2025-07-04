@@ -1,0 +1,79 @@
+{
+  "sdk_http_response": {
+    "headers": {
+      "content-type": "application/json; charset=UTF-8",
+      "vary": "Origin, X-Origin, Referer",
+      "content-encoding": "gzip",
+      "date": "Fri, 04 Jul 2025 03:32:53 GMT",
+      "server": "scaffolding on HTTPServer2",
+      "x-xss-protection": "0",
+      "x-frame-options": "SAMEORIGIN",
+      "x-content-type-options": "nosniff",
+      "server-timing": "gfet4t7; dur=44678",
+      "alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
+      "transfer-encoding": "chunked"
+    },
+    "body": null
+  },
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "আমাদের মনের ভিতরে অবলোকন করিলে আমরা কি দেখি? দেখি,\nআমাদের মনের মধ্যে চিন্তাধারা অবিরল আসিতেছে ও যাইতেছে; কিন্তু\nকোন চিন্তাই বেশীক্ষণ ধরিয়া বিরাজ করিতেছে না। যাহা আসিতেছে তাহা\nখানিকপরেই চলিয়া যাইতেছে; উহার পরিবর্ত্তে আবার নূতন চিন্তা বা\nনূতন ভাব আসিয়া জমা হইতেছে। সিনেমার পর্দ্দার উপরে যেমন দৃশ্যের\nপর দৃশ্য পরিবর্ত্তন হইয়া চলিয়াছে, আমাদের মনের পটেও সেইরূপ\nক্রিয়ার পর ক্রিয়া পরিবর্ত্তন হইয়া চলিয়াছে। মনের এই প্রবাহের সহিত\nসাধারণতঃ নদী-প্রবাহের তুলনা করা হইয়া থাকে। নদীর জল এক\nমুহূর্ত্তেও স্থির হইয়া দাঁড়াইয়া নাই; যে জল আসিতেছে তাহা পরমুহূর্ত্তেই\nসরিয়া যাইতেছে, তখন আবার অন্য জল আসিয়া সে স্থান পূর্ণ করিতেছে।\nনদী-প্রবাহের ন্যায় আমাদের চিন্তাপ্রবাহও এইরূপ নিরন্তর গতিতে প্রবাহিত\nহইতেছে। সবই ঠিক, কিন্তু ইহা ছাড়াও চেতনার মধ্যে এমন এক\nঅতিরিক্ত কিছু আছে—যাহা স্রোতের সঙ্গে ভাসিয়া যাইতেছে না, যাহা\nসমস্ত পরিবর্ত্তনের মধ্যেও অপরিবর্ত্তনীয় রহিয়া বিরাজ করিতেছে। এই\nঅপরিবর্ত্তনীয় সত্তাকেই ইংরাজীতে Noumenal Self বলা হয়। এই আত্মাই"
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": "STOP",
+      "safety_ratings": [
+        {
+          "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HATE_SPEECH",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HARASSMENT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+          "probability": "NEGLIGIBLE"
+        }
+      ],
+      "token_count": null
+    }
+  ],
+  "create_time": null,
+  "response_id": null,
+  "model_version": "gemini-2.5-pro",
+  "prompt_feedback": null,
+  "usage_metadata": {
+    "cache_tokens_details": null,
+    "cached_content_token_count": null,
+    "candidates_token_count": 263,
+    "candidates_tokens_details": null,
+    "prompt_token_count": 748,
+    "prompt_tokens_details": [
+      {
+        "modality": "TEXT",
+        "token_count": 490
+      },
+      {
+        "modality": "IMAGE",
+        "token_count": 258
+      }
+    ],
+    "thoughts_token_count": 3748,
+    "tool_use_prompt_token_count": null,
+    "tool_use_prompt_tokens_details": null,
+    "total_token_count": 4759,
+    "traffic_type": null
+  },
+  "automatic_function_calling_history": [],
+  "parsed": null,
+  "page_number": 83
+}

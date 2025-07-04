@@ -1,0 +1,79 @@
+{
+  "sdk_http_response": {
+    "headers": {
+      "content-type": "application/json; charset=UTF-8",
+      "vary": "Origin, X-Origin, Referer",
+      "content-encoding": "gzip",
+      "date": "Fri, 04 Jul 2025 03:33:54 GMT",
+      "server": "scaffolding on HTTPServer2",
+      "x-xss-protection": "0",
+      "x-frame-options": "SAMEORIGIN",
+      "x-content-type-options": "nosniff",
+      "server-timing": "gfet4t7; dur=86305",
+      "alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
+      "transfer-encoding": "chunked"
+    },
+    "body": null
+  },
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "• চিকিৎসা।—জার্মাণ্ চিকিৎসকদিগের মধ্যে কেহ কেহ প্রদাহের\nআতিশয্য অনুসারে তন্নিবারক ব্যবস্থাটী ( Antiphlogistic plan )\nঅর্থাৎ রুগ্ন স্থানে কার্য্যসাধনোপযোগী শীতল জলস্রোত, তস্থান হইতে\nরক্তমোক্ষণ, এবং যে সকল বস্তু আহার করিলে প্রদাহ নিবারিত হইতে\nপারে, তাহা পথ্য স্বরূপে আহার করিতে দেওয়া ইত্যাদি চিকিৎসাপ্রণালী\nঅবলম্বন করিতে আদেশ করিয়া থাকেন । তাহারা পুনঃ পুনঃ পারদঘটিত\n(মার্করি) সেবন করিতে অনুমতি দিয়া থাকেন । কারণ, রোগীকে যত শীঘ্র\nএই ঔষধের কার্য্যটীানে আনা যায় ততই উত্তম । ক্যালমেল্‌ এবং মার্করি\nপর্য্যন্ত পরিমাণে গ্রহণ করা, এই রোগের বৃদ্ধি স্থগিত রাখিবার প্রধান\nতম উপায় । ইউরোপ মহাদেশবাসী অন্যান্য চিকিৎসকগণও এই ঔষধ প্রায়\nএইরূপেই ব্যবহার করিয়া থাকেন । অন্ ওয়ের্ডার সাহেব, ডিক্‌থেরীটিস্\nকন্‌জাংক্টীভাইটীস্ রোগের প্রথমাবস্থায়, অক্ষিপুটে শীতল জলার্দ্ৰ বস্ত্রখণ্ড\nও কপোলোপার্শ্বে জলৌকা সংযোগ করিতে ব্যবস্থা প্রদান করিয়া থাকেন ।\nএতদ্ব্যতীত তিনি প্রত্যেক দ্বিতীয় ঘণ্টায়, ক্যালমেল্‌ ব্যবহার করিতে বিশেষ\nঅনুমতি প্রদান করিয়া থাকেন । তাঁহার মতে, এই পদার্থ ব্যবহারে যখন\nরোগীর মুখ আইসে, অর্থাৎ মুখহইতে অনবরত লালা নির্গত হইতে থাকে,\nতখন কন্‌জাংক্টীভাইটীসের পীতপাণ্ডু বর্ণ বিনষ্ট হইয়া যায়; এবং সত্বর দ্বিতীয়\nঅবস্থা আসিয়া সমুপস্থিত হয় । তিনি আরও বলিয়া থাকেন যে,\nঅন্যান্য লক্ষণগুলি অপনীত করিতে কেবল টার্টার এমেটিক্‌ই ( Tartar\nemetic ) বিশেষ গুণ আছে । *"
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": "STOP",
+      "safety_ratings": [
+        {
+          "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HATE_SPEECH",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HARASSMENT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+          "probability": "NEGLIGIBLE"
+        }
+      ],
+      "token_count": null
+    }
+  ],
+  "create_time": null,
+  "response_id": null,
+  "model_version": "gemini-2.5-pro",
+  "prompt_feedback": null,
+  "usage_metadata": {
+    "cache_tokens_details": null,
+    "cached_content_token_count": null,
+    "candidates_token_count": 372,
+    "candidates_tokens_details": null,
+    "prompt_token_count": 748,
+    "prompt_tokens_details": [
+      {
+        "modality": "TEXT",
+        "token_count": 490
+      },
+      {
+        "modality": "IMAGE",
+        "token_count": 258
+      }
+    ],
+    "thoughts_token_count": 6655,
+    "tool_use_prompt_token_count": null,
+    "tool_use_prompt_tokens_details": null,
+    "total_token_count": 7775,
+    "traffic_type": null
+  },
+  "automatic_function_calling_history": [],
+  "parsed": null,
+  "page_number": 103
+}

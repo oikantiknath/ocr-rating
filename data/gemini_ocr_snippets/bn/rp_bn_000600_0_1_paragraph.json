@@ -1,0 +1,79 @@
+{
+  "sdk_http_response": {
+    "headers": {
+      "content-type": "application/json; charset=UTF-8",
+      "vary": "Origin, X-Origin, Referer",
+      "content-encoding": "gzip",
+      "date": "Fri, 04 Jul 2025 03:36:34 GMT",
+      "server": "scaffolding on HTTPServer2",
+      "x-xss-protection": "0",
+      "x-frame-options": "SAMEORIGIN",
+      "x-content-type-options": "nosniff",
+      "server-timing": "gfet4t7; dur=53579",
+      "alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
+      "transfer-encoding": "chunked"
+    },
+    "body": null
+  },
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "সম্পর্কিত বিভিন্ন ভাবনার সমাহারে নারীপ্রগতির বিষয়ে জ্যোতির্ময়ীর মনন অত্যন্ত\nপ্রাসঙ্গিক বলা যায় । স্বামী বিবেকানন্দের মত স্পষ্ট, সহজ অথচ সাবলীল ভাষায় কথা\nবলতেন এবং লিখতেন জ্যোতির্ময়ী দেবী । তিনি নিজে যে সমাজে বাস করে বহু\nসুযোগ সুবিধা থেকে বঞ্চিত হয়েছেন । তাই হয়তো সেই সুযোগের সদ্ব্যবহার করতে\nচেয়েছেন বহু ক্ষেত্রেই, যেমন - পরিবারে পুরুষ ও নারীর শিক্ষাক্ষেত্রে সমান অধিকার,\nপারিবারিকতাকে সমান সুযোগ দান ছেলে ও মেয়ে বেড়ে ওঠার ক্ষেত্রে, সমাজে\nAbñcaL i i|pij ÉhSı¤r রাখা, বিশেষভাবে একজন ‘মা’-কে নির্ভরতা থেকে মুক্ত\nকরা, সহধর্মিণীকে তার শিক্ষার আলোয় ছুঁয়ে দেওয়া ইত্যাদি । বাংলা সাহিত্যে এই\nঅন্যায্য সাহসী নারী ব্যক্তিত্ব স্ত্রী অধিকার ও শিক্ষার জন্য বিপ্লবে নয় তার অধিকার\nকরেন তাঁর কলম ও লেখনীর মাধ্যমে । তিনি রাজনৈতিকভাবে গান্ধিজীর মতাদর্শী\nহলেও মূলত নারীদের উন্নতির বিষয়ই ছিল তাঁর মূল ধ্যান- je z ɶe hý pj u\nহরিজন কলোনীতে প্রত্যক্ষ ভাবে পাঠিয়ে দিলেন । তাই সেখানে বারবনিতা, সহায়\nসম্বলহীন বৃদ্ধা প্রভৃতি অসহায় নারীদের মধ্যে সময় কাটিয়ে বুঝেছিলেন যে আমাদের\nসমাজে নারীরা কখনই বেঁচে থাকার মতো পর্যাপ্ত রসদ পাননি ।"
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": "STOP",
+      "safety_ratings": [
+        {
+          "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HATE_SPEECH",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HARASSMENT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+          "probability": "NEGLIGIBLE"
+        }
+      ],
+      "token_count": null
+    }
+  ],
+  "create_time": null,
+  "response_id": null,
+  "model_version": "gemini-2.5-pro",
+  "prompt_feedback": null,
+  "usage_metadata": {
+    "cache_tokens_details": null,
+    "cached_content_token_count": null,
+    "candidates_token_count": 278,
+    "candidates_tokens_details": null,
+    "prompt_token_count": 750,
+    "prompt_tokens_details": [
+      {
+        "modality": "TEXT",
+        "token_count": 492
+      },
+      {
+        "modality": "IMAGE",
+        "token_count": 258
+      }
+    ],
+    "thoughts_token_count": 4630,
+    "tool_use_prompt_token_count": null,
+    "tool_use_prompt_tokens_details": null,
+    "total_token_count": 5658,
+    "traffic_type": null
+  },
+  "automatic_function_calling_history": [],
+  "parsed": null,
+  "page_number": 284
+}

@@ -1,0 +1,32 @@
+{
+  "page_number": 489,
+  "ocr_output": {
+    "blocks": [
+      {
+        "block_text": "PGBNG - DSE ( A ) -3-2 - TH",
+        "lines": [
+          "PGBNG - DSE ( A ) -3-2 - TH"
+        ],
+        "bounding_box": [
+          {
+            "x": 88,
+            "y": 22
+          },
+          {
+            "x": 959,
+            "y": 22
+          },
+          {
+            "x": 959,
+            "y": 83
+          },
+          {
+            "x": 88,
+            "y": 83
+          }
+        ],
+        "confidence": 0.97769505
+      }
+    ]
+  }
+}
