@@ -14,7 +14,7 @@ doc_categories = {
     'qp': 'question-papers', 'mn': 'manuals'
 }
 import os
-base = '/Users/oikantik/expts_check_samples_ocr_quality'
+base = 'data'
 # STATE_DIR = "app_state"
 # os.makedirs(STATE_DIR, exist_ok=True)
 # RATING_FILE   = os.path.join(STATE_DIR, "ratings.csv")
