@@ -239,38 +239,51 @@ view_mode = st.radio(
 # ───────── CSV UPDATE --------------------------------------------------------
 from filelock import FileLock
 
-
 def update_csv(name, img=None, ocr=None, skip=False):
+    """
+    Concurrency-safe upsert of one annotation row.
+    - Reloads the freshest ratings.csv under a file-lock → no overwriting
+      of other users’ edits.
+    - Applies the caller’s changes (or marks as skipped).
+    - Writes back, then refreshes the in-memory ratings_df so UI stats update.
+    """
     global ratings_df
+
     if skip:
         img = ocr = SKIP
-    mask = ratings_df.image_name == name
-    if mask.any():
-        if img is not None:
-            ratings_df.loc[mask, 'image_rating'] = img
-        if ocr is not None:
-            ratings_df.loc[mask, 'ocr_pred_rating'] = ocr
-    else:
-        ratings_df = pd.concat(
-            [
-                ratings_df,
-                pd.DataFrame(
-                    [
-                        {
-                            'image_name': name,
-                            'lang': lang_code,
-                            'domain': name[:2],
-                            'image_rating': img if img is not None else DEFAULT,
-                            'ocr_pred_rating': ocr if ocr is not None else DEFAULT,
-                        }
-                    ]
-                ),
-            ],
-            ignore_index=True,
-        )
-    # ratings_df.to_csv(RATING_FILE, index=False)
-    with FileLock("ratings.lock"):
-        ratings_df.to_csv(RATING_FILE, index=False)
+
+    new_row = {
+        'image_name'     : name,
+        'lang'           : lang_code,
+        'domain'         : name[:2],
+        'image_rating'   : img  if img  is not None else DEFAULT,
+        'ocr_pred_rating': ocr if ocr is not None else DEFAULT,
+    }
+
+    lock = FileLock("ratings.lock")
+
+    with lock:
+        # 1️⃣ always start from the latest on disk
+        if os.path.exists(RATING_FILE):
+            current = pd.read_csv(RATING_FILE)
+        else:
+            current = pd.DataFrame(columns=COLS)
+
+        # 2️⃣ upsert
+        mask = current.image_name == name
+        if mask.any():
+            if img  is not None: current.loc[mask, 'image_rating']    = img
+            if ocr is not None: current.loc[mask, 'ocr_pred_rating']  = ocr
+        else:
+            current = pd.concat([current, pd.DataFrame([new_row])],
+                                ignore_index=True)
+
+        # 3️⃣ persist
+        current.to_csv(RATING_FILE, index=False)
+
+    # 4️⃣ keep session cache in sync
+    ratings_df = current
+
 
 
 # ───────── MAIN – PENDING SNIPPETS (FORM VERSION) ───────────────────────────
