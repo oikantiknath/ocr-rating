@@ -209,6 +209,26 @@ ui_state["view_completed"] = view_comp
 # persist sidebar choices immediately
 write_json(UI_STATE_FILE, ui_state)
 
+# ───────── DOWNLOAD CURRENT CSV ────────────────────────────────────────────
+with open(RATING_FILE, "rb") as f:
+    csv_bytes = f.read()
+
+st.sidebar.download_button(
+    label="⬇️ Download ratings.csv",
+    data=csv_bytes,
+    file_name="ratings.csv",
+    mime="text/csv",
+)
+
+with open(UI_STATE_FILE, "rb") as f:
+    st.sidebar.download_button(
+        "⬇️ Download ui_state.json",
+        f.read(),
+        file_name="ui_state.json",
+        mime="application/json",
+    )
+
+
 # ───────── MAIN-VIEW TOGGLE ──────────────────────────────────────────────
 view_mode = st.radio(
     'Show snippets:',
@@ -217,6 +237,9 @@ view_mode = st.radio(
 )
 
 # ───────── CSV UPDATE --------------------------------------------------------
+from filelock import FileLock
+
+
 def update_csv(name, img=None, ocr=None, skip=False):
     global ratings_df
     if skip:
@@ -245,7 +268,10 @@ def update_csv(name, img=None, ocr=None, skip=False):
             ],
             ignore_index=True,
         )
-    ratings_df.to_csv(RATING_FILE, index=False)
+    # ratings_df.to_csv(RATING_FILE, index=False)
+    with FileLock("ratings.lock"):
+        ratings_df.to_csv(RATING_FILE, index=False)
+
 
 # ───────── MAIN – PENDING SNIPPETS (FORM VERSION) ───────────────────────────
 if view_mode == 'Unfinished':
