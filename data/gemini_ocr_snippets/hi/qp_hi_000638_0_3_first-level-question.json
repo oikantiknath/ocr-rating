@@ -1,0 +1,79 @@
+{
+  "sdk_http_response": {
+    "headers": {
+      "content-type": "application/json; charset=UTF-8",
+      "vary": "Origin, X-Origin, Referer",
+      "content-encoding": "gzip",
+      "date": "Fri, 04 Jul 2025 03:22:50 GMT",
+      "server": "scaffolding on HTTPServer2",
+      "x-xss-protection": "0",
+      "x-frame-options": "SAMEORIGIN",
+      "x-content-type-options": "nosniff",
+      "server-timing": "gfet4t7; dur=58180",
+      "alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
+      "transfer-encoding": "chunked"
+    },
+    "body": null
+  },
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "2.  निम्नलिखित गद्यांश को ध्यानपूर्वक पढ़िए और उस पर आधारित प्रश्नों के सही उत्तर वाले विकल्प 5 x 1\n    चुनकर लिखिए :\n\n    पृथ्वी पर लगातार मँडराते खतरे को देखते हुए एक अमेरिकी उद्यमी द्वारा एक इंसानी बीज\n    बैंक को चाँद पर स्थापित करने की तैयारी हो गई है । अगर कभी इस धरती पर इंसान खत्म हो गए\n    तो मानव सभ्यता को फिर शुरू करने में यह बैंक सहायक होगा । एक भी इंसान नहीं बचा, तो फिर\n    बैंक का क्या होगा ? यह भी सोच लिया गया है । उस स्थिति में शायद कभी किसी और ग्रह से\n    जीव या एलियन आएँगे और चाँद पर पहुँचकर उस बैंक के सहारे इंसान जैसी खूबसूरत कृति पुनः\n    निर्मित करेंगे । पृथ्वी पर विनाश की स्थिति में मानव बीज बैंक ही मानव के पुनर्जन्म की संभावना\n    को जीवित रखेगा । ऐसा स्वप्न देखने वाली कंपनी लाइफशिप की स्थापना 2019 में हो गई थी ।\n    यह कंपनी लार के रूप में लोगों का डी एन ए चाँद पर भेजने की पेशकश करती है । यह एक तरह से\n    99 डॉलर में चाँद के लिए एकतरफा टिकट है । चाँद पर आपकी लार मानव बीज बैंक में हमेशा के\n    लिए रह जाएगी । वैज्ञानिक दृष्टिकोण से देखें तो यह मानव डाटा या मानव अस्तित्व के मूल को\n    हमेशा के लिए संरक्षित करने का काम है । सौरमंडल के विभिन्न हिस्सों में और शायद उससे आगे\n    भी ऐसे किसी बैंक की स्थापना संभव है ।\n\n    (i) लाइफशिप मानव बीजों को किस रूप में संरक्षित करने के लिए प्रयासरत है ?\n        (a) रक्त के रूप में डी एन ए (b) लार के रूप में डी एन ए\n        (c) बीज के रूप में डी एन ए (d) सेल के रूप में डी एन ए\n\n    (ii) भविष्य में मानव अस्तित्व को संरक्षित करना संभव है -\n        (a) सौरमंडल के दूसरे ग्रहों के प्राणियों से मदद लेकर ।\n        (b) सौरमंडल के दूसरे ग्रहों के प्राणियों को मदद देकर ।\n        (c) सौरमंडल को छोड़कर उससे आगे बीज बैंक स्थापित करके ।\n        (d) सौरमंडल तथा उससे आगे भी बीज बैंक स्थापित करके ।\n\n    (iii) मानव मूल को चाँद पर मानव बीज बैंक के रूप में स्थापित करने जैसे प्रयास को क्या माना\n        जा सकता है ?\n        (a) काल्पनिक (b) वैज्ञानिक\n        (c) अवैज्ञानिक (d) वैचारिक"
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": "STOP",
+      "safety_ratings": [
+        {
+          "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HATE_SPEECH",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HARASSMENT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+          "probability": "NEGLIGIBLE"
+        }
+      ],
+      "token_count": null
+    }
+  ],
+  "create_time": null,
+  "response_id": null,
+  "model_version": "gemini-2.5-pro",
+  "prompt_feedback": null,
+  "usage_metadata": {
+    "cache_tokens_details": null,
+    "cached_content_token_count": null,
+    "candidates_token_count": 499,
+    "candidates_tokens_details": null,
+    "prompt_token_count": 764,
+    "prompt_tokens_details": [
+      {
+        "modality": "TEXT",
+        "token_count": 506
+      },
+      {
+        "modality": "IMAGE",
+        "token_count": 258
+      }
+    ],
+    "thoughts_token_count": 5346,
+    "tool_use_prompt_token_count": null,
+    "tool_use_prompt_tokens_details": null,
+    "total_token_count": 6609,
+    "traffic_type": null
+  },
+  "automatic_function_calling_history": [],
+  "parsed": null,
+  "page_number": 250
+}

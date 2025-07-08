@@ -1,0 +1,79 @@
+{
+  "sdk_http_response": {
+    "headers": {
+      "content-type": "application/json; charset=UTF-8",
+      "vary": "Origin, X-Origin, Referer",
+      "content-encoding": "gzip",
+      "date": "Fri, 04 Jul 2025 05:22:55 GMT",
+      "server": "scaffolding on HTTPServer2",
+      "x-xss-protection": "0",
+      "x-frame-options": "SAMEORIGIN",
+      "x-content-type-options": "nosniff",
+      "server-timing": "gfet4t7; dur=28500",
+      "alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
+      "transfer-encoding": "chunked"
+    },
+    "body": null
+  },
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "भालजी उर्फ भालचंद्र गोपाळ पेंढारकर यांचा जन्म\nकोल्हापूर येथे झाला. वडील गोपाळराव कोल्हापूर येथे\nनामांकित डॉक्टर होते. अभ्यासापेक्षा मौजमजा\nकरण्यातच भालचंद्रांचे बालपण जास्त गेल्यामुळे त्यांनी\nजेमतेम सहावीपर्यंतच शिक्षण घेतले आणि शाळा\nसोडली. शाळा सोडण्याच्या कारणावरून त्यांना घरही\nसोडावे लागले. ते थेट पुण्याला आले आणि टिळकांच्या\n‘केसरी’ या वृत्तपत्रात नोकरी करू लागले. काही काळ\nतिथे नोकरी केल्यावर ते १९२० मध्ये परत कोल्हापूरला\nआले व ‘मराठा लाईफ इन्फंट्री’मध्ये कामाला राहिले."
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": "STOP",
+      "safety_ratings": [
+        {
+          "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HATE_SPEECH",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HARASSMENT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+          "probability": "NEGLIGIBLE"
+        }
+      ],
+      "token_count": null
+    }
+  ],
+  "create_time": null,
+  "response_id": null,
+  "model_version": "gemini-2.5-pro",
+  "prompt_feedback": null,
+  "usage_metadata": {
+    "cache_tokens_details": null,
+    "cached_content_token_count": null,
+    "candidates_token_count": 155,
+    "candidates_tokens_details": null,
+    "prompt_token_count": 714,
+    "prompt_tokens_details": [
+      {
+        "modality": "TEXT",
+        "token_count": 456
+      },
+      {
+        "modality": "IMAGE",
+        "token_count": 258
+      }
+    ],
+    "thoughts_token_count": 2395,
+    "tool_use_prompt_token_count": null,
+    "tool_use_prompt_tokens_details": null,
+    "total_token_count": 3264,
+    "traffic_type": null
+  },
+  "automatic_function_calling_history": [],
+  "parsed": null,
+  "page_number": 15
+}

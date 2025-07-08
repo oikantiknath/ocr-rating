@@ -1,0 +1,79 @@
+{
+  "sdk_http_response": {
+    "headers": {
+      "content-type": "application/json; charset=UTF-8",
+      "vary": "Origin, X-Origin, Referer",
+      "content-encoding": "gzip",
+      "date": "Fri, 04 Jul 2025 05:36:13 GMT",
+      "server": "scaffolding on HTTPServer2",
+      "x-xss-protection": "0",
+      "x-frame-options": "SAMEORIGIN",
+      "x-content-type-options": "nosniff",
+      "server-timing": "gfet4t7; dur=27265",
+      "alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
+      "transfer-encoding": "chunked"
+    },
+    "body": null
+  },
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "હાર્દિકભાઈ ચાર્લિકે વિમોચન પ્રસંગનું પોતાની ભાવવાહી શૈલીમાં સંચાલન કર્યું હતું. અતિથિવિશેષ તરીકે મૂર્ધન્ય\nસાહિત્યકાર શ્રી દોલતભાઈ ભટ્ટ અને લોકપ્રિય વાર્તાકાર શ્રી રાઘવજી માધડે પોતાની ઉપસ્થિતિ અને\nઆશીર્વચનોથી સૌને નવપલ્લવિત કર્યા. આદરણીય શ્રી રજનીકુમાર પંડ્યાએ પોતાની અમુલ્ય હાજરી આપી\nપ્રસંગને દિપાવ્યું હતું. શ્રી દોલતભાઈ ભટ્ટ અને શ્રી રાઘવજી માધડના આશીર્વાદથી તેમજ આશ્રમની બાળાઓના\nવરદ હસ્તે સર્જનના પ્રથમ પુસ્તક ‘માઈક્રોસર્જન’ને હર્ષોલ્લાસથી ખુલ્લું મુકવામાં આવ્યું. અહીં ચાલી રહેલા\nવિમોચન પ્રસંગે હાજરી ના આપી શકનાર આદરણીય કૃષ્ણકાંતભાઈ ઉનડકટે બુકફેરમાં ચાલી રહેલા અન્ય સ્થળે\nમાઈક્રોફિકશનના નવા સ્વરૂપને પુસ્તક રૂપે તરતું મુકવા માટે શુભકામના આપતાં, જીજ્ઞેશભાઈનો ઉલ્લેખ કરી ખુશી\nદર્શાવી હતી. ત્યારબાદ શ્રી દોલતભાઈ ભટ્ટ અને રાઘવજીભાઈ માધડે સર્જનના પુસ્તકરૂપી પગલાને શબ્દોથી\nશુભકામના આપી હતી, તેમજ શ્રી રાઘવજીભાઈએ વાર્તાપ્રકાર વિશે ઉપયોગી સુંદર વક્તવ્ય આપ્યું હતું.\nતાળીઓની વર્ષાથી તેમના વક્તવ્યને વધાવી લેવામાં આવ્યું હતું. આશ્રમની બહેનોને સર્જનની બહેનોના હસ્તે\nસર્જન તરફથી સુંદર સંભારણું આપવામાં આવ્યું હતું."
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": "STOP",
+      "safety_ratings": [
+        {
+          "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HATE_SPEECH",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HARASSMENT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+          "probability": "NEGLIGIBLE"
+        }
+      ],
+      "token_count": null
+    }
+  ],
+  "create_time": null,
+  "response_id": null,
+  "model_version": "gemini-2.5-pro",
+  "prompt_feedback": null,
+  "usage_metadata": {
+    "cache_tokens_details": null,
+    "cached_content_token_count": null,
+    "candidates_token_count": 417,
+    "candidates_tokens_details": null,
+    "prompt_token_count": 756,
+    "prompt_tokens_details": [
+      {
+        "modality": "TEXT",
+        "token_count": 498
+      },
+      {
+        "modality": "IMAGE",
+        "token_count": 258
+      }
+    ],
+    "thoughts_token_count": 1647,
+    "tool_use_prompt_token_count": null,
+    "tool_use_prompt_tokens_details": null,
+    "total_token_count": 2820,
+    "traffic_type": null
+  },
+  "automatic_function_calling_history": [],
+  "parsed": null,
+  "page_number": 70
+}

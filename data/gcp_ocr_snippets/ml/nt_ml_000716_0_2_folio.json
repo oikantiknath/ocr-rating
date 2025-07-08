@@ -1,0 +1,32 @@
+{
+  "page_number": 716,
+  "ocr_output": {
+    "blocks": [
+      {
+        "block_text": "Revenue Department",
+        "lines": [
+          "Revenue Department"
+        ],
+        "bounding_box": [
+          {
+            "x": 64,
+            "y": 50
+          },
+          {
+            "x": 455,
+            "y": 58
+          },
+          {
+            "x": 454,
+            "y": 94
+          },
+          {
+            "x": 63,
+            "y": 86
+          }
+        ],
+        "confidence": 0.9920074
+      }
+    ]
+  }
+}

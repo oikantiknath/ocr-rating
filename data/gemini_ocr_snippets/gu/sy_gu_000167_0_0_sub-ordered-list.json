@@ -1,0 +1,79 @@
+{
+  "sdk_http_response": {
+    "headers": {
+      "content-type": "application/json; charset=UTF-8",
+      "vary": "Origin, X-Origin, Referer",
+      "content-encoding": "gzip",
+      "date": "Fri, 04 Jul 2025 05:39:27 GMT",
+      "server": "scaffolding on HTTPServer2",
+      "x-xss-protection": "0",
+      "x-frame-options": "SAMEORIGIN",
+      "x-content-type-options": "nosniff",
+      "server-timing": "gfet4t7; dur=33404",
+      "alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
+      "transfer-encoding": "chunked"
+    },
+    "body": null
+  },
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "1. ભારતીય સંસ્કૃતિ તથા પ્રાચીનથી અર્વાચીન સમય સુધીના તેના કળા સ્વરૂપો, સાહિત્ય,\nશિલ્પ અને સ્થાપત્યની મુખ્ય લાક્ષણિકતાઓ; ભારતીય સમાજની મુખ્ય લાક્ષણિકતાઓ,\nવિવિધતામાં એકતા.\n2. ગુજરાતના કળા અને કસબ: સામાજિક-સાંસ્કૃતિક પ્રદાન.\n3. ગુજરાતની રંગભૂમિમાં ગુજરાતી ભવાઈની સામાજિક- સાંસ્કૃતિક સંદર્ભે પ્રસ્તુતિ.\n4. ગુજરાતની લોકસંસ્કૃતિ અને મૌખિક પરંપરા: તેનું મહત્વ, લાક્ષણિકતાઓ અને અસરો.\n5. ભારતીય ચલચિત્રો અને રંગભૂમિનો સમાજ પર પ્રભાવ.\n6. ગાંધીજીના વિચારદર્શનની પ્રસ્તુતતા.\n7. ગુજરાતના દરિયાકાંઠાની સંસ્કૃતિ અને આદિવાસી સંસ્કૃતિ.\n8. ગુજરાતના નારી સાહિત્ય સર્જકો."
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": "STOP",
+      "safety_ratings": [
+        {
+          "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HATE_SPEECH",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HARASSMENT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+          "probability": "NEGLIGIBLE"
+        }
+      ],
+      "token_count": null
+    }
+  ],
+  "create_time": null,
+  "response_id": null,
+  "model_version": "gemini-2.5-pro",
+  "prompt_feedback": null,
+  "usage_metadata": {
+    "cache_tokens_details": null,
+    "cached_content_token_count": null,
+    "candidates_token_count": 240,
+    "candidates_tokens_details": null,
+    "prompt_token_count": 761,
+    "prompt_tokens_details": [
+      {
+        "modality": "TEXT",
+        "token_count": 503
+      },
+      {
+        "modality": "IMAGE",
+        "token_count": 258
+      }
+    ],
+    "thoughts_token_count": 3034,
+    "tool_use_prompt_token_count": null,
+    "tool_use_prompt_tokens_details": null,
+    "total_token_count": 4035,
+    "traffic_type": null
+  },
+  "automatic_function_calling_history": [],
+  "parsed": null,
+  "page_number": 309
+}

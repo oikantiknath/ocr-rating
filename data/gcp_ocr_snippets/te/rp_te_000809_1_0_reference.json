@@ -1,0 +1,132 @@
+{
+  "page_number": 809,
+  "ocr_output": {
+    "blocks": [
+      {
+        "block_text": "42. సీతారామాచార్యులు , బహుజనపల్లి . 2005. శబ్దరత్నాకరము . విజయవాడ : విక్టరీ పబ్లికేషన్స్",
+        "lines": [
+          "42. సీతారామాచార్యులు , బహుజనపల్లి . 2005. శబ్దరత్నాకరము . విజయవాడ : విక్టరీ పబ్లికేషన్స్"
+        ],
+        "bounding_box": [
+          {
+            "x": 5,
+            "y": 4
+          },
+          {
+            "x": 433,
+            "y": 4
+          },
+          {
+            "x": 433,
+            "y": 20
+          },
+          {
+            "x": 5,
+            "y": 20
+          }
+        ],
+        "confidence": 0.98050416
+      },
+      {
+        "block_text": "43. బుద్ధప్రసాద్ , మండలి . 2011. కృష్ణాజిల్లా సర్వస్వం . విజయవాడ : కృష్ణాజిల్లా రచయితల సంఘం .",
+        "lines": [
+          "43. బుద్ధప్రసాద్ , మండలి . 2011. కృష్ణాజిల్లా సర్వస్వం . విజయవాడ : కృష్ణాజిల్లా రచయితల సంఘం ."
+        ],
+        "bounding_box": [
+          {
+            "x": 5,
+            "y": 43
+          },
+          {
+            "x": 454,
+            "y": 43
+          },
+          {
+            "x": 454,
+            "y": 59
+          },
+          {
+            "x": 5,
+            "y": 59
+          }
+        ],
+        "confidence": 0.98972094
+      },
+      {
+        "block_text": "44. Ahuja , BN.2011 . Theory and Practice of Journalism . New Delhi . Surjet Publica-",
+        "lines": [
+          "44. Ahuja , BN.2011 . Theory and Practice of Journalism . New Delhi . Surjet Publica-"
+        ],
+        "bounding_box": [
+          {
+            "x": 5,
+            "y": 79
+          },
+          {
+            "x": 443,
+            "y": 79
+          },
+          {
+            "x": 443,
+            "y": 97
+          },
+          {
+            "x": 5,
+            "y": 97
+          }
+        ],
+        "confidence": 0.99194175
+      },
+      {
+        "block_text": "tions",
+        "lines": [
+          "tions"
+        ],
+        "bounding_box": [
+          {
+            "x": 4,
+            "y": 107
+          },
+          {
+            "x": 30,
+            "y": 107
+          },
+          {
+            "x": 30,
+            "y": 116
+          },
+          {
+            "x": 4,
+            "y": 116
+          }
+        ],
+        "confidence": 0.99019235
+      },
+      {
+        "block_text": "45. Some Eminent Indian Editors . 1902. New Delhi . Publications Division , Ministery of Information and Broadcasting",
+        "lines": [
+          "45. Some Eminent Indian Editors . 1902. New Delhi . Publications Division , Ministery of Information and Broadcasting"
+        ],
+        "bounding_box": [
+          {
+            "x": 5,
+            "y": 143
+          },
+          {
+            "x": 447,
+            "y": 145
+          },
+          {
+            "x": 447,
+            "y": 182
+          },
+          {
+            "x": 5,
+            "y": 180
+          }
+        ],
+        "confidence": 0.99239796
+      }
+    ]
+  }
+}

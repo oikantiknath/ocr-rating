@@ -1,0 +1,79 @@
+{
+  "sdk_http_response": {
+    "headers": {
+      "content-type": "application/json; charset=UTF-8",
+      "vary": "Origin, X-Origin, Referer",
+      "content-encoding": "gzip",
+      "date": "Fri, 04 Jul 2025 04:17:18 GMT",
+      "server": "scaffolding on HTTPServer2",
+      "x-xss-protection": "0",
+      "x-frame-options": "SAMEORIGIN",
+      "x-content-type-options": "nosniff",
+      "server-timing": "gfet4t7; dur=32540",
+      "alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
+      "transfer-encoding": "chunked"
+    },
+    "body": null
+  },
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "சுருக்கமாக ஒருசில வார்த்தைகளில் உனக்கு நான் விளக்குகிறேன்.\nமாஸ்கோவுக்குச் சென்ற அவர்களுடைய வாழ்வில் மின்னல் வேகத்தில்,\nஅரேபியக் கதைகளில் வரும் நிகழ்ச்சிகளைப் போல, எதிர்பாராத\nவிதத்தில் மாற்றங்கள் நிகழ்ந்தன. காலஞ்சென்ற படைத் தளபதியின்\nமனைவி, அவர்களுடைய உறவக்காரி, தன்னுடைய இரண்டு\nமகள்களையும் அம்மை நோய்க்கு வாரிக் கொடுத்தவள், வாரிகள்\nஇல்லாமல் இருந்தாள். அந்த வேதனையில் ஆழ்ந்திருந்த அந்த வயதான\nமூதாட்டி, கத்தரீனா இவானாவ்னாவைத் தன்னுடைய சொந்த மகளாகப்\nபாவித்து, தன்னைக் காப்பாற்ற வந்தவளாக எண்ணித் தன்னுடைய\nசொத்து முழுவதையும் கத்தரீனா பெயரில் மாற்றி எழுதி, உடனே\nஅவளுக்கு எண்பதாயிரம் ரூபிள்களைப் பணமாகக் கொடுத்து,"
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": "STOP",
+      "safety_ratings": [
+        {
+          "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HATE_SPEECH",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HARASSMENT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+          "probability": "NEGLIGIBLE"
+        }
+      ],
+      "token_count": null
+    }
+  ],
+  "create_time": null,
+  "response_id": null,
+  "model_version": "gemini-2.5-pro",
+  "prompt_feedback": null,
+  "usage_metadata": {
+    "cache_tokens_details": null,
+    "cached_content_token_count": null,
+    "candidates_token_count": 182,
+    "candidates_tokens_details": null,
+    "prompt_token_count": 754,
+    "prompt_tokens_details": [
+      {
+        "modality": "TEXT",
+        "token_count": 496
+      },
+      {
+        "modality": "IMAGE",
+        "token_count": 258
+      }
+    ],
+    "thoughts_token_count": 2736,
+    "tool_use_prompt_token_count": null,
+    "tool_use_prompt_tokens_details": null,
+    "total_token_count": 3672,
+    "traffic_type": null
+  },
+  "automatic_function_calling_history": [],
+  "parsed": null,
+  "page_number": 140
+}

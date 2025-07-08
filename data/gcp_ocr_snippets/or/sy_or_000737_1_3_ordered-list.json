@@ -1,0 +1,57 @@
+{
+  "page_number": 737,
+  "ocr_output": {
+    "blocks": [
+      {
+        "block_text": "[ 1 ] Mahatma Gandhi : Perspectives and Methods",
+        "lines": [
+          "[ 1 ] Mahatma Gandhi : Perspectives and Methods"
+        ],
+        "bounding_box": [
+          {
+            "x": 3,
+            "y": 3
+          },
+          {
+            "x": 235,
+            "y": 3
+          },
+          {
+            "x": 235,
+            "y": 14
+          },
+          {
+            "x": 3,
+            "y": 14
+          }
+        ],
+        "confidence": 0.97983646
+      },
+      {
+        "block_text": "[ 2 ] Non - Cooperation , Civil Disobedience , Quit India Movements [ 3 ] Indian National Army ( INA ) and Subash Chandra Bose",
+        "lines": [
+          "[ 2 ] Non - Cooperation , Civil Disobedience , Quit India Movements [ 3 ] Indian National Army ( INA ) and Subash Chandra Bose"
+        ],
+        "bounding_box": [
+          {
+            "x": 3,
+            "y": 17
+          },
+          {
+            "x": 319,
+            "y": 17
+          },
+          {
+            "x": 319,
+            "y": 41
+          },
+          {
+            "x": 3,
+            "y": 41
+          }
+        ],
+        "confidence": 0.9822722
+      }
+    ]
+  }
+}

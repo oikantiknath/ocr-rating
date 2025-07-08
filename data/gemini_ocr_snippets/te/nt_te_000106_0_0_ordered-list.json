@@ -1,0 +1,79 @@
+{
+  "sdk_http_response": {
+    "headers": {
+      "content-type": "application/json; charset=UTF-8",
+      "vary": "Origin, X-Origin, Referer",
+      "content-encoding": "gzip",
+      "date": "Fri, 04 Jul 2025 04:29:50 GMT",
+      "server": "scaffolding on HTTPServer2",
+      "x-xss-protection": "0",
+      "x-frame-options": "SAMEORIGIN",
+      "x-content-type-options": "nosniff",
+      "server-timing": "gfet4t7; dur=49874",
+      "alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
+      "transfer-encoding": "chunked"
+    },
+    "body": null
+  },
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "2. మోటారు యాక్సిడెంట్ క్లెయిమ్స్ ట్రిబ్యునల్-కమ్-II అదనపు జిల్లా జడ్జి, జగిత్యాల, కరీంనగర్\nకోర్టులో (ఫ్యామిలీ, విచారణ కోర్టు) ఓ.పి.నెం.10/2010 కేసులోని 3,4 ప్రతివాదులు ఈ కేసులో\nపిటిషనర్లు. సాక్ష్యుల విచారణ సమయంలో వారు రెండు దరఖాస్తులను దాఖలు చేసిరి.\nఐ.ఎ.నెం.1375/ 2014లో సిరిసిల్ల పోలీసు స్టేషనులోని క్రైమ్.నెం. 57/2008లో దర్యాప్తు జరిపిన\nఅధికారిని పిలవాలని కోరెను. ఐ.ఎ.నెం.1378/2014లో, డ్రైవరు, మొదటి ప్రతివాది యొక్క డ్రైవింగ్\nలైసెన్సు వివరాలను తెలుపుటకు, వాహన డ్రైవర్ అనగా 2వ ప్రతివాదిని సాక్షిగా పిలవాలని కోరెను.\nవిచారణ కోర్టువారు సదరు దరఖాస్తులనువేరు వేరు ఉత్తర్వుల ద్వారా వరుసగా, తేది.01-12-2014\nమరియు తేది.05-12-2014 నాడు కొట్టివేయగా, ప్రస్తుత సివిల్ రివిజన్ పిటిషన్లు దాఖలు\nచేయబడెను.\n\n3. ఐ.ఎ.నెం.1375/2011కి సంబంధించి, చార్జ్ షీటులో ఎల్.డబ్ల్యు-3గా పేర్కొన్న అప్పటి సిరిసిల్ల\nపోలీసు స్టేషన్ ఎ.ఎస్.ఐ. కె. శ్రీనివాస్, డ్రైవరును అరెస్ట్ చేసారని, సమన్లు చేయబడినప్పటికీ చార్జ్ షీటును\nదాఖలు చేసారని, సదరు ఐ.ఎ.ను కొట్టివేయడమయినది.వారి షీట్ దాఖలు చేయడమనేది వివాదాంశం\nకాదు, అయితే అప్లికేషన్ నిలబడదని తీర్మానించడమైనది. విచారణ కోర్టు వారిసదరు ఉత్తర్వుతో నేను\nఏకీభవిస్తున్నాను\n\n4.వాహన డ్రైవరుకు సమన్లు జారీ చేస్తూ ఐ.ఎ.నెం.1378/2014లోని ఉత్తర్వుకు సంబంధించి,\nవాహన డ్రైవరు లైసెన్స్ కలిగి ఉన్నాడన్న అంశానికి సంబంధించి చార్జ్ షీటులోని అంశాలు\nసరిపోతాయని విచారణ కోర్టు గమనించింది."
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": "STOP",
+      "safety_ratings": [
+        {
+          "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HATE_SPEECH",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HARASSMENT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+          "probability": "NEGLIGIBLE"
+        }
+      ],
+      "token_count": null
+    }
+  ],
+  "create_time": null,
+  "response_id": null,
+  "model_version": "gemini-2.5-pro",
+  "prompt_feedback": null,
+  "usage_metadata": {
+    "cache_tokens_details": null,
+    "cached_content_token_count": null,
+    "candidates_token_count": 607,
+    "candidates_tokens_details": null,
+    "prompt_token_count": 715,
+    "prompt_tokens_details": [
+      {
+        "modality": "TEXT",
+        "token_count": 457
+      },
+      {
+        "modality": "IMAGE",
+        "token_count": 258
+      }
+    ],
+    "thoughts_token_count": 4250,
+    "tool_use_prompt_token_count": null,
+    "tool_use_prompt_tokens_details": null,
+    "total_token_count": 5572,
+    "traffic_type": null
+  },
+  "automatic_function_calling_history": [],
+  "parsed": null,
+  "page_number": 124
+}

@@ -1,0 +1,107 @@
+{
+  "page_number": 663,
+  "ocr_output": {
+    "blocks": [
+      {
+        "block_text": "Course code- MAR - 131",
+        "lines": [
+          "Course code- MAR - 131"
+        ],
+        "bounding_box": [
+          {
+            "x": 11,
+            "y": 4
+          },
+          {
+            "x": 133,
+            "y": 4
+          },
+          {
+            "x": 133,
+            "y": 13
+          },
+          {
+            "x": 11,
+            "y": 13
+          }
+        ],
+        "confidence": 0.9779696
+      },
+      {
+        "block_text": "Title of the Course : FRIA ( Joy of Marathi Literature )",
+        "lines": [
+          "Title of the Course : FRIA ( Joy of Marathi Literature )"
+        ],
+        "bounding_box": [
+          {
+            "x": 11,
+            "y": 16
+          },
+          {
+            "x": 325,
+            "y": 17
+          },
+          {
+            "x": 325,
+            "y": 29
+          },
+          {
+            "x": 11,
+            "y": 28
+          }
+        ],
+        "confidence": 0.90508753
+      },
+      {
+        "block_text": "श्रेयांकने 03 ( Credits : 3 )",
+        "lines": [
+          "श्रेयांकने 03 ( Credits : 3 )"
+        ],
+        "bounding_box": [
+          {
+            "x": 12,
+            "y": 30
+          },
+          {
+            "x": 129,
+            "y": 33
+          },
+          {
+            "x": 129,
+            "y": 46
+          },
+          {
+            "x": 12,
+            "y": 43
+          }
+        ],
+        "confidence": 0.9174206
+      },
+      {
+        "block_text": "Effective from Year : 2023-2024",
+        "lines": [
+          "Effective from Year : 2023-2024"
+        ],
+        "bounding_box": [
+          {
+            "x": 11,
+            "y": 52
+          },
+          {
+            "x": 163,
+            "y": 52
+          },
+          {
+            "x": 163,
+            "y": 60
+          },
+          {
+            "x": 11,
+            "y": 60
+          }
+        ],
+        "confidence": 0.98544085
+      }
+    ]
+  }
+}

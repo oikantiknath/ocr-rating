@@ -1,0 +1,32 @@
+{
+  "page_number": 673,
+  "ocr_output": {
+    "blocks": [
+      {
+        "block_text": "( J ) Strengthening of Central Registrar's Office",
+        "lines": [
+          "( J ) Strengthening of Central Registrar's Office"
+        ],
+        "bounding_box": [
+          {
+            "x": 6,
+            "y": 10
+          },
+          {
+            "x": 779,
+            "y": 10
+          },
+          {
+            "x": 779,
+            "y": 43
+          },
+          {
+            "x": 6,
+            "y": 43
+          }
+        ],
+        "confidence": 0.97288316
+      }
+    ]
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "page_number": 54,
+  "ocr_output": {
+    "blocks": [
+      {
+        "block_text": "૧૨",
+        "lines": [
+          "૧૨"
+        ],
+        "bounding_box": [
+          {
+            "x": 5,
+            "y": 5
+          },
+          {
+            "x": 23,
+            "y": 5
+          },
+          {
+            "x": 23,
+            "y": 14
+          },
+          {
+            "x": 5,
+            "y": 14
+          }
+        ],
+        "confidence": 1
+      }
+    ]
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "page_number": 442,
+  "ocr_output": {
+    "blocks": [
+      {
+        "block_text": "AIX",
+        "lines": [
+          "AIX"
+        ],
+        "bounding_box": [
+          {
+            "x": 137,
+            "y": 62
+          },
+          {
+            "x": 69,
+            "y": 62
+          },
+          {
+            "x": 69,
+            "y": 34
+          },
+          {
+            "x": 137,
+            "y": 34
+          }
+        ],
+        "confidence": 0.71136236
+      }
+    ]
+  }
+}

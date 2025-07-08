@@ -1,0 +1,32 @@
+{
+  "page_number": 55,
+  "ocr_output": {
+    "blocks": [
+      {
+        "block_text": "NOVEMBER 2023",
+        "lines": [
+          "NOVEMBER 2023"
+        ],
+        "bounding_box": [
+          {
+            "x": 16,
+            "y": 16
+          },
+          {
+            "x": 249,
+            "y": 16
+          },
+          {
+            "x": 249,
+            "y": 35
+          },
+          {
+            "x": 16,
+            "y": 35
+          }
+        ],
+        "confidence": 0.9903895
+      }
+    ]
+  }
+}

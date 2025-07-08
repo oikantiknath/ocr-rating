@@ -1,0 +1,79 @@
+{
+  "sdk_http_response": {
+    "headers": {
+      "content-type": "application/json; charset=UTF-8",
+      "vary": "Origin, X-Origin, Referer",
+      "content-encoding": "gzip",
+      "date": "Fri, 04 Jul 2025 05:10:10 GMT",
+      "server": "scaffolding on HTTPServer2",
+      "x-xss-protection": "0",
+      "x-frame-options": "SAMEORIGIN",
+      "x-content-type-options": "nosniff",
+      "server-timing": "gfet4t7; dur=58487",
+      "alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
+      "transfer-encoding": "chunked"
+    },
+    "body": null
+  },
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "മന്നിലേപേക്ഷമായ മാനികതയിൽ ഊന്നുന്ന നവോത്ഥാനബോധങ്ങളുടെ\nഅതിവിശിഷ്ടമായ രാഗമായി ഈ ചെറു കവിത മാറുന്നു. ഗൗരവത്തിലെ നവീനത\nകണ്ട് മാത്രമേ കാല്പനികമായ കവിതയുടേയും വിലോഭനരസങ്ങളാണിവിടെ\nകാണാൻ കഴിയുന്നത്. ദൈവനത്തെക്കുറിച്ചുള്ള തിരുവാക്കലുകൾ എത്രമാത്രം\nആലോചനാമൃതങ്ങളാണ്. വെറുമൊരു പ്രാർത്ഥന മാത്രമായി പരിഗണിക്കപ്പെട്ടി\nരുന്ന ഈ കൃതി ഇപ്പോഴും വായിക്കപ്പെടുകയും കൂടുതൽ കൂടുതൽ വ്യാഖ്യാനിക്ക\nപ്പെടുകയും ചെയ്യുന്നതിൽ നിന്നും ഇതിന്റെ വ്യാപ്തമായും മഹത്തായും എത്ര\nമാത്രമുണ്ടെന്ന് മനസ്സിലാക്കാവുന്നതാണ്.അതിനാൽത്തന്നെ ദൈവികത\nഅഥവാ മതത്തിൽനിന്നും ദൈവികത ചോർന്നു പോവുകയും ദൈവവും ഭൗതി\nകത ഒന്നാപരമായ അകൽച്ചയില്ലാത്തതാണെന്ന യാഥാർത്ഥ്യത്തിലുടെ ഗുരു വെളിവാക്കു\nകയാണ്. ഒരു മതത്തിലും വിശ്വസിക്കാത്തവനും ഏതു മതത്തിലും വിശ്വസിക്കു\nന്നവനും ഒരുപോലെ കൊണ്ടുനടക്കാവുന്ന പ്രാർത്ഥനയാണിത്."
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": "STOP",
+      "safety_ratings": [
+        {
+          "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HATE_SPEECH",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HARASSMENT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+          "probability": "NEGLIGIBLE"
+        }
+      ],
+      "token_count": null
+    }
+  ],
+  "create_time": null,
+  "response_id": null,
+  "model_version": "gemini-2.5-pro",
+  "prompt_feedback": null,
+  "usage_metadata": {
+    "cache_tokens_details": null,
+    "cached_content_token_count": null,
+    "candidates_token_count": 258,
+    "candidates_tokens_details": null,
+    "prompt_token_count": 740,
+    "prompt_tokens_details": [
+      {
+        "modality": "TEXT",
+        "token_count": 482
+      },
+      {
+        "modality": "IMAGE",
+        "token_count": 258
+      }
+    ],
+    "thoughts_token_count": 5367,
+    "tool_use_prompt_token_count": null,
+    "tool_use_prompt_tokens_details": null,
+    "total_token_count": 6365,
+    "traffic_type": null
+  },
+  "automatic_function_calling_history": [],
+  "parsed": null,
+  "page_number": 301
+}

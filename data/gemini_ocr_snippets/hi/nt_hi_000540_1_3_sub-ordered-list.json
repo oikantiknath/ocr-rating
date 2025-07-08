@@ -1,0 +1,79 @@
+{
+  "sdk_http_response": {
+    "headers": {
+      "content-type": "application/json; charset=UTF-8",
+      "vary": "Origin, X-Origin, Referer",
+      "content-encoding": "gzip",
+      "date": "Fri, 04 Jul 2025 03:21:43 GMT",
+      "server": "scaffolding on HTTPServer2",
+      "x-xss-protection": "0",
+      "x-frame-options": "SAMEORIGIN",
+      "x-content-type-options": "nosniff",
+      "server-timing": "gfet4t7; dur=58300",
+      "alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
+      "transfer-encoding": "chunked"
+    },
+    "body": null
+  },
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "(क) रक्त की संघटना तथा रचक, मानव में रक्त समूह तथा RH कारक, स्कंदन के\nकारक तथा क्रिया विधि; लोह उपापचय, अम्ल क्षारक साम्य, तापनियमन,\nप्रतिस्कंदक।\n(ख) हीमोग्लोबिनः रचना प्रकार एवं ऑक्सीजन तथा कार्बनडाइऑक्साइड परिवहन में\nभूमिका।\n(ग) पाचन एवं अवशोषण : पाचन में लार ग्रंथियों, यकृत, अग्न्याशय तथा आंत्र ग्रंथियों\nकी भूमिका।\n(घ) उत्सर्जन : नेफान तथा मूत्र विरचन का नियमन; परसरण नियमन एवं उत्सर्जी\nउत्पाद।\n(ड.) पेशी: प्रकार, कंकाल पेशियों की संकुचन की क्रिया विधि, पेशियों पर व्यायाम का\nप्रभाव।\n(च) न्यूरॉन: तंत्रिका आवेग - उसका चालन तथा अंतर्ग्रथनी संचरण: न्यूरोट्रांसमीटर।\n(छ) मानव में दृष्टि, श्रवण तथा घ्राणबोध।"
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": "STOP",
+      "safety_ratings": [
+        {
+          "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+          "probability": "LOW"
+        },
+        {
+          "category": "HARM_CATEGORY_HATE_SPEECH",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HARASSMENT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+          "probability": "NEGLIGIBLE"
+        }
+      ],
+      "token_count": null
+    }
+  ],
+  "create_time": null,
+  "response_id": null,
+  "model_version": "gemini-2.5-pro",
+  "prompt_feedback": null,
+  "usage_metadata": {
+    "cache_tokens_details": null,
+    "cached_content_token_count": null,
+    "candidates_token_count": 211,
+    "candidates_tokens_details": null,
+    "prompt_token_count": 762,
+    "prompt_tokens_details": [
+      {
+        "modality": "TEXT",
+        "token_count": 504
+      },
+      {
+        "modality": "IMAGE",
+        "token_count": 258
+      }
+    ],
+    "thoughts_token_count": 5382,
+    "tool_use_prompt_token_count": null,
+    "tool_use_prompt_tokens_details": null,
+    "total_token_count": 6355,
+    "traffic_type": null
+  },
+  "automatic_function_calling_history": [],
+  "parsed": null,
+  "page_number": 167
+}

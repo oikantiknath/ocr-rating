@@ -1,0 +1,32 @@
+{
+  "page_number": 394,
+  "ocr_output": {
+    "blocks": [
+      {
+        "block_text": "24",
+        "lines": [
+          "24"
+        ],
+        "bounding_box": [
+          {
+            "x": 4,
+            "y": 7
+          },
+          {
+            "x": 30,
+            "y": 7
+          },
+          {
+            "x": 30,
+            "y": 20
+          },
+          {
+            "x": 4,
+            "y": 20
+          }
+        ],
+        "confidence": 0.9875135
+      }
+    ]
+  }
+}

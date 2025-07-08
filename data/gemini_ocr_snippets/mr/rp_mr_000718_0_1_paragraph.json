@@ -1,0 +1,79 @@
+{
+  "sdk_http_response": {
+    "headers": {
+      "content-type": "application/json; charset=UTF-8",
+      "vary": "Origin, X-Origin, Referer",
+      "content-encoding": "gzip",
+      "date": "Fri, 04 Jul 2025 05:25:29 GMT",
+      "server": "scaffolding on HTTPServer2",
+      "x-xss-protection": "0",
+      "x-frame-options": "SAMEORIGIN",
+      "x-content-type-options": "nosniff",
+      "server-timing": "gfet4t7; dur=30257",
+      "alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
+      "transfer-encoding": "chunked"
+    },
+    "body": null
+  },
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "या नाटकातील प्रमुख पात्र म्हणजे नटसम्राट गणपतराव बेलवलकर. त्याशिवाय त्यांची\nपत्नी कावेरी, मुलगा नंदन, सून शारदा, मुलगी नलू, जावई सुधाकर, नात सुहासिनी ही पात्रे\nआहेत. राजा, विठोबादी नोकरचाकर, कळवणकर दांपत्य ही पात्रे सुद्धा लहानसहान\nप्रसंगानिमित्ताने नाटकात येतात. संपूर्ण नाटक केंद्रित होते ते गणपतराव बेलवलकर उर्फ अप्पा\nया नायकपात्रावर. कलेच्या क्षेत्रातील एक उत्तुंग व्यक्तिमत्त्व मात्र व्यवहारात इतरांशी तडजोड\nकरण्यात अपयशी ठरलेला कुटुंबप्रमुख, वृद्ध बाप अशी दोन रूपे या नायकाच्या स्वरूपात\nआपल्याला दिसतात. ‘नटसम्राट’ ही आधुनिक काळातील शोकान्तिका आहे. ‘वर्तमान युग हे\nशोकान्तिकांच्या अंताचे युग आहे.’ असे विख्यात समीक्षक जॉर्ज स्टायसन यांचे मत आहे. परंतु\nजोवर मानवी दुःख आहे तोवर शोकान्तिकेचा अंत होऊ शकत नाही. काळाच्या बदलानुसार\nशोकात्म कारणे बदलली. नायकस्थानी असलेल्या माणसांचे सामाजिक स्तर बदलले, स्वभाव\nबदलला पण अंतिमतः शोकात्म भाव तोच आहे. त्यामुळे आधुनिक काळात शोकात्मिकेचे केवळ\nस्वरूप बदललेले दिसते. या संदर्भात मकरंद साठे म्हणतात, “आपल्याकडेही पाहिलं तर ट्रेजेडी\nमृत झालेली नसेल पण तिचे स्वरूप मात्र पालटलेले आहे हे लक्षात घेणे महत्त्वाचं. महत्त्वाचा\nबदल म्हणजे ती आता सामान्य माणसाची झाली आहे. सामाजिक दृष्ट्या हे महत्त्वाचं.\nआधुनिकतेच्या उदयापासून ‘ट्रेजेडी’ मध्ये आढळणारी भावना जरी कायम असली तरी आता ती\nग्रीक शोकांतिकेच्यापेक्षा वेगळी झालेली आहे. आनंद, सुख, आदर, त्याग यांच्याही कल्पना\nऔद्योगिकीकृत समाजात, भांडवलशाहीत बदलल्या आहेत. आता या सर्वांचे मोल पैशात मोजायचे\nअसते. साहजिकच असं झाल्यामुळे प्राचीन किंवा मध्ययुगीन कालखंडाच्या तुलनेने आपल्या युगात\nआता महाकाय किंवा उत्तुंग माणसं कमी आढळतात. राजपुत्र, राजे वगैरे महामानव तर गायबच\nझाले आहेत. आता सर्वच माणसं सामान्य, समान. ज्यांच सुखदुःख पैशाशी बांधलेलं आहे अशी.\nपरंपरागत शोकांतिकेत जी भव्यता व्यक्तिमत्त्वाची, नातेसंबंधाचीही आणि भावभावनांचीही अभिप्रेत\nअसते. ती लहानसहान माणसांबाबत वास्तविक वाटावी कशी? त्यामुळे शोकांतिका हा साहित्यप्रकार"
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": "STOP",
+      "safety_ratings": [
+        {
+          "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HATE_SPEECH",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HARASSMENT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+          "probability": "NEGLIGIBLE"
+        }
+      ],
+      "token_count": null
+    }
+  ],
+  "create_time": null,
+  "response_id": null,
+  "model_version": "gemini-2.5-pro",
+  "prompt_feedback": null,
+  "usage_metadata": {
+    "cache_tokens_details": null,
+    "cached_content_token_count": null,
+    "candidates_token_count": 575,
+    "candidates_tokens_details": null,
+    "prompt_token_count": 716,
+    "prompt_tokens_details": [
+      {
+        "modality": "TEXT",
+        "token_count": 458
+      },
+      {
+        "modality": "IMAGE",
+        "token_count": 258
+      }
+    ],
+    "thoughts_token_count": 1975,
+    "tool_use_prompt_token_count": null,
+    "tool_use_prompt_tokens_details": null,
+    "total_token_count": 3266,
+    "traffic_type": null
+  },
+  "automatic_function_calling_history": [],
+  "parsed": null,
+  "page_number": 261
+}

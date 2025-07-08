@@ -1,0 +1,32 @@
+{
+  "page_number": 207,
+  "ocr_output": {
+    "blocks": [
+      {
+        "block_text": "Structure of F. Y. B. A.",
+        "lines": [
+          "Structure of F. Y. B. A."
+        ],
+        "bounding_box": [
+          {
+            "x": 4,
+            "y": 5
+          },
+          {
+            "x": 431,
+            "y": 5
+          },
+          {
+            "x": 431,
+            "y": 35
+          },
+          {
+            "x": 4,
+            "y": 35
+          }
+        ],
+        "confidence": 0.98552245
+      }
+    ]
+  }
+}

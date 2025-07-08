@@ -1,0 +1,32 @@
+{
+  "page_number": 612,
+  "ocr_output": {
+    "blocks": [
+      {
+        "block_text": "email : unavupukar@gmail.com",
+        "lines": [
+          "email : unavupukar@gmail.com"
+        ],
+        "bounding_box": [
+          {
+            "x": 22,
+            "y": 1
+          },
+          {
+            "x": 480,
+            "y": 4
+          },
+          {
+            "x": 480,
+            "y": 49
+          },
+          {
+            "x": 22,
+            "y": 46
+          }
+        ],
+        "confidence": 0.9712505
+      }
+    ]
+  }
+}

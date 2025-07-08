@@ -1,0 +1,79 @@
+{
+  "sdk_http_response": {
+    "headers": {
+      "content-type": "application/json; charset=UTF-8",
+      "vary": "Origin, X-Origin, Referer",
+      "content-encoding": "gzip",
+      "date": "Fri, 04 Jul 2025 05:26:16 GMT",
+      "server": "scaffolding on HTTPServer2",
+      "x-xss-protection": "0",
+      "x-frame-options": "SAMEORIGIN",
+      "x-content-type-options": "nosniff",
+      "server-timing": "gfet4t7; dur=34052",
+      "alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
+      "transfer-encoding": "chunked"
+    },
+    "body": null
+  },
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "4. Manifestation of Cold War: The Korean Crisis, end of French Colonial rule in\nIndoChina and the Vietnam War, Cuban Missile Crisis\n5. Emergence of the Third World World and Non –Aligned Movement\n6. De-Stalinisation and its aftermath in the East European Countries, Détente-Thaw in\nCold War.\n7. Impact of the emergence of Peoples’ Republic of China on World Politics: Sino-\nSoviet and Sino –USA relations (1950’s-1970’s)\n8. Emergence of Independent Nations in Asia and Africa: Algeria, Kenya Bangladesh.\n9. West Asian Crisis: Birth of Israel, Arab-Israel conflict( 1948-1973)Camp David\nAccord(1978).\n10. Disintegration and Decline of the Soviet Union: Glasnost, Perestroika,Crisis of\nSocialist Regimes in other socialist countries ( Reunification of Germany, Velvet\nRevolution in Czechoslovakia), End of Cold War and the Rise of a Unipolar World\nSystem, Globalization since 1990s.\n11. Protest Politics: Civil Rights Movement and Second Wave Feminist Movement in the\nUSA, End of Anti-Apartheid Movement in South Africa (1994).\n12. Asa Briggs and Patricia Clavin, Modern Europe 1789 – Present, Delhi, 2009.\n13. Andreas Wenger and Doron Zimmermann, International Relations From the Cold War\nto the Globalized World, New Delhi, 2010.\n14. David Raynolds, One world divisible: A global history since 1945. New York, 2000\n15. Edward Crankshaw, The New Cold War : Moscow vs. Peking, Penguin Books, 1963.\n16. Issac Dentscher, Russia, China, and the West, Penguin Books, 1949.\n17. Eric Hobsbawm, The Age of Extremes : The Short Twentieth Century, London, 1994.\n18. Eric Hobsbawm, Globalisation, Democracy and Terrorism, London, 2007.\n19. Gail Collins, When Everything Changed: the Amazing Journey of American Women\nfrom 1960 to the Present, New York : Little, Brown and Co., 2009.\n20. Henry Heller, The Cold War and the New Imperialism, New York, 2007.\n21. John Merriman, A History of Modern Europe From Renaissance to the Present,\nLondon, 1996.\n22. Joseph E. Stiglitz, Globalization and its discontents. Penguin 2002\n23. Kathleen A. Laughlin and Jacqueline L. Castledine, Breaking the wave : women, their\norganizations, and feminism, 1945-1985 New York : Routledge, 2011.\n24. Mark Newman , The Civil Rights Movement , Edinburgh University Press, 2004\n25. Norman Lowe, Mastering Modern World History, Hampshire, Palgrave Macmillan\n2013.\n26. Peter Calvocoressi, World Politics 1945 – 2000, New Delhi, 2006.\n27. P. Eric Louw, The Rise, Fall, and Legacy of Apartheid, Praeger, 2004\n28. Ryan M. Irwin Gordian Knot: Apartheid and the Unmaking of the Liberal World\nOrder, Oxford University Press, 2012\n29. Wayne C. Mcwilliam and Harry Piotrowsky, The World since 1945: A History of\nInternational Relations, New Delhi, 2018.\n30. Wini Breines, Trouble Between Us: an Uneasy History of White and Black Women in\nthe Feminist Movement New York : Oxford University Press, 2006."
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": "STOP",
+      "safety_ratings": [
+        {
+          "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HATE_SPEECH",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HARASSMENT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+          "probability": "NEGLIGIBLE"
+        }
+      ],
+      "token_count": null
+    }
+  ],
+  "create_time": null,
+  "response_id": null,
+  "model_version": "gemini-2.5-pro",
+  "prompt_feedback": null,
+  "usage_metadata": {
+    "cache_tokens_details": null,
+    "cached_content_token_count": null,
+    "candidates_token_count": 862,
+    "candidates_tokens_details": null,
+    "prompt_token_count": 715,
+    "prompt_tokens_details": [
+      {
+        "modality": "TEXT",
+        "token_count": 457
+      },
+      {
+        "modality": "IMAGE",
+        "token_count": 258
+      }
+    ],
+    "thoughts_token_count": 2279,
+    "tool_use_prompt_token_count": null,
+    "tool_use_prompt_tokens_details": null,
+    "total_token_count": 3856,
+    "traffic_type": null
+  },
+  "automatic_function_calling_history": [],
+  "parsed": null,
+  "page_number": 305
+}

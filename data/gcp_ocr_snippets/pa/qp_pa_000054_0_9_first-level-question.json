@@ -1,0 +1,57 @@
+{
+  "page_number": 54,
+  "ocr_output": {
+    "blocks": [
+      {
+        "block_text": "12. ਹਵਾ ਪ੍ਰਦੂਸ਼ਣ ਤੋਂ ਕੀ ਭਾਵ ਹੈ ? ਦੋ ਹਵਾ ਪ੍ਰਦੂਸ਼ਕਾਂ ਦੇ ਨਾਂ ਲਿਖੋ ।",
+        "lines": [
+          "12. ਹਵਾ ਪ੍ਰਦੂਸ਼ਣ ਤੋਂ ਕੀ ਭਾਵ ਹੈ ? ਦੋ ਹਵਾ ਪ੍ਰਦੂਸ਼ਕਾਂ ਦੇ ਨਾਂ ਲਿਖੋ ।"
+        ],
+        "bounding_box": [
+          {
+            "x": 9,
+            "y": 6
+          },
+          {
+            "x": 721,
+            "y": 2
+          },
+          {
+            "x": 721,
+            "y": 43
+          },
+          {
+            "x": 9,
+            "y": 47
+          }
+        ],
+        "confidence": 0.9348557
+      },
+      {
+        "block_text": "What do mean by air pollution ? Name any two air pollutants .",
+        "lines": [
+          "What do mean by air pollution ? Name any two air pollutants ."
+        ],
+        "bounding_box": [
+          {
+            "x": 57,
+            "y": 72
+          },
+          {
+            "x": 857,
+            "y": 72
+          },
+          {
+            "x": 857,
+            "y": 99
+          },
+          {
+            "x": 57,
+            "y": 99
+          }
+        ],
+        "confidence": 0.99328536
+      }
+    ]
+  }
+}

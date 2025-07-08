@@ -1,0 +1,79 @@
+{
+  "sdk_http_response": {
+    "headers": {
+      "content-type": "application/json; charset=UTF-8",
+      "vary": "Origin, X-Origin, Referer",
+      "content-encoding": "gzip",
+      "date": "Fri, 04 Jul 2025 04:47:46 GMT",
+      "server": "scaffolding on HTTPServer2",
+      "x-xss-protection": "0",
+      "x-frame-options": "SAMEORIGIN",
+      "x-content-type-options": "nosniff",
+      "server-timing": "gfet4t7; dur=29612",
+      "alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
+      "transfer-encoding": "chunked"
+    },
+    "body": null
+  },
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "ಸಾರ್ವಜನಿಕ ಅಭಿಪ್ರಾಯವು ಅವರ ಕಾರ್ಯವನ್ನು ಒಪ್ಪುವುದಿಲ್ಲ. ಆದ್ದರಿಂದ\nಒಂದೇ ಪರಿಸರವಾಗುವುದು ಎಂಬುದು ಗಾಂಧೀಜಿಗೆ ತಿಳಿದಿತ್ತು. ಇತರರಿಗೆ\nಮಾತ್ರವಲ್ಲದೆ ತಮಗೇನೇ ಹೊಂದಿದ ನೋಡಿದಾಗ ಒಂದು ಕ್ಷೇತ್ರವು ತಪ್ಪು ಎಂಬಂತೆ\nಕಂಡರೂ ಕರ್ತವ್ಯದ ನಿರ್ವಹಣೆಯು ಸಾರ್ವಜನಿಕ ಅಭಿಪ್ರಾಯವನ್ನು\nಅವಲಂಬಿಸಿರಬಾರದು. ಆದ್ದರಿಂದ ಒಂದು ಕಾರ್ಯವು ಸಾರ್ವಜನಿಕ ಅಭಿಪ್ರಾಯದಿಂದ\nಮುಕ್ತವಾಗಿರಬೇಕು. ಸಾರ್ವಜನಿಕ ಅಭಿಪ್ರಾಯಕ್ಕೆ ಬೆದರಿ, ಅಥವಾ ಮಾತ್ರವಲ್ಲದೇ\nಒತ್ತಡಕ್ಕೆ ಒಳಗಾಗಿ ಬಲ್ಲ ಮನಸ್ಸಾಕ್ಷಿಗಿಂತ ಬೇರನ್ನು ಅನುಸರಿಸಲು ಸಾಧ್ಯವಾಗದಿದ್ದಲ್ಲಿ\nಅವನಿಗೆ ಯಾವುದು ಸರಿ, ಯಾವುದು ತಪ್ಪು ಎಂಬುದೂ ತಿಳಿಯಲಾರದು. ಅಂತಿಮವಾಗಿ\nಆತ ಈ ಎರಡರ ನಡುವಿನ ವ್ಯತ್ಯಾಸವನ್ನು ಅರಿಯುವ ಸೂಕ್ಷ್ಮ ಪ್ರಜ್ಞೆಯನ್ನು\nಕಳೆದುಕೊಳ್ಳುತ್ತಾನೆ ಎಂಬುದು ಗಾಂಧೀಜಿಯವರ ನಂಬಿಕೆಯಾಗಿತ್ತು."
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": "STOP",
+      "safety_ratings": [
+        {
+          "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HATE_SPEECH",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HARASSMENT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+          "probability": "NEGLIGIBLE"
+        }
+      ],
+      "token_count": null
+    }
+  ],
+  "create_time": null,
+  "response_id": null,
+  "model_version": "gemini-2.5-pro",
+  "prompt_feedback": null,
+  "usage_metadata": {
+    "cache_tokens_details": null,
+    "cached_content_token_count": null,
+    "candidates_token_count": 225,
+    "candidates_tokens_details": null,
+    "prompt_token_count": 728,
+    "prompt_tokens_details": [
+      {
+        "modality": "TEXT",
+        "token_count": 470
+      },
+      {
+        "modality": "IMAGE",
+        "token_count": 258
+      }
+    ],
+    "thoughts_token_count": 2348,
+    "tool_use_prompt_token_count": null,
+    "tool_use_prompt_tokens_details": null,
+    "total_token_count": 3301,
+    "traffic_type": null
+  },
+  "automatic_function_calling_history": [],
+  "parsed": null,
+  "page_number": 31
+}

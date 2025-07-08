@@ -1,0 +1,32 @@
+{
+  "page_number": 491,
+  "ocr_output": {
+    "blocks": [
+      {
+        "block_text": "D : \\ SURAJ \\ SCIENCE PARIPATRA HALL TICKET PARIPATRA FOR PURAK EXAM.DOCX",
+        "lines": [
+          "D : \\ SURAJ \\ SCIENCE PARIPATRA HALL TICKET PARIPATRA FOR PURAK EXAM.DOCX"
+        ],
+        "bounding_box": [
+          {
+            "x": 11,
+            "y": 6
+          },
+          {
+            "x": 281,
+            "y": 1
+          },
+          {
+            "x": 281,
+            "y": 10
+          },
+          {
+            "x": 11,
+            "y": 15
+          }
+        ],
+        "confidence": 0.91210085
+      }
+    ]
+  }
+}

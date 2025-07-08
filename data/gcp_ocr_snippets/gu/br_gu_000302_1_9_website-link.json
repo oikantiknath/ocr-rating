@@ -1,0 +1,32 @@
+{
+  "page_number": 302,
+  "ocr_output": {
+    "blocks": [
+      {
+        "block_text": "https://bit.ly/3AaQFOL",
+        "lines": [
+          "https://bit.ly/3AaQFOL"
+        ],
+        "bounding_box": [
+          {
+            "x": 5,
+            "y": 8
+          },
+          {
+            "x": 124,
+            "y": 8
+          },
+          {
+            "x": 124,
+            "y": 16
+          },
+          {
+            "x": 5,
+            "y": 16
+          }
+        ],
+        "confidence": 0.8940795
+      }
+    ]
+  }
+}

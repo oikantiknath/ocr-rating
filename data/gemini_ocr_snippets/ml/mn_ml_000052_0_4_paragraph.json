@@ -1,0 +1,79 @@
+{
+  "sdk_http_response": {
+    "headers": {
+      "content-type": "application/json; charset=UTF-8",
+      "vary": "Origin, X-Origin, Referer",
+      "content-encoding": "gzip",
+      "date": "Fri, 04 Jul 2025 05:04:46 GMT",
+      "server": "scaffolding on HTTPServer2",
+      "x-xss-protection": "0",
+      "x-frame-options": "SAMEORIGIN",
+      "x-content-type-options": "nosniff",
+      "server-timing": "gfet4t7; dur=38331",
+      "alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
+      "transfer-encoding": "chunked"
+    },
+    "body": null
+  },
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "ട്രാൻസാക്ഷൻസ് മെനുവിൽ പേയ്മെന്റ് ഓർഡർ ക്ലിക്ക് ചെയ്യുക. തുടർന്ന് പേയ്മെന്റ്\nടൈപ്പ് Remittance of Recoveries and Contributions എന്ന ഹെഡ് സെലക്ട് ചെയ്യുക,\nഅക്കൗണ്ട് ഹെഡ് എന്ന ഭാഗത്ത് അടയ്ക്കാൻ പോകുന്ന റിക്കവറിയുടെ\nഉദാഹരണമായി Recoveries Payable - Kerala Panchayat Employees Provident\nFund എന്ന ഹെഡ് സെലക്ട് ചെയ്യുക. തുക ടൈപ്പ് ചെയ്യുക. തുടർന്ന് നെയിം ഓഫ് പേയി,\nറഫറൻസ്, ഫോർവേഡ് ടു, സിറ്റി എന്നിവ നൽ കി സേവ് ബട്ടണിൽ ക്ലിക്ക് ചെയ്യുക (ചിത്രം 63).\nപേയ്മെന്റ് ഓർഡർ അപ്രൂവ് ചെയ്യുന്നതിനായി സെക്രട്ടറിയുടെ ലോഗിനിൽ ട്രാൻസാക്ഷൻസ്\nമെനുവിൽ പേയ്മെന്റ് ഓർഡർ ക്ലിക്ക് ചെയ്യുമ്പോൾ അപ്രൂവ് ചെയ്യേണ്ട ബദ്ധതകളുടെ ലിസ്റ്റ്"
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": "STOP",
+      "safety_ratings": [
+        {
+          "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HATE_SPEECH",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HARASSMENT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+          "probability": "NEGLIGIBLE"
+        }
+      ],
+      "token_count": null
+    }
+  ],
+  "create_time": null,
+  "response_id": null,
+  "model_version": "gemini-2.5-pro",
+  "prompt_feedback": null,
+  "usage_metadata": {
+    "cache_tokens_details": null,
+    "cached_content_token_count": null,
+    "candidates_token_count": 207,
+    "candidates_tokens_details": null,
+    "prompt_token_count": 738,
+    "prompt_tokens_details": [
+      {
+        "modality": "TEXT",
+        "token_count": 480
+      },
+      {
+        "modality": "IMAGE",
+        "token_count": 258
+      }
+    ],
+    "thoughts_token_count": 3566,
+    "tool_use_prompt_token_count": null,
+    "tool_use_prompt_tokens_details": null,
+    "total_token_count": 4511,
+    "traffic_type": null
+  },
+  "automatic_function_calling_history": [],
+  "parsed": null,
+  "page_number": 79
+}

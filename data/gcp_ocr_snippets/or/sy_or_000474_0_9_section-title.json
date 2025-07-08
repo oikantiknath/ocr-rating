@@ -1,0 +1,32 @@
+{
+  "page_number": 474,
+  "ocr_output": {
+    "blocks": [
+      {
+        "block_text": "Core Readings :",
+        "lines": [
+          "Core Readings :"
+        ],
+        "bounding_box": [
+          {
+            "x": 6,
+            "y": 4
+          },
+          {
+            "x": 158,
+            "y": 6
+          },
+          {
+            "x": 158,
+            "y": 25
+          },
+          {
+            "x": 6,
+            "y": 23
+          }
+        ],
+        "confidence": 0.9656853
+      }
+    ]
+  }
+}

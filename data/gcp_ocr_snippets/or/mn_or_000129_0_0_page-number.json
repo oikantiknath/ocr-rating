@@ -1,0 +1,32 @@
+{
+  "page_number": 129,
+  "ocr_output": {
+    "blocks": [
+      {
+        "block_text": "Cox",
+        "lines": [
+          "Cox"
+        ],
+        "bounding_box": [
+          {
+            "x": 45,
+            "y": 10
+          },
+          {
+            "x": 82,
+            "y": 10
+          },
+          {
+            "x": 82,
+            "y": 20
+          },
+          {
+            "x": 45,
+            "y": 20
+          }
+        ],
+        "confidence": 0.64556974
+      }
+    ]
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "page_number": 643,
+  "ocr_output": {
+    "blocks": [
+      {
+        "block_text": "Paper - 16",
+        "lines": [
+          "Paper - 16"
+        ],
+        "bounding_box": [
+          {
+            "x": 3,
+            "y": 4
+          },
+          {
+            "x": 59,
+            "y": 4
+          },
+          {
+            "x": 59,
+            "y": 17
+          },
+          {
+            "x": 3,
+            "y": 17
+          }
+        ],
+        "confidence": 0.99192125
+      }
+    ]
+  }
+}

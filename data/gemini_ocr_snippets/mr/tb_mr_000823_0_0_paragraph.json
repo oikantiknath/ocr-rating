@@ -1,0 +1,79 @@
+{
+  "sdk_http_response": {
+    "headers": {
+      "content-type": "application/json; charset=UTF-8",
+      "vary": "Origin, X-Origin, Referer",
+      "content-encoding": "gzip",
+      "date": "Fri, 04 Jul 2025 05:26:59 GMT",
+      "server": "scaffolding on HTTPServer2",
+      "x-xss-protection": "0",
+      "x-frame-options": "SAMEORIGIN",
+      "x-content-type-options": "nosniff",
+      "server-timing": "gfet4t7; dur=40181",
+      "alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
+      "transfer-encoding": "chunked"
+    },
+    "body": null
+  },
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "युरेनियम, थोरियम, रेडियम इ. किरणोत्सारी (radioactive) पदार्थांतून\nसतत किरणे वा कण बाहेर पडत असतात. ते त्यातील अणूंच्या स्फोटातून बाहेर\nपडत असतात. त्यातील एखाद्या अणूचा स्फोट केव्हा होईल याचे कसलेही भाकीत\nभौतिकशास्त्रज्ञांना करता येत नाही. कारण तो स्फोट पूर्णपणे अनिश्चित स्वरूपाचा असतो.\nतो त्या किरणोत्सारी पदार्थाच्या रासायनिक वा भौतिक (तापमान, दाब इ.) घटकांवर\nअवलंबून नसतो. त्याच्या भूतकालीन इतिहासावर किंवा वर्तमानकालीन\nपरिस्थितीवरही तो अवलंबून नसतो. डेव्हिड बोहम याच्या शब्दात सांगायचे तर\n“त्या स्फोटाला काहीही कारण नसते... तो कशाशीही संबंध नसलेला असा पूर्ण\nमनमानी (लहरी) स्वरूपाचा असतो.” (तिरपे शब्द मुळातून.) (“It does not\nhave any causes... (It is) completely arbitrary in the sense that it has no\nrelationship to anything else.”३२७ (Italics in the original.) असे असूनही\nत्याचे एक गुप्त (दडलेले) वेळापत्रक असल्याचे दिसून येते. त्या वेळापत्रकानुसारच\nप्रत्येक अणू स्फोट पावतो. त्याला 'वेळापत्रक' म्हणण्याचे कारण त्या 'अकारण'\n(acausal) घडणाऱ्या अणुस्फोटातूनच तो अणू ज्या पदार्थाचा घटक आहे, त्या\nपदार्थाचे आयुष्य ठरते ! (याला त्याचे अर्ध-आयुष्य-half-life-म्हणतात. अर्ध-\nआयुष्य म्हणजे एखाद्या किरणोत्सारी तुकड्यातील निम्मे अणू स्फोट पावण्यास\nलागणारा काळ) उदा. युरेनियमचे अर्ध-आयुष्य ४५ लक्ष वर्षे, रेडियम A चे अर्ध-\nआयुष्य ३.८२५ दिवस, थोरियम C चे अर्ध-आयुष्य ६०.५ मिनिटे इ. इ. आता\nप्रश्न असा की त्या त्या किरणोत्सारी पदार्थातील प्रत्येक अणूला त्या त्या पदार्थाचे\nआयुष्य किती आहे हे कसे कळते ? 'कसे कळते' असे म्हणण्याचे कारण त्याचे\nआयुष्य प्रत्येक अणूचा स्फोटच ठरवतो ! आईन्स्टाइनच्या (ईपीआर) प्रयोगातील\nलाखो प्रकाशवर्षे अंतरावरील इलेक्ट्रॉनला पृथ्वीवरील इलेक्ट्रॉनच्या परिवलनाचे\nमापन आपण 'ऋण' केले आहे, हे कसे कळते, असा जो प्रश्न वर विचारला होता,\nतशाच स्वरूपाचा हा प्रश्न आहे; किंवा प्रकाश दोन फटींतून पाठविण्याच्या प्रयोगातील\nएखाद्या प्रकाशकणाला दुसरी फट बंद आहेत हे कसे कळते, असा जो प्रश्न वर\nविचारला होता, तशाच स्वरूपाचा हाही प्रश्न आहे; किंवा पृथ्वीवरील कपातील\nचहाला आकाशगंगेच्या पलीकडे अनेक तारकाविश्चे आहे, हे कसे कळते, असा जो\nप्रश्न पृ. १४० वर विचारला होता तशाच प्रकारचा हाही प्रश्न आहे; आणि या सर्व\nप्रश्नांचे उत्तर देण्यासाठी भौतिकशास्त्रज्ञांना कोणतेही भौतिक तत्त्व वा साधन\nउपलब्ध नाही. किरणोत्सारी पदार्थातील अणूंच्या मनमानी (arbitrary), अनिश्चित"
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": "STOP",
+      "safety_ratings": [
+        {
+          "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HATE_SPEECH",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HARASSMENT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+          "probability": "NEGLIGIBLE"
+        }
+      ],
+      "token_count": null
+    }
+  ],
+  "create_time": null,
+  "response_id": null,
+  "model_version": "gemini-2.5-pro",
+  "prompt_feedback": null,
+  "usage_metadata": {
+    "cache_tokens_details": null,
+    "cached_content_token_count": null,
+    "candidates_token_count": 697,
+    "candidates_tokens_details": null,
+    "prompt_token_count": 714,
+    "prompt_tokens_details": [
+      {
+        "modality": "TEXT",
+        "token_count": 456
+      },
+      {
+        "modality": "IMAGE",
+        "token_count": 258
+      }
+    ],
+    "thoughts_token_count": 2829,
+    "tool_use_prompt_token_count": null,
+    "tool_use_prompt_tokens_details": null,
+    "total_token_count": 4240,
+    "traffic_type": null
+  },
+  "automatic_function_calling_history": [],
+  "parsed": null,
+  "page_number": 348
+}

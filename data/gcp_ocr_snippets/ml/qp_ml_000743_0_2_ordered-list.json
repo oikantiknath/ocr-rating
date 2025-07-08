@@ -1,0 +1,107 @@
+{
+  "page_number": 743,
+  "ocr_output": {
+    "blocks": [
+      {
+        "block_text": "1. Dr. Rajukuttan P.G ,",
+        "lines": [
+          "1. Dr. Rajukuttan P.G ,"
+        ],
+        "bounding_box": [
+          {
+            "x": 14,
+            "y": 18
+          },
+          {
+            "x": 277,
+            "y": 20
+          },
+          {
+            "x": 277,
+            "y": 44
+          },
+          {
+            "x": 14,
+            "y": 42
+          }
+        ],
+        "confidence": 0.9761525
+      },
+      {
+        "block_text": "Assistant Professor on contract , SDE , Calicut University .",
+        "lines": [
+          "Assistant Professor on contract , SDE , Calicut University ."
+        ],
+        "bounding_box": [
+          {
+            "x": 39,
+            "y": 48
+          },
+          {
+            "x": 380,
+            "y": 51
+          },
+          {
+            "x": 379,
+            "y": 103
+          },
+          {
+            "x": 39,
+            "y": 100
+          }
+        ],
+        "confidence": 0.97510606
+      },
+      {
+        "block_text": "2. Smt . Rughmini K.",
+        "lines": [
+          "2. Smt . Rughmini K."
+        ],
+        "bounding_box": [
+          {
+            "x": 11,
+            "y": 172
+          },
+          {
+            "x": 249,
+            "y": 174
+          },
+          {
+            "x": 249,
+            "y": 198
+          },
+          {
+            "x": 11,
+            "y": 196
+          }
+        ],
+        "confidence": 0.98131204
+      },
+      {
+        "block_text": "Assistant Professor on contract SDE , Calicut University .",
+        "lines": [
+          "Assistant Professor on contract SDE , Calicut University ."
+        ],
+        "bounding_box": [
+          {
+            "x": 39,
+            "y": 202
+          },
+          {
+            "x": 377,
+            "y": 205
+          },
+          {
+            "x": 376,
+            "y": 260
+          },
+          {
+            "x": 38,
+            "y": 257
+          }
+        ],
+        "confidence": 0.96923304
+      }
+    ]
+  }
+}

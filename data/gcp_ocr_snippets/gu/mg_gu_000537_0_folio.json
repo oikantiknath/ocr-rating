@@ -1,0 +1,32 @@
+{
+  "page_number": 537,
+  "ocr_output": {
+    "blocks": [
+      {
+        "block_text": "INDEX",
+        "lines": [
+          "INDEX"
+        ],
+        "bounding_box": [
+          {
+            "x": 12,
+            "y": 8
+          },
+          {
+            "x": 73,
+            "y": 8
+          },
+          {
+            "x": 73,
+            "y": 22
+          },
+          {
+            "x": 12,
+            "y": 22
+          }
+        ],
+        "confidence": 0.9902063
+      }
+    ]
+  }
+}

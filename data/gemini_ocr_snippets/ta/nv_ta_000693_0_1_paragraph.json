@@ -1,0 +1,79 @@
+{
+  "sdk_http_response": {
+    "headers": {
+      "content-type": "application/json; charset=UTF-8",
+      "vary": "Origin, X-Origin, Referer",
+      "content-encoding": "gzip",
+      "date": "Fri, 04 Jul 2025 04:17:30 GMT",
+      "server": "scaffolding on HTTPServer2",
+      "x-xss-protection": "0",
+      "x-frame-options": "SAMEORIGIN",
+      "x-content-type-options": "nosniff",
+      "server-timing": "gfet4t7; dur=61839",
+      "alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
+      "transfer-encoding": "chunked"
+    },
+    "body": null
+  },
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "சுருங்கக்கூற வேண்டுமானால் அறிவியல் புனைகதை\nஇலக்கியம் உருவாக்க விளைவோர் ஒரு முக்கிய அம்சத்தை\nநெஞ்சத்திலிருத்திக் கொண்டு செயல்பட வேண்டும். அது\nஇது தான், இன்று நாம் அறிகின்ற அறிவியல் கண்டுபிடிப்பு\nகள் கடந்த கால ஆய்வு முயற்சியின் விளைவாக உருவான\nவைகளாகும். இதே கண்டுபிடிப்பு தொடர் ஆய்வு முயற்\nசியின் விளைவாக நாளை எம் முறையில் அமையலாம்\nஎன்ற அனுமானம் படைப்பாளியின் உள்ளத்தில் அசை\nபோடப்பட வேண்டும். இந்த அனுமானம் படைப்பாளரின்\nஅறிவுத்திறன், கற்பனை வளத்திற்கேற்ப வடிவு பெறும்."
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": "STOP",
+      "safety_ratings": [
+        {
+          "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HATE_SPEECH",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HARASSMENT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+          "probability": "NEGLIGIBLE"
+        }
+      ],
+      "token_count": null
+    }
+  ],
+  "create_time": null,
+  "response_id": null,
+  "model_version": "gemini-2.5-pro",
+  "prompt_feedback": null,
+  "usage_metadata": {
+    "cache_tokens_details": null,
+    "cached_content_token_count": null,
+    "candidates_token_count": 126,
+    "candidates_tokens_details": null,
+    "prompt_token_count": 754,
+    "prompt_tokens_details": [
+      {
+        "modality": "TEXT",
+        "token_count": 496
+      },
+      {
+        "modality": "IMAGE",
+        "token_count": 258
+      }
+    ],
+    "thoughts_token_count": 6066,
+    "tool_use_prompt_token_count": null,
+    "tool_use_prompt_tokens_details": null,
+    "total_token_count": 6946,
+    "traffic_type": null
+  },
+  "automatic_function_calling_history": [],
+  "parsed": null,
+  "page_number": 125
+}

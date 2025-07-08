@@ -1,0 +1,79 @@
+{
+  "sdk_http_response": {
+    "headers": {
+      "content-type": "application/json; charset=UTF-8",
+      "vary": "Origin, X-Origin, Referer",
+      "content-encoding": "gzip",
+      "date": "Fri, 04 Jul 2025 04:37:04 GMT",
+      "server": "scaffolding on HTTPServer2",
+      "x-xss-protection": "0",
+      "x-frame-options": "SAMEORIGIN",
+      "x-content-type-options": "nosniff",
+      "server-timing": "gfet4t7; dur=25818",
+      "alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
+      "transfer-encoding": "chunked"
+    },
+    "body": null
+  },
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "పాఠశాలలో పిల్లలు తమతోటివారితోనే కాకుండా ఉపాధ్యాయులతో కూడా పరస్పర ప్రతిచర్యలు జరుపుతారు.\nఇక్కడ ముఖ్యమైన విషయం ఏమంటే ఉపాధ్యాయులతో తమతో సన్నిహితంగా ఉండేవారితో తమంటే ప్రేమ, ఆప్యాయత,\nఅభిమానం చూపించి వారితో మాత్రమే ప్రతిస్పందిస్తుంటారు. వారితో స్వేచ్ఛగా మాట్లాడడం, వారు మాట్లాడగా వినడం,\nవారిని ప్రశ్నించడం, చర్చించడం వంటి సన్నివేశాలలో పాల్గొనడం ద్వారా అనేక అంశాలు గ్రహిస్తుంటారు. ఇవి ప్రత్యక్షంగా,\nపరోక్షంగానూ సంభవిస్తుంటాయి."
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": "STOP",
+      "safety_ratings": [
+        {
+          "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HATE_SPEECH",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HARASSMENT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+          "probability": "NEGLIGIBLE"
+        }
+      ],
+      "token_count": null
+    }
+  ],
+  "create_time": null,
+  "response_id": null,
+  "model_version": "gemini-2.5-pro",
+  "prompt_feedback": null,
+  "usage_metadata": {
+    "cache_tokens_details": null,
+    "cached_content_token_count": null,
+    "candidates_token_count": 145,
+    "candidates_tokens_details": null,
+    "prompt_token_count": 714,
+    "prompt_tokens_details": [
+      {
+        "modality": "TEXT",
+        "token_count": 456
+      },
+      {
+        "modality": "IMAGE",
+        "token_count": 258
+      }
+    ],
+    "thoughts_token_count": 2244,
+    "tool_use_prompt_token_count": null,
+    "tool_use_prompt_tokens_details": null,
+    "total_token_count": 3103,
+    "traffic_type": null
+  },
+  "automatic_function_calling_history": [],
+  "parsed": null,
+  "page_number": 311
+}

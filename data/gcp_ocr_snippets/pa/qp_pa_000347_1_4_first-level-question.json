@@ -1,0 +1,282 @@
+{
+  "page_number": 347,
+  "ocr_output": {
+    "blocks": [
+      {
+        "block_text": "115. The Union Executive of India consists of ,",
+        "lines": [
+          "115. The Union Executive of India consists of ,"
+        ],
+        "bounding_box": [
+          {
+            "x": 11,
+            "y": 12
+          },
+          {
+            "x": 263,
+            "y": 9
+          },
+          {
+            "x": 263,
+            "y": 20
+          },
+          {
+            "x": 11,
+            "y": 23
+          }
+        ],
+        "confidence": 0.97169137
+      },
+      {
+        "block_text": "ਭਾਰਤ ਦੀ ਕੇਂਦਰੀ ਕਾਰਜਕਾਰਨੀ ਵਿੱਚ",
+        "lines": [
+          "ਭਾਰਤ ਦੀ ਕੇਂਦਰੀ ਕਾਰਜਕਾਰਨੀ ਵਿੱਚ"
+        ],
+        "bounding_box": [
+          {
+            "x": 42,
+            "y": 33
+          },
+          {
+            "x": 191,
+            "y": 30
+          },
+          {
+            "x": 191,
+            "y": 45
+          },
+          {
+            "x": 42,
+            "y": 48
+          }
+        ],
+        "confidence": 0.96188855
+      },
+      {
+        "block_text": "ਸ਼ਾਮਲ ਹੁੰਦੇ ਹਨ ।",
+        "lines": [
+          "ਸ਼ਾਮਲ ਹੁੰਦੇ ਹਨ ।"
+        ],
+        "bounding_box": [
+          {
+            "x": 259,
+            "y": 28
+          },
+          {
+            "x": 332,
+            "y": 27
+          },
+          {
+            "x": 332,
+            "y": 46
+          },
+          {
+            "x": 259,
+            "y": 47
+          }
+        ],
+        "confidence": 0.9648831
+      },
+      {
+        "block_text": "( a ) President , Vice President and Council of Ministers ਰਾਸ਼ਟਰਪਤੀ , ਉਪ ਰਾਸ਼ਟਰਪਤੀ ਅਤੇ ਮੰਤਰੀ ਮੰਡਲ",
+        "lines": [
+          "( a ) President , Vice President and Council of Ministers ਰਾਸ਼ਟਰਪਤੀ , ਉਪ ਰਾਸ਼ਟਰਪਤੀ ਅਤੇ ਮੰਤਰੀ ਮੰਡਲ"
+        ],
+        "bounding_box": [
+          {
+            "x": 43,
+            "y": 56
+          },
+          {
+            "x": 346,
+            "y": 53
+          },
+          {
+            "x": 346,
+            "y": 91
+          },
+          {
+            "x": 43,
+            "y": 94
+          }
+        ],
+        "confidence": 0.9768708
+      },
+      {
+        "block_text": "( b ) The President and The Council of Ministers only",
+        "lines": [
+          "( b ) The President and The Council of Ministers only"
+        ],
+        "bounding_box": [
+          {
+            "x": 44,
+            "y": 102
+          },
+          {
+            "x": 336,
+            "y": 101
+          },
+          {
+            "x": 336,
+            "y": 116
+          },
+          {
+            "x": 44,
+            "y": 117
+          }
+        ],
+        "confidence": 0.99172646
+      },
+      {
+        "block_text": "ਸਿਰਫ ਰਾਸ਼ਟਰਪਤੀ ਅਤੇ ਮੰਤਰੀ ਮੰਡਲ",
+        "lines": [
+          "ਸਿਰਫ ਰਾਸ਼ਟਰਪਤੀ ਅਤੇ ਮੰਤਰੀ ਮੰਡਲ"
+        ],
+        "bounding_box": [
+          {
+            "x": 74,
+            "y": 123
+          },
+          {
+            "x": 239,
+            "y": 122
+          },
+          {
+            "x": 239,
+            "y": 136
+          },
+          {
+            "x": 74,
+            "y": 137
+          }
+        ],
+        "confidence": 0.93805563
+      },
+      {
+        "block_text": "( c ) The President , The Vice President , the Council of Ministers and Lok Sabha speaker",
+        "lines": [
+          "( c ) The President , The Vice President , the Council of Ministers and Lok Sabha speaker"
+        ],
+        "bounding_box": [
+          {
+            "x": 42,
+            "y": 148
+          },
+          {
+            "x": 536,
+            "y": 147
+          },
+          {
+            "x": 536,
+            "y": 161
+          },
+          {
+            "x": 42,
+            "y": 162
+          }
+        ],
+        "confidence": 0.99124855
+      },
+      {
+        "block_text": "ਰਾਸ਼ਟਰਪਤੀ , ਉਪ ਰਾਸ਼ਟਰਪਤੀ , ਮੰਤਰੀ ਮੰਡਲ ਅਤੇ ਲੋਕ ਸਭਾ ਸਪੀਕਰ",
+        "lines": [
+          "ਰਾਸ਼ਟਰਪਤੀ , ਉਪ ਰਾਸ਼ਟਰਪਤੀ , ਮੰਤਰੀ ਮੰਡਲ ਅਤੇ ਲੋਕ ਸਭਾ ਸਪੀਕਰ"
+        ],
+        "bounding_box": [
+          {
+            "x": 73,
+            "y": 169
+          },
+          {
+            "x": 372,
+            "y": 169
+          },
+          {
+            "x": 372,
+            "y": 185
+          },
+          {
+            "x": 73,
+            "y": 185
+          }
+        ],
+        "confidence": 0.9463333
+      },
+      {
+        "block_text": "( d ) The President , The Prime Minister , Deputy Chairman of Rajya Sabha and Lok Sabha",
+        "lines": [
+          "( d ) The President , The Prime Minister , Deputy Chairman of Rajya Sabha and Lok Sabha"
+        ],
+        "bounding_box": [
+          {
+            "x": 41,
+            "y": 195
+          },
+          {
+            "x": 565,
+            "y": 195
+          },
+          {
+            "x": 565,
+            "y": 209
+          },
+          {
+            "x": 41,
+            "y": 209
+          }
+        ],
+        "confidence": 0.99541163
+      },
+      {
+        "block_text": "speaker .",
+        "lines": [
+          "speaker ."
+        ],
+        "bounding_box": [
+          {
+            "x": 73,
+            "y": 218
+          },
+          {
+            "x": 117,
+            "y": 218
+          },
+          {
+            "x": 117,
+            "y": 232
+          },
+          {
+            "x": 73,
+            "y": 232
+          }
+        ],
+        "confidence": 0.9889348
+      },
+      {
+        "block_text": "ਰਾਸ਼ਟਰਪਤੀ , ਪ੍ਰਧਾਨ ਮੰਤਰੀ , ਰਾਜ ਸਭਾ ਦੇ ਉਪ ਚੇਅਰਮੈਨ , ਅਤੇ ਲੋਕ ਸਭਾ ਸਪੀਕਰ",
+        "lines": [
+          "ਰਾਸ਼ਟਰਪਤੀ , ਪ੍ਰਧਾਨ ਮੰਤਰੀ , ਰਾਜ ਸਭਾ ਦੇ ਉਪ ਚੇਅਰਮੈਨ , ਅਤੇ ਲੋਕ ਸਭਾ ਸਪੀਕਰ"
+        ],
+        "bounding_box": [
+          {
+            "x": 72,
+            "y": 237
+          },
+          {
+            "x": 431,
+            "y": 237
+          },
+          {
+            "x": 431,
+            "y": 258
+          },
+          {
+            "x": 72,
+            "y": 258
+          }
+        ],
+        "confidence": 0.95066804
+      }
+    ]
+  }
+}

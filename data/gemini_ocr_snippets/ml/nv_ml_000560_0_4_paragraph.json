@@ -1,0 +1,79 @@
+{
+  "sdk_http_response": {
+    "headers": {
+      "content-type": "application/json; charset=UTF-8",
+      "vary": "Origin, X-Origin, Referer",
+      "content-encoding": "gzip",
+      "date": "Fri, 04 Jul 2025 05:07:56 GMT",
+      "server": "scaffolding on HTTPServer2",
+      "x-xss-protection": "0",
+      "x-frame-options": "SAMEORIGIN",
+      "x-content-type-options": "nosniff",
+      "server-timing": "gfet4t7; dur=83892",
+      "alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
+      "transfer-encoding": "chunked"
+    },
+    "body": null
+  },
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "ഏറ്റവും നല്ല സൗഹൃദവും ഏറ്റവും നല്ല സൗന്ദര്യമായവൻ ആയി തീ\nർന്നു. മനുഷ്യവർഗ്ഗത്തിന്റെ കൗതുകമായ രൂപഭാവങ്ങളിൽ ഒന്നു മാത്ര\nമല്ല നമ്മുടെ ഈ സൗന്ദര്യം വഹിച്ചും കൊണ്ടു മനുഷ്യർക്കിടയിൽ പ്രത്യ\nക്ഷന്റെ സർവ്വവ്യാപിത്വങ്ങളിലും സൂക്ഷ്മരൂപികളായ അനുഗ്രഹങ്ങ\nളിലും അവതാരം കൊള്ളുന്ന ദൈവത്തിന്റെ പ്രകാശമാണ് സൗന്ദര്യം.\nഅതുകൊണ്ടാണ് ചോദ്യ ശരീരികളായ ലാസ്യനൃത്തങ്ങളിലും\nഭാവനൃത്തങ്ങളിലുമെല്ലാം ഈ സൗന്ദര്യത്തിന്റെ ഉൾക്കാമ്പ് ഉണ്ട് എന്ന് ആധു\nനിക ജീവിതത്തിൽ പരിണതപ്രജ്ഞരായവർ അറിയാം. കേരള\nപ്പഴമയിലില്ലെന്ന് പറഞ്ഞും സാധിക്കുന്ന വിധമായ യേശു\nവിന്റെ വാക്കുകൾക്ക് “ലാവണ്യ”മെന്നതിനപ്പുറം അർത്ഥം കൽപ്പി\nക്കുവാനാർക്കു പോലും കഴിഞ്ഞു (ലൂക്കോ. 4:22). പ്രകൃതിയുടെ\nമടിത്തട്ടിലും സർഗ്ഗപരമായ മനുഷ്യസൃഷ്ടിയുടെ 'ചില്ലറക്കാരിലും' കുഞ്ഞു\nകുറുമ്പുകളിലും കൊച്ചുകുറുമ്പുകളിലും അതിനപ്പുറം മറ്റെവിടെയും\nഅവതാരം ചെയ്യാൻ ദൈവം തിരസ്കരിച്ച സൗന്ദര്യമാണ് ലാവണ്യമാകു\nമായി നിൽപ്പില്ല. ഒരു നൂറ്റാണ്ട് വ്യക്തമാണ്. ശരീരത്തിന്റെ അഭാവമായ\nഅശരീരങ്ങളിൽപ്പെട്ട് അലയുന്നവർക്ക് ഒരു വലിയ അഭയം ത\nന്നെ നൽകാൻ പ്രകൃതിസൗന്ദര്യത്തിനു കഴിയും. മനുഷ്യരുടെ\nസൗന്ദര്യത്തിന്റെ വിശാലഭൂമികകളെ മനുഷ്യവർഗ്ഗത്തിലേക്കും\nഅതിന്റെ മാത്രം ചോരണകളിലേക്കും ഒതുക്കുന്ന തെറ്റായ പ്രവണത\nയെപ്പറ്റിയായി നിന്നാണ് നമ്മുടെ പ്രകൃതിനിരീക്ഷണത്തിനു കഴിയും."
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": "STOP",
+      "safety_ratings": [
+        {
+          "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HATE_SPEECH",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HARASSMENT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+          "probability": "NEGLIGIBLE"
+        }
+      ],
+      "token_count": null
+    }
+  ],
+  "create_time": null,
+  "response_id": null,
+  "model_version": "gemini-2.5-pro",
+  "prompt_feedback": null,
+  "usage_metadata": {
+    "cache_tokens_details": null,
+    "cached_content_token_count": null,
+    "candidates_token_count": 388,
+    "candidates_tokens_details": null,
+    "prompt_token_count": 738,
+    "prompt_tokens_details": [
+      {
+        "modality": "TEXT",
+        "token_count": 480
+      },
+      {
+        "modality": "IMAGE",
+        "token_count": 258
+      }
+    ],
+    "thoughts_token_count": 8011,
+    "tool_use_prompt_token_count": null,
+    "tool_use_prompt_tokens_details": null,
+    "total_token_count": 9137,
+    "traffic_type": null
+  },
+  "automatic_function_calling_history": [],
+  "parsed": null,
+  "page_number": 213
+}

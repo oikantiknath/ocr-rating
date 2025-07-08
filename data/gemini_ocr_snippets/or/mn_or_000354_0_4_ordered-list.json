@@ -1,0 +1,79 @@
+{
+  "sdk_http_response": {
+    "headers": {
+      "content-type": "application/json; charset=UTF-8",
+      "vary": "Origin, X-Origin, Referer",
+      "content-encoding": "gzip",
+      "date": "Fri, 04 Jul 2025 03:59:54 GMT",
+      "server": "scaffolding on HTTPServer2",
+      "x-xss-protection": "0",
+      "x-frame-options": "SAMEORIGIN",
+      "x-content-type-options": "nosniff",
+      "server-timing": "gfet4t7; dur=64562",
+      "alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
+      "transfer-encoding": "chunked"
+    },
+    "body": null
+  },
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "* । ୧ ତେବେ, କି ମନ ଭାବାରେ କଦାଚ ଅନୁଯୋଗୀ ହେବା\nପାଏ ନାହିଁ । ତେଣୁ ଅସାଧ୍ୟ ପଢ଼ାଇ ପ୍ରତ୍ୟେକ ବେଳାରେ\nପିଲାମାନଙ୍କର ଆଗ୍ରହ ଅନୁସାରେ ବେଳେ ବେଳେ\nବେଳେ ବେଳେ ପୃଷ୍ଠାଧିକ ହୁଏ ନାହିଁ, ସେଥିପାଇଁ ବେଳେ ବେ-\nଳାରେ ସାମାନ୍ୟ ବଦଳାଇ ମଧ୍ୟ ପୁନରାବୃତ୍ତିରେ ଯଦି ଆବଶ୍ୟକ\nବେଳେ ହୁଏତ୍ରିତ କଲେ ମନେ ମନେ କଦାଚ ପାଏ ନାହିଁ । ମାତ୍ର\nତେଣୁ ନିଜ ଦେଖାଦେଖି ଅସାଧ୍ୟ ପଢ଼ାଇଲେ ଅନବଧାନତାହେତୁ\nପିଲାମାନେ ନିଜ ସ୍ଵାଧୀନ ଚିନ୍ତନରେ ନିପୁଣ ହେବେ, ମନ ମଧ୍ୟ\nସେଥିରେ ଅନୁଯୋଗୀ ହୋଇ ଶିକ୍ଷୁ ବଦଳାଇ ମଧ୍ୟ ପିଲାମାନଙ୍କର\nଅଗ୍ରଗତିରେ ନିୟୋଜିତ ହେବେ । ଏହି ଅନୁଯୋଗୀରୁ ହିଁ ଭବିଷ୍ୟତ\nବେଳେ ଅସାଧ୍ୟ ଓ ପର୍ଯ୍ୟବେକ୍ଷଣ ପ୍ରବୃତ୍ତ ହେବ । କିନ୍ତୁ ଏକରୁ ଦଶ\nପର୍ଯ୍ୟନ୍ତ ଅନୁଧ୍ୟାନ କଲେ ଜଣାଯାଏ ଯେ କେତେକ ପିଲାଙ୍କର ମନ ପଢ଼ି\nପଢ଼ି ନପାରିଲେ ପଢ଼ି ହୁଏ । ସେ ପ୍ରଥମେ ଅକ୍ଷରର ଅନୁକରଣ\nକରିବାରେ ଲାଗିବ । ପରେ ସେ ଏହି ଅକ୍ଷରକୁ ଅନ୍ୟ କୌଣସି\nନୂତନ ନୂତନ ଅକ୍ଷର ସହିତ ମିଶାଇ ଦେଖିବ । ଏଥିରେ\nତାଙ୍କ ଭାବାରେ ପ୍ରବଳ ହେବାର ସମ୍ଭବ । ସେ ମନର କଥା\nପ୍ରକଟନ ପାଇଁ ସେହି ନୂତନ ନୂତନ ଶବ୍ଦ ଗୁଡ଼ି ମିଶାଇ ଦେଖି\nପାରେ । ତାକୁ ଏହି କାର୍ଯ୍ୟରେ ଭାବାରେ ଶବ୍ଦ ବ୍ୟବହାର କରି\nଅନୁମୋଦନ ଦିଅ ଅନୁଧ୍ୟାନ । ଶିକ୍ଷାଦାନର ଶବ୍ଦ ବ୍ୟବହାର"
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": "STOP",
+      "safety_ratings": [
+        {
+          "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HATE_SPEECH",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HARASSMENT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+          "probability": "NEGLIGIBLE"
+        }
+      ],
+      "token_count": null
+    }
+  ],
+  "create_time": null,
+  "response_id": null,
+  "model_version": "gemini-2.5-pro",
+  "prompt_feedback": null,
+  "usage_metadata": {
+    "cache_tokens_details": null,
+    "cached_content_token_count": null,
+    "candidates_token_count": 648,
+    "candidates_tokens_details": null,
+    "prompt_token_count": 784,
+    "prompt_tokens_details": [
+      {
+        "modality": "TEXT",
+        "token_count": 526
+      },
+      {
+        "modality": "IMAGE",
+        "token_count": 258
+      }
+    ],
+    "thoughts_token_count": 5843,
+    "tool_use_prompt_token_count": null,
+    "tool_use_prompt_tokens_details": null,
+    "total_token_count": 7275,
+    "traffic_type": null
+  },
+  "automatic_function_calling_history": [],
+  "parsed": null,
+  "page_number": 83
+}

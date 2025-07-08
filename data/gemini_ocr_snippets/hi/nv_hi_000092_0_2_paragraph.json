@@ -1,0 +1,79 @@
+{
+  "sdk_http_response": {
+    "headers": {
+      "content-type": "application/json; charset=UTF-8",
+      "vary": "Origin, X-Origin, Referer",
+      "content-encoding": "gzip",
+      "date": "Fri, 04 Jul 2025 03:21:41 GMT",
+      "server": "scaffolding on HTTPServer2",
+      "x-xss-protection": "0",
+      "x-frame-options": "SAMEORIGIN",
+      "x-content-type-options": "nosniff",
+      "server-timing": "gfet4t7; dur=49571",
+      "alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
+      "transfer-encoding": "chunked"
+    },
+    "body": null
+  },
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "खाना और यहां तक कि धूम्रपान तक भूलकर मैं पूरी शाम वहीं रुका रहा। मेरे सन्दूक में\nशेक्सपियर का एक ग्रन्थ था। वर्षों से मैंने उसके नाटक नहीं पढ़े थे, किन्तु अब मैं उन्हें पढ़ने\nको व्यग्र हो रहा था। उसी दोपहर जो कुछ मैंने सुना था, उसके सन्दर्भ में अब सारे शब्दों और\nवाक्यों के नये ही अर्थ निकल रहे थे। इस प्रकार के कायाकल्प का अनुमान लगाया जा सकता\nहै। मेरे सम्मुख एक नयी सृष्टि उद्घाटित हुई थी। शब्द मेरी ओर ऐसे दौड़ रहे थे, जैसे\nशताब्दियों से मेरी खोज में रहे हों। कविताएं मेरी धमनियों में आग की लहरों-सी तब तक\nभटकती रहीं, जब तक मैंने अपनी धमनियों में वैसे ही अलौकिक प्रकाश-पुंज को अनुभव नहीं\nकिया, जो कभी-कभी स्वप्न में झलक जाता है। मैं कांप गया। मुझे आवेश का ज्वर चढ़ रहा\nथा। यह सब उस वार्ता को सुनने का परिणाम था। उसने मुझे मदहोश कर दिया था। नशा अब\nभी वैसा ही था।"
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": "STOP",
+      "safety_ratings": [
+        {
+          "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HATE_SPEECH",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HARASSMENT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+          "probability": "NEGLIGIBLE"
+        }
+      ],
+      "token_count": null
+    }
+  ],
+  "create_time": null,
+  "response_id": null,
+  "model_version": "gemini-2.5-pro",
+  "prompt_feedback": null,
+  "usage_metadata": {
+    "cache_tokens_details": null,
+    "cached_content_token_count": null,
+    "candidates_token_count": 228,
+    "candidates_tokens_details": null,
+    "prompt_token_count": 758,
+    "prompt_tokens_details": [
+      {
+        "modality": "TEXT",
+        "token_count": 500
+      },
+      {
+        "modality": "IMAGE",
+        "token_count": 258
+      }
+    ],
+    "thoughts_token_count": 4581,
+    "tool_use_prompt_token_count": null,
+    "tool_use_prompt_tokens_details": null,
+    "total_token_count": 5567,
+    "traffic_type": null
+  },
+  "automatic_function_calling_history": [],
+  "parsed": null,
+  "page_number": 177
+}

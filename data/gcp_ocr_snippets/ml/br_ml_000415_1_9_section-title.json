@@ -1,0 +1,32 @@
+{
+  "page_number": 415,
+  "ocr_output": {
+    "blocks": [
+      {
+        "block_text": "( Dangine )",
+        "lines": [
+          "( Dangine )"
+        ],
+        "bounding_box": [
+          {
+            "x": 94,
+            "y": 3
+          },
+          {
+            "x": 149,
+            "y": 4
+          },
+          {
+            "x": 149,
+            "y": 17
+          },
+          {
+            "x": 94,
+            "y": 16
+          }
+        ],
+        "confidence": 0.90779287
+      }
+    ]
+  }
+}

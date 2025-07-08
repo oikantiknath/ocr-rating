@@ -1,0 +1,182 @@
+{
+  "page_number": 569,
+  "ocr_output": {
+    "blocks": [
+      {
+        "block_text": "5 .",
+        "lines": [
+          "5 ."
+        ],
+        "bounding_box": [
+          {
+            "x": 7,
+            "y": 9
+          },
+          {
+            "x": 15,
+            "y": 9
+          },
+          {
+            "x": 15,
+            "y": 17
+          },
+          {
+            "x": 7,
+            "y": 17
+          }
+        ],
+        "confidence": 0.8888839
+      },
+      {
+        "block_text": "Fungi are",
+        "lines": [
+          "Fungi are"
+        ],
+        "bounding_box": [
+          {
+            "x": 42,
+            "y": 9
+          },
+          {
+            "x": 93,
+            "y": 10
+          },
+          {
+            "x": 93,
+            "y": 20
+          },
+          {
+            "x": 42,
+            "y": 19
+          }
+        ],
+        "confidence": 0.99075013
+      },
+      {
+        "block_text": "30",
+        "lines": [
+          "30"
+        ],
+        "bounding_box": [
+          {
+            "x": 57,
+            "y": 24
+          },
+          {
+            "x": 57,
+            "y": 52
+          },
+          {
+            "x": 42,
+            "y": 52
+          },
+          {
+            "x": 42,
+            "y": 24
+          }
+        ],
+        "confidence": 0.4860749
+      },
+      {
+        "block_text": "Achlorophyllous thallophytes",
+        "lines": [
+          "Achlorophyllous thallophytes"
+        ],
+        "bounding_box": [
+          {
+            "x": 303,
+            "y": 25
+          },
+          {
+            "x": 452,
+            "y": 25
+          },
+          {
+            "x": 452,
+            "y": 37
+          },
+          {
+            "x": 303,
+            "y": 37
+          }
+        ],
+        "confidence": 0.98341084
+      },
+      {
+        "block_text": "Chlorophyllous thallophytes",
+        "lines": [
+          "Chlorophyllous thallophytes"
+        ],
+        "bounding_box": [
+          {
+            "x": 76,
+            "y": 26
+          },
+          {
+            "x": 221,
+            "y": 26
+          },
+          {
+            "x": 221,
+            "y": 37
+          },
+          {
+            "x": 76,
+            "y": 37
+          }
+        ],
+        "confidence": 0.98568594
+      },
+      {
+        "block_text": "( C ) Chlorophyllous spermatophytes",
+        "lines": [
+          "( C ) Chlorophyllous spermatophytes"
+        ],
+        "bounding_box": [
+          {
+            "x": 42,
+            "y": 43
+          },
+          {
+            "x": 239,
+            "y": 43
+          },
+          {
+            "x": 239,
+            "y": 54
+          },
+          {
+            "x": 42,
+            "y": 54
+          }
+        ],
+        "confidence": 0.9728714
+      },
+      {
+        "block_text": "( D ) Achlorophyllous spermatophytes",
+        "lines": [
+          "( D ) Achlorophyllous spermatophytes"
+        ],
+        "bounding_box": [
+          {
+            "x": 274,
+            "y": 43
+          },
+          {
+            "x": 472,
+            "y": 43
+          },
+          {
+            "x": 472,
+            "y": 54
+          },
+          {
+            "x": 274,
+            "y": 54
+          }
+        ],
+        "confidence": 0.9663272
+      }
+    ]
+  }
+}

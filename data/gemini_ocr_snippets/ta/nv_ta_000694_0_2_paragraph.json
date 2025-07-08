@@ -1,0 +1,79 @@
+{
+  "sdk_http_response": {
+    "headers": {
+      "content-type": "application/json; charset=UTF-8",
+      "vary": "Origin, X-Origin, Referer",
+      "content-encoding": "gzip",
+      "date": "Fri, 04 Jul 2025 04:16:50 GMT",
+      "server": "scaffolding on HTTPServer2",
+      "x-xss-protection": "0",
+      "x-frame-options": "SAMEORIGIN",
+      "x-content-type-options": "nosniff",
+      "server-timing": "gfet4t7; dur=20890",
+      "alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
+      "transfer-encoding": "chunked"
+    },
+    "body": null
+  },
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "2004ஆம் ஆண்டில் மாபெரும் 'ஆஸ்ட்ராய்டு' எனப்\nபடும் விண்கல் பூமியின்மீது விழ வாய்ப்புண்டு என்று அறி\nவியல் ஆய்வாளர்கள் அனுமானிக்கின்றனர். ஆ<$#[illegible]#$>ல், அது\nபூமியின் எப்பகுதியில் வீழும் என்பதை அவர்களால் துல்லி\nயமாகக் கூற இயலவில்லை. எனினும், இதைப்பற்றிய\nதொடர் ஆய்வில் விஞ்ஞானிகள் மும்முரமாக ஈடுபட்டுள்\nளனர். இவ்விடரிலிருந்து உலகைப் பாதுகாப்பது எப்படி\nஎன்பது அவர்களின் கவலையாகும்."
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": "STOP",
+      "safety_ratings": [
+        {
+          "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HATE_SPEECH",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HARASSMENT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+          "probability": "NEGLIGIBLE"
+        }
+      ],
+      "token_count": null
+    }
+  ],
+  "create_time": null,
+  "response_id": null,
+  "model_version": "gemini-2.5-pro",
+  "prompt_feedback": null,
+  "usage_metadata": {
+    "cache_tokens_details": null,
+    "cached_content_token_count": null,
+    "candidates_token_count": 116,
+    "candidates_tokens_details": null,
+    "prompt_token_count": 754,
+    "prompt_tokens_details": [
+      {
+        "modality": "TEXT",
+        "token_count": 496
+      },
+      {
+        "modality": "IMAGE",
+        "token_count": 258
+      }
+    ],
+    "thoughts_token_count": 1778,
+    "tool_use_prompt_token_count": null,
+    "tool_use_prompt_tokens_details": null,
+    "total_token_count": 2648,
+    "traffic_type": null
+  },
+  "automatic_function_calling_history": [],
+  "parsed": null,
+  "page_number": 126
+}

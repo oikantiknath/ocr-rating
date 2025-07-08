@@ -1,0 +1,79 @@
+{
+  "sdk_http_response": {
+    "headers": {
+      "content-type": "application/json; charset=UTF-8",
+      "vary": "Origin, X-Origin, Referer",
+      "content-encoding": "gzip",
+      "date": "Fri, 04 Jul 2025 04:15:33 GMT",
+      "server": "scaffolding on HTTPServer2",
+      "x-xss-protection": "0",
+      "x-frame-options": "SAMEORIGIN",
+      "x-content-type-options": "nosniff",
+      "server-timing": "gfet4t7; dur=22099",
+      "alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
+      "transfer-encoding": "chunked"
+    },
+    "body": null
+  },
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "இந்த நிலையில் தான் தமிழக\nஅரசு, பொதுமக்களின் வசதிக்காக\nஎந்த நேரத்திலும் எந்த இடத்தில்\nஇருந்தும் பட்டா மாறுதல் விண்ணப்பம்\nசெய்ய www.tamilnilam.tn.gov.in/\ncitizen/ என்ற இணையதள சேவையை\nஅறிமுகம் செய்துள்ளது. இந்த\nஇணையதளத்தின் மூலம் பொதுமக்கள்\nவீட்டில் இருந்தபடியே மனு செய்யலாம்.\nஇந்த இணையதளத்திற்கு சென்றவுடன்\nமுதலில் உங்களது பெயர், செல்போன்\nஎண், இ-மெயில் முகவரியை கொடுத்து\nபதிவு செய்ய வேண்டும். அதன்பின்\nபட்டா மாறுதல் செய்யப்பட்ட வேண்டிய\nஉட்பிரிவற்ற பட்டா மாறுதல் அல்லது\nஉட்பிரிவுடன் கூடிய பட்டா மாறுதல்\nஎன்பதில் ஏதாவது ஒன்றை தேர்வு செய்ய\nவேண்டும்."
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": "STOP",
+      "safety_ratings": [
+        {
+          "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HATE_SPEECH",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HARASSMENT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+          "probability": "NEGLIGIBLE"
+        }
+      ],
+      "token_count": null
+    }
+  ],
+  "create_time": null,
+  "response_id": null,
+  "model_version": "gemini-2.5-pro",
+  "prompt_feedback": null,
+  "usage_metadata": {
+    "cache_tokens_details": null,
+    "cached_content_token_count": null,
+    "candidates_token_count": 158,
+    "candidates_tokens_details": null,
+    "prompt_token_count": 754,
+    "prompt_tokens_details": [
+      {
+        "modality": "TEXT",
+        "token_count": 496
+      },
+      {
+        "modality": "IMAGE",
+        "token_count": 258
+      }
+    ],
+    "thoughts_token_count": 1934,
+    "tool_use_prompt_token_count": null,
+    "tool_use_prompt_tokens_details": null,
+    "total_token_count": 2846,
+    "traffic_type": null
+  },
+  "automatic_function_calling_history": [],
+  "parsed": null,
+  "page_number": 23
+}

@@ -1,0 +1,79 @@
+{
+  "sdk_http_response": {
+    "headers": {
+      "content-type": "application/json; charset=UTF-8",
+      "vary": "Origin, X-Origin, Referer",
+      "content-encoding": "gzip",
+      "date": "Fri, 04 Jul 2025 05:25:54 GMT",
+      "server": "scaffolding on HTTPServer2",
+      "x-xss-protection": "0",
+      "x-frame-options": "SAMEORIGIN",
+      "x-content-type-options": "nosniff",
+      "server-timing": "gfet4t7; dur=51767",
+      "alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
+      "transfer-encoding": "chunked"
+    },
+    "body": null
+  },
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "जयवंत दळवी हे १९६० नंतरच्या काळात उदयाला आलेले एक महत्त्वाचे नाटककार.\n‘संध्याछाया’ हे जयवंत दळवी यांचे पहिले नाटक १९७४ मध्ये प्रकाशित झाले. आधुनिक काळात\nमोडीत निघत चाललेली एकत्र कुटुंबव्यवस्था आणि त्यात भरडले जाणारे वयोवृद्ध या समस्येचा\nवेध हे नाटक घेते. या नाटकात केंद्रस्थानी एकच व्यक्ती नाही तर नाना आणि नानी हे\nसाठ-पासष्ट वर्षे वयाचे माईणकर दांपत्य आहे. हे दोघेही उच्च मध्यमवर्गीय सांपत्तिक स्थिती\nउत्तम असलेले. नाना रेल्वेत ऑडीटर क्लास वन अधिकारी होते. दोघांचे एकमेकांमधील नाते\nप्रेमाचे, परस्परांची काळजी घेणारे असे आहे. त्यांच्या दोन मुलांपैकी थोरला दिनू इंजिनिअर,\nअमेरिकेत गेली आठ वर्षे वास्तव्याला आहे. तर दुसरा नंदू भारतीय वायुदलात पायलट आहे.\nत्याचे पोस्टींग काश्मिरला झाले आहे. आपले दोन्ही मुलगे आपल्या जवळ राहत नाहीत याच\nदुःखात नाना नानी संपूर्ण नाटकात वावरताना दिसतात. आपल्या मुलांची वेळेवारी लग्ने लागावीत,\nत्यांच्या मुलाबाळांनी घराचे गोकूळ व्हावे, मुला-सुनांनी आपली म्हातारपणी सेवा करावी आपण\nत्यांचे कोडकौतुक करावे, विशेष म्हणजे सगळी माणसे आपल्या बरोबर राहावीत आणि अशा\nप्रकारे आयुष्य व्यतीत करताना समाधानाने मृत्यू यावा ही नाना नानींची, कुठल्याही आईवडिलांची\nअसते तशी माफक अपेक्षा. पण ती शेवटपर्यंत पूर्ण होत नाही. आपल्या या पारंपरिक स्वप्नासाठी\nनाना नानी जीवाच्या आकांताने प्रयत्न करीत राहतात पण ते सत्यात उतरत नाही. परिणामी"
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": "STOP",
+      "safety_ratings": [
+        {
+          "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HATE_SPEECH",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HARASSMENT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+          "probability": "NEGLIGIBLE"
+        }
+      ],
+      "token_count": null
+    }
+  ],
+  "create_time": null,
+  "response_id": null,
+  "model_version": "gemini-2.5-pro",
+  "prompt_feedback": null,
+  "usage_metadata": {
+    "cache_tokens_details": null,
+    "cached_content_token_count": null,
+    "candidates_token_count": 386,
+    "candidates_tokens_details": null,
+    "prompt_token_count": 716,
+    "prompt_tokens_details": [
+      {
+        "modality": "TEXT",
+        "token_count": 458
+      },
+      {
+        "modality": "IMAGE",
+        "token_count": 258
+      }
+    ],
+    "thoughts_token_count": 4578,
+    "tool_use_prompt_token_count": null,
+    "tool_use_prompt_tokens_details": null,
+    "total_token_count": 5680,
+    "traffic_type": null
+  },
+  "automatic_function_calling_history": [],
+  "parsed": null,
+  "page_number": 264
+}

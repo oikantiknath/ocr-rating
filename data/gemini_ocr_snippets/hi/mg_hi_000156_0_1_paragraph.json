@@ -1,0 +1,79 @@
+{
+  "sdk_http_response": {
+    "headers": {
+      "content-type": "application/json; charset=UTF-8",
+      "vary": "Origin, X-Origin, Referer",
+      "content-encoding": "gzip",
+      "date": "Fri, 04 Jul 2025 03:19:56 GMT",
+      "server": "scaffolding on HTTPServer2",
+      "x-xss-protection": "0",
+      "x-frame-options": "SAMEORIGIN",
+      "x-content-type-options": "nosniff",
+      "server-timing": "gfet4t7; dur=33079",
+      "alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
+      "transfer-encoding": "chunked"
+    },
+    "body": null
+  },
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "पद्य के साथ ही गद्य विधा में भी आपका योगदान कम उल्लेखनीय नहीं है-पं. सूर्यदेव\nशर्मा : एक ज्वलंत व्यक्तित्व (1990), कवि सुरेश चन्द्र मेरी दृष्टि में (1992), जमींदार की\nबेटी (कहानी संग्रह), बड़ी बहू राजकिरन राय के नाम से 'राजकिरन राय की सौन्दर्य समस्या',\nजनवार्ता में 'कितना सच, कितना झूठ' शीर्षक के अन्तर्गत 'स्वप्नदर्शी' उपनाम से छपे लेख,\nसमसामयिक समस्याओं को 'संजय-बतीशी' में चुटीले ढंग से वर्णन (सभी प्रकाशित) तथा\nकसौटी ललित निबन्ध 'आत्म-कथा' गाजीपुर का इतिहास दो निबन्ध संग्रह, छोटे बच्चों के लिए\nकहानी संग्रह (सभी अप्रकाशित) रचनायें हैं। आपका एक गज़ल संग्रह 'बदगुमानी का मौसम'\nतथा एक मुक्तक संग्रह 'इन्द्रधनुषी क्षितिज' नाम से छप चुका है, 720 दोहों का संकलन भोजपुरी-\nसतसई प्रकाशनाधीन है साथ ही दो गज़ल-संग्रह, अतुकांत कवियों का संग्रह, चौपदों का एक\nसंग्रह, मुक्तकों का एक संग्रह तथा नयी कविताओं के कुछ संकलन अप्रकाशित हैं।"
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": "STOP",
+      "safety_ratings": [
+        {
+          "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HATE_SPEECH",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HARASSMENT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+          "probability": "NEGLIGIBLE"
+        }
+      ],
+      "token_count": null
+    }
+  ],
+  "create_time": null,
+  "response_id": null,
+  "model_version": "gemini-2.5-pro",
+  "prompt_feedback": null,
+  "usage_metadata": {
+    "cache_tokens_details": null,
+    "cached_content_token_count": null,
+    "candidates_token_count": 282,
+    "candidates_tokens_details": null,
+    "prompt_token_count": 758,
+    "prompt_tokens_details": [
+      {
+        "modality": "TEXT",
+        "token_count": 500
+      },
+      {
+        "modality": "IMAGE",
+        "token_count": 258
+      }
+    ],
+    "thoughts_token_count": 2616,
+    "tool_use_prompt_token_count": null,
+    "tool_use_prompt_tokens_details": null,
+    "total_token_count": 3656,
+    "traffic_type": null
+  },
+  "automatic_function_calling_history": [],
+  "parsed": null,
+  "page_number": 37
+}

@@ -1,0 +1,79 @@
+{
+  "sdk_http_response": {
+    "headers": {
+      "content-type": "application/json; charset=UTF-8",
+      "vary": "Origin, X-Origin, Referer",
+      "content-encoding": "gzip",
+      "date": "Fri, 04 Jul 2025 05:14:16 GMT",
+      "server": "scaffolding on HTTPServer2",
+      "x-xss-protection": "0",
+      "x-frame-options": "SAMEORIGIN",
+      "x-content-type-options": "nosniff",
+      "server-timing": "gfet4t7; dur=77854",
+      "alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
+      "transfer-encoding": "chunked"
+    },
+    "body": null
+  },
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "ഇന്തോനേഷ്യയിലെ 30 ലിപികളില് സുലഭമായ,സർവ്വസ്വതാ മതലായ\nസംസ്കൃതഭാഷയുണ്ട്. ഒരു മഹാമാവികൻ സുദർശനം കഴിഞ്ഞ് അനേകം\nസിലധികൾ തേടി മടങ്ങിയതാണ് സിലയാത്ര. ഇത്തരമൊരു മഹാമാവി\nകൻ ബുദ്ധഗുപ്തൻ,രക്തമാതൃകയിൽനിന്ന് കെല്വിൻവന്നനാട്ടിയ ബ്രാഹ്മിലിഖിതം\nഅവിടെയുണ്ട്. ഇതുപോലെ 2 എണ്ണം ബോർണ്ണിയോവിലും മഹാമാവികനെ\nപരാമർശിക്കുന്നു. (വെസ്റ്റ് കാളിമന്തനിലും സ്റ്റോൺലിഖിതം).ബാലിയിൽ ക്രിസ്തു\nവർഷാരംഭത്തിലെ ശവസംസ്ക്കാരത്തിന്റേതായ ഒരു കിണർ പടഞ്ഞാറൻ\nഭാഗം. അവിടെ പഴയകോട്ട ഉണ്ടായിരുന്നതായി പത്താം നൂറ്റാണ്ടിലെ താമ്രലിഖി\nതം പറയുന്നു. ജക്കാർത്ത്,തളകം,പരപ്പ,ബന്തൻ,ലന്താക്ക്,ജോക്ക്,ബഹത്ര മുതലായ\nവ്യത്യസ്തങ്ങളായ നാവുകളെ പരാമർശിക്കുന്നു. ബഹത്രയും ജാക്കും പുറകിലേയ്ക്ക്\nപോകും. സിലോണിൽ ദക്ഷിണേന്ത്യൻ പുറകോട്ടുള്ളതിനവന്ന്\nകച്ചവടം ചെയ്യുന്ന വിദേശികൾ.(പേജ് 205) അറേബ്യയിൽ കോമൊറൂയുടെ\nവടക്കുപടിഞ്ഞാറോഹോൻകോൽ(അന്നത്തെയാപുരം)ഈ ഭാഗം തമിഴ് ഗാഹമിനെ\n(ഗുഹമിത്രങ്ങളുടേത്)ആണെന്ന് പറയുന്നു. ഓരോഭാഗത്തും ദ്രാവിഡസമ്പന്നത, ദ്രാവി\nഡപ്പണി,നാവിക എന്ന് ആർക്കാർക്കുള്ള സ്ഥലനാമം പറഞ്ഞ് തീർക്കേണ്ടതിനെ കവി\nഞ്ഞിട്ടുണ്ട്. തമിഴകച്ചവടക്കാരൻ ചേരടുത്തുപറഞ്ഞ ലിപിതന്യ\nമുണ്ട്. മഹാവാംശത്തിൽ ദളിതസമ്പന്നനാവികർ(ദ്രാവിഡ അഥവാ തമിഴരശർ നാവി\nക ർ)കപ്പലിൽ അവരെ കൊണ്ടുപോയെന്ന് പലയിടത്തും പറയുന്നു.\nദണ്ഡോറിയൻഹൊറേഷ്യൻ ,അവരുടെ ഗോത്രത്തിന്റെ (ഗോത്ത) പതാക(പെരുമ\nക ർ പെരുമാൾ അഥവാ കോഹനയിൽ അവർമാത്രം\nതാമസിപ്പിക്കുന്ന ഗ്രാമത്തേയും ശിലാലേഖം എന്ന പദമില്ലാതെ പരാമർശിക്കുന്നു."
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": "STOP",
+      "safety_ratings": [
+        {
+          "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HATE_SPEECH",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HARASSMENT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+          "probability": "NEGLIGIBLE"
+        }
+      ],
+      "token_count": null
+    }
+  ],
+  "create_time": null,
+  "response_id": null,
+  "model_version": "gemini-2.5-pro",
+  "prompt_feedback": null,
+  "usage_metadata": {
+    "cache_tokens_details": null,
+    "cached_content_token_count": null,
+    "candidates_token_count": 560,
+    "candidates_tokens_details": null,
+    "prompt_token_count": 738,
+    "prompt_tokens_details": [
+      {
+        "modality": "TEXT",
+        "token_count": 480
+      },
+      {
+        "modality": "IMAGE",
+        "token_count": 258
+      }
+    ],
+    "thoughts_token_count": 6972,
+    "tool_use_prompt_token_count": null,
+    "tool_use_prompt_tokens_details": null,
+    "total_token_count": 8270,
+    "traffic_type": null
+  },
+  "automatic_function_calling_history": [],
+  "parsed": null,
+  "page_number": 374
+}

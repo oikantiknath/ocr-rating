@@ -1,0 +1,79 @@
+{
+  "sdk_http_response": {
+    "headers": {
+      "content-type": "application/json; charset=UTF-8",
+      "vary": "Origin, X-Origin, Referer",
+      "content-encoding": "gzip",
+      "date": "Fri, 04 Jul 2025 03:19:39 GMT",
+      "server": "scaffolding on HTTPServer2",
+      "x-xss-protection": "0",
+      "x-frame-options": "SAMEORIGIN",
+      "x-content-type-options": "nosniff",
+      "server-timing": "gfet4t7; dur=29574",
+      "alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
+      "transfer-encoding": "chunked"
+    },
+    "body": null
+  },
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "की राजभाषा कार्यान्वयन समिति के सदस्य भी मौजूद थे।\nश्री ओ.टी.जी. नायर ने कार्यक्रम में अपने अनुभवों\nको रखते हुए कहा कि हमारी पूरी टीम की मेहनत एवं\nसमन्वय के कारण आज यह कार्यक्रम का समापन काफी\nखूबसूरत तरीके से हुआ, सभी बधाई के पात्र है। डॉ अवधेश\nमणि ने पूरी तकनीकी टीम एवं आयोजन समिति के सदस्यों\nको बधाई देते हुए कहा कि कार्यक्रम जिस तरीके से पूरा हुआ\nवह उम्मीदों से कई गुना अच्छा रहा। ऑनलाइन माध्यम में\nआयोजित करना यह हम सभी का पहला अनुभव रहा और\nहम इसमें खरे उतरे, साथ में यही आशा रहेगी आगे भविष्य में\nसंगोष्ठी ऑनलाइन के माध्यम से की जाए। उन्होंने हिंदी\nअनुभाग के पदाधिकारियों का उत्साह वर्धन करते हुए कहा"
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": "STOP",
+      "safety_ratings": [
+        {
+          "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HATE_SPEECH",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HARASSMENT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+          "probability": "NEGLIGIBLE"
+        }
+      ],
+      "token_count": null
+    }
+  ],
+  "create_time": null,
+  "response_id": null,
+  "model_version": "gemini-2.5-pro",
+  "prompt_feedback": null,
+  "usage_metadata": {
+    "cache_tokens_details": null,
+    "cached_content_token_count": null,
+    "candidates_token_count": 158,
+    "candidates_tokens_details": null,
+    "prompt_token_count": 758,
+    "prompt_tokens_details": [
+      {
+        "modality": "TEXT",
+        "token_count": 500
+      },
+      {
+        "modality": "IMAGE",
+        "token_count": 258
+      }
+    ],
+    "thoughts_token_count": 2746,
+    "tool_use_prompt_token_count": null,
+    "tool_use_prompt_tokens_details": null,
+    "total_token_count": 3662,
+    "traffic_type": null
+  },
+  "automatic_function_calling_history": [],
+  "parsed": null,
+  "page_number": 16
+}

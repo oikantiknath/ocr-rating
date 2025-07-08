@@ -1,0 +1,79 @@
+{
+  "sdk_http_response": {
+    "headers": {
+      "content-type": "application/json; charset=UTF-8",
+      "vary": "Origin, X-Origin, Referer",
+      "content-encoding": "gzip",
+      "date": "Fri, 04 Jul 2025 04:49:48 GMT",
+      "server": "scaffolding on HTTPServer2",
+      "x-xss-protection": "0",
+      "x-frame-options": "SAMEORIGIN",
+      "x-content-type-options": "nosniff",
+      "server-timing": "gfet4t7; dur=52596",
+      "alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
+      "transfer-encoding": "chunked"
+    },
+    "body": null
+  },
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "(ಎ) ಒಳಗಾದ ಜಲಸಾರಿಗೆ ಸಂಬಂಧಪಟ್ಟ ವಿಷಯಗಳ ಮೇಲೆ ಕೇಂದ್ರ ಸರ್ಕಾರಕ್ಕೆ ಸಲಹೆ\nನೀಡಬಹುದು;\n(ಬಿ) ಒಳಗಾದ ಜಲಸಾರಿಗೆಯನ್ನು ಇತರ ರೀತಿಯ ಸಾರಿಗೆಯೊಂದಿಗೆ ಸಮನ್ವಯಗೊಳಿಸುವ\nದೃಷ್ಟಿಯಿಂದ ಸಾರಿಗೆಯ ಅಗತ್ಯತೆಗಳ ಬಗ್ಗೆ ಅಧ್ಯಯನ ನಡೆಸಬಹುದು;\n(ಸಿ) ಜಲದಾರಿ ವಿವರಣಾ ಸಾಮಗ್ರಿಯನ್ನು ಕೈಗೊಳ್ಳಬಹುದು ಮತ್ತು ನದಿ ನಕಾಶೆಗಳನ್ನು\nಪ್ರಕಟಿಸಬಹುದು;\n(ಡಿ) ಒಳಗಾದ ಜಲಸಾರಿಗೆ ಅಭಿವೃದ್ಧಿಗಾಗಿ ಯೋಜನೆಗಳನ್ನು ರೂಪಿಸುವುದಕ್ಕೆ ಮತ್ತು ಅವುಗಳನ್ನು\nಕಾರ್ಯಗತಪಡಿಸುವಲ್ಲಿ ನೆರವು ಒದಗಿಸಬಹುದಾದಂಥ ನಿಧಿಗಳು ಮತ್ತು ಪದ್ಧತಿಗಳ ಮೇಲೆ\nಯಾವುದೇ ರಾಜ್ಯ ಸರ್ಕಾರಕ್ಕೆ ನೆರವು ನೀಡಬಹುದು;\n(ಇ) ಭಾರತ ಮತ್ತು ಹೊರದೇಶಗಳಲ್ಲಿನ ಹಡಗು ಸಾಗಣೆ ಮತ್ತು ನೌಕಾ ಸಂಚಾರಕ್ಕಾಗಿ ಯಾವುದೇ\nಸೌಲಭ್ಯದ ಜಲಮಾರ್ಗಗಳು ಅಥವಾ ಅಲ್ಲಿರುವ ಯೋಜನೆ ಮತ್ತು ಅಭಿವೃದ್ಧಿಯ ಸಂಬಂಧದಲ್ಲಿ ನೆರವು\nಒದಗಿಸಬಹುದಾದಂಥ ನಿಧಿಗಳು ಮತ್ತು ಪದ್ಧತಿಗಳ ಮೇಲೆ ಸಮಾಲೋಚನಾ ಸೇವೆಗಳನ್ನು\nಅಭಿವೃದ್ಧಿಪಡಿಸಬಹುದು ಮತ್ತು ಅಂಥ ಸೇವೆಗಳನ್ನು ಒದಗಿಸಬಹುದು;\n(ಎಫ್) ದೇಶದ ವಿದೇಶಿ, ನಾಡದೋಣಿಗಳ ಯಾಂತ್ರೀಕರಣ, ಹಳೆಯುವ ತಂತ್ರ, ಇಂಧನ ಮತ್ತು\nಮಾನವಶಕ್ತಿ ನಿರ್ವಹಣೆ ಸುಧಾರಣೆ, ಬಂದರು ಸೌಲಭ್ಯ ಮತ್ತು ತಟಸ್ಥ-ಅಭಿವೃದ್ಧಿ ಅಭಿವೃದ್ಧಿಯ\nಸೇರಿದಂತೆ ಒಳಗಾದ ಜಲಸಾರಿಗೆಗೆ ಸಂಬಂಧಪಟ್ಟ ವಿಷಯಗಳ ಬಗ್ಗೆ ಸಂಶೋಧನೆ ನಡೆಸಬಹುದು;\n(ಜಿ) ಒಳಗಾದ ಜಲಮಾರ್ಗಗಳ ವರ್ಗೀಕರಣಕ್ಕಾಗಿ ಮಾನಕಗಳನ್ನು ನಿರ್ಧರಿಸಬಹುದು;\n(ಹೆಚ್) ಒಳಗಾದ ಜಲಸಾರಿಗೆ ಸಿಬ್ಬಂದಿಗೆ ತರಬೇತಿಗೆ ಮತ್ತು ದೇಶದ ಹೊರಗೆ ತಾಂತ್ರಿಕ\nತರಬೇತಿ ಕಾರ್ಯಕ್ರಮವನ್ನು ಏರ್ಪಡಿಸಬಹುದು;\n(ಐ) ಈ ಅಧಿನಿಯಮದ ಉಪಬಂಧಗಳನ್ನು ಕಾರ್ಯಗತಗೊಳಿಸಲು ಅವಶ್ಯಕವಾಗಬಹುದಾದಂಥ\nಇತರ ಕಾರ್ಯಗಳನ್ನು ನೆರವೇರಿಸಬಹುದು."
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": "STOP",
+      "safety_ratings": [
+        {
+          "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HATE_SPEECH",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HARASSMENT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+          "probability": "NEGLIGIBLE"
+        }
+      ],
+      "token_count": null
+    }
+  ],
+  "create_time": null,
+  "response_id": null,
+  "model_version": "gemini-2.5-pro",
+  "prompt_feedback": null,
+  "usage_metadata": {
+    "cache_tokens_details": null,
+    "cached_content_token_count": null,
+    "candidates_token_count": 451,
+    "candidates_tokens_details": null,
+    "prompt_token_count": 732,
+    "prompt_tokens_details": [
+      {
+        "modality": "TEXT",
+        "token_count": 474
+      },
+      {
+        "modality": "IMAGE",
+        "token_count": 258
+      }
+    ],
+    "thoughts_token_count": 4431,
+    "tool_use_prompt_token_count": null,
+    "tool_use_prompt_tokens_details": null,
+    "total_token_count": 5614,
+    "traffic_type": null
+  },
+  "automatic_function_calling_history": [],
+  "parsed": null,
+  "page_number": 138
+}

@@ -1,0 +1,79 @@
+{
+  "sdk_http_response": {
+    "headers": {
+      "content-type": "application/json; charset=UTF-8",
+      "vary": "Origin, X-Origin, Referer",
+      "content-encoding": "gzip",
+      "date": "Fri, 04 Jul 2025 05:25:50 GMT",
+      "server": "scaffolding on HTTPServer2",
+      "x-xss-protection": "0",
+      "x-frame-options": "SAMEORIGIN",
+      "x-content-type-options": "nosniff",
+      "server-timing": "gfet4t7; dur=55996",
+      "alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
+      "transfer-encoding": "chunked"
+    },
+    "body": null
+  },
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "सखाराम बाईंडर या नाटकाचा वरील शेवट फार महत्त्वाचा आहे. वास्तविक चंपाचे\nदाऊद बरोबरचे लैंगिक संबंध कळताच सखारामने तिचा खून करण्याचे काहीच कारण नव्हते.\nकरार संपवून तो तिला घराबाहेर काढू शकला असता. तिचे आणि त्याचे संबंध केवळ व्यवहाराच्या\nपातळीवरचे होते. कोणत्याही प्रेम, विश्वास, समाजमान्यता या गोष्टींचे अधिष्ठान त्या संबंधांना\nनव्हते. पण असे असूनही सखारामने तिची केलेली हत्या अनपेक्षित वाटते. त्याच्या या कृतीमागे\nदोन कारणे आहेत. एक म्हणजे सखारामला असलेला खोटेपणाचा तिरस्कार. चंपा आपल्याबरोबर\nखोटेपणा करत होती. आपल्याला फसवते होती याची त्याला झालेली जाणीव. सखाराम पहिल्यांदा\nचंपाच्या जवळ जातो तेव्हा ती त्याला ठणकावून सांगते. “....असं होय? आले ध्येनात. बरं\nसुचलं की तुला! बरं झालं जागी झाले. हे बघ. मी नवऱ्याचं घर सोडलं असलं तरी तसली बाई\nनाही हा! माझ्या पतिव्रतेच्या शिलासाठी घर सोडून निघाले. धंद्याला लावायला बघत होता मुडदा.\nतू तरी जरा शहान्यावानी वाग हुंग्या कुत्र्यावानी करू नको.”५० दुसऱ्या वेळेला ती पुन्हा तेच\nऐकवते. “(डोळे फाडून बघत) काय? कोण आहे? तू! पुन्हा सुचलं व्हय तुला तेच ? काय म्हणले\nहोते मी? कळत नाही का? मी वाईट बाई आहे. बिघडले तर...(अस्ताव्यस्त पदर सारखा होत)\nमला बिघडवू नको सांगते मला तसलं काय आवडत नाही. ते बाई पुरूषातलं.”५१ यानंतर\nसखारामबरोबर आपल्याला संबंध ठेवावेच लागतील हे लक्षात आल्यावर तिने काढलेला मार्ग\nम्हणजे भरपूर दारू पिऊन डोकं बधीर करणं मग बेहोश अवस्थेत सखारामशी संबंध ठेवणं.\nपुढील त्यांच्या सगळ्याच सहवासात दारू हा अविभाज्य भाग दिसतो. सखाराम बरोबरचे शारीर\nसंबंध म्हणजे चंपाच्या दृष्टीनं ती केवळ एक तडजोड आहे. मनाने ती त्यात अजिबात गुंतलेली\nनाही. लक्ष्मीला ती म्हणते, “काय चालायचं. दारू घेतली की कोणाचं पण चालतं. खायला घातले\nते अन्न पुरतं वसूल करतो बघ तुझा सखाराम. मी म्हणून टिकले. काय करणार? परतून बाहेर\nपडायचं म्हणजे रोज कुठली कोन चार जनावरं भेटणार. त्यापेक्षा हा एकटा परवडला की.”५२"
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": "STOP",
+      "safety_ratings": [
+        {
+          "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+          "probability": "LOW"
+        },
+        {
+          "category": "HARM_CATEGORY_HATE_SPEECH",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HARASSMENT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+          "probability": "NEGLIGIBLE"
+        }
+      ],
+      "token_count": null
+    }
+  ],
+  "create_time": null,
+  "response_id": null,
+  "model_version": "gemini-2.5-pro",
+  "prompt_feedback": null,
+  "usage_metadata": {
+    "cache_tokens_details": null,
+    "cached_content_token_count": null,
+    "candidates_token_count": 582,
+    "candidates_tokens_details": null,
+    "prompt_token_count": 716,
+    "prompt_tokens_details": [
+      {
+        "modality": "TEXT",
+        "token_count": 458
+      },
+      {
+        "modality": "IMAGE",
+        "token_count": 258
+      }
+    ],
+    "thoughts_token_count": 4859,
+    "tool_use_prompt_token_count": null,
+    "tool_use_prompt_tokens_details": null,
+    "total_token_count": 6157,
+    "traffic_type": null
+  },
+  "automatic_function_calling_history": [],
+  "parsed": null,
+  "page_number": 257
+}

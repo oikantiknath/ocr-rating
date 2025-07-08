@@ -1,0 +1,32 @@
+{
+  "page_number": 667,
+  "ocr_output": {
+    "blocks": [
+      {
+        "block_text": "( Rtd . HM , Govt . LPS , Vazhamuttam )",
+        "lines": [
+          "( Rtd . HM , Govt . LPS , Vazhamuttam )"
+        ],
+        "bounding_box": [
+          {
+            "x": 5,
+            "y": 8
+          },
+          {
+            "x": 235,
+            "y": 8
+          },
+          {
+            "x": 235,
+            "y": 24
+          },
+          {
+            "x": 5,
+            "y": 24
+          }
+        ],
+        "confidence": 0.9728586
+      }
+    ]
+  }
+}

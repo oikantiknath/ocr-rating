@@ -1,0 +1,79 @@
+{
+  "sdk_http_response": {
+    "headers": {
+      "content-type": "application/json; charset=UTF-8",
+      "vary": "Origin, X-Origin, Referer",
+      "content-encoding": "gzip",
+      "date": "Fri, 04 Jul 2025 03:19:47 GMT",
+      "server": "scaffolding on HTTPServer2",
+      "x-xss-protection": "0",
+      "x-frame-options": "SAMEORIGIN",
+      "x-content-type-options": "nosniff",
+      "server-timing": "gfet4t7; dur=38091",
+      "alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
+      "transfer-encoding": "chunked"
+    },
+    "body": null
+  },
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "दोहराव या उतार-चढ़ाव वाले तनावों के अधीन सामग्रियों की विफलता, जो लोड के एकल अनुप्रयोग में\nविफलता का कारण बनने के लिए आवश्यकता से बहुत कम है, को ‘श्रांति विफलता’ कहा जाता है। टर्बाइन ब्लेड\nपर कंपन तनाव, ब्लेड और शाफ्ट पर बारी-बारी से झुकने वाला भार और स्टार्ट-स्टॉप चक्र के दौरान उतार-चढ़ाव\nवाले थर्मल तनाव और बिजली परिवर्तन के कारण चक्रीय भार के कुछ उदाहरण हैं जो संरचनात्मक घटकों में सेवा\nके तहत श्रांति क्षति को पैदा कर सकते हैं। उन्नीसवीं शताब्दी की शुरुआत में औद्योगिक क्रांति के दौरान घूर्णन या\nप्रत्यागामी यंत्रों के आगमन के साथ श्रांति एक महत्वपूर्ण अभियांत्रिकी समस्या बन गई। जिन धातुओं को\n“नमनीय” माना जाता था, उन्हें लोड स्तर पर \"भंगुर\" तरीके से विफल होने के लिए देखा गया था, जिन्हें \"सुरक्षित\"\nमाना जाता था। उस समय से श्रांति की समस्या ने इंजीनियरों को त्रस्त कर दिया है और आज यह विभिन्न\nऔद्योगिक घटकों में बड़ी संख्या में सेवा विफलताओं के लिए जिम्मेदार है। अतः तनावग्रस्त घटकों में श्रांति का\nहानिकारक प्रभाव संरचनात्मक अखंडता सुनिश्चित करने की दिशा में ध्यान में रखा जाने वाला एक महत्वपूर्ण मुद्दा\nहै।"
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": "STOP",
+      "safety_ratings": [
+        {
+          "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HATE_SPEECH",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HARASSMENT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+          "probability": "NEGLIGIBLE"
+        }
+      ],
+      "token_count": null
+    }
+  ],
+  "create_time": null,
+  "response_id": null,
+  "model_version": "gemini-2.5-pro",
+  "prompt_feedback": null,
+  "usage_metadata": {
+    "cache_tokens_details": null,
+    "cached_content_token_count": null,
+    "candidates_token_count": 272,
+    "candidates_tokens_details": null,
+    "prompt_token_count": 758,
+    "prompt_tokens_details": [
+      {
+        "modality": "TEXT",
+        "token_count": 500
+      },
+      {
+        "modality": "IMAGE",
+        "token_count": 258
+      }
+    ],
+    "thoughts_token_count": 3372,
+    "tool_use_prompt_token_count": null,
+    "tool_use_prompt_tokens_details": null,
+    "total_token_count": 4402,
+    "traffic_type": null
+  },
+  "automatic_function_calling_history": [],
+  "parsed": null,
+  "page_number": 9
+}

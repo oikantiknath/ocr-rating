@@ -1,0 +1,79 @@
+{
+  "sdk_http_response": {
+    "headers": {
+      "content-type": "application/json; charset=UTF-8",
+      "vary": "Origin, X-Origin, Referer",
+      "content-encoding": "gzip",
+      "date": "Fri, 04 Jul 2025 05:25:45 GMT",
+      "server": "scaffolding on HTTPServer2",
+      "x-xss-protection": "0",
+      "x-frame-options": "SAMEORIGIN",
+      "x-content-type-options": "nosniff",
+      "server-timing": "gfet4t7; dur=51601",
+      "alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
+      "transfer-encoding": "chunked"
+    },
+    "body": null
+  },
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "शेक्सपिअरच्या नाटकातील हॅम्लेट, ऑथेल्लो इत्यादी पात्रांच्या परिशीलनातून ‘राणा\nभीमदेव’ हे नाटक १८९२ साली वासुदेव रंगनाथ शिरवळकर आणि विनायक त्र्यंबक मोडक यांनी\nलिहिले. आणि शाहू नगरवासी नाटक मंडळींनी रंगमंचावर आणले. राणा भीमदेव हे मराठीतले\nएक यशस्वी आणि लोकप्रिय झालेले नाटक आहे. यातील नायक भीमदेव हा वीरता आणि\nदेशभक्ती या गुणांनी युक्त आहे. मित्रप्रेम, त्याग, दयाभाव असे इतर गुणही त्याच्या व्यक्तिमत्त्वात\nआहेत. नाटकातील नायकाचे व्यक्तिदर्शन उत्कटतेने केलेले आहे. त्यात फारशी सूक्ष्मता नसली\nतरी ते चैतन्याने रसरसलेले आहे. तेजस्वी आहे. या नाटकाच्या संदर्भात नोंदवण्यासारखी\nमहत्त्वाची बाब म्हणजे समकालीन परिस्थितीचा संदर्भ त्याला आहे. परकीयांच्या गुलामगिरीत बद्ध\nअसलेल्या जनतेच्या मनात वीरता, देशाभिमान, त्याग इत्यादी भावनांची जागृती निर्माण करण्याच्या\nहेतूने हा नायक निर्माण केला गेला; म्हणजे नायकाच्या माध्यमातून विशिष्ट विचार, तत्त्व, आणि\nभावनांचा जनमानसावर प्रभाव पाडण्याचा प्रयत्न इथे दिसतो. राणा भीमदेवानंतर राणा जगदेव,\nशिवाजी, बाजी देशपांडे, बाजीराव मस्तानी इत्यादी नाटके जनतेच्या मनातील देशाभिमान, पराक्रम\nया भावनांच्या उद्दिपनासाठी लिहिली गेली. याशिवाय सामाजिक विचारांचे आणि संघर्षाचे चित्रणही\nकाही नाटकांतून येऊ लागले."
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": "STOP",
+      "safety_ratings": [
+        {
+          "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HATE_SPEECH",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HARASSMENT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+          "probability": "NEGLIGIBLE"
+        }
+      ],
+      "token_count": null
+    }
+  ],
+  "create_time": null,
+  "response_id": null,
+  "model_version": "gemini-2.5-pro",
+  "prompt_feedback": null,
+  "usage_metadata": {
+    "cache_tokens_details": null,
+    "cached_content_token_count": null,
+    "candidates_token_count": 338,
+    "candidates_tokens_details": null,
+    "prompt_token_count": 716,
+    "prompt_tokens_details": [
+      {
+        "modality": "TEXT",
+        "token_count": 458
+      },
+      {
+        "modality": "IMAGE",
+        "token_count": 258
+      }
+    ],
+    "thoughts_token_count": 4499,
+    "tool_use_prompt_token_count": null,
+    "tool_use_prompt_tokens_details": null,
+    "total_token_count": 5553,
+    "traffic_type": null
+  },
+  "automatic_function_calling_history": [],
+  "parsed": null,
+  "page_number": 256
+}

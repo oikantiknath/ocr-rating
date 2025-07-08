@@ -1,0 +1,79 @@
+{
+  "sdk_http_response": {
+    "headers": {
+      "content-type": "application/json; charset=UTF-8",
+      "vary": "Origin, X-Origin, Referer",
+      "content-encoding": "gzip",
+      "date": "Fri, 04 Jul 2025 05:25:45 GMT",
+      "server": "scaffolding on HTTPServer2",
+      "x-xss-protection": "0",
+      "x-frame-options": "SAMEORIGIN",
+      "x-content-type-options": "nosniff",
+      "server-timing": "gfet4t7; dur=44247",
+      "alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
+      "transfer-encoding": "chunked"
+    },
+    "body": null
+  },
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "अप्पांच्या अहंकाराला पोषक वातावरण मिळाले ते कावेरीमुळे. भारतीय परंपरेतील पतीसेवा\nकरणाऱ्या, पतीच्या सुखात आपले सुख मानणाऱ्या, आर्य पतिपरायण अशा पत्नीची प्रतिमा म्हणजे\nकावेरी आहे. साठीत शिरल्यावर सुद्धा नाटकाचा प्रयोग झाला की, मीठ मोहऱ्यांनी अप्पांची दृष्ट\nकाढणारी, नाटक संपल्यावर पहाटेपर्यंत जेवणासाठी वाट पाहणारी कावेरी संपूर्ण आयुष्य\nअप्पांसाठीच जगली आहे. कावेरीबरोबरच्या सहजीवनाबद्दल ते म्हणतात, “..सरकार तुम्ही मला\nपन्नास वर्षे साथ दिलीत. भागीदारी केलीत, पण गोष्टीतील पहारेकऱ्याप्रमाणे मला मिळालेल्या\nनजराण्यात तुम्ही अर्धा हिस्सा कधी मागितला नाही. हिस्सा नेहमी हट्टाने मागितलात तो फक्त\nफटके खाण्यामध्ये. असेल ते शिजवलंत. मिळेल ते पांघरलंंत, शेकोटीत घातलेल्या ढलपीचे जीर्ण\nतुम्ही स्वीकारलंंत, दुसऱ्यासाठी जळण्याचं आणि तेही हसून खेळून जळण्याचं. हवं, नको हे शब्द\nकधी तुमच्या तोंडून बाहेर पडले नाहीत.”१६६ अप्पांची मुलगीही आज्ञाधारक, आल्या गेल्या नमस्कार\nकरणारी, वडिलांबद्दल अपार आदर बाळगणारी अशीच असलेली आठवणींच्या दृश्यामध्ये दिसतात.\nअप्पांचा अहंकार जोपासणारे असे हे पुरुषप्रधान व्यवस्थेतील कौटुंबिक वातावरण आहे. या\nवातावरणामुळे आपल्या मुलामाणसांवर प्रेम करणाऱ्या अप्पांचा स्वभाव स्वतःला केंद्रस्थानी ठेवून\nजगण्याचा बनला आहे."
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": "STOP",
+      "safety_ratings": [
+        {
+          "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HATE_SPEECH",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HARASSMENT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+          "probability": "NEGLIGIBLE"
+        }
+      ],
+      "token_count": null
+    }
+  ],
+  "create_time": null,
+  "response_id": null,
+  "model_version": "gemini-2.5-pro",
+  "prompt_feedback": null,
+  "usage_metadata": {
+    "cache_tokens_details": null,
+    "cached_content_token_count": null,
+    "candidates_token_count": 351,
+    "candidates_tokens_details": null,
+    "prompt_token_count": 716,
+    "prompt_tokens_details": [
+      {
+        "modality": "TEXT",
+        "token_count": 458
+      },
+      {
+        "modality": "IMAGE",
+        "token_count": 258
+      }
+    ],
+    "thoughts_token_count": 3811,
+    "tool_use_prompt_token_count": null,
+    "tool_use_prompt_tokens_details": null,
+    "total_token_count": 4878,
+    "traffic_type": null
+  },
+  "automatic_function_calling_history": [],
+  "parsed": null,
+  "page_number": 262
+}

@@ -1,0 +1,57 @@
+{
+  "page_number": 276,
+  "ocr_output": {
+    "blocks": [
+      {
+        "block_text": "( a ) conda Kondar ondae",
+        "lines": [
+          "( a ) conda Kondar ondae"
+        ],
+        "bounding_box": [
+          {
+            "x": 4,
+            "y": 4
+          },
+          {
+            "x": 37,
+            "y": 2
+          },
+          {
+            "x": 38,
+            "y": 19
+          },
+          {
+            "x": 5,
+            "y": 21
+          }
+        ],
+        "confidence": 0.63804173
+      },
+      {
+        "block_text": "hondar ( d ) andac",
+        "lines": [
+          "hondar ( d ) andac"
+        ],
+        "bounding_box": [
+          {
+            "x": 115,
+            "y": 3
+          },
+          {
+            "x": 146,
+            "y": 2
+          },
+          {
+            "x": 147,
+            "y": 19
+          },
+          {
+            "x": 116,
+            "y": 20
+          }
+        ],
+        "confidence": 0.6945152
+      }
+    ]
+  }
+}

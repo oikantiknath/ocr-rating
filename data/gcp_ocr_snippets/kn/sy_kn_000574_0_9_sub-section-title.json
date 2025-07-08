@@ -1,0 +1,32 @@
+{
+  "page_number": 574,
+  "ocr_output": {
+    "blocks": [
+      {
+        "block_text": "B.B.A Degree / Honours Degree Programme",
+        "lines": [
+          "B.B.A Degree / Honours Degree Programme"
+        ],
+        "bounding_box": [
+          {
+            "x": 19,
+            "y": 11
+          },
+          {
+            "x": 625,
+            "y": 11
+          },
+          {
+            "x": 625,
+            "y": 36
+          },
+          {
+            "x": 19,
+            "y": 36
+          }
+        ],
+        "confidence": 0.97178197
+      }
+    ]
+  }
+}

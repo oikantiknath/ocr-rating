@@ -1,0 +1,82 @@
+{
+  "page_number": 571,
+  "ocr_output": {
+    "blocks": [
+      {
+        "block_text": "5. Panagariya , Arvind ( 2008 ) : India : the Emerging Giant , Oxford University Press , New York",
+        "lines": [
+          "5. Panagariya , Arvind ( 2008 ) : India : the Emerging Giant , Oxford University Press , New York"
+        ],
+        "bounding_box": [
+          {
+            "x": 5,
+            "y": 6
+          },
+          {
+            "x": 457,
+            "y": 4
+          },
+          {
+            "x": 457,
+            "y": 30
+          },
+          {
+            "x": 5,
+            "y": 32
+          }
+        ],
+        "confidence": 0.9710152
+      },
+      {
+        "block_text": "6. Acharya , S. and Mohan , R. ( Eds . ) ( 2010 ) : India's Economy : Performance and Challenges , Oxford University Press , New Delhi .",
+        "lines": [
+          "6. Acharya , S. and Mohan , R. ( Eds . ) ( 2010 ) : India's Economy : Performance and Challenges , Oxford University Press , New Delhi ."
+        ],
+        "bounding_box": [
+          {
+            "x": 6,
+            "y": 34
+          },
+          {
+            "x": 455,
+            "y": 34
+          },
+          {
+            "x": 455,
+            "y": 60
+          },
+          {
+            "x": 6,
+            "y": 60
+          }
+        ],
+        "confidence": 0.97911394
+      },
+      {
+        "block_text": "7. Ahluwalia , I. J. and Little , I. M. D. ( Eds . ) ( 1998 ) : India's Economic Reforms and Development : Essays for Manmohan Singh , Oxford University Press , New Delhi .",
+        "lines": [
+          "7. Ahluwalia , I. J. and Little , I. M. D. ( Eds . ) ( 1998 ) : India's Economic Reforms and Development : Essays for Manmohan Singh , Oxford University Press , New Delhi ."
+        ],
+        "bounding_box": [
+          {
+            "x": 6,
+            "y": 63
+          },
+          {
+            "x": 456,
+            "y": 61
+          },
+          {
+            "x": 456,
+            "y": 101
+          },
+          {
+            "x": 6,
+            "y": 103
+          }
+        ],
+        "confidence": 0.9742529
+      }
+    ]
+  }
+}

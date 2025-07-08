@@ -1,0 +1,207 @@
+{
+  "page_number": 330,
+  "ocr_output": {
+    "blocks": [
+      {
+        "block_text": "All Mauritius Tamil Examination Syndicate Souvenir Magazine . ( 2013 ) .",
+        "lines": [
+          "All Mauritius Tamil Examination Syndicate Souvenir Magazine . ( 2013 ) ."
+        ],
+        "bounding_box": [
+          {
+            "x": 11,
+            "y": 8
+          },
+          {
+            "x": 301,
+            "y": 8
+          },
+          {
+            "x": 301,
+            "y": 17
+          },
+          {
+            "x": 11,
+            "y": 17
+          }
+        ],
+        "confidence": 0.9835336
+      },
+      {
+        "block_text": "http://www.cie.org.uk/programmes-and-qualifications/cambridge-international-as-and-a- level . Paratiyōr kavitaika7 . ( 1994 ) . Chennai : New Century House .",
+        "lines": [
+          "http://www.cie.org.uk/programmes-and-qualifications/cambridge-international-as-and-a- level . Paratiyōr kavitaika7 . ( 1994 ) . Chennai : New Century House ."
+        ],
+        "bounding_box": [
+          {
+            "x": 11,
+            "y": 23
+          },
+          {
+            "x": 394,
+            "y": 23
+          },
+          {
+            "x": 394,
+            "y": 47
+          },
+          {
+            "x": 11,
+            "y": 47
+          }
+        ],
+        "confidence": 0.95155346
+      },
+      {
+        "block_text": "Půvçntar paratit cal . ( 1994 ) . Chennai : manivasagar Publications .",
+        "lines": [
+          "Půvçntar paratit cal . ( 1994 ) . Chennai : manivasagar Publications ."
+        ],
+        "bounding_box": [
+          {
+            "x": 11,
+            "y": 53
+          },
+          {
+            "x": 278,
+            "y": 53
+          },
+          {
+            "x": 278,
+            "y": 62
+          },
+          {
+            "x": 11,
+            "y": 62
+          }
+        ],
+        "confidence": 0.88484395
+      },
+      {
+        "block_text": "Murugusuntharam . ( 1980 ) . Arumpuka7 mommukka7 malarka7 . Chennai : agaram Publications . Paventhar . ( 2004 ) . Tava_il_i e ; uta . Chennai : Nam Tamilar Publications .",
+        "lines": [
+          "Murugusuntharam . ( 1980 ) . Arumpuka7 mommukka7 malarka7 . Chennai : agaram Publications . Paventhar . ( 2004 ) . Tava_il_i e ; uta . Chennai : Nam Tamilar Publications ."
+        ],
+        "bounding_box": [
+          {
+            "x": 11,
+            "y": 68
+          },
+          {
+            "x": 394,
+            "y": 68
+          },
+          {
+            "x": 394,
+            "y": 92
+          },
+          {
+            "x": 11,
+            "y": 92
+          }
+        ],
+        "confidence": 0.965394
+      },
+      {
+        "block_text": "Půvçntar Paratit calnů_ôĠmu vi ; â malar . ( 1992 ) . Paris .",
+        "lines": [
+          "Půvçntar Paratit calnů_ôĠmu vi ; â malar . ( 1992 ) . Paris ."
+        ],
+        "bounding_box": [
+          {
+            "x": 11,
+            "y": 98
+          },
+          {
+            "x": 245,
+            "y": 98
+          },
+          {
+            "x": 245,
+            "y": 106
+          },
+          {
+            "x": 11,
+            "y": 106
+          }
+        ],
+        "confidence": 0.7879364
+      },
+      {
+        "block_text": "Pāratitocal kalvi nilaiyam ve77i vi ; ā malar . ( 2015 ) . Mauritius .",
+        "lines": [
+          "Pāratitocal kalvi nilaiyam ve77i vi ; ā malar . ( 2015 ) . Mauritius ."
+        ],
+        "bounding_box": [
+          {
+            "x": 11,
+            "y": 113
+          },
+          {
+            "x": 264,
+            "y": 113
+          },
+          {
+            "x": 264,
+            "y": 122
+          },
+          {
+            "x": 11,
+            "y": 122
+          }
+        ],
+        "confidence": 0.900188
+      },
+      {
+        "block_text": "Kanagarathinam , Ira . ( 1980 ) . Moriciyacu tivil eEka7 Tami ; ar . Sri Lanka : Sunnagam .",
+        "lines": [
+          "Kanagarathinam , Ira . ( 1980 ) . Moriciyacu tivil eEka7 Tami ; ar . Sri Lanka : Sunnagam ."
+        ],
+        "bounding_box": [
+          {
+            "x": 11,
+            "y": 128
+          },
+          {
+            "x": 345,
+            "y": 128
+          },
+          {
+            "x": 345,
+            "y": 137
+          },
+          {
+            "x": 11,
+            "y": 137
+          }
+        ],
+        "confidence": 0.93571806
+      },
+      {
+        "block_text": "Murugan , V. ( 1994 ) . ( Trans ) Selected Poems of Barathithaasan . Chennai : International Institute of Tamil Studies .",
+        "lines": [
+          "Murugan , V. ( 1994 ) . ( Trans ) Selected Poems of Barathithaasan . Chennai : International Institute of Tamil Studies ."
+        ],
+        "bounding_box": [
+          {
+            "x": 11,
+            "y": 143
+          },
+          {
+            "x": 416,
+            "y": 143
+          },
+          {
+            "x": 416,
+            "y": 165
+          },
+          {
+            "x": 11,
+            "y": 165
+          }
+        ],
+        "confidence": 0.9687608
+      }
+    ]
+  }
+}

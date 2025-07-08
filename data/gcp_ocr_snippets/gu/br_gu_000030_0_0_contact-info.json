@@ -1,0 +1,132 @@
+{
+  "page_number": 30,
+  "ocr_output": {
+    "blocks": [
+      {
+        "block_text": "Gujarat Institute of Disaster Management ( GIDM )",
+        "lines": [
+          "Gujarat Institute of Disaster Management ( GIDM )"
+        ],
+        "bounding_box": [
+          {
+            "x": 83,
+            "y": 16
+          },
+          {
+            "x": 747,
+            "y": 16
+          },
+          {
+            "x": 747,
+            "y": 42
+          },
+          {
+            "x": 83,
+            "y": 42
+          }
+        ],
+        "confidence": 0.98007
+      },
+      {
+        "block_text": "Opposite PDEU , Raisan Village , Gandhinagar , Gujarat 382007 Number : + 91-79-23275804 | Fax : + 91-79-23275805 Website : https://gidm.gujarat.gov.in",
+        "lines": [
+          "Opposite PDEU , Raisan Village , Gandhinagar , Gujarat 382007 Number : + 91-79-23275804 | Fax : + 91-79-23275805 Website : https://gidm.gujarat.gov.in"
+        ],
+        "bounding_box": [
+          {
+            "x": 10,
+            "y": 53
+          },
+          {
+            "x": 821,
+            "y": 54
+          },
+          {
+            "x": 821,
+            "y": 160
+          },
+          {
+            "x": 10,
+            "y": 159
+          }
+        ],
+        "confidence": 0.9805863
+      },
+      {
+        "block_text": "Email : info-gidm@gujarat.gov.in",
+        "lines": [
+          "Email : info-gidm@gujarat.gov.in"
+        ],
+        "bounding_box": [
+          {
+            "x": 204,
+            "y": 169
+          },
+          {
+            "x": 625,
+            "y": 171
+          },
+          {
+            "x": 625,
+            "y": 198
+          },
+          {
+            "x": 204,
+            "y": 196
+          }
+        ],
+        "confidence": 0.9869658
+      },
+      {
+        "block_text": "GIDMOfficial",
+        "lines": [
+          "GIDMOfficial"
+        ],
+        "bounding_box": [
+          {
+            "x": 448,
+            "y": 209
+          },
+          {
+            "x": 622,
+            "y": 208
+          },
+          {
+            "x": 622,
+            "y": 232
+          },
+          {
+            "x": 448,
+            "y": 233
+          }
+        ],
+        "confidence": 0.97462714
+      },
+      {
+        "block_text": "GIDMOfficial",
+        "lines": [
+          "GIDMOfficial"
+        ],
+        "bounding_box": [
+          {
+            "x": 210,
+            "y": 210
+          },
+          {
+            "x": 382,
+            "y": 210
+          },
+          {
+            "x": 382,
+            "y": 232
+          },
+          {
+            "x": 210,
+            "y": 232
+          }
+        ],
+        "confidence": 0.9721394
+      }
+    ]
+  }
+}

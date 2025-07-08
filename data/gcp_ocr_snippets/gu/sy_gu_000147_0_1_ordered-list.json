@@ -1,0 +1,57 @@
+{
+  "page_number": 147,
+  "ocr_output": {
+    "blocks": [
+      {
+        "block_text": "( C ) Current Events of Regional , National and International",
+        "lines": [
+          "( C ) Current Events of Regional , National and International"
+        ],
+        "bounding_box": [
+          {
+            "x": 19,
+            "y": 14
+          },
+          {
+            "x": 960,
+            "y": 14
+          },
+          {
+            "x": 960,
+            "y": 39
+          },
+          {
+            "x": 19,
+            "y": 39
+          }
+        ],
+        "confidence": 0.9663681
+      },
+      {
+        "block_text": "Importance .",
+        "lines": [
+          "Importance ."
+        ],
+        "bounding_box": [
+          {
+            "x": 85,
+            "y": 65
+          },
+          {
+            "x": 249,
+            "y": 65
+          },
+          {
+            "x": 249,
+            "y": 88
+          },
+          {
+            "x": 85,
+            "y": 88
+          }
+        ],
+        "confidence": 0.98109007
+      }
+    ]
+  }
+}

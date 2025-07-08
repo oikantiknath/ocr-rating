@@ -1,0 +1,57 @@
+{
+  "page_number": 495,
+  "ocr_output": {
+    "blocks": [
+      {
+        "block_text": "blossoming epidendron , grasping plant . This word is already in old Tamil ( Puram 58 , 2 ; 254,7 ) and it has cognates in other South Indian Dravidian anguages and Tulu . The",
+        "lines": [
+          "blossoming epidendron , grasping plant . This word is already in old Tamil ( Puram 58 , 2 ; 254,7 ) and it has cognates in other South Indian Dravidian anguages and Tulu . The"
+        ],
+        "bounding_box": [
+          {
+            "x": 21,
+            "y": 26
+          },
+          {
+            "x": 1974,
+            "y": 26
+          },
+          {
+            "x": 1974,
+            "y": 155
+          },
+          {
+            "x": 21,
+            "y": 155
+          }
+        ],
+        "confidence": 0.97226256
+      },
+      {
+        "block_text": "meaning Grasping Plant suggests that it is derivative of the proto - Dravidian root Kol , to grasp , seize .",
+        "lines": [
+          "meaning Grasping Plant suggests that it is derivative of the proto - Dravidian root Kol , to grasp , seize ."
+        ],
+        "bounding_box": [
+          {
+            "x": 19,
+            "y": 191
+          },
+          {
+            "x": 1973,
+            "y": 182
+          },
+          {
+            "x": 1974,
+            "y": 312
+          },
+          {
+            "x": 20,
+            "y": 321
+          }
+        ],
+        "confidence": 0.9807139
+      }
+    ]
+  }
+}

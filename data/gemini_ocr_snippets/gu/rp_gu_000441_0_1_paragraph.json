@@ -1,0 +1,79 @@
+{
+  "sdk_http_response": {
+    "headers": {
+      "content-type": "application/json; charset=UTF-8",
+      "vary": "Origin, X-Origin, Referer",
+      "content-encoding": "gzip",
+      "date": "Fri, 04 Jul 2025 05:38:54 GMT",
+      "server": "scaffolding on HTTPServer2",
+      "x-xss-protection": "0",
+      "x-frame-options": "SAMEORIGIN",
+      "x-content-type-options": "nosniff",
+      "server-timing": "gfet4t7; dur=41240",
+      "alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
+      "transfer-encoding": "chunked"
+    },
+    "body": null
+  },
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "બેથુનનું ઓપરેશન હોવાથી આન્ટીને પત્ર લખ્યો છે. એ આવશે કે નહિ તે પ્રશ્ન છે.\nડૉ. કૌશલે જણાવ્યું કે તેઓએ પણ માને તાર કરી દીધો છે. બેથુને થયું મા તો ક્યાં\nઆવવાની છે ? પછી સમજી ગયો કે આન્ટીની વાત કહે છે. મા અને ભાઈસાહેબ હૉસ્પિટલ\nઆવતાં બેથુનને નવાઈ લાગે છે. તેઓ બેથુનને ગ્રામ્ય લાગે છે. માતાપિતાને મળીને\nઓપરેશન થિયેટરમાં ગયો. પાછો આવ્યો ત્યારે મા-બાપ બહાર જ બેઠેલાં. બેથુને છાતી\nપાસે પ્લાસ્ટર આવ્યું છે. આન્ટીના પત્ર પરથી એવું લાગે છે કે જાણે તેઓ પરીક્ષ રીતે અહીં\nહાજર જ હોય ! બેથુનના બીજા પગના ઓપરેશન વખતે આન્ટી વહેલાં આવી ગયાં. અંદર\nથિયેટરમાં પણ ગયાં. પરંતુ આ વખતે બેથુ ભયભીત હતો. આ વખતે ઓપરેશન મોટું\nહતું. એને રાત્રે ઊંઘ ન આવી. હૉસ્પિટલમાં જુદાં-જુદાં વિશ્વો આવેલાં છે. બેથુ તેની\nબહાર નીકળશે ત્યારે કેટલાયે વિશ્વની સફર કરીને નીકળ્યો હશે ! સારવાર બાદ બેથુને\nઘોડી મળી. બેથુ પોતાની રીતે જ ચાલવા લાગ્યો. હવે બેથુ ડિસ્ચાર્જ માટે ફીટ છે, આન્ટીને\nતાર કર્યો છે, લાગે છે કે અહીં હૉસ્પિટલમાં સારવાર, ઓપરેશનો, પાટાપિંડી, ડિસ્ચાર્જ"
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": "STOP",
+      "safety_ratings": [
+        {
+          "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HATE_SPEECH",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HARASSMENT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+          "probability": "NEGLIGIBLE"
+        }
+      ],
+      "token_count": null
+    }
+  ],
+  "create_time": null,
+  "response_id": null,
+  "model_version": "gemini-2.5-pro",
+  "prompt_feedback": null,
+  "usage_metadata": {
+    "cache_tokens_details": null,
+    "cached_content_token_count": null,
+    "candidates_token_count": 386,
+    "candidates_tokens_details": null,
+    "prompt_token_count": 758,
+    "prompt_tokens_details": [
+      {
+        "modality": "TEXT",
+        "token_count": 500
+      },
+      {
+        "modality": "IMAGE",
+        "token_count": 258
+      }
+    ],
+    "thoughts_token_count": 3475,
+    "tool_use_prompt_token_count": null,
+    "tool_use_prompt_tokens_details": null,
+    "total_token_count": 4619,
+    "traffic_type": null
+  },
+  "automatic_function_calling_history": [],
+  "parsed": null,
+  "page_number": 279
+}

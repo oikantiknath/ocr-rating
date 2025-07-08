@@ -1,0 +1,79 @@
+{
+  "sdk_http_response": {
+    "headers": {
+      "content-type": "application/json; charset=UTF-8",
+      "vary": "Origin, X-Origin, Referer",
+      "content-encoding": "gzip",
+      "date": "Fri, 04 Jul 2025 04:18:24 GMT",
+      "server": "scaffolding on HTTPServer2",
+      "x-xss-protection": "0",
+      "x-frame-options": "SAMEORIGIN",
+      "x-content-type-options": "nosniff",
+      "server-timing": "gfet4t7; dur=48282",
+      "alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
+      "transfer-encoding": "chunked"
+    },
+    "body": null
+  },
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "பூசினிக்கா திருடுனவனோட மவ(ன்) என்னடா ஊர்ல எல்லாருமே\nநம்மல இப்படி சொல்லிக் கூப்புடுறாங்களே, இந்த பேர எப்படி மாத்தறதுன்னு\nயோசன கேக்க, ஒரு முனிவர் கிட்டப் போனான(ம்). அந்த முனிவரு என்னா\nசொன்னாரு(ம்). ஒங்க ஊர்ல ஒரு அன்னச்சத்திர(ம்) ஏற்படுத்துனீங்கன்னா\nபோறவங்க எல்லாருக்கும் சோறுபோட்டு, எல்லா(ம்) சரியாப் போயிடும்னு\nசொன்னாரு(ம்). அதுக்கு அந்தப் பைய(ன்) கேட்டா(ன்) சோறு போட்டா\nஎப்படி சரியாப் போவுமுன்னு சொல்றீங்கன்னு கேட்டான(ம்)."
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": "STOP",
+      "safety_ratings": [
+        {
+          "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HATE_SPEECH",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HARASSMENT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+          "probability": "NEGLIGIBLE"
+        }
+      ],
+      "token_count": null
+    }
+  ],
+  "create_time": null,
+  "response_id": null,
+  "model_version": "gemini-2.5-pro",
+  "prompt_feedback": null,
+  "usage_metadata": {
+    "cache_tokens_details": null,
+    "cached_content_token_count": null,
+    "candidates_token_count": 155,
+    "candidates_tokens_details": null,
+    "prompt_token_count": 756,
+    "prompt_tokens_details": [
+      {
+        "modality": "TEXT",
+        "token_count": 498
+      },
+      {
+        "modality": "IMAGE",
+        "token_count": 258
+      }
+    ],
+    "thoughts_token_count": 4676,
+    "tool_use_prompt_token_count": null,
+    "tool_use_prompt_tokens_details": null,
+    "total_token_count": 5587,
+    "traffic_type": null
+  },
+  "automatic_function_calling_history": [],
+  "parsed": null,
+  "page_number": 193
+}

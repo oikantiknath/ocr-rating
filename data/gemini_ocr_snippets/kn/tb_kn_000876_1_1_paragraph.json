@@ -1,0 +1,79 @@
+{
+  "sdk_http_response": {
+    "headers": {
+      "content-type": "application/json; charset=UTF-8",
+      "vary": "Origin, X-Origin, Referer",
+      "content-encoding": "gzip",
+      "date": "Fri, 04 Jul 2025 04:54:38 GMT",
+      "server": "scaffolding on HTTPServer2",
+      "x-xss-protection": "0",
+      "x-frame-options": "SAMEORIGIN",
+      "x-content-type-options": "nosniff",
+      "server-timing": "gfet4t7; dur=24947",
+      "alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
+      "transfer-encoding": "chunked"
+    },
+    "body": null
+  },
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "ಕನಕದಾಸರ 'ನಳಚರಿತ್ರೆ' ಮತ್ತು 'ಮೋಹನ ತರಂಗಿಣಿ' ಎರಡೂ\nಕೃತಿಯನ್ನು ಅನ್ವಯಿಸಿಕೊಂಡು ಕೆಲವು ಮಾತುಗಳನ್ನು ಮುಂದಿರಿಸ\nಬಹುದಾಗಿದೆ. ಈ ಎರಡೂ ಕೃತಿಗಳಲ್ಲಿ ವೈಯಕ್ತಿಕ ಮತ್ತು ಸಾಮಾಜಿಕ\nಪ್ರಜ್ಞೆಯೂ ಇವೆ. ಉದಾಹರಣೆಗೆ, 'ನಳಚರಿತ್ರೆ' ಕೃತಿಯಲ್ಲಿ ಕನಕದಾಸರು ವ್ಯಕ್ತಿ\nಸಾಮ್ರಾಜ್ಯದಿಂದ ನೀತಿಯಿಂದ ಕತೆಯನ್ನು ಹೇಳಲು ತೊಡಗುತ್ತಾರೆ. ¹² ಹೀಗೆ\nಪ್ರಾರಂಭವಾಗುವ ಕತೆಯಲ್ಲಿ ವ್ಯಕ್ತಿವಿಭಿನ್ನತೆಯ ಹಲವಾರು ಆಯಾಮಗಳೂ\nಬರುತ್ತವೆ. ಅನಂತರದಲ್ಲಿ ಈ ಕಥಾನಕವು ಮತ್ತೆ ಅರಸನ ಸುಖವಾಗಿ\nರಾಜ್ಯವಾಳುವ ನೀತಿಗೆ ಮುಕ್ತಾಯವಾಗುತ್ತದೆ¹³. ಈ ಮಧ್ಯೆ ಜರುಗುವ\nಕ್ರಿಯೆಗಳೆಲ್ಲವೂ ಒಂದು ಉದ್ದೇಶಕ್ಕಾಗಿ ದುಡಿಯುತ್ತವೆ. ಈ ಉದ್ದೇಶ ಒಂದು\nಜೀವನ ನೀತಿಯನ್ನು ಸೂಚಿಸುವಂತಹುದು. ಈ ರೀತಿಯ ಆಶಯವನ್ನು ಹೀಗೆ\nನಿರ್ದೇಶಿಸಬಹುದು ; ಕನಕದಾಸರು ಹಳೆಯ ಕತೆಗೆ ಹೊಸದಾದ"
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": "STOP",
+      "safety_ratings": [
+        {
+          "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HATE_SPEECH",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HARASSMENT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+          "probability": "NEGLIGIBLE"
+        }
+      ],
+      "token_count": null
+    }
+  ],
+  "create_time": null,
+  "response_id": null,
+  "model_version": "gemini-2.5-pro",
+  "prompt_feedback": null,
+  "usage_metadata": {
+    "cache_tokens_details": null,
+    "cached_content_token_count": null,
+    "candidates_token_count": 241,
+    "candidates_tokens_details": null,
+    "prompt_token_count": 728,
+    "prompt_tokens_details": [
+      {
+        "modality": "TEXT",
+        "token_count": 470
+      },
+      {
+        "modality": "IMAGE",
+        "token_count": 258
+      }
+    ],
+    "thoughts_token_count": 2047,
+    "tool_use_prompt_token_count": null,
+    "tool_use_prompt_tokens_details": null,
+    "total_token_count": 3016,
+    "traffic_type": null
+  },
+  "automatic_function_calling_history": [],
+  "parsed": null,
+  "page_number": 363
+}

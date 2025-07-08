@@ -1,0 +1,32 @@
+{
+  "page_number": 753,
+  "ocr_output": {
+    "blocks": [
+      {
+        "block_text": "2. Intermediate Report",
+        "lines": [
+          "2. Intermediate Report"
+        ],
+        "bounding_box": [
+          {
+            "x": 13,
+            "y": 8
+          },
+          {
+            "x": 237,
+            "y": 11
+          },
+          {
+            "x": 237,
+            "y": 30
+          },
+          {
+            "x": 13,
+            "y": 27
+          }
+        ],
+        "confidence": 0.983769
+      }
+    ]
+  }
+}

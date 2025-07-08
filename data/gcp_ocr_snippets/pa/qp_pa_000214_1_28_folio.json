@@ -1,0 +1,32 @@
+{
+  "page_number": 214,
+  "ocr_output": {
+    "blocks": [
+      {
+        "block_text": "-Dailyjobalertpunjab",
+        "lines": [
+          "-Dailyjobalertpunjab"
+        ],
+        "bounding_box": [
+          {
+            "x": 30,
+            "y": 9
+          },
+          {
+            "x": 152,
+            "y": 9
+          },
+          {
+            "x": 152,
+            "y": 19
+          },
+          {
+            "x": 30,
+            "y": 19
+          }
+        ],
+        "confidence": 0.9787518
+      }
+    ]
+  }
+}

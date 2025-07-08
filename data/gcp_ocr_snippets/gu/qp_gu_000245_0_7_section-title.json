@@ -1,0 +1,32 @@
+{
+  "page_number": 245,
+  "ocr_output": {
+    "blocks": [
+      {
+        "block_text": "અથવા",
+        "lines": [
+          "અથવા"
+        ],
+        "bounding_box": [
+          {
+            "x": 15,
+            "y": 15
+          },
+          {
+            "x": 79,
+            "y": 15
+          },
+          {
+            "x": 79,
+            "y": 32
+          },
+          {
+            "x": 15,
+            "y": 32
+          }
+        ],
+        "confidence": 1
+      }
+    ]
+  }
+}

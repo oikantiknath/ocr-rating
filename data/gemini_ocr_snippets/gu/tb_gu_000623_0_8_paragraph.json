@@ -1,0 +1,79 @@
+{
+  "sdk_http_response": {
+    "headers": {
+      "content-type": "application/json; charset=UTF-8",
+      "vary": "Origin, X-Origin, Referer",
+      "content-encoding": "gzip",
+      "date": "Fri, 04 Jul 2025 05:40:29 GMT",
+      "server": "scaffolding on HTTPServer2",
+      "x-xss-protection": "0",
+      "x-frame-options": "SAMEORIGIN",
+      "x-content-type-options": "nosniff",
+      "server-timing": "gfet4t7; dur=57987",
+      "alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
+      "transfer-encoding": "chunked"
+    },
+    "body": null
+  },
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "છોકરે રમે છે, ગાય ચરીકે છે, છોકરી નાચે છે, એવાં વાક્ય લખીને\nછોકરા, ગાય, છોકરી એ શું છે, ને તે સઘળાં શું બતાવે છે, તે પૂછવું.\nપછી છોકરા શું કરે છે, ગાય શું કરે છે, છોકરી શું કરે છે, તે પૂછવું.\nતે બધા શું કરે છે, એવું તેમના સમજવામાં આવશે. એ પછી તમે\nરાતે શું કરો છો, નિશાળમાં આવીને શું કરો છો, વગેરે પ્રશ્ન વડે\nબીજા શબ્દો તેમની પાસેથી કઢાવી ને પાટીઆ પર લખવા પણ બ-\nબતાવવું કે રોવું, બરાડવું, નાચવું, થૂંકવું, ભણવું એ એકેક જાતનું કામ\nઅથવા ક્રિયા છે, ત્યારે તેને ક્રિયાપદ કહે છે. બીજા ક્રિયાપદ આવે,\nએવા વાક્ય છોકરા પાસે બોલાવવા ને લખાવવાં દો, ને બીજાં ધાતુ,\nજેમાં કંઈ ક્રિયા કરવાની નથી, તે શરૂઆતમાં હોવા દેવા, અને વિધાન-\nવાચક ક્રિયા સિવાય બીજો શબ્દ લીધા વગર વાક્ય પૂરું થતું નથી, એ\nશીખવવાને વખત આવે, ત્યારે એવા ધાતુ લેવા સકર્ષક ધાતુ વધુ વાક્યમાં\nકર્મની અપેક્ષા ઉત્પન્ન કરવી છોકરા જાણે છે, છોકરા ખાય છે. એવા\nવાક્ય લખી છોકરા શું ખાય છે, તે બાકી રહે છે, એમ બતાવી, છો-\nકરો શું ખાય છે, એમ લખીને વાક્ય પૂરું કરવું, અને પછી પૂછવું,\nકે છોકરા શું ખાય છે ? છોકરા રોટલો ખાય છે એવો ઉત્તર\nદે છે, ત્યારે છોકરાને શું કહેવું? નામ વળી અહીં કહી શકા-\nય નહીં, કેમકે તેણે તો છોકરો છે. શું કર્મ છે, અને શું નામ છે,\nતે કોને કહેવું, તેની સમજ આપવી."
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": "STOP",
+      "safety_ratings": [
+        {
+          "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HATE_SPEECH",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HARASSMENT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+          "probability": "NEGLIGIBLE"
+        }
+      ],
+      "token_count": null
+    }
+  ],
+  "create_time": null,
+  "response_id": null,
+  "model_version": "gemini-2.5-pro",
+  "prompt_feedback": null,
+  "usage_metadata": {
+    "cache_tokens_details": null,
+    "cached_content_token_count": null,
+    "candidates_token_count": 470,
+    "candidates_tokens_details": null,
+    "prompt_token_count": 756,
+    "prompt_tokens_details": [
+      {
+        "modality": "TEXT",
+        "token_count": 498
+      },
+      {
+        "modality": "IMAGE",
+        "token_count": 258
+      }
+    ],
+    "thoughts_token_count": 5303,
+    "tool_use_prompt_token_count": null,
+    "tool_use_prompt_tokens_details": null,
+    "total_token_count": 6529,
+    "traffic_type": null
+  },
+  "automatic_function_calling_history": [],
+  "parsed": null,
+  "page_number": 354
+}

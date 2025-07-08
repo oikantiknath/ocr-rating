@@ -1,0 +1,32 @@
+{
+  "page_number": 532,
+  "ocr_output": {
+    "blocks": [
+      {
+        "block_text": "Digitized by šrujanika@gmail.com",
+        "lines": [
+          "Digitized by šrujanika@gmail.com"
+        ],
+        "bounding_box": [
+          {
+            "x": 3,
+            "y": 1
+          },
+          {
+            "x": 251,
+            "y": 1
+          },
+          {
+            "x": 251,
+            "y": 16
+          },
+          {
+            "x": 3,
+            "y": 16
+          }
+        ],
+        "confidence": 0.9325026
+      }
+    ]
+  }
+}

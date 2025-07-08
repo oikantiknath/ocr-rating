@@ -1,0 +1,31 @@
+{
+  "page_number": 592,
+  "ocr_output": {
+    "blocks": [
+      {
+        "block_text": "ପ୍ରଥମ ପର୍ଯ୍ୟାୟ ( Semester – 1 ) & ] ]",
+        "lines": [
+          "ପ୍ରଥମ ପର୍ଯ୍ୟାୟ ( Semester – 1 ) & ] ]"
+        ],
+        "bounding_box": [
+          {
+            "x": 13,
+            "y": 1
+          },
+          {
+            "x": 211
+          },
+          {
+            "x": 211,
+            "y": 18
+          },
+          {
+            "x": 13,
+            "y": 18
+          }
+        ],
+        "confidence": 0.85556793
+      }
+    ]
+  }
+}

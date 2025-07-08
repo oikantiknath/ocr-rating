@@ -1,0 +1,32 @@
+{
+  "page_number": 370,
+  "ocr_output": {
+    "blocks": [
+      {
+        "block_text": "www.readwhere.com",
+        "lines": [
+          "www.readwhere.com"
+        ],
+        "bounding_box": [
+          {
+            "x": 3,
+            "y": 8
+          },
+          {
+            "x": 140,
+            "y": 8
+          },
+          {
+            "x": 140,
+            "y": 17
+          },
+          {
+            "x": 3,
+            "y": 17
+          }
+        ],
+        "confidence": 0.9574369
+      }
+    ]
+  }
+}

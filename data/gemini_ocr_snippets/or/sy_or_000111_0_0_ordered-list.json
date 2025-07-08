@@ -1,0 +1,79 @@
+{
+  "sdk_http_response": {
+    "headers": {
+      "content-type": "application/json; charset=UTF-8",
+      "vary": "Origin, X-Origin, Referer",
+      "content-encoding": "gzip",
+      "date": "Fri, 04 Jul 2025 04:04:15 GMT",
+      "server": "scaffolding on HTTPServer2",
+      "x-xss-protection": "0",
+      "x-frame-options": "SAMEORIGIN",
+      "x-content-type-options": "nosniff",
+      "server-timing": "gfet4t7; dur=61752",
+      "alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
+      "transfer-encoding": "chunked"
+    },
+    "body": null
+  },
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "୧) ରାଜ୍ୟ ପ୍ରଦୂଷଣ ନିୟନ୍ତ୍ରଣ ସଂସ୍ଥା ଏବଂ ଅନ୍ୟ ସହ ଆଦାନପ୍ରଦାନ କରିବ।।\n୨) ରାଜ୍ୟ ପ୍ରଦୂଷଣ ପ୍ରତିରୋଧ ନିୟନ୍ତ୍ରଣ, ହ୍ରାସ ଏବଂ ନିରାକରଣ ପାଇଁ କାର୍ଯ୍ୟକ୍ରମ ପ୍ରସ୍ତୁତ ଏବଂ\nସମ୍ପାଦନ କରିବ।।\n୩) ରାଜ୍ୟ ପ୍ରଦୂଷଣ ସମ୍ପର୍କିତ ବିଷୟ ଗୁଡ଼ିକ ସମ୍ବନ୍ଧରେ ସରକାରଙ୍କୁ ପରାମର୍ଶ ଦେବ।।\n୪) ଜଳ ନିଷ୍କାସନ ପଦ୍ଧତି ସମ୍ବନ୍ଧୀୟ ନିର୍ମାଣ କରିବା ଏବଂ ରାଜ୍ୟ ପ୍ରତିରୋଧ, ନିୟନ୍ତ୍ରଣ ଏବଂ\nହ୍ରାସ ସମ୍ପର୍କରେ ଯଥାର୍ଥ ନିର୍ଦ୍ଦେଶ ଦେବ।।\n୫) ରାଜ୍ୟ ପ୍ରଦୂଷଣ, ପ୍ରତିରୋଧ, ନିୟନ୍ତ୍ରଣ ଏବଂ ହ୍ରାସ ନିୟୋଜିତ ବ୍ୟକ୍ତିଙ୍କ ପାଇଁ ତାଲିମ ଆୟୋଜନରେ\nକେନ୍ଦ୍ରୀୟ ପ୍ରଦୂଷଣ ନିୟନ୍ତ୍ରଣ ବୋର୍ଡ ସହିତ ସହଯୋଗ ଓ ସମନ୍ଵୟ ରକ୍ଷା କରିବ।।\n୬) ରାଜ୍ୟ ପ୍ରଦୂଷଣ ଅଧ୍ୟୟନ ନିମନ୍ତେ ଯନ୍ତ୍ରପାତି ରାଜ୍ୟ ପ୍ରଦୂଷଣ ଆକଳନ ଏବଂ ଯଥାର୍ଥ ନିର୍ଦ୍ଦେଶ ପ୍ରଦାନ\nକରିବ।।"
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": "STOP",
+      "safety_ratings": [
+        {
+          "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HATE_SPEECH",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HARASSMENT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+          "probability": "NEGLIGIBLE"
+        }
+      ],
+      "token_count": null
+    }
+  ],
+  "create_time": null,
+  "response_id": null,
+  "model_version": "gemini-2.5-pro",
+  "prompt_feedback": null,
+  "usage_metadata": {
+    "cache_tokens_details": null,
+    "cached_content_token_count": null,
+    "candidates_token_count": 402,
+    "candidates_tokens_details": null,
+    "prompt_token_count": 785,
+    "prompt_tokens_details": [
+      {
+        "modality": "TEXT",
+        "token_count": 527
+      },
+      {
+        "modality": "IMAGE",
+        "token_count": 258
+      }
+    ],
+    "thoughts_token_count": 5545,
+    "tool_use_prompt_token_count": null,
+    "tool_use_prompt_tokens_details": null,
+    "total_token_count": 6732,
+    "traffic_type": null
+  },
+  "automatic_function_calling_history": [],
+  "parsed": null,
+  "page_number": 295
+}

@@ -1,0 +1,79 @@
+{
+  "sdk_http_response": {
+    "headers": {
+      "content-type": "application/json; charset=UTF-8",
+      "vary": "Origin, X-Origin, Referer",
+      "content-encoding": "gzip",
+      "date": "Fri, 04 Jul 2025 04:29:22 GMT",
+      "server": "scaffolding on HTTPServer2",
+      "x-xss-protection": "0",
+      "x-frame-options": "SAMEORIGIN",
+      "x-content-type-options": "nosniff",
+      "server-timing": "gfet4t7; dur=32176",
+      "alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
+      "transfer-encoding": "chunked"
+    },
+    "body": null
+  },
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "చేయడంలో తొందరపాటుతో వ్యవహరించారు. అదే రోజు అది\nసి.సి.నెంబరు.5893/2021గా నమోదైంది. మహమ్మారి సమయంలో,\nప్రాథమిక చర్యలలో గౌరవనీయ సర్వోన్నత న్యాయస్థానం నిర్దేశించిన నియమ\nనిబంధనలను అనుసరించకుండా, దోష స్థాపితలు (కాంటెంనార్స్) ఉద్దేశ\nపూర్వకం గాను, మార్గంగాను మరియు ఆలోచనా పూర్వకంగా తప్పడు\nనివేదనల ఆధారంగా హైదరాబాద్ లోని 13వ అదనపు చీఫ్ మెట్రోపాలిటన్\nమేజిస్ట్రేట్ను బలవంతాన, తప్పుదోవ పట్టించి ఉత్తర్వులు జారీ అయ్యేలా\nకోర్టును మోసగించి 23-04-2021న పిటిషనర్లల పైన చట్టవిరుద్ధం గాను\nమరియు గౌరవనీయ సర్వోన్నత న్యాయస్థానం ఆర్డర్స్ కుమార్ (పైన\nవివరించిన1) కేసులో పేర్కొన్న నియమ నిబంధనలను ఉల్లంఘిస్తూ నాన్\nబెయిల్ బుల్ వారెంట్లు జారీ చేయించారు. భారతీయ శిక్షాస్మృతి (ఐపిసి)\nసెక్షన్ 498- డిఏ చట్టంలోని సెక్షన్లు 3 మరియు 4 రెడ్ విత్ అయుధముల\nచట్టంలోని సెక్షన్ 30 ప్రకారం ఈ సమస్త నేరాలను మూడు సంవత్సరాల\nకఠిన కారాగార శిక్ష విధించబడుతుంది. చట్ట ప్రకారం నేర శిక్షాస్మృతి\n(సిఆర్పిసి) లోని సెక్షన్ 41-ఎ ప్రకారం గౌరవనీయయా సర్వోన్నత\nన్యాయస్థానం సూచించిన నియమ నిబంధనలను పాటించకుండా ఇంకా\nపిటిషనర్లులు దోషస్థాపితులను (కంటెంనార్స్) ఇచ్చిన నివేదన పత్రాన్ని\nపరిగణనలోకి తీసుకోకుండా ఎఫ్ఐఆర్ నెంబరు.488/2020ను\nకొట్టివేయాలని కోరుతూ దాఖలైన పిటిషన్ ముందస్తు ప్రతిని స్వీకరించిన\nపిమ్మట తప్పనిసరి అయినప్పటికీ నోటీసు జారీ చేయకుండా దోషస్థాపితుల\n(కంటెంనార్స్) తొందర పాటుతో వ్యవహరిస్తూ పిటిషనర్లులు పదరిలో\nఉన్నట్లు చూపిస్తూ అభియోగ పత్రం (చార్జ్ షీట్) దాఖలు చేశారు.\nదోషస్థాపితులు (కంటెంనార్స్) వినియోగించిన కార్య విధానం (మోడస్\nఆపరెండి) ప్రకారం శాసన ప్రక్రియ పూర్తిగా దుర్వినియోగ పూరితమైనదని"
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": "STOP",
+      "safety_ratings": [
+        {
+          "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HATE_SPEECH",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HARASSMENT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+          "probability": "NEGLIGIBLE"
+        }
+      ],
+      "token_count": null
+    }
+  ],
+  "create_time": null,
+  "response_id": null,
+  "model_version": "gemini-2.5-pro",
+  "prompt_feedback": null,
+  "usage_metadata": {
+    "cache_tokens_details": null,
+    "cached_content_token_count": null,
+    "candidates_token_count": 605,
+    "candidates_tokens_details": null,
+    "prompt_token_count": 713,
+    "prompt_tokens_details": [
+      {
+        "modality": "TEXT",
+        "token_count": 455
+      },
+      {
+        "modality": "IMAGE",
+        "token_count": 258
+      }
+    ],
+    "thoughts_token_count": 2083,
+    "tool_use_prompt_token_count": null,
+    "tool_use_prompt_tokens_details": null,
+    "total_token_count": 3401,
+    "traffic_type": null
+  },
+  "automatic_function_calling_history": [],
+  "parsed": null,
+  "page_number": 118
+}

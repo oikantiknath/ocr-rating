@@ -1,0 +1,132 @@
+{
+  "page_number": 15,
+  "ocr_output": {
+    "blocks": [
+      {
+        "block_text": "6.1 . The Applicant shall be a company incorporated as per Indian Companies Act 1956 or 2013 ( Copy of Memorandum and Article of the association and certificate of incorporation of the Proposer should be submitted ) Or Registered Partnership firm ( Copy of Partnership Deed and registration certificate should be submitted ) or a registered proprietary firm ( Copy of any registration certificate )",
+        "lines": [
+          "6.1 . The Applicant shall be a company incorporated as per Indian Companies Act 1956 or 2013 ( Copy of Memorandum and Article of the association and certificate of incorporation of the Proposer should be submitted ) Or Registered Partnership firm ( Copy of Partnership Deed and registration certificate should be submitted ) or a registered proprietary firm ( Copy of any registration certificate )"
+        ],
+        "bounding_box": [
+          {
+            "x": 8,
+            "y": 7
+          },
+          {
+            "x": 461,
+            "y": 7
+          },
+          {
+            "x": 461,
+            "y": 86
+          },
+          {
+            "x": 8,
+            "y": 86
+          }
+        ],
+        "confidence": 0.98037213
+      },
+      {
+        "block_text": "6.2 . The Applicant's average annual turnover in the last five financial years must be at least Rs.10 crore from coaching activities ( JEE & NEET only ) . A Certificate from statutory Auditor of the firm along with its stamp and UDIN specifying the turnover shall be submitted .",
+        "lines": [
+          "6.2 . The Applicant's average annual turnover in the last five financial years must be at least Rs.10 crore from coaching activities ( JEE & NEET only ) . A Certificate from statutory Auditor of the firm along with its stamp and UDIN specifying the turnover shall be submitted ."
+        ],
+        "bounding_box": [
+          {
+            "x": 4,
+            "y": 108
+          },
+          {
+            "x": 460,
+            "y": 105
+          },
+          {
+            "x": 460,
+            "y": 166
+          },
+          {
+            "x": 4,
+            "y": 169
+          }
+        ],
+        "confidence": 0.9798793
+      },
+      {
+        "block_text": "6.3 . Applicants blacklisted by any Government department , PSU or Government company are not eligible ( Provide anti Blacklisting certificated as per the format attached annexure 3 ) .",
+        "lines": [
+          "6.3 . Applicants blacklisted by any Government department , PSU or Government company are not eligible ( Provide anti Blacklisting certificated as per the format attached annexure 3 ) ."
+        ],
+        "bounding_box": [
+          {
+            "x": 5,
+            "y": 192
+          },
+          {
+            "x": 461,
+            "y": 192
+          },
+          {
+            "x": 461,
+            "y": 236
+          },
+          {
+            "x": 5,
+            "y": 236
+          }
+        ],
+        "confidence": 0.9822587
+      },
+      {
+        "block_text": "6.4 . The Applicant must have hands - on experience of coaching at least 10000 number of students per year for NEET + JEE in last five financial years on an average . The Applicants shall have to submit documentary evidences in terms of Letter from Auditor plus any other evidences to showcase relevant experience as required in this clause .",
+        "lines": [
+          "6.4 . The Applicant must have hands - on experience of coaching at least 10000 number of students per year for NEET + JEE in last five financial years on an average . The Applicants shall have to submit documentary evidences in terms of Letter from Auditor plus any other evidences to showcase relevant experience as required in this clause ."
+        ],
+        "bounding_box": [
+          {
+            "x": 5,
+            "y": 259
+          },
+          {
+            "x": 460,
+            "y": 259
+          },
+          {
+            "x": 460,
+            "y": 320
+          },
+          {
+            "x": 5,
+            "y": 320
+          }
+        ],
+        "confidence": 0.9855779
+      },
+      {
+        "block_text": "6.5 . At least 400 students coached by the Applicant firm must have cleared competitive exams in terms of NEET + JEE Advanced ( ranking upto 10,000 ) on an average over the last five financial years . The Applicants shall have to submit documentary evidences in terms of Letter from Auditor plus any other evidences to showcase relevant experience as required in this clause .",
+        "lines": [
+          "6.5 . At least 400 students coached by the Applicant firm must have cleared competitive exams in terms of NEET + JEE Advanced ( ranking upto 10,000 ) on an average over the last five financial years . The Applicants shall have to submit documentary evidences in terms of Letter from Auditor plus any other evidences to showcase relevant experience as required in this clause ."
+        ],
+        "bounding_box": [
+          {
+            "x": 4,
+            "y": 344
+          },
+          {
+            "x": 460,
+            "y": 344
+          },
+          {
+            "x": 460,
+            "y": 420
+          },
+          {
+            "x": 4,
+            "y": 420
+          }
+        ],
+        "confidence": 0.9852028
+      }
+    ]
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "sdk_http_response": {
+    "headers": {
+      "content-type": "application/json; charset=UTF-8",
+      "vary": "Origin, X-Origin, Referer",
+      "content-encoding": "gzip",
+      "date": "Fri, 04 Jul 2025 05:38:35 GMT",
+      "server": "scaffolding on HTTPServer2",
+      "x-xss-protection": "0",
+      "x-frame-options": "SAMEORIGIN",
+      "x-content-type-options": "nosniff",
+      "server-timing": "gfet4t7; dur=27782",
+      "alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
+      "transfer-encoding": "chunked"
+    },
+    "body": null
+  },
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "એજ રીતે કુરૂપ ચહેરા સાથે સેજલસિંહ રાજમહેલમાં દાન લેવા પહોંચે છે. ત્યારે પોતાની જ\nપ્રિયતમા પાસેથી દાનમાં મળતું ધોતાર લેતી વખતે સેજલસિંહ તેની માતાનો હાથ પકડી લે છે અને\nઅનાયાસે જ “મોમ” શબ્દ ઉચ્ચારી બેસે છે. છતાંય રાજેશ્વરીને તે સંભળાતું નથી અને મા-દીકરાનું\nમિલન શક્ય બનતું નથી. ભાવકની બંધાયેલ એક આશા તૂટી જાય છે. અને એક અફસોસ ની લાગણી\nમનમાં કેળવાય છે. એક માં દીકરાને ઓળખી ન શકી આથી વધુ કરુણ પરિસ્થિતિથી શું હોઈ શકે ?\nકોઈકવાર સેજલને ભિખારી સમજી કોઈ પૈસા આપે, કોઈ તેને જમવાનું આપે, કોઈ તેના ચહેરાની"
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": "STOP",
+      "safety_ratings": [
+        {
+          "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+          "probability": "LOW"
+        },
+        {
+          "category": "HARM_CATEGORY_HATE_SPEECH",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HARASSMENT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+          "probability": "NEGLIGIBLE"
+        }
+      ],
+      "token_count": null
+    }
+  ],
+  "create_time": null,
+  "response_id": null,
+  "model_version": "gemini-2.5-pro",
+  "prompt_feedback": null,
+  "usage_metadata": {
+    "cache_tokens_details": null,
+    "cached_content_token_count": null,
+    "candidates_token_count": 198,
+    "candidates_tokens_details": null,
+    "prompt_token_count": 758,
+    "prompt_tokens_details": [
+      {
+        "modality": "TEXT",
+        "token_count": 500
+      },
+      {
+        "modality": "IMAGE",
+        "token_count": 258
+      }
+    ],
+    "thoughts_token_count": 2373,
+    "tool_use_prompt_token_count": null,
+    "tool_use_prompt_tokens_details": null,
+    "total_token_count": 3329,
+    "traffic_type": null
+  },
+  "automatic_function_calling_history": [],
+  "parsed": null,
+  "page_number": 269
+}

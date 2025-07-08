@@ -1,0 +1,79 @@
+{
+  "sdk_http_response": {
+    "headers": {
+      "content-type": "application/json; charset=UTF-8",
+      "vary": "Origin, X-Origin, Referer",
+      "content-encoding": "gzip",
+      "date": "Fri, 04 Jul 2025 03:22:07 GMT",
+      "server": "scaffolding on HTTPServer2",
+      "x-xss-protection": "0",
+      "x-frame-options": "SAMEORIGIN",
+      "x-content-type-options": "nosniff",
+      "server-timing": "gfet4t7; dur=44727",
+      "alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
+      "transfer-encoding": "chunked"
+    },
+    "body": null
+  },
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "भृंगी — नहीं बहूजी, यह तो मैंने नहीं पूछा। झूठ क्यों बोलूँ?\nवह रो रहे हैं। इस निस्तब्ध रात्रि में अकेले बैठे हुए वह रो रहे\nहैं। माता की याद आयी होगी? कैसे जाकर उन्हें समझाऊँ? हाय,\nकैसे समझाऊँ? यहाँ तो छींकते नाक कटती है। ईश्वर, तुम साक्षी\nहो अगर मैंने उन्हें भूल से भी कुछ कहा हो, तो वह मेरे गे\nआये। मैं क्या करूँ? वह दिल में समझते होंगे कि इसी ने\nपिताजी से मेरी शिकायत की होगी। कैसे विश्वास दिलाऊँ कि\nमैंने कभी तुम्हारे विरुद्ध एक शब्द भी मुँह से नहीं निकाला? अगर\nमैं ऐसे देवकुमार के-से चरित्र रखने वाले युवक का बुरा चेतूँ तो\nमुझसे बढ़कर राक्षसी संसार में न होगी।"
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": "STOP",
+      "safety_ratings": [
+        {
+          "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HATE_SPEECH",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HARASSMENT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+          "probability": "NEGLIGIBLE"
+        }
+      ],
+      "token_count": null
+    }
+  ],
+  "create_time": null,
+  "response_id": null,
+  "model_version": "gemini-2.5-pro",
+  "prompt_feedback": null,
+  "usage_metadata": {
+    "cache_tokens_details": null,
+    "cached_content_token_count": null,
+    "candidates_token_count": 171,
+    "candidates_tokens_details": null,
+    "prompt_token_count": 758,
+    "prompt_tokens_details": [
+      {
+        "modality": "TEXT",
+        "token_count": 500
+      },
+      {
+        "modality": "IMAGE",
+        "token_count": 258
+      }
+    ],
+    "thoughts_token_count": 4305,
+    "tool_use_prompt_token_count": null,
+    "tool_use_prompt_tokens_details": null,
+    "total_token_count": 5234,
+    "traffic_type": null
+  },
+  "automatic_function_calling_history": [],
+  "parsed": null,
+  "page_number": 208
+}

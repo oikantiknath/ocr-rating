@@ -1,0 +1,79 @@
+{
+  "sdk_http_response": {
+    "headers": {
+      "content-type": "application/json; charset=UTF-8",
+      "vary": "Origin, X-Origin, Referer",
+      "content-encoding": "gzip",
+      "date": "Fri, 04 Jul 2025 03:22:14 GMT",
+      "server": "scaffolding on HTTPServer2",
+      "x-xss-protection": "0",
+      "x-frame-options": "SAMEORIGIN",
+      "x-content-type-options": "nosniff",
+      "server-timing": "gfet4t7; dur=42293",
+      "alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
+      "transfer-encoding": "chunked"
+    },
+    "body": null
+  },
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "32. यात्रा भत्ता व्यय-भार के संबंध में निम्नलिखित कथनों पर\nविचार कीजिए :\n1. रेलवे के किसी कार्यालय में, या रेल मंत्रालय के\nप्रशासनिक नियंत्रणाधीन किसी कार्यालय में\nकार्यभार ग्रहण करने के लिए जाने वाले रेल सेवक\nका भत्ता, यदि विपरीत आदेश नहीं किए गए हैं,\nतो उस कार्यालय को प्रभारित किए जाएँगे जिसमें\nवह कार्यभार ग्रहण करने जा रहा है ।\n2. केंद्र सरकार या राज्य सरकार के किसी अन्य\nविभाग/मंत्रालय को या उससे स्थायी रूप से\nस्थानांतरित सरकारी सेवक का यात्रा भत्ता उस\nविभाग/मंत्रालय या सरकार के नामे (डेबिट) डाला\nजाएगा जिसमें वह स्थानांतरित होता है ।\nउपर्युक्त में से कौन-सा/कौन-से कथन सही है/हैं ?\n(a) केवल 1\n(b) केवल 2\n(c) 1 और 2 दोनों\n(d) न तो 1, न ही 2"
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": "STOP",
+      "safety_ratings": [
+        {
+          "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HATE_SPEECH",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HARASSMENT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+          "probability": "NEGLIGIBLE"
+        }
+      ],
+      "token_count": null
+    }
+  ],
+  "create_time": null,
+  "response_id": null,
+  "model_version": "gemini-2.5-pro",
+  "prompt_feedback": null,
+  "usage_metadata": {
+    "cache_tokens_details": null,
+    "cached_content_token_count": null,
+    "candidates_token_count": 201,
+    "candidates_tokens_details": null,
+    "prompt_token_count": 764,
+    "prompt_tokens_details": [
+      {
+        "modality": "TEXT",
+        "token_count": 506
+      },
+      {
+        "modality": "IMAGE",
+        "token_count": 258
+      }
+    ],
+    "thoughts_token_count": 3775,
+    "tool_use_prompt_token_count": null,
+    "tool_use_prompt_tokens_details": null,
+    "total_token_count": 4740,
+    "traffic_type": null
+  },
+  "automatic_function_calling_history": [],
+  "parsed": null,
+  "page_number": 223
+}

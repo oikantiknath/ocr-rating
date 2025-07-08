@@ -1,0 +1,32 @@
+{
+  "page_number": 1134,
+  "ocr_output": {
+    "blocks": [
+      {
+        "block_text": "In case you are not agreeable to the any of the policy terms and conditions . you have the option of returning the policy to us stating the reasons thereof , within 15 days from the date of receipt of the policy . The Free - Look period for policies purchased through distance marketing ( specified below ) will be 30 days . On receipt of your letter along with the original policy documents , we shall arrange to refund you the value of units allocated to you on the date of receipt of request plus the unallocated part of the premium plus charges . levied by cancellation of units , subject to deduction of the proportionate risk premium for the period on cover , the expenses incurred by us on medical examination and stamp duty .",
+        "lines": [
+          "In case you are not agreeable to the any of the policy terms and conditions . you have the option of returning the policy to us stating the reasons thereof , within 15 days from the date of receipt of the policy . The Free - Look period for policies purchased through distance marketing ( specified below ) will be 30 days . On receipt of your letter along with the original policy documents , we shall arrange to refund you the value of units allocated to you on the date of receipt of request plus the unallocated part of the premium plus charges . levied by cancellation of units , subject to deduction of the proportionate risk premium for the period on cover , the expenses incurred by us on medical examination and stamp duty ."
+        ],
+        "bounding_box": [
+          {
+            "x": 2,
+            "y": 3
+          },
+          {
+            "x": 236,
+            "y": 3
+          },
+          {
+            "x": 236,
+            "y": 117
+          },
+          {
+            "x": 2,
+            "y": 117
+          }
+        ],
+        "confidence": 0.9568774
+      }
+    ]
+  }
+}

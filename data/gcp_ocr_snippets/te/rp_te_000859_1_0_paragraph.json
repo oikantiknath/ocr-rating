@@ -1,0 +1,32 @@
+{
+  "page_number": 859,
+  "ocr_output": {
+    "blocks": [
+      {
+        "block_text": "\" The bhanas are as a rule deal with the social and moral drawbacks of the people with a view to give the people an opportunity to rectify themselves . All the bhanas are devoted to the elucidation of the ways of inumoral conjugal happiness . So that the people may detect those means and put a stop to them ( అనంగ జీవనము వ్రాతప్రతికి ఉపోద్ఘాతము . )",
+        "lines": [
+          "\" The bhanas are as a rule deal with the social and moral drawbacks of the people with a view to give the people an opportunity to rectify themselves . All the bhanas are devoted to the elucidation of the ways of inumoral conjugal happiness . So that the people may detect those means and put a stop to them ( అనంగ జీవనము వ్రాతప్రతికి ఉపోద్ఘాతము . )"
+        ],
+        "bounding_box": [
+          {
+            "x": 4,
+            "y": 3
+          },
+          {
+            "x": 330,
+            "y": 3
+          },
+          {
+            "x": 330,
+            "y": 106
+          },
+          {
+            "x": 4,
+            "y": 106
+          }
+        ],
+        "confidence": 0.98778653
+      }
+    ]
+  }
+}

@@ -1,0 +1,130 @@
+{
+  "page_number": 664,
+  "ocr_output": {
+    "blocks": [
+      {
+        "block_text": "33. á ¥ « fau ca « ?",
+        "lines": [
+          "33. á ¥ « fau ca « ?"
+        ],
+        "bounding_box": [
+          {
+            "y": 8
+          },
+          {
+            "x": 177,
+            "y": 9
+          },
+          {
+            "x": 177,
+            "y": 21
+          },
+          {
+            "y": 20
+          }
+        ],
+        "confidence": 0.61711687
+      },
+      {
+        "block_text": "( A ) piqen nne akpo SIRKIS GO ( C )",
+        "lines": [
+          "( A ) piqen nne akpo SIRKIS GO ( C )"
+        ],
+        "bounding_box": [
+          {
+            "x": 41,
+            "y": 37
+          },
+          {
+            "x": 248,
+            "y": 37
+          },
+          {
+            "x": 248,
+            "y": 74
+          },
+          {
+            "x": 41,
+            "y": 74
+          }
+        ],
+        "confidence": 0.47678337
+      },
+      {
+        "block_text": "( B ) ORIGA $ IG <<<",
+        "lines": [
+          "( B ) ORIGA $ IG <<<"
+        ],
+        "bounding_box": [
+          {
+            "x": 268,
+            "y": 37
+          },
+          {
+            "x": 424,
+            "y": 37
+          },
+          {
+            "x": 424,
+            "y": 51
+          },
+          {
+            "x": 268,
+            "y": 51
+          }
+        ],
+        "confidence": 0.4931512
+      },
+      {
+        "block_text": "( D ) faken gaitu pada was",
+        "lines": [
+          "( D ) faken gaitu pada was"
+        ],
+        "bounding_box": [
+          {
+            "x": 267,
+            "y": 59
+          },
+          {
+            "x": 452,
+            "y": 58
+          },
+          {
+            "x": 452,
+            "y": 73
+          },
+          {
+            "x": 267,
+            "y": 74
+          }
+        ],
+        "confidence": 0.4617871
+      },
+      {
+        "block_text": "CHI CHI PIÙ PRICE GO",
+        "lines": [
+          "CHI CHI PIÙ PRICE GO"
+        ],
+        "bounding_box": [
+          {
+            "x": 146,
+            "y": 60
+          },
+          {
+            "x": 253,
+            "y": 60
+          },
+          {
+            "x": 253,
+            "y": 74
+          },
+          {
+            "x": 146,
+            "y": 74
+          }
+        ],
+        "confidence": 0.3521576
+      }
+    ]
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "page_number": 389,
+  "ocr_output": {
+    "blocks": [
+      {
+        "block_text": "૩૫૨",
+        "lines": [
+          "૩૫૨"
+        ],
+        "bounding_box": [
+          {
+            "x": 10,
+            "y": 8
+          },
+          {
+            "x": 43,
+            "y": 8
+          },
+          {
+            "x": 43,
+            "y": 23
+          },
+          {
+            "x": 10,
+            "y": 23
+          }
+        ],
+        "confidence": 1
+      }
+    ]
+  }
+}

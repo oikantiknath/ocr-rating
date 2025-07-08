@@ -1,0 +1,79 @@
+{
+  "sdk_http_response": {
+    "headers": {
+      "content-type": "application/json; charset=UTF-8",
+      "vary": "Origin, X-Origin, Referer",
+      "content-encoding": "gzip",
+      "date": "Fri, 04 Jul 2025 04:27:45 GMT",
+      "server": "scaffolding on HTTPServer2",
+      "x-xss-protection": "0",
+      "x-frame-options": "SAMEORIGIN",
+      "x-content-type-options": "nosniff",
+      "server-timing": "gfet4t7; dur=28407",
+      "alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
+      "transfer-encoding": "chunked"
+    },
+    "body": null
+  },
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "రాష్ట్రంలో అల్పపీడన ద్రోణి ఏర్పడిందన్న వార్త ఆ\nగ్రామస్థులు వింటే చాలు చిగురుటాకుల్లా వణికిపోతారు\nఆ గ్రామ ప్రజలు. ఆకాశం నిండా మబ్బులు కమ్మితే తట్టా బుట్టా\nసర్దుకొని బంధువుల ఇండ్లకు పయనం పడతారు వారు. కానీ\nఉపాధి హామీ పథకం జిల్లాలో అమలయ్యాక ఆ గ్రామ ప్రజలకు\nకొండంత ధైర్యం వచ్చింది. అందివచ్చిన అవకాశాన్ని\nఅందిపుచ్చుకుని వరద బారి నుండి ఆ గ్రామాన్ని కాపాడుకున్నారు\nఆ గ్రామ దళితవాడ ప్రజలు."
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": "STOP",
+      "safety_ratings": [
+        {
+          "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HATE_SPEECH",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HARASSMENT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+          "probability": "NEGLIGIBLE"
+        }
+      ],
+      "token_count": null
+    }
+  ],
+  "create_time": null,
+  "response_id": null,
+  "model_version": "gemini-2.5-pro",
+  "prompt_feedback": null,
+  "usage_metadata": {
+    "cache_tokens_details": null,
+    "cached_content_token_count": null,
+    "candidates_token_count": 148,
+    "candidates_tokens_details": null,
+    "prompt_token_count": 713,
+    "prompt_tokens_details": [
+      {
+        "modality": "TEXT",
+        "token_count": 455
+      },
+      {
+        "modality": "IMAGE",
+        "token_count": 258
+      }
+    ],
+    "thoughts_token_count": 2483,
+    "tool_use_prompt_token_count": null,
+    "tool_use_prompt_tokens_details": null,
+    "total_token_count": 3344,
+    "traffic_type": null
+  },
+  "automatic_function_calling_history": [],
+  "parsed": null,
+  "page_number": 9
+}

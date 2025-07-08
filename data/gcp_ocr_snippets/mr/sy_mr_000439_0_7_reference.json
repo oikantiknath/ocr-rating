@@ -1,0 +1,597 @@
+{
+  "page_number": 439,
+  "ocr_output": {
+    "blocks": [
+      {
+        "block_text": "Brown , Percy , Indian Architecture ( Islamic period ) , Vol . 2 , Bombay , 1964 .",
+        "lines": [
+          "Brown , Percy , Indian Architecture ( Islamic period ) , Vol . 2 , Bombay , 1964 ."
+        ],
+        "bounding_box": [
+          {
+            "x": 101,
+            "y": 4
+          },
+          {
+            "x": 1111,
+            "y": 4
+          },
+          {
+            "x": 1111,
+            "y": 35
+          },
+          {
+            "x": 101,
+            "y": 35
+          }
+        ],
+        "confidence": 0.9773186
+      },
+      {
+        "block_text": "1 .",
+        "lines": [
+          "1 ."
+        ],
+        "bounding_box": [
+          {
+            "x": 2,
+            "y": 6
+          },
+          {
+            "x": 24,
+            "y": 6
+          },
+          {
+            "x": 24,
+            "y": 29
+          },
+          {
+            "x": 2,
+            "y": 29
+          }
+        ],
+        "confidence": 0.97945
+      },
+      {
+        "block_text": "Brown , Percy , ' Monuments of the Mughul Period ' , Cambridge History of India , Vol . IV , Cambridge , 1937 .",
+        "lines": [
+          "Brown , Percy , ' Monuments of the Mughul Period ' , Cambridge History of India , Vol . IV , Cambridge , 1937 ."
+        ],
+        "bounding_box": [
+          {
+            "x": 101,
+            "y": 48
+          },
+          {
+            "x": 1235,
+            "y": 40
+          },
+          {
+            "x": 1236,
+            "y": 116
+          },
+          {
+            "x": 102,
+            "y": 124
+          }
+        ],
+        "confidence": 0.9672094
+      },
+      {
+        "block_text": "2 .",
+        "lines": [
+          "2 ."
+        ],
+        "bounding_box": [
+          {
+            "x": 1,
+            "y": 49
+          },
+          {
+            "x": 25,
+            "y": 49
+          },
+          {
+            "x": 25,
+            "y": 72
+          },
+          {
+            "x": 1,
+            "y": 72
+          }
+        ],
+        "confidence": 0.9503308
+      },
+      {
+        "block_text": "3 .",
+        "lines": [
+          "3 ."
+        ],
+        "bounding_box": [
+          {
+            "x": 1,
+            "y": 95
+          },
+          {
+            "x": 25,
+            "y": 95
+          },
+          {
+            "x": 25,
+            "y": 117
+          },
+          {
+            "x": 1,
+            "y": 117
+          }
+        ],
+        "confidence": 0.97187924
+      },
+      {
+        "block_text": "Brown , Percy , Indian Painting under the Mughals , A.D. 1550-1750 , Oxford , 1924 . Barett , D. & Gray , B. , Paintings of India , Lausanne , 1963 .",
+        "lines": [
+          "Brown , Percy , Indian Painting under the Mughals , A.D. 1550-1750 , Oxford , 1924 . Barett , D. & Gray , B. , Paintings of India , Lausanne , 1963 ."
+        ],
+        "bounding_box": [
+          {
+            "x": 102,
+            "y": 137
+          },
+          {
+            "x": 1201,
+            "y": 137
+          },
+          {
+            "x": 1201,
+            "y": 211
+          },
+          {
+            "x": 102,
+            "y": 211
+          }
+        ],
+        "confidence": 0.98109204
+      },
+      {
+        "block_text": "4 .",
+        "lines": [
+          "4 ."
+        ],
+        "bounding_box": [
+          {
+            "y": 139
+          },
+          {
+            "x": 27,
+            "y": 139
+          },
+          {
+            "x": 27,
+            "y": 159
+          },
+          {
+            "y": 159
+          }
+        ],
+        "confidence": 0.93295383
+      },
+      {
+        "block_text": "5 .",
+        "lines": [
+          "5 ."
+        ],
+        "bounding_box": [
+          {
+            "y": 181
+          },
+          {
+            "x": 25,
+            "y": 181
+          },
+          {
+            "x": 25,
+            "y": 204
+          },
+          {
+            "y": 204
+          }
+        ],
+        "confidence": 0.9596716
+      },
+      {
+        "block_text": "Fergusson , J. , History of Indian and Eastern Architecture , Revised by J. Burgess Ashraf K.M. Life and condition of the People of Hindustan , 1200-1500",
+        "lines": [
+          "Fergusson , J. , History of Indian and Eastern Architecture , Revised by J. Burgess Ashraf K.M. Life and condition of the People of Hindustan , 1200-1500"
+        ],
+        "bounding_box": [
+          {
+            "x": 101,
+            "y": 225
+          },
+          {
+            "x": 1173,
+            "y": 225
+          },
+          {
+            "x": 1173,
+            "y": 299
+          },
+          {
+            "x": 101,
+            "y": 299
+          }
+        ],
+        "confidence": 0.97970164
+      },
+      {
+        "block_text": "Basham A.L. , The Illustrated Cultural History of India , OUP ,",
+        "lines": [
+          "Basham A.L. , The Illustrated Cultural History of India , OUP ,"
+        ],
+        "bounding_box": [
+          {
+            "x": 102,
+            "y": 314
+          },
+          {
+            "x": 919,
+            "y": 314
+          },
+          {
+            "x": 919,
+            "y": 343
+          },
+          {
+            "x": 102,
+            "y": 343
+          }
+        ],
+        "confidence": 0.98023564
+      },
+      {
+        "block_text": "Batra M.L. , Conservation , Preservation and Restoration of Monuments , New Delhi Bhoumik S.K. Heritage Management : care , understanding and Appreciation of Cultural Heritage",
+        "lines": [
+          "Batra M.L. , Conservation , Preservation and Restoration of Monuments , New Delhi Bhoumik S.K. Heritage Management : care , understanding and Appreciation of Cultural Heritage"
+        ],
+        "bounding_box": [
+          {
+            "x": 101,
+            "y": 350
+          },
+          {
+            "x": 1210,
+            "y": 358
+          },
+          {
+            "x": 1209,
+            "y": 481
+          },
+          {
+            "x": 100,
+            "y": 473
+          }
+        ],
+        "confidence": 0.9837885
+      },
+      {
+        "block_text": "Brown Percy , Indian Architecture ( Islamic Period )",
+        "lines": [
+          "Brown Percy , Indian Architecture ( Islamic Period )"
+        ],
+        "bounding_box": [
+          {
+            "x": 102,
+            "y": 489
+          },
+          {
+            "x": 778,
+            "y": 489
+          },
+          {
+            "x": 778,
+            "y": 519
+          },
+          {
+            "x": 102,
+            "y": 519
+          }
+        ],
+        "confidence": 0.9785041
+      },
+      {
+        "block_text": "Deshpande M.N. Care of Cultural Heritage , New Delhi",
+        "lines": [
+          "Deshpande M.N. Care of Cultural Heritage , New Delhi"
+        ],
+        "bounding_box": [
+          {
+            "x": 101,
+            "y": 534
+          },
+          {
+            "x": 837,
+            "y": 531
+          },
+          {
+            "x": 837,
+            "y": 562
+          },
+          {
+            "x": 101,
+            "y": 565
+          }
+        ],
+        "confidence": 0.98625785
+      },
+      {
+        "block_text": "Grover , Satish , The Architecture of India",
+        "lines": [
+          "Grover , Satish , The Architecture of India"
+        ],
+        "bounding_box": [
+          {
+            "x": 101,
+            "y": 578
+          },
+          {
+            "x": 652,
+            "y": 578
+          },
+          {
+            "x": 652,
+            "y": 604
+          },
+          {
+            "x": 101,
+            "y": 604
+          }
+        ],
+        "confidence": 0.9856635
+      },
+      {
+        "block_text": "Ghoshmaulik , S.K. and K.K. Bass , Understanding Heritage , Role of Museum",
+        "lines": [
+          "Ghoshmaulik , S.K. and K.K. Bass , Understanding Heritage , Role of Museum"
+        ],
+        "bounding_box": [
+          {
+            "x": 101,
+            "y": 622
+          },
+          {
+            "x": 1135,
+            "y": 622
+          },
+          {
+            "x": 1135,
+            "y": 651
+          },
+          {
+            "x": 101,
+            "y": 651
+          }
+        ],
+        "confidence": 0.9787508
+      },
+      {
+        "block_text": "6 .",
+        "lines": [
+          "6 ."
+        ],
+        "bounding_box": [
+          {
+            "y": 225
+          },
+          {
+            "x": 24,
+            "y": 225
+          },
+          {
+            "x": 24,
+            "y": 248
+          },
+          {
+            "y": 248
+          }
+        ],
+        "confidence": 0.97096586
+      },
+      {
+        "block_text": "7 .",
+        "lines": [
+          "7 ."
+        ],
+        "bounding_box": [
+          {
+            "y": 268
+          },
+          {
+            "x": 24,
+            "y": 268
+          },
+          {
+            "x": 24,
+            "y": 292
+          },
+          {
+            "y": 292
+          }
+        ],
+        "confidence": 0.9808146
+      },
+      {
+        "block_text": "9 .",
+        "lines": [
+          "9 ."
+        ],
+        "bounding_box": [
+          {
+            "y": 314
+          },
+          {
+            "x": 25,
+            "y": 314
+          },
+          {
+            "x": 25,
+            "y": 337
+          },
+          {
+            "y": 337
+          }
+        ],
+        "confidence": 0.9727811
+      },
+      {
+        "block_text": "10 .",
+        "lines": [
+          "10 ."
+        ],
+        "bounding_box": [
+          {
+            "x": 4,
+            "y": 359
+          },
+          {
+            "x": 43,
+            "y": 359
+          },
+          {
+            "x": 43,
+            "y": 380
+          },
+          {
+            "x": 4,
+            "y": 380
+          }
+        ],
+        "confidence": 0.95987415
+      },
+      {
+        "block_text": "11 .",
+        "lines": [
+          "11 ."
+        ],
+        "bounding_box": [
+          {
+            "x": 4,
+            "y": 404
+          },
+          {
+            "x": 43,
+            "y": 404
+          },
+          {
+            "x": 43,
+            "y": 426
+          },
+          {
+            "x": 4,
+            "y": 426
+          }
+        ],
+        "confidence": 0.9850698
+      },
+      {
+        "block_text": "12 .",
+        "lines": [
+          "12 ."
+        ],
+        "bounding_box": [
+          {
+            "x": 2,
+            "y": 491
+          },
+          {
+            "x": 43,
+            "y": 491
+          },
+          {
+            "x": 43,
+            "y": 514
+          },
+          {
+            "x": 2,
+            "y": 514
+          }
+        ],
+        "confidence": 0.97789043
+      },
+      {
+        "block_text": "13 .",
+        "lines": [
+          "13 ."
+        ],
+        "bounding_box": [
+          {
+            "x": 2,
+            "y": 535
+          },
+          {
+            "x": 43,
+            "y": 535
+          },
+          {
+            "x": 43,
+            "y": 557
+          },
+          {
+            "x": 2,
+            "y": 557
+          }
+        ],
+        "confidence": 0.9490829
+      },
+      {
+        "block_text": "14 .",
+        "lines": [
+          "14 ."
+        ],
+        "bounding_box": [
+          {
+            "x": 4,
+            "y": 578
+          },
+          {
+            "x": 42,
+            "y": 578
+          },
+          {
+            "x": 42,
+            "y": 600
+          },
+          {
+            "x": 4,
+            "y": 600
+          }
+        ],
+        "confidence": 0.9782652
+      },
+      {
+        "block_text": "15 .",
+        "lines": [
+          "15 ."
+        ],
+        "bounding_box": [
+          {
+            "x": 1,
+            "y": 623
+          },
+          {
+            "x": 42,
+            "y": 623
+          },
+          {
+            "x": 42,
+            "y": 645
+          },
+          {
+            "x": 1,
+            "y": 645
+          }
+        ],
+        "confidence": 0.9525224
+      }
+    ]
+  }
+}

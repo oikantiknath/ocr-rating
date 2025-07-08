@@ -1,0 +1,79 @@
+{
+  "sdk_http_response": {
+    "headers": {
+      "content-type": "application/json; charset=UTF-8",
+      "vary": "Origin, X-Origin, Referer",
+      "content-encoding": "gzip",
+      "date": "Fri, 04 Jul 2025 04:53:18 GMT",
+      "server": "scaffolding on HTTPServer2",
+      "x-xss-protection": "0",
+      "x-frame-options": "SAMEORIGIN",
+      "x-content-type-options": "nosniff",
+      "server-timing": "gfet4t7; dur=80555",
+      "alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
+      "transfer-encoding": "chunked"
+    },
+    "body": null
+  },
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "೮೧) ಕನ್ನಡ ದಲಿತ ಸಾಹಿತ್ಯ ಚರಿತ್ರೆ (ಸಂ.) ಡಾ. ಅರ್ಜುನ ಗೊಳಸಂಗಿ, ಕರ್ನಾಟಕ\nಸಾಹಿತ್ಯ ಅಕಾಡೆಮಿ, ಬೆಂಗಳೂರು, ೨೦೦೩.\n೮೨) ಕುಮಾರರಾಮ ಚರಿತ್ರೆಯಲ್ಲಿ ಮಹಿಳೆ, ಡಾ. ಶ್ರೀಲತಾ ಉಡುಪ, ಗ್ರಂಥಾಲಯ ಪ್ರಕಾಶನ\nಗುಲ್ಬರ್ಗಾ, ೧೯೯೧.\n೮೩) ಕರ್ನಾಟಕ ಸಂಸ್ಕೃತಿ ಸಮೀಕ್ಷೆ, ಎಚ್.ತಿಪ್ಪೇರುದ್ರಸ್ವಾಮಿ, ಡಿ.ವಿ.ಕೆ. ಮೂರ್ತಿಪ್ರಕಾಶನ\nಮೈಸೂರು, ೧೯೮೫.\n೮೪) ಕುಮಾರ ಸಾಹಿತ್ಯ ಸಮೀಕ್ಷೆ, ಡಾ. ವೀಣಾ ಶಾಂತೇಶ್ವರ, ರಿಸಾ ಪ್ರಕಾಶನ, ೧೯೮೯.\n೮೫) ಜಾನಪದ, ಜಿ.ಶಂ.ಪರಮಶಿವಯ್ಯ, ಜೀಆರ್ ಬ್ರದರ್ಸ್, ಮೈಸೂರು, ೧೯೮೯.\n೮೬) ಮಹಿಳೆ, ಸಮಾಜ ಮತ್ತು ಸಾಹಿತ್ಯಗಳು, ಡಾ.ಪ್ರೇಮಾ ಸಿರ್ಸಿಕರ್, ಕನ್ನಡ ಸಾಹಿತ್ಯ ಪರಿಷತ್ತು\nಬೆಂಗಳೂರು, ೨೦೦೬.\n೮೭) ಕುಮಾರ ವಾಲ್ಮೀಕಿ ರಾಮಾಯಣ, ಡಾ. ಗಾಯತ್ರಿ ನಾವಡ, ಸಮಾಜ ಪುಸ್ತಕಾಲಯ\nಬೆಂಗಳೂರು, ೧೯೯೧.\n೮೮) ಕರ್ನಾಟಕದಲ್ಲಿ ಬೌದ್ಧ ಸಂಸ್ಕೃತಿ, ಡಾ. ಪ್ರಸನ್ನಕುಮಾರ ಐಗಳ್, ವಿಕಾಸ ಪ್ರಕಾಶನ\nಬೆಂಗಳೂರು, ೧೯೮೮.\n೮೯) ಕನ್ನಡ ವ್ಯಾಸಂಗ ಮತ್ತು ಭಾಷೆ, ಡಾ. ಡಿ.ಕೆ. ರಾಜೇಂದ್ರ, ಜೀಆರ್ ಪ್ರಕಾಶನ ಕಲಬುರಗಿ, ೨೦೦೮.\n೯೦) ಕನ್ನಡ ಸಂಶೋಧನಾ ಶಾಸ್ತ್ರ, ಡಾ. ಎಂ.ಎಂ. ಕಲಬುರ್ಗಿ, ಸಪ್ನಾ ಬುಕ್ ಹೌಸ್ ಬೆಂಗಳೂರು,\n೨೦೦೯.\n೯೧) ಭಾರತೀಯ ಕಾವ್ಯ ಮೀಮಾಂಸೆ, ತ.ಸು. ಶ್ಯಾಮರಾಯ, ಶಾರದಾ ಮಂದಿರ\nವಿಶ್ವವಿದ್ಯಾಲಯ ಮೈಸೂರು, ೨೦೦೭.\n೯೨) ದಲಿತ ಬಂಡಾಯ, ಚಲಂ, ಡಾ. ಎಸ್. ಚನ್ನಪ್ಪಾ ಸೋಮಶೇಖರ ಗೌಡ\nವಿಶ್ವವಿದ್ಯಾಲಯ ಹಂಪಿ, ೨೦೧೨.\n೯೩) ನಮ್ಮ ಬಸವ ಸಂವಿಧಾನಾತ್ಮಕ ಚಿಂತನೆ (ಅನು.) ಪ್ರೊ. ಆರ್.ಕೆ. ಹುಡಗಿ, ಲೋಕಾಯತ\nಪ್ರಕಾಶನ, ಬಾಗಲಕೋಟ, ೨೦೦೦.\n೯೪) ಸಾಹಿತ್ಯ ಸಂ, ಗವಿಸಿದ್ದಪ್ಪ ಪಾಟೀಲ, ೨೦೦೩.\n೯೫) ಅಂಬೇಡ್ಕರ್ ಭಾಷಣ, ಎಸ್.ಆರ್. ವಿಜಯಶಂಕರ್, ಅಹರ್ನಿಶಿ ಪ್ರಕಾಶನ, ಶಿವಮೊಗ್ಗ, ೨೦೧೩.\n೯೬) ಪ್ರಜಾಪ್ರಭುತ್ವ ಕರ್ನಾಟಕ ದಲಿತ ಸಾಹಿತ್ಯ, ಡಾ. ಎಂ.ಆರ್. ಜಲಜಾಕ್ಷಿ, ಸಪ್ನಾ ಪ್ರಕಾಶನ,\nಬೆಂಗಳೂರು, ೨೦೧೦.\n೯೭) ಮಲೆಗಳಲ್ಲಿನ ಕಿನ್ನರಿ, ಡಾ. ರಹಮತ್ ತರೀಕೆರೆ, ಅಕ್ಷರ ಪ್ರಕಾಶನ, ಬೆಂಗಳೂರು, ೧೯೯೪.\n೯೮) ಚಿತ್ತಾಲ, ಜಿ.ಎಚ್.ನಾಯಕ, ಮನೋಹರ ಗ್ರಂಥಮಾಲಾ ಪ್ರಕಾಶನ, ಬೆಂಗಳೂರು, ೧೯೮೩.\n೯೯) ಅಂಬೇಡ್ಕರ್ ಮತ್ತು ಭಾರತ, ಡಿ.ವಿ.ಕೆ. ಮೂರ್ತಿ, ಡಿ.ವಿ.ಕೆ. ಮೂರ್ತಿ ಪ್ರಕಾಶನ, ಮೈಸೂರು, ೨೦೦೧."
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": "STOP",
+      "safety_ratings": [
+        {
+          "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HATE_SPEECH",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HARASSMENT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+          "probability": "NEGLIGIBLE"
+        }
+      ],
+      "token_count": null
+    }
+  ],
+  "create_time": null,
+  "response_id": null,
+  "model_version": "gemini-2.5-pro",
+  "prompt_feedback": null,
+  "usage_metadata": {
+    "cache_tokens_details": null,
+    "cached_content_token_count": null,
+    "candidates_token_count": 837,
+    "candidates_tokens_details": null,
+    "prompt_token_count": 730,
+    "prompt_tokens_details": [
+      {
+        "modality": "TEXT",
+        "token_count": 472
+      },
+      {
+        "modality": "IMAGE",
+        "token_count": 258
+      }
+    ],
+    "thoughts_token_count": 7201,
+    "tool_use_prompt_token_count": null,
+    "tool_use_prompt_tokens_details": null,
+    "total_token_count": 8768,
+    "traffic_type": null
+  },
+  "automatic_function_calling_history": [],
+  "parsed": null,
+  "page_number": 285
+}

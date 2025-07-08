@@ -1,0 +1,207 @@
+{
+  "page_number": 358,
+  "ocr_output": {
+    "blocks": [
+      {
+        "block_text": "വാസുദേവൻ നായർ , എം.ടി. , 2014 , കാഥികന്റെ കല , കണ്ണൂർ : കൈരളി ബുക്സ് . വാസുദേവൻ നായർ , എം.ടി. , കാഥികന്റെ പണിപ്പുര , തൃശൂർ : കറന്റ് ബുക്സ് . വാസുദേവഭട്ടതിരി , സി.വി. , 2012 , ഗദ്യശില്പം , തിരുവനന്തപുരം : കേരള ഭാഷാ ഇൻസ്റ്റിറ്റ്യൂട്ട് .",
+        "lines": [
+          "വാസുദേവൻ നായർ , എം.ടി. , 2014 , കാഥികന്റെ കല , കണ്ണൂർ : കൈരളി ബുക്സ് . വാസുദേവൻ നായർ , എം.ടി. , കാഥികന്റെ പണിപ്പുര , തൃശൂർ : കറന്റ് ബുക്സ് . വാസുദേവഭട്ടതിരി , സി.വി. , 2012 , ഗദ്യശില്പം , തിരുവനന്തപുരം : കേരള ഭാഷാ ഇൻസ്റ്റിറ്റ്യൂട്ട് ."
+        ],
+        "bounding_box": [
+          {
+            "x": 16,
+            "y": 2
+          },
+          {
+            "x": 722,
+            "y": 2
+          },
+          {
+            "x": 722,
+            "y": 107
+          },
+          {
+            "x": 16,
+            "y": 107
+          }
+        ],
+        "confidence": 0.91853875
+      },
+      {
+        "block_text": "വിജയൻ , ഒ.വി. , 1998 , ഇതിഹാസത്തിന്റെ ഇതിഹാസം , കോട്ടയം : ഡി.സി. ബുക്സ് . വിലാസിനി , 2013 , ഉതിർമണികൾ , കോഴിക്കോട് : പൂർണ ബുക്സ് .",
+        "lines": [
+          "വിജയൻ , ഒ.വി. , 1998 , ഇതിഹാസത്തിന്റെ ഇതിഹാസം , കോട്ടയം : ഡി.സി. ബുക്സ് . വിലാസിനി , 2013 , ഉതിർമണികൾ , കോഴിക്കോട് : പൂർണ ബുക്സ് ."
+        ],
+        "bounding_box": [
+          {
+            "x": 16,
+            "y": 112
+          },
+          {
+            "x": 722,
+            "y": 112
+          },
+          {
+            "x": 722,
+            "y": 160
+          },
+          {
+            "x": 16,
+            "y": 160
+          }
+        ],
+        "confidence": 0.94964343
+      },
+      {
+        "block_text": "ശ്രീജൻ , വി.സി. , 2004 , നോവൽ വായനകൾ , കോട്ടയം : ഡി.സി. ബുക്സ് . ഷാബു കിളിത്തട്ടിൽ , ( എഡി . ) , 2013 , സർഗ്ഗസൃഷ്ടിയിലെ രാസവിദ്യകൾ , കോട്ടയം : ഡി.സി. ബുക്സ് .",
+        "lines": [
+          "ശ്രീജൻ , വി.സി. , 2004 , നോവൽ വായനകൾ , കോട്ടയം : ഡി.സി. ബുക്സ് . ഷാബു കിളിത്തട്ടിൽ , ( എഡി . ) , 2013 , സർഗ്ഗസൃഷ്ടിയിലെ രാസവിദ്യകൾ , കോട്ടയം : ഡി.സി. ബുക്സ് ."
+        ],
+        "bounding_box": [
+          {
+            "x": 16,
+            "y": 164
+          },
+          {
+            "x": 722,
+            "y": 168
+          },
+          {
+            "x": 722,
+            "y": 248
+          },
+          {
+            "x": 16,
+            "y": 244
+          }
+        ],
+        "confidence": 0.93138534
+      },
+      {
+        "block_text": "സുരേന്ദ്രൻ , കെ . , നോവൽസ്വരൂപം , നോവലിസ്റ്റിന്റെ ശില്പശാല , കോട്ടയം : സാഹി ത്യപ്രവർത്തക സഹകരണ സംഘം .",
+        "lines": [
+          "സുരേന്ദ്രൻ , കെ . , നോവൽസ്വരൂപം , നോവലിസ്റ്റിന്റെ ശില്പശാല , കോട്ടയം : സാഹി ത്യപ്രവർത്തക സഹകരണ സംഘം ."
+        ],
+        "bounding_box": [
+          {
+            "x": 16,
+            "y": 249
+          },
+          {
+            "x": 723,
+            "y": 248
+          },
+          {
+            "x": 723,
+            "y": 297
+          },
+          {
+            "x": 16,
+            "y": 298
+          }
+        ],
+        "confidence": 0.9021203
+      },
+      {
+        "block_text": "Colin Lyas , 1993 , Aesthetics ( Fundamentals of Philosophy ) , Mcgill - Queens Univer- sity Press .",
+        "lines": [
+          "Colin Lyas , 1993 , Aesthetics ( Fundamentals of Philosophy ) , Mcgill - Queens Univer- sity Press ."
+        ],
+        "bounding_box": [
+          {
+            "x": 13,
+            "y": 306
+          },
+          {
+            "x": 725,
+            "y": 297
+          },
+          {
+            "x": 725,
+            "y": 340
+          },
+          {
+            "x": 14,
+            "y": 349
+          }
+        ],
+        "confidence": 0.9679859
+      },
+      {
+        "block_text": "John Gardner , 1991 , The Art of Fiction , Newyork : Vintage Books .",
+        "lines": [
+          "John Gardner , 1991 , The Art of Fiction , Newyork : Vintage Books ."
+        ],
+        "bounding_box": [
+          {
+            "x": 15,
+            "y": 357
+          },
+          {
+            "x": 573,
+            "y": 357
+          },
+          {
+            "x": 573,
+            "y": 380
+          },
+          {
+            "x": 15,
+            "y": 380
+          }
+        ],
+        "confidence": 0.97227806
+      },
+      {
+        "block_text": "Martin McLaughlin , ( Trans . ) , 1999 , Why read classics ?, London : Jonathan Cape . Rob , Pope , 2005 , Creativity - Theory , History , Practice , London : Routledge / Psychol- ogy Press .",
+        "lines": [
+          "Martin McLaughlin , ( Trans . ) , 1999 , Why read classics ?, London : Jonathan Cape . Rob , Pope , 2005 , Creativity - Theory , History , Practice , London : Routledge / Psychol- ogy Press ."
+        ],
+        "bounding_box": [
+          {
+            "x": 14,
+            "y": 389
+          },
+          {
+            "x": 726,
+            "y": 379
+          },
+          {
+            "x": 727,
+            "y": 451
+          },
+          {
+            "x": 15,
+            "y": 461
+          }
+        ],
+        "confidence": 0.9705452
+      },
+      {
+        "block_text": "Steven , Earnshaw ( Ed . ) , 2007 , The Hand book of creative Writing , Edinburgh Uni- versity Press .",
+        "lines": [
+          "Steven , Earnshaw ( Ed . ) , 2007 , The Hand book of creative Writing , Edinburgh Uni- versity Press ."
+        ],
+        "bounding_box": [
+          {
+            "x": 13,
+            "y": 471
+          },
+          {
+            "x": 725,
+            "y": 464
+          },
+          {
+            "x": 725,
+            "y": 509
+          },
+          {
+            "x": 13,
+            "y": 516
+          }
+        ],
+        "confidence": 0.9786825
+      }
+    ]
+  }
+}

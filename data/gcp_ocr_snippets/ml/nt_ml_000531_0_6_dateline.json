@@ -1,0 +1,32 @@
+{
+  "page_number": 531,
+  "ocr_output": {
+    "blocks": [
+      {
+        "block_text": "08th February 2022",
+        "lines": [
+          "08th February 2022"
+        ],
+        "bounding_box": [
+          {
+            "x": 11,
+            "y": 15
+          },
+          {
+            "x": 374,
+            "y": 15
+          },
+          {
+            "x": 374,
+            "y": 53
+          },
+          {
+            "x": 11,
+            "y": 53
+          }
+        ],
+        "confidence": 0.98672456
+      }
+    ]
+  }
+}

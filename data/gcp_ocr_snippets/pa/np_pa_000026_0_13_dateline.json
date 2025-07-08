@@ -1,0 +1,57 @@
+{
+  "page_number": 26,
+  "ocr_output": {
+    "blocks": [
+      {
+        "block_text": "AMRITSAR",
+        "lines": [
+          "AMRITSAR"
+        ],
+        "bounding_box": [
+          {
+            "x": 27,
+            "y": 14
+          },
+          {
+            "x": 169,
+            "y": 13
+          },
+          {
+            "x": 169,
+            "y": 34
+          },
+          {
+            "x": 27,
+            "y": 35
+          }
+        ],
+        "confidence": 0.9910249
+      },
+      {
+        "block_text": "21st October 1920",
+        "lines": [
+          "21st October 1920"
+        ],
+        "bounding_box": [
+          {
+            "x": 460,
+            "y": 19
+          },
+          {
+            "x": 667,
+            "y": 19
+          },
+          {
+            "x": 667,
+            "y": 40
+          },
+          {
+            "x": 460,
+            "y": 40
+          }
+        ],
+        "confidence": 0.95100456
+      }
+    ]
+  }
+}

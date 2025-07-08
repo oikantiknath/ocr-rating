@@ -1,0 +1,79 @@
+{
+  "sdk_http_response": {
+    "headers": {
+      "content-type": "application/json; charset=UTF-8",
+      "vary": "Origin, X-Origin, Referer",
+      "content-encoding": "gzip",
+      "date": "Fri, 04 Jul 2025 03:21:38 GMT",
+      "server": "scaffolding on HTTPServer2",
+      "x-xss-protection": "0",
+      "x-frame-options": "SAMEORIGIN",
+      "x-content-type-options": "nosniff",
+      "server-timing": "gfet4t7; dur=50774",
+      "alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
+      "transfer-encoding": "chunked"
+    },
+    "body": null
+  },
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "खेल की विस्तृत रिपोर्ट देने में कोई तुक नहीं। इसका अन्त, जो कि होना ही था, हमारी पूर्ण\nपराजय में हुआ और वह भी चौबीस चालों के भीतर ही। अगर अन्तर्राष्ट्रीय ख्याति के एक\nखिलाड़ी ने हमारे जैसे सामान्य स्तर के आधा दर्जन खिलाड़ियों को अपने बायें हाथ से भी\nपराजित कर दिया, तो इसमें आश्चर्य की कोई बात नहीं थी, लेकिन वस्तुतः जिस बात से हमें\nकोफ्त हुई, वह ज़ेन्तोविक का अभद्रतापूर्ण व्यवहार था, जिसके द्वारा वह हमें स्पष्ट रूप से\nजतलाना चाहता था कि उसने अपने बायें हाथ से ही हमें मात दी है। हर बार अपनी बारी\nआने पर वह एक उड़ती-सी, स्पष्टतः लापरवाह दृष्टि शतरंज की बिसात पर डालता और फिर\nउसी लापरवाह दृष्टि से हमारी ओर देखता, मानो हम सब भी काठ के बने हुए मृत मोहरे हों।\nमेरे दृष्टिकोण के अनुसार, अगर उसमें ज़रा भी सहृदयता होती तो उसे चाहिए था कि हमें\nहमारी भूलें बताता, या एकाध दोस्ताना शब्द कहकर हमारी पराजयजनित खिन्नता को दूर करने\nकी कोशिश करता। यहां तक कि खेल के अन्त में भी शतरंज के इस अर्ध-मानवीय यंत्र ने एक\nशब्द तक नहीं कहा, बल्कि ‘मात’ कहने के बाद टेबल के पास स्थिर खड़ा रहा, महज़ यह\nजानने की प्रतीक्षा में कि हम दूसरी बाज़ी खेलना चाहते हैं या नहीं। अपने भाव द्वारा यह\nजतलाने के लिए कि इस तरह के अशिष्ट व्यक्ति के साथ इतना ही परिचय पर्याप्त है, मैं\nअपनी कुर्सी से आधा उठ भी चुका था कि तभी बगल में बैठे हुए मैकआइवर ने भारी खुरदरी\nआवाज़ में कहा, “प्रतिशोध!”"
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": "STOP",
+      "safety_ratings": [
+        {
+          "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HATE_SPEECH",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HARASSMENT",
+          "probability": "LOW"
+        },
+        {
+          "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+          "probability": "NEGLIGIBLE"
+        }
+      ],
+      "token_count": null
+    }
+  ],
+  "create_time": null,
+  "response_id": null,
+  "model_version": "gemini-2.5-pro",
+  "prompt_feedback": null,
+  "usage_metadata": {
+    "cache_tokens_details": null,
+    "cached_content_token_count": null,
+    "candidates_token_count": 356,
+    "candidates_tokens_details": null,
+    "prompt_token_count": 758,
+    "prompt_tokens_details": [
+      {
+        "modality": "TEXT",
+        "token_count": 500
+      },
+      {
+        "modality": "IMAGE",
+        "token_count": 258
+      }
+    ],
+    "thoughts_token_count": 4585,
+    "tool_use_prompt_token_count": null,
+    "tool_use_prompt_tokens_details": null,
+    "total_token_count": 5699,
+    "traffic_type": null
+  },
+  "automatic_function_calling_history": [],
+  "parsed": null,
+  "page_number": 175
+}

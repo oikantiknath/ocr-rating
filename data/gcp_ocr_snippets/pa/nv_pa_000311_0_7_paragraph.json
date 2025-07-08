@@ -1,0 +1,57 @@
+{
+  "page_number": 311,
+  "ocr_output": {
+    "blocks": [
+      {
+        "block_text": "Dressed in black O ' Farid ! Sufi goes all - around , Darkest his deeds , guile and wickedness abound . Sin - engulfed , day and night tormented in pain ,",
+        "lines": [
+          "Dressed in black O ' Farid ! Sufi goes all - around , Darkest his deeds , guile and wickedness abound . Sin - engulfed , day and night tormented in pain ,"
+        ],
+        "bounding_box": [
+          {
+            "x": 34,
+            "y": 17
+          },
+          {
+            "x": 669,
+            "y": 18
+          },
+          {
+            "x": 669,
+            "y": 165
+          },
+          {
+            "x": 34,
+            "y": 164
+          }
+        ],
+        "confidence": 0.98343086
+      },
+      {
+        "block_text": "Though famous as a Faqir , Yet sure Hell - bound .",
+        "lines": [
+          "Though famous as a Faqir , Yet sure Hell - bound ."
+        ],
+        "bounding_box": [
+          {
+            "x": 36,
+            "y": 189
+          },
+          {
+            "x": 652,
+            "y": 186
+          },
+          {
+            "x": 652,
+            "y": 216
+          },
+          {
+            "x": 36,
+            "y": 219
+          }
+        ],
+        "confidence": 0.9821291
+      }
+    ]
+  }
+}

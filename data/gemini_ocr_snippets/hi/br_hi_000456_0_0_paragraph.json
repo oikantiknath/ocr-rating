@@ -1,0 +1,79 @@
+{
+  "sdk_http_response": {
+    "headers": {
+      "content-type": "application/json; charset=UTF-8",
+      "vary": "Origin, X-Origin, Referer",
+      "content-encoding": "gzip",
+      "date": "Fri, 04 Jul 2025 03:19:46 GMT",
+      "server": "scaffolding on HTTPServer2",
+      "x-xss-protection": "0",
+      "x-frame-options": "SAMEORIGIN",
+      "x-content-type-options": "nosniff",
+      "server-timing": "gfet4t7; dur=36514",
+      "alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
+      "transfer-encoding": "chunked"
+    },
+    "body": null
+  },
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "बायोगैस ऊर्जा का एक नवीकरणीय और पर्यावरण-अनुकूल स्रोत है जो कृषि अवशेषों, पशु खाद, सीवेज\nऔर खाद्य अपशिष्ट जैसे कार्बनिक पदार्थों के अवायवीय पाचन के माध्यम से उत्पन्न होता है। इस प्रक्रिया में\nऑक्सीजन की अनुपस्थिति में बैक्टीरिया द्वारा इन कार्बनिक पदार्थों को तोड़ना शामिल है, जिससे मीथेन और\nकार्बन डाइऑक्साइड का मिश्रण बनता है जिसे बायोगैस के रूप में जाना जाता है। मीथेन, बायोगैस का प्राथमिक\nघटक, एक शक्तिशाली ग्रीनहाउस गैस है, लेकिन जब इसे ईंधन के रूप में उपयोग किया जाता है, तो यह\nपारंपरिक जीवाश्म ईंधन का एक स्वच्छ विकल्प बन जाता है। बायोगैस को बिजली उत्पादन, हीटिंग और वाहन\nईंधन के रूप में विभिन्न अनुप्रयोगों के लिए नियोजित किया जा सकता है। इसका उपयोग न केवल गैर-\nनवीकरणीय ऊर्जा स्रोतों पर निर्भरता को कम करता है बल्कि जैविक कचरे का प्रभावी ढंग से प्रबंधन करके\nपर्यावरण प्रदूषण को भी कम करता है। इसके अतिरिक्त, बायोगैस प्रणालियाँ पोषक तत्वों के पुनर्चक्रण और\nअपशिष्ट प्रबंधन प्रथाओं में सुधार के साधन प्रदान करके टिकाऊ कृषि में योगदान करती हैं। जैसे-जैसे दुनिया\nअधिक टिकाऊ ऊर्जा समाधानों की ओर बढ़ना चाहती है, बायोगैस ऊर्जा और अपशिष्ट प्रबंधन दोनों चुनौतियों\nका समाधान करने की क्षमता के साथ एक बहुमुखी और पर्यावरण के अनुकूल विकल्प के रूप में सामने आता है।"
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": "STOP",
+      "safety_ratings": [
+        {
+          "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HATE_SPEECH",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HARASSMENT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+          "probability": "NEGLIGIBLE"
+        }
+      ],
+      "token_count": null
+    }
+  ],
+  "create_time": null,
+  "response_id": null,
+  "model_version": "gemini-2.5-pro",
+  "prompt_feedback": null,
+  "usage_metadata": {
+    "cache_tokens_details": null,
+    "cached_content_token_count": null,
+    "candidates_token_count": 299,
+    "candidates_tokens_details": null,
+    "prompt_token_count": 758,
+    "prompt_tokens_details": [
+      {
+        "modality": "TEXT",
+        "token_count": 500
+      },
+      {
+        "modality": "IMAGE",
+        "token_count": 258
+      }
+    ],
+    "thoughts_token_count": 3234,
+    "tool_use_prompt_token_count": null,
+    "tool_use_prompt_tokens_details": null,
+    "total_token_count": 4291,
+    "traffic_type": null
+  },
+  "automatic_function_calling_history": [],
+  "parsed": null,
+  "page_number": 15
+}

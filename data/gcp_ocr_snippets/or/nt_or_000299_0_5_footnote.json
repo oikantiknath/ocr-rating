@@ -1,0 +1,32 @@
+{
+  "page_number": 299,
+  "ocr_output": {
+    "blocks": [
+      {
+        "block_text": "Printed and Published by the Director , Printing , Stationery and Publication , Odisha , Cuttack - 10 Ex . Gaz . 1694-173 + 10",
+        "lines": [
+          "Printed and Published by the Director , Printing , Stationery and Publication , Odisha , Cuttack - 10 Ex . Gaz . 1694-173 + 10"
+        ],
+        "bounding_box": [
+          {
+            "x": 21,
+            "y": 24
+          },
+          {
+            "x": 979,
+            "y": 24
+          },
+          {
+            "x": 979,
+            "y": 66
+          },
+          {
+            "x": 21,
+            "y": 66
+          }
+        ],
+        "confidence": 0.968045
+      }
+    ]
+  }
+}

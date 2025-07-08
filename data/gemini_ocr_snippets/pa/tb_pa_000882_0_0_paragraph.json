@@ -1,0 +1,79 @@
+{
+  "sdk_http_response": {
+    "headers": {
+      "content-type": "application/json; charset=UTF-8",
+      "vary": "Origin, X-Origin, Referer",
+      "content-encoding": "gzip",
+      "date": "Fri, 04 Jul 2025 03:50:08 GMT",
+      "server": "scaffolding on HTTPServer2",
+      "x-xss-protection": "0",
+      "x-frame-options": "SAMEORIGIN",
+      "x-content-type-options": "nosniff",
+      "server-timing": "gfet4t7; dur=46218",
+      "alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
+      "transfer-encoding": "chunked"
+    },
+    "body": null
+  },
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "“ਇਹ ਦੋਵੇਂ ਪਿਉ-ਪੁੱਤਰ (ਬਿਨੋਦ ਸਿੰਘ ਤੇ ਕਾਹਨ ਸਿੰਘ) ਪਿੱਛੋਂ ਕਈ ਸਾਲਾਂ\nਤੱਕ ਲਾਹੌਰ ਵਿਖੇ ਮੁਗਲ ਸੂਬੇਦਾਰ ਦੀ ਨੌਕਰੀ ਵੀ ਕਰਦੇ ਰਹੇ ਅਤੇ ਸ੍ਰੀ ਦਰਬਾਰ\nਸਾਹਿਬ, ਅੰਮ੍ਰਿਤਸਰ ਦੇ ਪ੍ਰਬੰਧਕ ਵੀ ਰਹੇ ਸਨ।” ਕੁਝ ਇਤਿਹਾਸਕਾਰਾਂ ਨੇ ਇਹ\nਬਦਖੋਈ ਵੀ ਪ੍ਰਗਟ ਕੀਤੀ ਹੈ ਕਿ ਇਹ ਦੋਵੇਂ ਸਿੱਖ ਗੁਰਦਾਸ ਨੰਗਲ ਦੇ ਘੇਰੇ ਵਿੱਚ\nਹੀ ਹੀ ਨਹੀਂ ਸਨ! ਸਗੋਂ, ਇਸ ਆਪਸੀ ਫੁੱਟ ਕਾਰਨ ਸਿੱਖਾਂ ਦੀ ਤਾਕਤ ਘਟ ਗਈ।\nਖਾਣ ਨੂੰ ਹੋਰ ਕੁਝ ਵੀ ਨਾ ਮਿਲਣ ਦੀ ਹਾਲਤ ਵਿੱਚ ਘੋੜਿਆਂ, ਗਧਿਆਂ ਅਤੇ\nਦੂਜੇ ਜਾਨਵਰਾਂ ਦਾ ਮਾਸ ਖਾਣਾ ਪੈ ਗਿਆ। ਉਨ੍ਹਾਂ ਨੇ ਘਾਹ ਅਤੇ\nਦਰਖਤਾਂ ਦੇ ਪੱਤੇ ਖਾ ਕੇ ਗੁਜ਼ਾਰਾ ਕੀਤਾ। ਇਸ ਤਰ੍ਹਾਂ ਬਹੁਤ ਸਾਰੇ ਸਿੱਖ ਮਰਨੋਂ\nਅਤੇ ਸਰੀਰਕ ਕਸ਼ਟਾਂ ਦੁਆਰਾ ਹੀ ਚਲਦੇ ਬਣੇ। ‘ਜਾਦੂ ਨਾਥ ਨੇ ਫਿਰ ਚੜ੍ਹ ਕੇ\nਬੋਲੇ।’ ਕਨਿੰਘਮ ਵੀ, ਆਪਣੀ ਪੁਸਤਕ-‘ਟ੍ਰਾਂਸਫਾਰਮੇਸ਼ਨ ਸਲਤਾਨ’ ਵਿੱਚ ਸਿੱਖਾਂ\nਦੀ ਬਹਾਦਰੀ ਤੇ ਹੌਸਲੇ ਦੀ ਗੱਲ ਕਰਦਿਆਂ ਸਪੱਸ਼ਟ ਸ਼ਬਦਾਂ ਵਿੱਚ ਲਿਖਦਾ ਹੈ\nਕਿ “ਇਸ ਸਭ ਕੁਝ ਦੇ ਬਾਵਜੂਦ ਬੰਦਾ ਸਿੰਘ ਬਹਾਦਰ (ਬੰਦਾ ਬਹਾਦਰ) ਅਤੇ\nਉਸ ਦੇ ਅਧੀਨਿਆਂ ਨੇ ਮਹਾਨ ਮੁਗਲ ਰਾਜ ਦੀਆਂ ਫੌਜਾਂ ਦਾ, ਜੋ ਉਹਨਾਂ\nਵਿਰੁੱਧ ਮੋਰਚਿਆਂ ਦੇ ਸਮੇਂ ਵਿੱਚ ਇਕੱਠੀਆਂ ਕਰ ਸਕੇ ਸਨ, ਡਟ ਕੇ ਟਾਕਰਾ\nਕੀਤਾ।”"
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": "STOP",
+      "safety_ratings": [
+        {
+          "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HATE_SPEECH",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HARASSMENT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+          "probability": "NEGLIGIBLE"
+        }
+      ],
+      "token_count": null
+    }
+  ],
+  "create_time": null,
+  "response_id": null,
+  "model_version": "gemini-2.5-pro",
+  "prompt_feedback": null,
+  "usage_metadata": {
+    "cache_tokens_details": null,
+    "cached_content_token_count": null,
+    "candidates_token_count": 471,
+    "candidates_tokens_details": null,
+    "prompt_token_count": 485,
+    "prompt_tokens_details": [
+      {
+        "modality": "TEXT",
+        "token_count": 227
+      },
+      {
+        "modality": "IMAGE",
+        "token_count": 258
+      }
+    ],
+    "thoughts_token_count": 3612,
+    "tool_use_prompt_token_count": null,
+    "tool_use_prompt_tokens_details": null,
+    "total_token_count": 4568,
+    "traffic_type": null
+  },
+  "automatic_function_calling_history": [],
+  "parsed": null,
+  "page_number": 316
+}

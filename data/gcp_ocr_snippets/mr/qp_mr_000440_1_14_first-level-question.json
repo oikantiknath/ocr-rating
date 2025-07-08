@@ -1,0 +1,282 @@
+{
+  "page_number": 440,
+  "ocr_output": {
+    "blocks": [
+      {
+        "block_text": "63. ' I knew that he was ill , but I did not know that he suffered from cancer .",
+        "lines": [
+          "63. ' I knew that he was ill , but I did not know that he suffered from cancer ."
+        ],
+        "bounding_box": [
+          {
+            "x": 4,
+            "y": 5
+          },
+          {
+            "x": 394,
+            "y": 5
+          },
+          {
+            "x": 394,
+            "y": 16
+          },
+          {
+            "x": 4,
+            "y": 16
+          }
+        ],
+        "confidence": 0.972012
+      },
+      {
+        "block_text": "The above sentence exemplifies",
+        "lines": [
+          "The above sentence exemplifies"
+        ],
+        "bounding_box": [
+          {
+            "x": 33,
+            "y": 27
+          },
+          {
+            "x": 192,
+            "y": 27
+          },
+          {
+            "x": 192,
+            "y": 38
+          },
+          {
+            "x": 33,
+            "y": 38
+          }
+        ],
+        "confidence": 0.9895485
+      },
+      {
+        "block_text": "( b ) Compound - Complex sentences 100",
+        "lines": [
+          "( b ) Compound - Complex sentences 100"
+        ],
+        "bounding_box": [
+          {
+            "x": 231,
+            "y": 46
+          },
+          {
+            "x": 487,
+            "y": 51
+          },
+          {
+            "x": 487,
+            "y": 67
+          },
+          {
+            "x": 231,
+            "y": 62
+          }
+        ],
+        "confidence": 0.9005111
+      },
+      {
+        "block_text": "( a ) Compound sentence",
+        "lines": [
+          "( a ) Compound sentence"
+        ],
+        "bounding_box": [
+          {
+            "x": 33,
+            "y": 50
+          },
+          {
+            "x": 165,
+            "y": 49
+          },
+          {
+            "x": 165,
+            "y": 62
+          },
+          {
+            "x": 33,
+            "y": 63
+          }
+        ],
+        "confidence": 0.984522
+      },
+      {
+        "block_text": "( c ) Complex sentence",
+        "lines": [
+          "( c ) Complex sentence"
+        ],
+        "bounding_box": [
+          {
+            "x": 33,
+            "y": 72
+          },
+          {
+            "x": 153,
+            "y": 71
+          },
+          {
+            "x": 153,
+            "y": 83
+          },
+          {
+            "x": 33,
+            "y": 84
+          }
+        ],
+        "confidence": 0.9784703
+      },
+      {
+        "block_text": "( d ) Simple sentence",
+        "lines": [
+          "( d ) Simple sentence"
+        ],
+        "bounding_box": [
+          {
+            "x": 231,
+            "y": 72
+          },
+          {
+            "x": 339,
+            "y": 71
+          },
+          {
+            "x": 339,
+            "y": 83
+          },
+          {
+            "x": 231,
+            "y": 84
+          }
+        ],
+        "confidence": 0.9875581
+      },
+      {
+        "block_text": "Answer Options :",
+        "lines": [
+          "Answer Options :"
+        ],
+        "bounding_box": [
+          {
+            "x": 33,
+            "y": 95
+          },
+          {
+            "x": 127,
+            "y": 95
+          },
+          {
+            "x": 127,
+            "y": 106
+          },
+          {
+            "x": 33,
+            "y": 106
+          }
+        ],
+        "confidence": 0.94476885
+      },
+      {
+        "block_text": "( 4 ) ( d ) only d",
+        "lines": [
+          "( 4 ) ( d ) only d"
+        ],
+        "bounding_box": [
+          {
+            "x": 374,
+            "y": 115
+          },
+          {
+            "x": 472,
+            "y": 113
+          },
+          {
+            "x": 472,
+            "y": 126
+          },
+          {
+            "x": 374,
+            "y": 128
+          }
+        ],
+        "confidence": 0.94766134
+      },
+      {
+        "block_text": "( 1 ) ( c ) only",
+        "lines": [
+          "( 1 ) ( c ) only"
+        ],
+        "bounding_box": [
+          {
+            "x": 34,
+            "y": 117
+          },
+          {
+            "x": 99,
+            "y": 117
+          },
+          {
+            "x": 99,
+            "y": 129
+          },
+          {
+            "x": 34,
+            "y": 129
+          }
+        ],
+        "confidence": 0.9435246
+      },
+      {
+        "block_text": "( 3 ) ( a ) only",
+        "lines": [
+          "( 3 ) ( a ) only"
+        ],
+        "bounding_box": [
+          {
+            "x": 261,
+            "y": 117
+          },
+          {
+            "x": 328,
+            "y": 117
+          },
+          {
+            "x": 328,
+            "y": 129
+          },
+          {
+            "x": 261,
+            "y": 129
+          }
+        ],
+        "confidence": 0.9670603
+      },
+      {
+        "block_text": "( 2 ) ( b ) only",
+        "lines": [
+          "( 2 ) ( b ) only"
+        ],
+        "bounding_box": [
+          {
+            "x": 147,
+            "y": 118
+          },
+          {
+            "x": 215,
+            "y": 118
+          },
+          {
+            "x": 215,
+            "y": 128
+          },
+          {
+            "x": 147,
+            "y": 128
+          }
+        ],
+        "confidence": 0.9720565
+      }
+    ]
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "sdk_http_response": {
+    "headers": {
+      "content-type": "application/json; charset=UTF-8",
+      "vary": "Origin, X-Origin, Referer",
+      "content-encoding": "gzip",
+      "date": "Fri, 04 Jul 2025 04:30:46 GMT",
+      "server": "scaffolding on HTTPServer2",
+      "x-xss-protection": "0",
+      "x-frame-options": "SAMEORIGIN",
+      "x-content-type-options": "nosniff",
+      "server-timing": "gfet4t7; dur=72246",
+      "alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
+      "transfer-encoding": "chunked"
+    },
+    "body": null
+  },
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "4. 2008 ఫిబ్రవరి 26వ తేదీ నాటి జిపిఎ నిబంధనల ప్రకారం, దరఖాస్తుదారుడు\nసవిస్తర ప్రాజెక్టు నివేదిక (డిపిఆర్), అభివృద్ధి నియంత్రణ నియమాలు మొదలైన వాటికి\nఅనుగుణంగా డిజైనింగ్ మరియు ప్రణాళిక, ప్లానింగ్, మార్కెటింగ్, అభివృద్ధికి అవసరమైన\nమౌలిక సదుపాయాలు, అవసరమైన సేవలను అందించడం, మౌలిక సదుపాయాల\nనిర్వహణ, పరిపాలన మరియు నిర్వాహనకు సంబంధించిన పనులను చేపట్టవలసి ఉంటుంది.\n\n5. అఫిడెంట్ కథనము ప్రకారము, అభివృద్ధి ప్రణాళిక గూర్చి పూర్తి నివేదిక,\nకట్టడముల గూర్చిన ప్రణాళిక, ఆర్ధిక నిర్మాణం మరియు మార్కెటింగ్ వ్యూహంతో కూడిన\nవివరణాత్మక నివేదికను అఫిడెంట్ అందించాల్సిన అవసరం ఉంది. ప్రతివాది-టిహెచ్ బి సు\n30 రోజుల్లో సమీక్షించి ఆమోదించి వారి అంగీకారమును తెలియజేయాలి. ఎటువంటి\nసవరణలు సూచించిన పక్షంలో, అఫిడెంట్ బ్యాంక్ గ్యారంటీ సమర్పించుటతో పాటు అభివృద్ధి"
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": "STOP",
+      "safety_ratings": [
+        {
+          "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HATE_SPEECH",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HARASSMENT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+          "probability": "NEGLIGIBLE"
+        }
+      ],
+      "token_count": null
+    }
+  ],
+  "create_time": null,
+  "response_id": null,
+  "model_version": "gemini-2.5-pro",
+  "prompt_feedback": null,
+  "usage_metadata": {
+    "cache_tokens_details": null,
+    "cached_content_token_count": null,
+    "candidates_token_count": 288,
+    "candidates_tokens_details": null,
+    "prompt_token_count": 715,
+    "prompt_tokens_details": [
+      {
+        "modality": "TEXT",
+        "token_count": 457
+      },
+      {
+        "modality": "IMAGE",
+        "token_count": 258
+      }
+    ],
+    "thoughts_token_count": 7337,
+    "tool_use_prompt_token_count": null,
+    "tool_use_prompt_tokens_details": null,
+    "total_token_count": 8340,
+    "traffic_type": null
+  },
+  "automatic_function_calling_history": [],
+  "parsed": null,
+  "page_number": 144
+}

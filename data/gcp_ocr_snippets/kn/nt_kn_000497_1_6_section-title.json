@@ -1,0 +1,32 @@
+{
+  "page_number": 497,
+  "ocr_output": {
+    "blocks": [
+      {
+        "block_text": "ಅಧ್ಯಾಯ - VIII",
+        "lines": [
+          "ಅಧ್ಯಾಯ - VIII"
+        ],
+        "bounding_box": [
+          {
+            "x": 28,
+            "y": 4
+          },
+          {
+            "x": 105,
+            "y": 1
+          },
+          {
+            "x": 106,
+            "y": 17
+          },
+          {
+            "x": 29,
+            "y": 17
+          }
+        ],
+        "confidence": 0.78814787
+      }
+    ]
+  }
+}

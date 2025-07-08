@@ -1,0 +1,79 @@
+{
+  "sdk_http_response": {
+    "headers": {
+      "content-type": "application/json; charset=UTF-8",
+      "vary": "Origin, X-Origin, Referer",
+      "content-encoding": "gzip",
+      "date": "Fri, 04 Jul 2025 04:18:55 GMT",
+      "server": "scaffolding on HTTPServer2",
+      "x-xss-protection": "0",
+      "x-frame-options": "SAMEORIGIN",
+      "x-content-type-options": "nosniff",
+      "server-timing": "gfet4t7; dur=40880",
+      "alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
+      "transfer-encoding": "chunked"
+    },
+    "body": null
+  },
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "நாளொன்றின் பெரும்பகுதியை குடும்ப அங்கத்தவர்களுடன் செலவிடும் நீங்கள்,\nஅதற்கு அடுத்து பாடசாலையிலேயே அதிக நேரத்தைச் செலவிடுகிறீர்கள்.\nஇலங்கையின் சனத்தொகையில் 1/5 பங்கினர் கல்வி கற்போராவர். பாடசாலைக்\nகல்வியின் மூலம் சிறு வயது முதலே உங்களது நடத்தைகளை உருவாக்கும் சிறந்த\nபணி ஆரம்பிக்கப்பட்டு சிறப்பாகவும் வெற்றிகரமாகவும் முன்னெடுக்கப்படுகிறது.\nசமூகத்திற்கு சிறந்த தகவல்களை வழங்குவதற்கு பாடசாலையை ஒரு தளமாகக்\nகொள்ள முடியும். கல்வியின் மூலம் உங்களதும் குடும்பத்தினதும் சமூகத்தினதும்\nஆரோக்கியத்தை மேம்படுத்துவதற்கு பாடசாலை மாணவர்களான உங்களாலும்\nபங்களிப்புச் செய்ய முடியும்."
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": "STOP",
+      "safety_ratings": [
+        {
+          "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HATE_SPEECH",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HARASSMENT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+          "probability": "NEGLIGIBLE"
+        }
+      ],
+      "token_count": null
+    }
+  ],
+  "create_time": null,
+  "response_id": null,
+  "model_version": "gemini-2.5-pro",
+  "prompt_feedback": null,
+  "usage_metadata": {
+    "cache_tokens_details": null,
+    "cached_content_token_count": null,
+    "candidates_token_count": 151,
+    "candidates_tokens_details": null,
+    "prompt_token_count": 754,
+    "prompt_tokens_details": [
+      {
+        "modality": "TEXT",
+        "token_count": 496
+      },
+      {
+        "modality": "IMAGE",
+        "token_count": 258
+      }
+    ],
+    "thoughts_token_count": 3709,
+    "tool_use_prompt_token_count": null,
+    "tool_use_prompt_tokens_details": null,
+    "total_token_count": 4614,
+    "traffic_type": null
+  },
+  "automatic_function_calling_history": [],
+  "parsed": null,
+  "page_number": 244
+}

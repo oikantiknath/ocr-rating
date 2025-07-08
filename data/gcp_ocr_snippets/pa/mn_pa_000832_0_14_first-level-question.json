@@ -1,0 +1,32 @@
+{
+  "page_number": 832,
+  "ocr_output": {
+    "blocks": [
+      {
+        "block_text": "9. Encircle the correct pair",
+        "lines": [
+          "9. Encircle the correct pair"
+        ],
+        "bounding_box": [
+          {
+            "x": 16,
+            "y": 22
+          },
+          {
+            "x": 485,
+            "y": 26
+          },
+          {
+            "x": 485,
+            "y": 59
+          },
+          {
+            "x": 16,
+            "y": 55
+          }
+        ],
+        "confidence": 0.9810166
+      }
+    ]
+  }
+}

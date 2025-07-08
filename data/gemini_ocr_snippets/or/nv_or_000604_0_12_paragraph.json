@@ -1,0 +1,79 @@
+{
+  "sdk_http_response": {
+    "headers": {
+      "content-type": "application/json; charset=UTF-8",
+      "vary": "Origin, X-Origin, Referer",
+      "content-encoding": "gzip",
+      "date": "Fri, 04 Jul 2025 04:02:13 GMT",
+      "server": "scaffolding on HTTPServer2",
+      "x-xss-protection": "0",
+      "x-frame-options": "SAMEORIGIN",
+      "x-content-type-options": "nosniff",
+      "server-timing": "gfet4t7; dur=53833",
+      "alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
+      "transfer-encoding": "chunked"
+    },
+    "body": null
+  },
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "ଦେଖି ନପାରିଲେ ଦେଇ କହିଲେ ଶାମନ୍ତ ନିବେଶାନ୍ତ—\nରୂପରେଖ, କରୁଣାସିନ୍ଧୁ, ପ୍ରଭୁପାଦ, ରଘୁକୁଳ କେଶରୀ । କଳିଯୁଗ\nଶ୍ରୀକୃଷ୍ଣ ନନ୍ଦ ଦେବେ ଦେବ ମହାପ୍ରଭୁ ଦେବେଶ୍ଵର\nଭକ୍ତ ଜନେ ଦେଖନ୍ତି । ପୁଣି ଠିକ୍ ଯେ ବାବୁ, ଗଙ୍ଗାଧର,\nଶ୍ରୀଧର ବାବୁ ଇତ୍ୟାଦି ତ ଅଛନ୍ତି । ପ୍ରତ୍ୟେକଙ୍କ ପରିଚ୍ଛଦରେ ସାମାନ୍ୟ\nବା ଏକ ମହାପୁରୁଷଙ୍କୁ ନ ଭଜି ନିଜେ ପ୍ରଥମେ ସାଧୁରେ\nପରିଣତି ହେଉଛନ୍ତି, ସେମାନଙ୍କୁ ଶାସ୍ତ୍ରରେ କହନ୍ତି ଶୂଦ୍ରମୁନି,\nଯେଉଁ ଅଧିକାର ସେ ଦେଇ ଗଲେ, ତାହାର ଶୂନ୍ୟତାର ଭାର, ତାଙ୍କର\nପ୍ରାଣର କମ୍ପନଟିକୁ ନେଇ ପକେଇବେ କିଏ । ରୂପରେଖ\nପ୍ରବଳ ଦୁର୍ବଳ ସବୁ କିଛି ଅଛି, ଦୁର୍ବଳ ଆଗକୁ ବଢି ବଢି\nଇତ୍ୟାଦି କହି ତାଙ୍କ ତାଙ୍କ ଦୋଷ ଦେଖି ଏବଂ ଆମେ ଦୋଷ ଦୋଷ\nକରୁଛୁ ପ୍ରତିଦିନ “ଆହା, ବାବୁ ଏମିତି କାହିଁକି କଲେ । ସେ ତ"
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": "STOP",
+      "safety_ratings": [
+        {
+          "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HATE_SPEECH",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HARASSMENT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+          "probability": "NEGLIGIBLE"
+        }
+      ],
+      "token_count": null
+    }
+  ],
+  "create_time": null,
+  "response_id": null,
+  "model_version": "gemini-2.5-pro",
+  "prompt_feedback": null,
+  "usage_metadata": {
+    "cache_tokens_details": null,
+    "cached_content_token_count": null,
+    "candidates_token_count": 409,
+    "candidates_tokens_details": null,
+    "prompt_token_count": 782,
+    "prompt_tokens_details": [
+      {
+        "modality": "TEXT",
+        "token_count": 524
+      },
+      {
+        "modality": "IMAGE",
+        "token_count": 258
+      }
+    ],
+    "thoughts_token_count": 4713,
+    "tool_use_prompt_token_count": null,
+    "tool_use_prompt_tokens_details": null,
+    "total_token_count": 5904,
+    "traffic_type": null
+  },
+  "automatic_function_calling_history": [],
+  "parsed": null,
+  "page_number": 204
+}

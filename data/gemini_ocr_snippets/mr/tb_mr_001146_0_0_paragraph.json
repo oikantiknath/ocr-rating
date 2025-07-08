@@ -1,0 +1,79 @@
+{
+  "sdk_http_response": {
+    "headers": {
+      "content-type": "application/json; charset=UTF-8",
+      "vary": "Origin, X-Origin, Referer",
+      "content-encoding": "gzip",
+      "date": "Fri, 04 Jul 2025 05:26:48 GMT",
+      "server": "scaffolding on HTTPServer2",
+      "x-xss-protection": "0",
+      "x-frame-options": "SAMEORIGIN",
+      "x-content-type-options": "nosniff",
+      "server-timing": "gfet4t7; dur=22712",
+      "alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
+      "transfer-encoding": "chunked"
+    },
+    "body": null
+  },
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "लायपोप्रथिनाशी संबंधित जनुके व पेशीवरील लायपोप्रथिन ग्राहक\nकोलेस्टेरॉल व मेद यांच्या रक्तातील वाहून नेणे यांवर हृदयविकार अवलंबून असतो.\nहृदयविकार असण्याची शक्यता बऱ्याच वेळा आनुवंशिक असते. यास कुटुंबातील\nहायपरकोलेस्टेरॉलेमिया म्हणतात. कोलेस्टेरॉल ग्राहक जनुकातील किंचित बिघाडामुळे हा\nप्रकार घडतो. APOE जनुक बहुरूपीय (पॉलिमॉर्फिक) आहे. बहुतेक व्यक्तीमध्ये या\nजनुकाचा एकच प्रकार एकोणीसाव्या गुणसूत्रामध्ये असतो. पण क्वचित याची E2, E3 व"
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": "STOP",
+      "safety_ratings": [
+        {
+          "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HATE_SPEECH",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HARASSMENT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+          "probability": "NEGLIGIBLE"
+        }
+      ],
+      "token_count": null
+    }
+  ],
+  "create_time": null,
+  "response_id": null,
+  "model_version": "gemini-2.5-pro",
+  "prompt_feedback": null,
+  "usage_metadata": {
+    "cache_tokens_details": null,
+    "cached_content_token_count": null,
+    "candidates_token_count": 152,
+    "candidates_tokens_details": null,
+    "prompt_token_count": 714,
+    "prompt_tokens_details": [
+      {
+        "modality": "TEXT",
+        "token_count": 456
+      },
+      {
+        "modality": "IMAGE",
+        "token_count": 258
+      }
+    ],
+    "thoughts_token_count": 1673,
+    "tool_use_prompt_token_count": null,
+    "tool_use_prompt_tokens_details": null,
+    "total_token_count": 2539,
+    "traffic_type": null
+  },
+  "automatic_function_calling_history": [],
+  "parsed": null,
+  "page_number": 357
+}

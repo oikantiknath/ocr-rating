@@ -1,0 +1,79 @@
+{
+  "sdk_http_response": {
+    "headers": {
+      "content-type": "application/json; charset=UTF-8",
+      "vary": "Origin, X-Origin, Referer",
+      "content-encoding": "gzip",
+      "date": "Fri, 04 Jul 2025 04:35:45 GMT",
+      "server": "scaffolding on HTTPServer2",
+      "x-xss-protection": "0",
+      "x-frame-options": "SAMEORIGIN",
+      "x-content-type-options": "nosniff",
+      "server-timing": "gfet4t7; dur=47201",
+      "alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
+      "transfer-encoding": "chunked"
+    },
+    "body": null
+  },
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "ఆశ్చర్యాన్ని కలిగించే సంఘటనలు, అసాధారణమైన విషయాలు, సాహసం, శృంగారం,\nసౌందర్యం, ప్రతిభ, కాకతాళీయంగా జరిగి కొన్ని సంఘటనలు ఎంతో ఆసక్తిని కలిగిస్తుంటాయి.\nఇలాంటి విషయాలపట్ల మానవులందరూ సహజంగానే ఆసక్తి చూపిస్తారు. అందుకే మానవాసక్తి\nకూడా వార్త లక్షణాల్లో ఒకటి. బతికున్న పామును తినే వ్యక్తి, వంద పెళ్ళిళ్ళు చేసుకొన్న వనిత,\n12 అడుగుల జట్టు పెంచుకున్న మనిషి, కారును నడిపిన మూడేళ్ళ బాబు, మాస్టోస్సాగర్\nబుద్ధివిగ్రహం మునక మొదలైన వార్తలు మానవాసక్తిని కలిగిస్తాయి. మారుమూల గ్రామీణ\nప్రాంతాలవారి మాధనమ్యూకలు, గిరిజనుల ఆచార వ్యవహారాలు, జంతుబలి, నరబలి లాంటి\nసంఘటనలన్నీ పూర్తిగా ‘మానవాసక్తి’ అనే అంశం కారణంగానే వార్తలుగా పత్రికల్లో చోటు\nసంపాదించుకుంటున్నాయి."
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": "STOP",
+      "safety_ratings": [
+        {
+          "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HATE_SPEECH",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HARASSMENT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+          "probability": "NEGLIGIBLE"
+        }
+      ],
+      "token_count": null
+    }
+  ],
+  "create_time": null,
+  "response_id": null,
+  "model_version": "gemini-2.5-pro",
+  "prompt_feedback": null,
+  "usage_metadata": {
+    "cache_tokens_details": null,
+    "cached_content_token_count": null,
+    "candidates_token_count": 255,
+    "candidates_tokens_details": null,
+    "prompt_token_count": 715,
+    "prompt_tokens_details": [
+      {
+        "modality": "TEXT",
+        "token_count": 457
+      },
+      {
+        "modality": "IMAGE",
+        "token_count": 258
+      }
+    ],
+    "thoughts_token_count": 4231,
+    "tool_use_prompt_token_count": null,
+    "tool_use_prompt_tokens_details": null,
+    "total_token_count": 5201,
+    "traffic_type": null
+  },
+  "automatic_function_calling_history": [],
+  "parsed": null,
+  "page_number": 281
+}

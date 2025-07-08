@@ -1,0 +1,32 @@
+{
+  "page_number": 124,
+  "ocr_output": {
+    "blocks": [
+      {
+        "block_text": "Digitized by srujanika@gmail.com",
+        "lines": [
+          "Digitized by srujanika@gmail.com"
+        ],
+        "bounding_box": [
+          {
+            "x": 2,
+            "y": 4
+          },
+          {
+            "x": 234,
+            "y": 4
+          },
+          {
+            "x": 234,
+            "y": 20
+          },
+          {
+            "x": 2,
+            "y": 20
+          }
+        ],
+        "confidence": 0.9880601
+      }
+    ]
+  }
+}

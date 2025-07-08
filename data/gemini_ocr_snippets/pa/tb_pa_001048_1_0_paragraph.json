@@ -1,0 +1,79 @@
+{
+  "sdk_http_response": {
+    "headers": {
+      "content-type": "application/json; charset=UTF-8",
+      "vary": "Origin, X-Origin, Referer",
+      "content-encoding": "gzip",
+      "date": "Fri, 04 Jul 2025 03:49:55 GMT",
+      "server": "scaffolding on HTTPServer2",
+      "x-xss-protection": "0",
+      "x-frame-options": "SAMEORIGIN",
+      "x-content-type-options": "nosniff",
+      "server-timing": "gfet4t7; dur=20517",
+      "alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
+      "transfer-encoding": "chunked"
+    },
+    "body": null
+  },
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "ਅਧਾਰ ਤੇ ਨਿਊਰਾਨ ਨੂੰ ਤਿੰਨ ਸਮੂਹਾਂ ਵਿੱਚ ਵੰਡਦੇ ਹਨ। ਜਿਵੇਂ\nਬਹੁਧਰੁਵੀ (Multipolar) ਜਿਸ ਵਿਚ ਇੱਕ ਐਕਸਾਨ ਅਤੇ ਦੋ ਜਾਂ\nਵੱਧ ਡੈਂਡਰਾਈਟ ਸੈਰੀਬ੍ਰਲ ਕੌਰਟੈਕਸ ਵਿੱਚ ਪਾਏ ਜਾਂਦੇ ਹਨ ਅਤੇ ਦੋ\nਧਰੁਵੀ (Bipolar) (ਇੱਕ ਡੈਂਡਰਾਈਟ ਅਤੇ ਇੱਕ ਐਕਸਾਨ) ਜਿਹੜੇ\nਕਿ ਰੈਟਿਨਾ ਵਿੱਚ ਪਾਏ ਜਾਂਦੇ ਹਨ ਅਤੇ ਇੱਕ ਧਰੁਵੀ (Unipolar)\n(ਸੈੱਲ ਕਾਇਆ ਜਿਸ ਵਿੱਚ ਇੱਕ ਐਕਸਾਨ ਹੁੰਦਾ ਹੈ ਇਹ ਭਰੂਣ\nਅਵਸਥਾ ਵਿੱਚ ਪਾਏ ਜਾਂਦੇ ਹਨ)। ਐਕਸਾਨ ਵੀ ਦੋ ਤਰ੍ਹਾਂ ਦੇ ਹੁੰਦੇ\nਹਨ ਮਾਈਲੀਨੇਟਿਡ ( myelinated) ਅਤੇ ਨਾਨ ਮਾਈਲੀਨੇਟਿਡ\n(non-myelinated)। ਮਾਈਲੀਨੇਟਿਡ ਸੈੱਲਾਂ ਦੇ ਅੰਦਰਣ ਸਵਾਨ\n(Schwaan) ਸੈੱਲਾਂ ਦੇ ਬਣੇ ਹੁੰਦੇ ਹਨ ਜੋ ਐਕਸਾਨ ਦੇ ਆਸ ਪਾਸ\nਮਾਈਲਿਨ ਦੀ ਪਰਤ ਬਨਾਉਂਦੇ ਹਨ। ਇਸ ਮਾਈਲਿਨ ਪਰਤ ਵਿੱਚ\nਅੰਤਰਾਲ ਪਾਏ ਜਾਂਦੇ ਹਨ ਜਿਨਾਂ ਨੂੰ ਰੈਨਵੀਅਰ ਦੀਆਂ ਗੰਢਾਂ (nodes\nof Ranvier) ਕਹਿੰਦੇ ਹਨ। ਮਾਈਲੀਨੇਟਿਡ ਨਾੜੀ ਤੰਦ ਸੁਸ਼ਮਨਾ\nਨਾੜੀ ਅਤੇ ਖੋਪੜੀ ਨਾੜੀਆਂ ਵਿੱਚ ਪਾਏ ਜਾਂਦੇ ਹਨ। ਨਾਨ\nਮਾਈਲੀਨੇਟਿਡ ਨਾੜੀ ਤੰਦ ਵੀ ਸਵਾਨ ਸੈੱਲਾਂ(Schwann) ਨਾਲ\nਘਿਰੇ ਹੁੰਦੇ ਹਨ ਪਰ ਇਹ ਐਕਸਾਨ ਦੇ ਚਾਰੇ ਪਾਸੇ ਮਾਈਲਿਨ ਪਰਤ\nਨਹੀਂ ਬਣਾਉਂਦੇ। ਆਮ ਤੌਰ ਤੇ ਇਹ ਸਵੈਚਲਿਤ ਕਾਇਆ ਨਾੜੀ\nਪ੍ਰਣਾਲੀ ਵਿੱਚ ਪਾਏ ਜਾਂਦੇ ਹਨ।"
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": "STOP",
+      "safety_ratings": [
+        {
+          "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HATE_SPEECH",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HARASSMENT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+          "probability": "NEGLIGIBLE"
+        }
+      ],
+      "token_count": null
+    }
+  ],
+  "create_time": null,
+  "response_id": null,
+  "model_version": "gemini-2.5-pro",
+  "prompt_feedback": null,
+  "usage_metadata": {
+    "cache_tokens_details": null,
+    "cached_content_token_count": null,
+    "candidates_token_count": 474,
+    "candidates_tokens_details": null,
+    "prompt_token_count": 485,
+    "prompt_tokens_details": [
+      {
+        "modality": "TEXT",
+        "token_count": 227
+      },
+      {
+        "modality": "IMAGE",
+        "token_count": 258
+      }
+    ],
+    "thoughts_token_count": 1061,
+    "tool_use_prompt_token_count": null,
+    "tool_use_prompt_tokens_details": null,
+    "total_token_count": 2020,
+    "traffic_type": null
+  },
+  "automatic_function_calling_history": [],
+  "parsed": null,
+  "page_number": 323
+}

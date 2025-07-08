@@ -1,0 +1,57 @@
+{
+  "page_number": 467,
+  "ocr_output": {
+    "blocks": [
+      {
+        "block_text": "Written to satisfy the requirements",
+        "lines": [
+          "Written to satisfy the requirements"
+        ],
+        "bounding_box": [
+          {
+            "x": 15,
+            "y": 10
+          },
+          {
+            "x": 425,
+            "y": 16
+          },
+          {
+            "x": 425,
+            "y": 39
+          },
+          {
+            "x": 15,
+            "y": 33
+          }
+        ],
+        "confidence": 0.91666335
+      },
+      {
+        "block_text": "of the syllabus .",
+        "lines": [
+          "of the syllabus ."
+        ],
+        "bounding_box": [
+          {
+            "x": 126,
+            "y": 52
+          },
+          {
+            "x": 298,
+            "y": 54
+          },
+          {
+            "x": 298,
+            "y": 77
+          },
+          {
+            "x": 126,
+            "y": 75
+          }
+        ],
+        "confidence": 0.9418797
+      }
+    ]
+  }
+}

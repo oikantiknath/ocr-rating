@@ -1,0 +1,79 @@
+{
+  "sdk_http_response": {
+    "headers": {
+      "content-type": "application/json; charset=UTF-8",
+      "vary": "Origin, X-Origin, Referer",
+      "content-encoding": "gzip",
+      "date": "Fri, 04 Jul 2025 05:11:06 GMT",
+      "server": "scaffolding on HTTPServer2",
+      "x-xss-protection": "0",
+      "x-frame-options": "SAMEORIGIN",
+      "x-content-type-options": "nosniff",
+      "server-timing": "gfet4t7; dur=72819",
+      "alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
+      "transfer-encoding": "chunked"
+    },
+    "body": null
+  },
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "ആന്റണി മാസ്റ്റർ എ ധർമ്മത്തിന് നി വലിക്കാനുള്ള (ചെറുപ്പത്തിൽ ആന്റ\nണിയുടെ ഡോക്ടർ പറയുന്ന (പ്രമാണം) അകലം പാലിച്ചിരുന്നെങ്കി\nലെന്നോണം ഒരു ലക്ഷ്യമോ കാര്യപ്രാപ്തിയുള്ളവയോ അല്ല ആന്റണിയുടേത്.\nകേസ് തെളിയിക്കുക എന്നത് കേവലാർത്ഥത്തിൽ ലക്ഷ്യമായി പരിഗണിക്കാനാകാ\nത്തതും, അവസാദങ്ങൾക്കപ്പുറത്തുനിന്ന് കേസന്വേഷണം നടത്തുകയാണ് ചെയ്യുന്ന\nത്. ചെറുപ്പത്തിൽ പ്രേക്ഷകർ കൂട്ടിവായിച്ച അറിയുന്ന അപകർഷതാബോധമുള്ള\nആന്റണിയെയാണ്. ഈ അവസാദങ്ങളും കഥാകാലവും ദൃശ്യപരമായി വിനി\nമയം ചെയ്യുന്നത് പ്രധാനമായും ആന്റണിയുടെ തെളിയിക്കലിലെ അപകടത്തെത്തു\nടർന്നുള്ള മുറിവാണ്. കഥാടിസ്ഥാനത്തിൽ, അദൃശ്യനായ ആന്റണി കഴിവുള്ള,\nധീരനും ധൈര്യവാനുമാണ് എന്നിരുന്നാൽത്തന്നെ, പൗരുഷം പ്രകടിപ്പിക്കുന്ന രംഗങ്ങൾ പോലും\nആണ്, ഭൂതകാലത്തിന്റെ അഭാവത്തിൽ നിലനിൽക്കുന്ന അസ്തിത്വത്തിലേയെ\nന്നബോധവും അകലുമ്പോഴാണ് ആന്റണി ഉണ്ടാകുന്നത്. ചെയ്യുന്ന കാര്യത്തിൽ ഉള്ള ഉറപ്പി\nലുള്ള ചെയ്യുന്നതു കാര്യങ്ങളിൽനിന്ന് പിന്മാറുന്ന ആന്റണി മാസ്റ്ററിൽനിന്നും"
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": "STOP",
+      "safety_ratings": [
+        {
+          "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HATE_SPEECH",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HARASSMENT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+          "probability": "NEGLIGIBLE"
+        }
+      ],
+      "token_count": null
+    }
+  ],
+  "create_time": null,
+  "response_id": null,
+  "model_version": "gemini-2.5-pro",
+  "prompt_feedback": null,
+  "usage_metadata": {
+    "cache_tokens_details": null,
+    "cached_content_token_count": null,
+    "candidates_token_count": 291,
+    "candidates_tokens_details": null,
+    "prompt_token_count": 740,
+    "prompt_tokens_details": [
+      {
+        "modality": "TEXT",
+        "token_count": 482
+      },
+      {
+        "modality": "IMAGE",
+        "token_count": 258
+      }
+    ],
+    "thoughts_token_count": 6463,
+    "tool_use_prompt_token_count": null,
+    "tool_use_prompt_tokens_details": null,
+    "total_token_count": 7494,
+    "traffic_type": null
+  },
+  "automatic_function_calling_history": [],
+  "parsed": null,
+  "page_number": 313
+}

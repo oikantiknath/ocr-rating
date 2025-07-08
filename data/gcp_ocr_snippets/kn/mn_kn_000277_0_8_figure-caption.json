@@ -1,0 +1,32 @@
+{
+  "page_number": 277,
+  "ocr_output": {
+    "blocks": [
+      {
+        "block_text": "Nostril",
+        "lines": [
+          "Nostril"
+        ],
+        "bounding_box": [
+          {
+            "x": 8,
+            "y": 11
+          },
+          {
+            "x": 93,
+            "y": 11
+          },
+          {
+            "x": 93,
+            "y": 31
+          },
+          {
+            "x": 8,
+            "y": 31
+          }
+        ],
+        "confidence": 0.9695503
+      }
+    ]
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "page_number": 602,
+  "ocr_output": {
+    "blocks": [
+      {
+        "block_text": "Lesson 10 : Enquiring about family",
+        "lines": [
+          "Lesson 10 : Enquiring about family"
+        ],
+        "bounding_box": [
+          {
+            "x": 22,
+            "y": 15
+          },
+          {
+            "x": 368,
+            "y": 17
+          },
+          {
+            "x": 368,
+            "y": 39
+          },
+          {
+            "x": 22,
+            "y": 37
+          }
+        ],
+        "confidence": 0.9806798
+      },
+      {
+        "block_text": "Verb ' iru ' , and corresponding negation ,",
+        "lines": [
+          "Verb ' iru ' , and corresponding negation ,"
+        ],
+        "bounding_box": [
+          {
+            "x": 94,
+            "y": 61
+          },
+          {
+            "x": 494,
+            "y": 63
+          },
+          {
+            "x": 494,
+            "y": 86
+          },
+          {
+            "x": 94,
+            "y": 84
+          }
+        ],
+        "confidence": 0.97102284
+      }
+    ]
+  }
+}

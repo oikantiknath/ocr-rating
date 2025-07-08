@@ -1,0 +1,32 @@
+{
+  "page_number": 276,
+  "ocr_output": {
+    "blocks": [
+      {
+        "block_text": "Page 55",
+        "lines": [
+          "Page 55"
+        ],
+        "bounding_box": [
+          {
+            "x": 4,
+            "y": 7
+          },
+          {
+            "x": 115,
+            "y": 4
+          },
+          {
+            "x": 116,
+            "y": 31
+          },
+          {
+            "x": 5,
+            "y": 34
+          }
+        ],
+        "confidence": 0.8989005
+      }
+    ]
+  }
+}

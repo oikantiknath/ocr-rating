@@ -1,0 +1,79 @@
+{
+  "sdk_http_response": {
+    "headers": {
+      "content-type": "application/json; charset=UTF-8",
+      "vary": "Origin, X-Origin, Referer",
+      "content-encoding": "gzip",
+      "date": "Fri, 04 Jul 2025 05:24:47 GMT",
+      "server": "scaffolding on HTTPServer2",
+      "x-xss-protection": "0",
+      "x-frame-options": "SAMEORIGIN",
+      "x-content-type-options": "nosniff",
+      "server-timing": "gfet4t7; dur=46019",
+      "alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
+      "transfer-encoding": "chunked"
+    },
+    "body": null
+  },
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "या प्रमाणें आज्ञा झाल्यावर शिपाई रामभटाच्या मुस्क्या बां\nधीत आहेत इतक्यांत, रामभटाचा बाप महादेवभट वृद्ध ऐशीं व\nर्षांचा होता, तो नुकताच कोंकणांतून पुण्यास आला होता, या\nला आपले घरच्या माणसांचें वर्तमान कळल्या वरून उदास हो\nऊन एका कागदावर त्यानें अर्ज लिहिला आणि जिवाची आस्था\nनठेवितां, कोतवालापुढें तो अर्ज टाकावा असें मनांत धरून डोकी\nस टोपी घालून व हातांत काठी घेऊन कांपत कांपत कोतवाला\nचे दारापाशीं तो आला. तेव्हां हिंमत चालेना म्हणून तो अर्जीचा\nकागद टोपींत घालून मांडीवर कोतवालापुढें आला आणि आ\nजर्वून म्हणूं लागला कीं ह्या तिघांजणांस किती अक्कल आहे हें\nआपणास ह्यांचे बोलण्या वरून कळलेंच आहे. पांड्यास व रा\nम्यास मी शिकवतां शिकवतां थकलों; परंतु कांहींच फळ झा\nलें नाहीं, आणि ही बाई तर आमचे पदरीं आकाबाई आली आ\nहे. तेव्हां मज-म्हाताऱ्याकडे पाहून यातिघांस सोडून देण्याची\nआज्ञा व्हावी. तें कोतवाल ऐकेना. तेव्हां तो साष्टांग नमस्कार घा\nलूं लागला, तेव्हां त्याचे डोकीवरील टोपी पडली, तींतून काग"
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": "STOP",
+      "safety_ratings": [
+        {
+          "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HATE_SPEECH",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HARASSMENT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+          "probability": "NEGLIGIBLE"
+        }
+      ],
+      "token_count": null
+    }
+  ],
+  "create_time": null,
+  "response_id": null,
+  "model_version": "gemini-2.5-pro",
+  "prompt_feedback": null,
+  "usage_metadata": {
+    "cache_tokens_details": null,
+    "cached_content_token_count": null,
+    "candidates_token_count": 325,
+    "candidates_tokens_details": null,
+    "prompt_token_count": 714,
+    "prompt_tokens_details": [
+      {
+        "modality": "TEXT",
+        "token_count": 456
+      },
+      {
+        "modality": "IMAGE",
+        "token_count": 258
+      }
+    ],
+    "thoughts_token_count": 3957,
+    "tool_use_prompt_token_count": null,
+    "tool_use_prompt_tokens_details": null,
+    "total_token_count": 4996,
+    "traffic_type": null
+  },
+  "automatic_function_calling_history": [],
+  "parsed": null,
+  "page_number": 181
+}

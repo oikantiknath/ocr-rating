@@ -1,0 +1,32 @@
+{
+  "page_number": 232,
+  "ocr_output": {
+    "blocks": [
+      {
+        "block_text": "ଲକ୍ଷଣ",
+        "lines": [
+          "ଲକ୍ଷଣ"
+        ],
+        "bounding_box": [
+          {
+            "x": 7,
+            "y": 7
+          },
+          {
+            "x": 58,
+            "y": 7
+          },
+          {
+            "x": 58,
+            "y": 25
+          },
+          {
+            "x": 7,
+            "y": 25
+          }
+        ],
+        "confidence": 1
+      }
+    ]
+  }
+}

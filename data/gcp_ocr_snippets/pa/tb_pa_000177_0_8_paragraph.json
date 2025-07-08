@@ -1,0 +1,32 @@
+{
+  "page_number": 177,
+  "ocr_output": {
+    "blocks": [
+      {
+        "block_text": "The imperative may be used without a pronoun , which is for emphasis . The negative is expressed by \" T \" put before the verb , eg .",
+        "lines": [
+          "The imperative may be used without a pronoun , which is for emphasis . The negative is expressed by \" T \" put before the verb , eg ."
+        ],
+        "bounding_box": [
+          {
+            "x": 13,
+            "y": 6
+          },
+          {
+            "x": 1027,
+            "y": 18
+          },
+          {
+            "x": 1025,
+            "y": 178
+          },
+          {
+            "x": 11,
+            "y": 176
+          }
+        ],
+        "confidence": 0.9757824
+      }
+    ]
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "sdk_http_response": {
+    "headers": {
+      "content-type": "application/json; charset=UTF-8",
+      "vary": "Origin, X-Origin, Referer",
+      "content-encoding": "gzip",
+      "date": "Fri, 04 Jul 2025 03:20:26 GMT",
+      "server": "scaffolding on HTTPServer2",
+      "x-xss-protection": "0",
+      "x-frame-options": "SAMEORIGIN",
+      "x-content-type-options": "nosniff",
+      "server-timing": "gfet4t7; dur=25375",
+      "alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
+      "transfer-encoding": "chunked"
+    },
+    "body": null
+  },
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "10 विसंक्रमित फिंगर ड्रेसिंग (sterilized finger dressings)\n10 विसंक्रमित पैर और हाथ की ड्रेसिंग (sterilized foot and hand dressings)\n10 विसंक्रमित बड़े आकार की ड्रेसिंग (sterilized large dressings)\n1 विसंक्रमित अधिक बड़ी ड्रेसिंग (sterilized extra-large dressings)\n2 विसंक्रमित प्राथमिक चिकित्सा फील्ड ड्रेसिंग (sterilized first aid field dressings)\n2 विसंक्रमित शैल ड्रेसिंग (sterilized shell dressings)\n4 विसंक्रमित छोटी बर्न ड्रेसिंग (sterilized small burn dressings)\n2 विसंक्रमित बड़ी बर्न ड्रेसिंग (sterilized large burn dressings)\n50 एडहेसिव ड्रेसिंग स्ट्रिप (adhesive dressing strips)\n4 रोलर बैंडेज 5 सेमी. (5 मीटर) [roller bandages 5 cm (5 m)]\n2 रोलर बैंडेज 7.5 सेमी. (5 मीटर) [roller bandages 7.5 cm (5 m)]\n6 त्रिकोणीय पट्टियां (90 सेमी.) [triangular bandages (90 cm)]\n1 पैकेज गॉज 7.5 सेमी. [package gauze 7.5 cm]\n4 पैकेज विसंक्रमित अवशोषक रुई 25 ग्राम [package sterilized absorbent cotton 25 g]\n6 विसंक्रमित नेत्र पैड (सेंट जॉन पैटर्न) [sterilized eye pads (st John pattern)]\n1 स्पूल एडहेसिव प्लास्टर 2.5 सेमी (5 मीटर) [spool adhesive plaster 2.5 cm (5 m)]\n1 ट्यूब सिल्वर सल्फाडाइजीन स्किन आइन्टमेंट 15 ग्राम [tube sliver sulfadiazine skin ointment 15 g]\n1 बॉटल सेवलोन, डिटॉल या केटाविलोन 112 मिली. (bottle savlon, detol or catavelon 112 ml)\n2 सर्जिकल कैंचियां 12.5 सेमी. (धारदार/मुथरी) [surgical scissors 12.5 cm (sharp/blunt edge)]\n1 माउथ-टू-माउथ रिसससिटेटर (mouth-to-mouth resuscitator)\n3 इन्फ्लेटेबल आर्म स्प्लिंट्स (inflatable arm splints)\n3 इन्फ्लेटेबल लेग स्प्लिंट्स (inflatable leg splints)\n1 टार्च (2 बैटरी सेल) [torch (2 battery cells)]"
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": "STOP",
+      "safety_ratings": [
+        {
+          "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HATE_SPEECH",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HARASSMENT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+          "probability": "LOW"
+        }
+      ],
+      "token_count": null
+    }
+  ],
+  "create_time": null,
+  "response_id": null,
+  "model_version": "gemini-2.5-pro",
+  "prompt_feedback": null,
+  "usage_metadata": {
+    "cache_tokens_details": null,
+    "cached_content_token_count": null,
+    "candidates_token_count": 530,
+    "candidates_tokens_details": null,
+    "prompt_token_count": 760,
+    "prompt_tokens_details": [
+      {
+        "modality": "TEXT",
+        "token_count": 502
+      },
+      {
+        "modality": "IMAGE",
+        "token_count": 258
+      }
+    ],
+    "thoughts_token_count": 1537,
+    "tool_use_prompt_token_count": null,
+    "tool_use_prompt_tokens_details": null,
+    "total_token_count": 2827,
+    "traffic_type": null
+  },
+  "automatic_function_calling_history": [],
+  "parsed": null,
+  "page_number": 98
+}

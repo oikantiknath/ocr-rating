@@ -1,0 +1,107 @@
+{
+  "page_number": 490,
+  "ocr_output": {
+    "blocks": [
+      {
+        "block_text": "Gichal ch1914 & , fehog 29 an goyan at 3ù foa-",
+        "lines": [
+          "Gichal ch1914 & , fehog 29 an goyan at 3ù foa-"
+        ],
+        "bounding_box": [
+          {
+            "x": 144,
+            "y": 2
+          },
+          {
+            "x": 373,
+            "y": 2
+          },
+          {
+            "x": 373,
+            "y": 15
+          },
+          {
+            "x": 144,
+            "y": 15
+          }
+        ],
+        "confidence": 0.36914894
+      },
+      {
+        "block_text": "yas byr ved at hai mì from dan è site you at ng vì àì íàài à un à aurez seua me dan",
+        "lines": [
+          "yas byr ved at hai mì from dan è site you at ng vì àì íàài à un à aurez seua me dan"
+        ],
+        "bounding_box": [
+          {
+            "x": 4,
+            "y": 18
+          },
+          {
+            "x": 424,
+            "y": 18
+          },
+          {
+            "x": 424,
+            "y": 31
+          },
+          {
+            "x": 4,
+            "y": 31
+          }
+        ],
+        "confidence": 0.39016107
+      },
+      {
+        "block_text": "in for gran fig ungu fànè með ễ ? eneneviden af aeg urìghai Bìdì è , fanè fan slad zidi & , at her chachi & | myf aan n eft qui è i fara anì fùacid and at 3 gìa è ,",
+        "lines": [
+          "in for gran fig ungu fànè með ễ ? eneneviden af aeg urìghai Bìdì è , fanè fan slad zidi & , at her chachi & | myf aan n eft qui è i fara anì fùacid and at 3 gìa è ,"
+        ],
+        "bounding_box": [
+          {
+            "x": 5,
+            "y": 36
+          },
+          {
+            "x": 459,
+            "y": 36
+          },
+          {
+            "x": 459,
+            "y": 67
+          },
+          {
+            "x": 5,
+            "y": 67
+          }
+        ],
+        "confidence": 0.41328472
+      },
+      {
+        "block_text": "Elaani a tieri qaak ŉ dich on gu",
+        "lines": [
+          "Elaani a tieri qaak ŉ dich on gu"
+        ],
+        "bounding_box": [
+          {
+            "x": 68,
+            "y": 72
+          },
+          {
+            "x": 288,
+            "y": 72
+          },
+          {
+            "x": 288,
+            "y": 83
+          },
+          {
+            "x": 68,
+            "y": 83
+          }
+        ],
+        "confidence": 0.3489722
+      }
+    ]
+  }
+}

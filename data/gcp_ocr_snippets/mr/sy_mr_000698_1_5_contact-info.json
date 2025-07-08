@@ -1,0 +1,32 @@
+{
+  "page_number": 698,
+  "ocr_output": {
+    "blocks": [
+      {
+        "block_text": "GOA UNIVERSITY Department of Marathi गोवा विद्यापीठ",
+        "lines": [
+          "GOA UNIVERSITY Department of Marathi गोवा विद्यापीठ"
+        ],
+        "bounding_box": [
+          {
+            "x": 7,
+            "y": 6
+          },
+          {
+            "x": 116,
+            "y": 6
+          },
+          {
+            "x": 116,
+            "y": 49
+          },
+          {
+            "x": 7,
+            "y": 49
+          }
+        ],
+        "confidence": 0.9753492
+      }
+    ]
+  }
+}

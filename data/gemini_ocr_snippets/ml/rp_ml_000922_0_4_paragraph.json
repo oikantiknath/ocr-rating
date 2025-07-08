@@ -1,0 +1,79 @@
+{
+  "sdk_http_response": {
+    "headers": {
+      "content-type": "application/json; charset=UTF-8",
+      "vary": "Origin, X-Origin, Referer",
+      "content-encoding": "gzip",
+      "date": "Fri, 04 Jul 2025 05:10:42 GMT",
+      "server": "scaffolding on HTTPServer2",
+      "x-xss-protection": "0",
+      "x-frame-options": "SAMEORIGIN",
+      "x-content-type-options": "nosniff",
+      "server-timing": "gfet4t7; dur=56782",
+      "alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
+      "transfer-encoding": "chunked"
+    },
+    "body": null
+  },
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "അദ്ധ്യാത്മാക്കൾ മാറുന്നതിനനുസരിച്ച്, അദ്ധ്യാത്മത്തിലെ സ്ഥല\nസങ്കല്പവും മാറിക്കൊണ്ടിരിക്കുന്നുണ്ട്. അദ്ധ്യാത്മനിദാനത്തെ (ക്രിയയ്ക്ക് ഈതര അദ്ധ്യാത്മ\nനിദാനത്തെയും തുടർച്ചയിലല്ലാത്തതുകൊണ്ടാണ് സന്ദർഭത്തിനും ഈതര\nമായ തുടർച്ചയില്ലാത്ത നാടോടി യാഥാർത്ഥ്യത്തിന്റെ പശ്ചാത്തലവും മാറ്റിനിർത്തുന്ന\nരംഗങ്ങളും (പ്രത്യക്ഷത്തിൽത്തന്നെ വേറിട്ടുപോവേണ്ടുന്ന മറികടക്കുന്നതായി\nചിത്രത്തിലുണ്ട്. ഇതിവൃത്തത്തിലെന്നല്ല അവതരണയെ ദൃശ്യവത്കരണത്തിലും\nസൂക്ഷ്മമായി പിന്തുടരുന്നുണ്ട്. എസ്തപ്പാൻ മുൻനിർത്തി, ഒരു കൂട്ടിയുടെ അനുഭ\nവത്തെക്കുറിച്ചുള്ള രണ്ട് അദ്ധ്യാത്മങ്ങൾ (രേഖീയമല്ലാത്ത ചിത്രത്തിന്റെ സ്ഥല\nകാലസങ്കല്പത്തിലെ അവതരണയുടെ സങ്കീർണ്ണതയാണ്."
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": "STOP",
+      "safety_ratings": [
+        {
+          "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HATE_SPEECH",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HARASSMENT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+          "probability": "NEGLIGIBLE"
+        }
+      ],
+      "token_count": null
+    }
+  ],
+  "create_time": null,
+  "response_id": null,
+  "model_version": "gemini-2.5-pro",
+  "prompt_feedback": null,
+  "usage_metadata": {
+    "cache_tokens_details": null,
+    "cached_content_token_count": null,
+    "candidates_token_count": 204,
+    "candidates_tokens_details": null,
+    "prompt_token_count": 740,
+    "prompt_tokens_details": [
+      {
+        "modality": "TEXT",
+        "token_count": 482
+      },
+      {
+        "modality": "IMAGE",
+        "token_count": 258
+      }
+    ],
+    "thoughts_token_count": 5294,
+    "tool_use_prompt_token_count": null,
+    "tool_use_prompt_tokens_details": null,
+    "total_token_count": 6238,
+    "traffic_type": null
+  },
+  "automatic_function_calling_history": [],
+  "parsed": null,
+  "page_number": 310
+}

@@ -1,0 +1,32 @@
+{
+  "page_number": 216,
+  "ocr_output": {
+    "blocks": [
+      {
+        "block_text": "www.vicharkrantibooks.org",
+        "lines": [
+          "www.vicharkrantibooks.org"
+        ],
+        "bounding_box": [
+          {
+            "x": 7,
+            "y": 4
+          },
+          {
+            "x": 225,
+            "y": 5
+          },
+          {
+            "x": 225,
+            "y": 25
+          },
+          {
+            "x": 7,
+            "y": 24
+          }
+        ],
+        "confidence": 0.9873828
+      }
+    ]
+  }
+}

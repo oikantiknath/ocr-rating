@@ -1,0 +1,79 @@
+{
+  "sdk_http_response": {
+    "headers": {
+      "content-type": "application/json; charset=UTF-8",
+      "vary": "Origin, X-Origin, Referer",
+      "content-encoding": "gzip",
+      "date": "Fri, 04 Jul 2025 05:25:42 GMT",
+      "server": "scaffolding on HTTPServer2",
+      "x-xss-protection": "0",
+      "x-frame-options": "SAMEORIGIN",
+      "x-content-type-options": "nosniff",
+      "server-timing": "gfet4t7; dur=32732",
+      "alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
+      "transfer-encoding": "chunked"
+    },
+    "body": null
+  },
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "केला. या विध्वंसाला चर्चला जबाबदार धरले गेले. सेंट ऑगस्टीन यांनी या मताचे खंडन केले. ‘द\nकन्फेशन्स’ आणि ‘सिटी ऑफ गॉड’मधून सेंट ऑगस्टीन यांनी पोपची सत्ता असणाऱ्या चर्चच्या\nमाध्यमातून भूतलावर देवाचे राज्य घडवता येईल असे मत मांडले. ऑगस्टीन यांच्या आत्मचरित्राचा\nप्रभाव एकोणिसाव्या शतकापर्यंत राहिला. चौथ्या शतकात धर्मश्रद्धा आणि पाखंडीपणा यांतला संघर्ष ‘द\nकन्फेशन्स’मध्ये आहे. ते नुसते आत्मचरित्र नाही, तर विशिष्ट स्थलकालाचा प्रभाव असलेल्या आत्मिक\nउन्नतीच्या चळवळीचा (Spiritual movement) भाग आहे.’ जॉर्ज मिश्र ‘द कन्फेशन्स’विषयी\nम्हणतो, ‘मानवी अस्तित्वाची सुसंगतता आपल्या जीवनाच्या इतिहासाच्या आधारे ऑगस्टीन यांनी\nमांडली.१"
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": "STOP",
+      "safety_ratings": [
+        {
+          "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HATE_SPEECH",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HARASSMENT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+          "probability": "NEGLIGIBLE"
+        }
+      ],
+      "token_count": null
+    }
+  ],
+  "create_time": null,
+  "response_id": null,
+  "model_version": "gemini-2.5-pro",
+  "prompt_feedback": null,
+  "usage_metadata": {
+    "cache_tokens_details": null,
+    "cached_content_token_count": null,
+    "candidates_token_count": 201,
+    "candidates_tokens_details": null,
+    "prompt_token_count": 716,
+    "prompt_tokens_details": [
+      {
+        "modality": "TEXT",
+        "token_count": 458
+      },
+      {
+        "modality": "IMAGE",
+        "token_count": 258
+      }
+    ],
+    "thoughts_token_count": 2716,
+    "tool_use_prompt_token_count": null,
+    "tool_use_prompt_tokens_details": null,
+    "total_token_count": 3633,
+    "traffic_type": null
+  },
+  "automatic_function_calling_history": [],
+  "parsed": null,
+  "page_number": 271
+}

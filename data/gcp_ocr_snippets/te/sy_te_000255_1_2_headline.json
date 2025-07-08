@@ -1,0 +1,32 @@
+{
+  "page_number": 255,
+  "ocr_output": {
+    "blocks": [
+      {
+        "block_text": "THE STUDY OF PROGRAMME AND THE SCHEME OF EXAMINATIONS",
+        "lines": [
+          "THE STUDY OF PROGRAMME AND THE SCHEME OF EXAMINATIONS"
+        ],
+        "bounding_box": [
+          {
+            "x": 8,
+            "y": 17
+          },
+          {
+            "x": 224,
+            "y": 17
+          },
+          {
+            "x": 224,
+            "y": 49
+          },
+          {
+            "x": 8,
+            "y": 49
+          }
+        ],
+        "confidence": 0.9842521
+      }
+    ]
+  }
+}

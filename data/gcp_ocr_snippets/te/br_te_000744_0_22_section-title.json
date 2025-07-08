@@ -1,0 +1,32 @@
+{
+  "page_number": 744,
+  "ocr_output": {
+    "blocks": [
+      {
+        "block_text": "JY 620",
+        "lines": [
+          "JY 620"
+        ],
+        "bounding_box": [
+          {
+            "x": 149,
+            "y": 40
+          },
+          {
+            "x": 11,
+            "y": 45
+          },
+          {
+            "x": 10,
+            "y": 17
+          },
+          {
+            "x": 148,
+            "y": 12
+          }
+        ],
+        "confidence": 0.45962423
+      }
+    ]
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "sdk_http_response": {
+    "headers": {
+      "content-type": "application/json; charset=UTF-8",
+      "vary": "Origin, X-Origin, Referer",
+      "content-encoding": "gzip",
+      "date": "Fri, 04 Jul 2025 04:03:08 GMT",
+      "server": "scaffolding on HTTPServer2",
+      "x-xss-protection": "0",
+      "x-frame-options": "SAMEORIGIN",
+      "x-content-type-options": "nosniff",
+      "server-timing": "gfet4t7; dur=63040",
+      "alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
+      "transfer-encoding": "chunked"
+    },
+    "body": null
+  },
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "(1) ନିରାପତ୍ତା ବିଭିନ୍ନ ପ୍ରକାରର ଅପରାଧରୁ ରକ୍ଷା\nକରିବାକୁ ଏକ ପ୍ରଯତ୍ନ ଓ ସମାଧାନ\nଫଳରେ ପରିଣତ ହୁଏ\n(2) ନିରାପତ୍ତା ଶିକ୍ଷକଙ୍କର ସାହାଯ୍ୟ ନେଇ ନିଜକୁ\nବିପଦ ନିମନ୍ତେ ଭିନ୍ନ ଭିନ୍ନ ମାଧ୍ୟମର ପ୍ରୟୋଗ\nକରିଥାଏ\n(3) ନିରାପତ୍ତା ବେମାରରୁ ନିଜକୁ ସୁରକ୍ଷିତ ଓ\nଅପଘାତ ଫଳରେ ନିଶ୍ଚିତ ରଖିଥାଏ ଓ ଭାବୀ\nଜୀବନ କୌଶଳରେ ବ୍ୟବସ୍ଥିତ ପ୍ରୟୋଗ\nକରିଥାଏ\n(4) ନିରାପତ୍ତା ନିଜକୁ ବିପଦ ଆଶଙ୍କାରୁ ମୁକ୍ତ କରି ବା ତା'\nକରିବାକୁ ନିଜକୁ ସମର୍ଥ ଲାଭ କରିଥାଏ"
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": "STOP",
+      "safety_ratings": [
+        {
+          "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HATE_SPEECH",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HARASSMENT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+          "probability": "NEGLIGIBLE"
+        }
+      ],
+      "token_count": null
+    }
+  ],
+  "create_time": null,
+  "response_id": null,
+  "model_version": "gemini-2.5-pro",
+  "prompt_feedback": null,
+  "usage_metadata": {
+    "cache_tokens_details": null,
+    "cached_content_token_count": null,
+    "candidates_token_count": 253,
+    "candidates_tokens_details": null,
+    "prompt_token_count": 784,
+    "prompt_tokens_details": [
+      {
+        "modality": "TEXT",
+        "token_count": 526
+      },
+      {
+        "modality": "IMAGE",
+        "token_count": 258
+      }
+    ],
+    "thoughts_token_count": 5779,
+    "tool_use_prompt_token_count": null,
+    "tool_use_prompt_tokens_details": null,
+    "total_token_count": 6816,
+    "traffic_type": null
+  },
+  "automatic_function_calling_history": [],
+  "parsed": null,
+  "page_number": 243
+}

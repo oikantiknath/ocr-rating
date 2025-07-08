@@ -1,0 +1,32 @@
+{
+  "page_number": 278,
+  "ocr_output": {
+    "blocks": [
+      {
+        "block_text": "Page 3",
+        "lines": [
+          "Page 3"
+        ],
+        "bounding_box": [
+          {
+            "x": 33,
+            "y": 32
+          },
+          {
+            "x": 142,
+            "y": 29
+          },
+          {
+            "x": 143,
+            "y": 60
+          },
+          {
+            "x": 34,
+            "y": 63
+          }
+        ],
+        "confidence": 0.983842
+      }
+    ]
+  }
+}

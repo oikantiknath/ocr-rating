@@ -1,0 +1,79 @@
+{
+  "sdk_http_response": {
+    "headers": {
+      "content-type": "application/json; charset=UTF-8",
+      "vary": "Origin, X-Origin, Referer",
+      "content-encoding": "gzip",
+      "date": "Fri, 04 Jul 2025 03:58:12 GMT",
+      "server": "scaffolding on HTTPServer2",
+      "x-xss-protection": "0",
+      "x-frame-options": "SAMEORIGIN",
+      "x-content-type-options": "nosniff",
+      "server-timing": "gfet4t7; dur=25911",
+      "alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
+      "transfer-encoding": "chunked"
+    },
+    "body": null
+  },
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "• ୧ ଦିନର ପ୍ରଶ୍ରାବରେ ୫୦ ଲିଟର ପାଣି ମିଶାଇ ଫସଲ ଜମିରେ ପ୍ରୟୋଗ କରନ୍ତୁ ।\n• ପ୍ରତି ୧୫ ଦିନରେ ପ୍ରୟୋଗ କରନ୍ତୁ ।\n• ଏହି ପ୍ରଶ୍ରାବ ବ୍ୟବହାରରେ କାକୁଡ଼ି ଜାତୀୟ ଚିନା ବାଦାମ, ଟୋମାଟୋ ରୋଗ, ପାଉଁଶିଆ ରୋଗ ମାନଙ୍କୁ ଦମନ କରିଥାଏ ।\n• ଏହି ମିଶ୍ରଣକୁ ମଧ୍ୟ ପନିପରିବା, ଫଳ ଗଛ, ଫୁଲ ଗଛରେ ମଧ୍ୟ ପ୍ରୟୋଗ କରି ପାରିବେ ।\n• ଏହି ମିଶ୍ରଣକୁ ପତ୍ର ଛେଦକ କିମ୍ବା ୬ ମାସ ପର୍ଯ୍ୟନ୍ତ ରଖି ବ୍ୟବହାର କରି ପାରିବେ ।"
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": "STOP",
+      "safety_ratings": [
+        {
+          "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HATE_SPEECH",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HARASSMENT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+          "probability": "NEGLIGIBLE"
+        }
+      ],
+      "token_count": null
+    }
+  ],
+  "create_time": null,
+  "response_id": null,
+  "model_version": "gemini-2.5-pro",
+  "prompt_feedback": null,
+  "usage_metadata": {
+    "cache_tokens_details": null,
+    "cached_content_token_count": null,
+    "candidates_token_count": 228,
+    "candidates_tokens_details": null,
+    "prompt_token_count": 784,
+    "prompt_tokens_details": [
+      {
+        "modality": "TEXT",
+        "token_count": 526
+      },
+      {
+        "modality": "IMAGE",
+        "token_count": 258
+      }
+    ],
+    "thoughts_token_count": 2073,
+    "tool_use_prompt_token_count": null,
+    "tool_use_prompt_tokens_details": null,
+    "total_token_count": 3085,
+    "traffic_type": null
+  },
+  "automatic_function_calling_history": [],
+  "parsed": null,
+  "page_number": 24
+}

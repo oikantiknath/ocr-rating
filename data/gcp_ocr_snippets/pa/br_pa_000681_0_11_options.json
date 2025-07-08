@@ -1,0 +1,107 @@
+{
+  "page_number": 681,
+  "ocr_output": {
+    "blocks": [
+      {
+        "block_text": "d ) wifoes",
+        "lines": [
+          "d ) wifoes"
+        ],
+        "bounding_box": [
+          {
+            "x": 1000,
+            "y": 15
+          },
+          {
+            "x": 1151,
+            "y": 10
+          },
+          {
+            "x": 1152,
+            "y": 43
+          },
+          {
+            "x": 1001,
+            "y": 48
+          }
+        ],
+        "confidence": 0.97495687
+      },
+      {
+        "block_text": "b ) wifes",
+        "lines": [
+          "b ) wifes"
+        ],
+        "bounding_box": [
+          {
+            "x": 336,
+            "y": 15
+          },
+          {
+            "x": 473,
+            "y": 11
+          },
+          {
+            "x": 474,
+            "y": 43
+          },
+          {
+            "x": 337,
+            "y": 47
+          }
+        ],
+        "confidence": 0.9718736
+      },
+      {
+        "block_text": "a ) wifies",
+        "lines": [
+          "a ) wifies"
+        ],
+        "bounding_box": [
+          {
+            "x": 20,
+            "y": 16
+          },
+          {
+            "x": 164,
+            "y": 14
+          },
+          {
+            "x": 164,
+            "y": 44
+          },
+          {
+            "x": 21,
+            "y": 46
+          }
+        ],
+        "confidence": 0.98318636
+      },
+      {
+        "block_text": "c ) wives",
+        "lines": [
+          "c ) wives"
+        ],
+        "bounding_box": [
+          {
+            "x": 659,
+            "y": 17
+          },
+          {
+            "x": 806,
+            "y": 14
+          },
+          {
+            "x": 807,
+            "y": 44
+          },
+          {
+            "x": 660,
+            "y": 47
+          }
+        ],
+        "confidence": 0.98439765
+      }
+    ]
+  }
+}

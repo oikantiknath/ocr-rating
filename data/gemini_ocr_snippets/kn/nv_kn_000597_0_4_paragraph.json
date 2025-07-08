@@ -1,0 +1,79 @@
+{
+  "sdk_http_response": {
+    "headers": {
+      "content-type": "application/json; charset=UTF-8",
+      "vary": "Origin, X-Origin, Referer",
+      "content-encoding": "gzip",
+      "date": "Fri, 04 Jul 2025 04:50:57 GMT",
+      "server": "scaffolding on HTTPServer2",
+      "x-xss-protection": "0",
+      "x-frame-options": "SAMEORIGIN",
+      "x-content-type-options": "nosniff",
+      "server-timing": "gfet4t7; dur=42900",
+      "alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
+      "transfer-encoding": "chunked"
+    },
+    "body": null
+  },
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "ಸಾಮಾನ್ಯವಾಗಿ ಬಯಲಾಟದಲ್ಲಿ ಕುಣಿತಕ್ಕೆ ಬಹಳ ಪ್ರಾಧಾನ್ಯ ಇರುತ್ತದೆ. ಪುರುಷ\nಪಾತ್ರವೊಂದು ರಂಗದ ಮೇಲೆ ಬಂದೊಡನೆ ಬಹಳ ಹುಮ್ಮಸಿನಿಂದ ಕುಣಿಯುತ್ತದೆ.\nರಾಕ್ಷಸ ಪಾತ್ರಧಾರಂತೂ ಭಯಂಕರವಾಗಿ ಆರ್ಭಟಿಸಿ ಇಡೀ ರಂಗಸ್ಥಳವೇ ನಡುಗುವಂತೆ\nಕುಣಿಯುತ್ತದೆ. ಹಾಗೆ ಕುಣಿದು ಕುಣಿದು ದಣಿದಾದಾಗ ಆ ದಣಿವನ್ನು ನೀಗಿಸಲು ಸ್ವಲ್ಪ\nವಿರಾಮ ನೀಡಲೆಂದು 'ಸಖಿ' ಪಾತ್ರಗಳನ್ನು ನೃತ್ಯಮಾಡಲು ಕಳುಹಿಸುತ್ತಿದ್ದರು. ಇದಕ್ಕಾಗಿ\nಸಖಿ ಪಾತ್ರಧಾರಿ ಸುಶ್ರಾವ್ಯವಾಗಿ ಹಾಡುತ್ತಾ ನೃತ್ಯ ಮಾಡಬೇಕಾಗಿತ್ತು. ಇದಕ್ಕೆ ಅನೇಕಬಾರಿ\nಹಿಂದಿ ಹಾಡುಗಳನ್ನು ಹಾಡಿ ಕುಣಿಸುತ್ತಿದ್ದರು. ಹಾಡಿನ ಅರ್ಥ ಗೊತ್ತಿಲ್ಲದಿದ್ದರೂ\nವೀರಪ್ಪ ಈ ಹಿಂದಿ ಹಾಡುಗಳನ್ನು ಸೊಗಸಾಗಿ ಹಾಡುತ್ತಿದ್ದರು. ಹೀಗಾಗಿ ಅವರ\nಬದುಕಿನಲ್ಲೇ ಹಾಡುವುದು, ನೃತ್ಯಮಾಡುವುದು, ಚಿಕ್ಕ ಪುಟ್ಟ ಸಂಭಾಷಣೆಗಳನ್ನು\nಚೊಕ್ಕವಾಗಿ ಅಭಿನಯಿಸುವುದು ವೀರಪ್ಪನವರಿಗೆ ಅಭ್ಯಾಸವಾಗಿ ಹೋಗಿತ್ತು. ಜೊತೆಯಲ್ಲಿ\nವಾಯೊಲಿನ್ ನುಡಿಸೋದು, ಹಾರ್ಮೋನಿಯಂನ ರಾಗಗಳನ್ನು ಅನುಸರಿಸುವುದು\nಅಭ್ಯಾಸವಾಗಿ ಹೋಗಿತ್ತು."
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": "STOP",
+      "safety_ratings": [
+        {
+          "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HATE_SPEECH",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HARASSMENT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+          "probability": "NEGLIGIBLE"
+        }
+      ],
+      "token_count": null
+    }
+  ],
+  "create_time": null,
+  "response_id": null,
+  "model_version": "gemini-2.5-pro",
+  "prompt_feedback": null,
+  "usage_metadata": {
+    "cache_tokens_details": null,
+    "cached_content_token_count": null,
+    "candidates_token_count": 293,
+    "candidates_tokens_details": null,
+    "prompt_token_count": 728,
+    "prompt_tokens_details": [
+      {
+        "modality": "TEXT",
+        "token_count": 470
+      },
+      {
+        "modality": "IMAGE",
+        "token_count": 258
+      }
+    ],
+    "thoughts_token_count": 3696,
+    "tool_use_prompt_token_count": null,
+    "tool_use_prompt_tokens_details": null,
+    "total_token_count": 4717,
+    "traffic_type": null
+  },
+  "automatic_function_calling_history": [],
+  "parsed": null,
+  "page_number": 199
+}

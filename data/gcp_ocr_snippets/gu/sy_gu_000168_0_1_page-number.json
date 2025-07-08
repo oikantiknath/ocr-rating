@@ -1,0 +1,32 @@
+{
+  "page_number": 168,
+  "ocr_output": {
+    "blocks": [
+      {
+        "block_text": "Page 21 of 49",
+        "lines": [
+          "Page 21 of 49"
+        ],
+        "bounding_box": [
+          {
+            "x": 7,
+            "y": 11
+          },
+          {
+            "x": 131,
+            "y": 8
+          },
+          {
+            "x": 131,
+            "y": 26
+          },
+          {
+            "x": 7,
+            "y": 29
+          }
+        ],
+        "confidence": 0.98184144
+      }
+    ]
+  }
+}

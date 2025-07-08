@@ -1,0 +1,132 @@
+{
+  "page_number": 139,
+  "ocr_output": {
+    "blocks": [
+      {
+        "block_text": "( A ) wleinm chegarm calzam",
+        "lines": [
+          "( A ) wleinm chegarm calzam"
+        ],
+        "bounding_box": [
+          {
+            "x": 27,
+            "y": 18
+          },
+          {
+            "x": 576,
+            "y": 18
+          },
+          {
+            "x": 576,
+            "y": 39
+          },
+          {
+            "x": 27,
+            "y": 39
+          }
+        ],
+        "confidence": 0.41371968
+      },
+      {
+        "block_text": "Mon. Blarly19 : 33 am",
+        "lines": [
+          "Mon. Blarly19 : 33 am"
+        ],
+        "bounding_box": [
+          {
+            "x": 175,
+            "y": 70
+          },
+          {
+            "x": 522,
+            "y": 70
+          },
+          {
+            "x": 522,
+            "y": 92
+          },
+          {
+            "x": 175,
+            "y": 92
+          }
+        ],
+        "confidence": 0.37282875
+      },
+      {
+        "block_text": "( B )",
+        "lines": [
+          "( B )"
+        ],
+        "bounding_box": [
+          {
+            "x": 31,
+            "y": 71
+          },
+          {
+            "x": 60,
+            "y": 71
+          },
+          {
+            "x": 60,
+            "y": 92
+          },
+          {
+            "x": 31,
+            "y": 92
+          }
+        ],
+        "confidence": 0.97477293
+      },
+      {
+        "block_text": "( C ) ( BDA215133 NIMMAM",
+        "lines": [
+          "( C ) ( BDA215133 NIMMAM"
+        ],
+        "bounding_box": [
+          {
+            "x": 28,
+            "y": 123
+          },
+          {
+            "x": 475,
+            "y": 123
+          },
+          {
+            "x": 475,
+            "y": 145
+          },
+          {
+            "x": 28,
+            "y": 145
+          }
+        ],
+        "confidence": 0.41789016
+      },
+      {
+        "block_text": "( D ) Aşa am",
+        "lines": [
+          "( D ) Aşa am"
+        ],
+        "bounding_box": [
+          {
+            "x": 29,
+            "y": 176
+          },
+          {
+            "x": 503,
+            "y": 176
+          },
+          {
+            "x": 503,
+            "y": 197
+          },
+          {
+            "x": 29,
+            "y": 197
+          }
+        ],
+        "confidence": 0.47512573
+      }
+    ]
+  }
+}

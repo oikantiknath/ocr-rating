@@ -1,0 +1,79 @@
+{
+  "sdk_http_response": {
+    "headers": {
+      "content-type": "application/json; charset=UTF-8",
+      "vary": "Origin, X-Origin, Referer",
+      "content-encoding": "gzip",
+      "date": "Fri, 04 Jul 2025 03:59:31 GMT",
+      "server": "scaffolding on HTTPServer2",
+      "x-xss-protection": "0",
+      "x-frame-options": "SAMEORIGIN",
+      "x-content-type-options": "nosniff",
+      "server-timing": "gfet4t7; dur=44127",
+      "alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
+      "transfer-encoding": "chunked"
+    },
+    "body": null
+  },
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "ତହିରେ ତିନିଟା ପାଣିର ନଳୀ—ଗୋଟିଏ ସବୁ ଦିନିଆ\nତିନିଟା ପାଇଁ ଯେ ଦିନେ ଦିନେ ଅଧିକ ଏବଂ ଅନ୍ୟାନ୍ୟ ପାଇଁ\nଦେଖିଲେ ଯେ ସଂଯୋଗୀ ଅଧିକାରୀରେ ସେହି କାମ ହୁଏ,\nଏହା ସ୍ଵାସ୍ଥ୍ୟ-ବିଭାଗ ମାଧ୍ୟମେ ଗୋଟିଏ ପ୍ରଧାନ କାର୍ଯ୍ୟ ଅଟେ ।\nସହରୀୟ ଗ୍ରାମ, ବେସରକାରୀ ପାଇଁ ଓ ଅନ୍ୟାନ୍ୟ ଏବଂ ସାଧାରଣ\nକ୍ଷେତ୍ରରେ ଗ୍ରାମ ନିର୍ମାଣ ପାଇଁ ତିନିଟା ଅଧିକାରୀ ଓ ସାଧାରଣ କାମ\nକାମ ହୁଏ । ଏହି କ୍ଷେତ୍ରରେ ବିଭିନ୍ନ ସଂସ୍ଥାରେ ପାଠଶାଳାରେ ମାନବ-\nସମ୍ବଳ ତିନିଟା ପାଇଁ ସମସ୍ତେ ଦେଖିଲେ ସାହାଯ୍ୟ ଦେବେ ।\nତେବେ ତାଙ୍କର ପରସ୍ପର ସମ୍ବନ୍ଧରେ କୌଣସି ସୂଚନା ଦେବେ । ତେବେ ସେ ଗ୍ରାମରେ\nଗୋଷ୍ଠୀରେ ପାଇଁ ଛଡ଼ା ଅନ୍ୟ ତିନିଟା ପାଇଁ ନିଜର ଅସମର୍ଥ ହୁଏ,\nତେବେ ସେହି ଗୋଷ୍ଠୀକୁ ସହାୟତା କରିବାରେ ସୁବିଧା ହେବ ।"
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": "STOP",
+      "safety_ratings": [
+        {
+          "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HATE_SPEECH",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HARASSMENT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+          "probability": "NEGLIGIBLE"
+        }
+      ],
+      "token_count": null
+    }
+  ],
+  "create_time": null,
+  "response_id": null,
+  "model_version": "gemini-2.5-pro",
+  "prompt_feedback": null,
+  "usage_metadata": {
+    "cache_tokens_details": null,
+    "cached_content_token_count": null,
+    "candidates_token_count": 400,
+    "candidates_tokens_details": null,
+    "prompt_token_count": 782,
+    "prompt_tokens_details": [
+      {
+        "modality": "TEXT",
+        "token_count": 524
+      },
+      {
+        "modality": "IMAGE",
+        "token_count": 258
+      }
+    ],
+    "thoughts_token_count": 3763,
+    "tool_use_prompt_token_count": null,
+    "tool_use_prompt_tokens_details": null,
+    "total_token_count": 4945,
+    "traffic_type": null
+  },
+  "automatic_function_calling_history": [],
+  "parsed": null,
+  "page_number": 80
+}

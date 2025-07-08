@@ -1,0 +1,31 @@
+{
+  "page_number": 309,
+  "ocr_output": {
+    "blocks": [
+      {
+        "block_text": "ପୃଷ୍ଠା ) Pm",
+        "lines": [
+          "ପୃଷ୍ଠା ) Pm"
+        ],
+        "bounding_box": [
+          {
+            "x": 1,
+            "y": 8
+          },
+          {
+            "x": 126
+          },
+          {
+            "x": 131,
+            "y": 38
+          },
+          {
+            "x": 5,
+            "y": 46
+          }
+        ],
+        "confidence": 0.627792
+      }
+    ]
+  }
+}

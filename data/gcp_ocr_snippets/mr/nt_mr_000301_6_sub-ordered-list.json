@@ -1,0 +1,207 @@
+{
+  "page_number": 301,
+  "ocr_output": {
+    "blocks": [
+      {
+        "block_text": "Landfill gas control system including gas collection system shall be installed at landfill site to minimize odour , prevent off - site migration of gases , to protect vegetation planted on the rehabilitated landfill surface . For enhancing landfill gas recovery , use of geomembranes in cover systems along with gas collection wells should be considered .",
+        "lines": [
+          "Landfill gas control system including gas collection system shall be installed at landfill site to minimize odour , prevent off - site migration of gases , to protect vegetation planted on the rehabilitated landfill surface . For enhancing landfill gas recovery , use of geomembranes in cover systems along with gas collection wells should be considered ."
+        ],
+        "bounding_box": [
+          {
+            "x": 43,
+            "y": 2
+          },
+          {
+            "x": 469,
+            "y": 4
+          },
+          {
+            "x": 469,
+            "y": 47
+          },
+          {
+            "x": 43,
+            "y": 45
+          }
+        ],
+        "confidence": 0.9832603
+      },
+      {
+        "block_text": "The concentration of methane gas generated at landfill site shall not exceed 25 per cent of the lower explosive limit ( LEL ) .",
+        "lines": [
+          "The concentration of methane gas generated at landfill site shall not exceed 25 per cent of the lower explosive limit ( LEL ) ."
+        ],
+        "bounding_box": [
+          {
+            "x": 42,
+            "y": 51
+          },
+          {
+            "x": 468,
+            "y": 52
+          },
+          {
+            "x": 468,
+            "y": 74
+          },
+          {
+            "x": 42,
+            "y": 73
+          }
+        ],
+        "confidence": 0.97390825
+      },
+      {
+        "block_text": "The landfill gas from the collection facility at a landfill site shall be utilized for either direct thermal applications or power generation , as per viability . Otherwise , landfill gas shall be burnt ( flared ) and shall not be allowed to escape directly to the atmosphere or for illegal tapping . Passive venting shall be allowed in case if its utilisation or flaring is not possible .",
+        "lines": [
+          "The landfill gas from the collection facility at a landfill site shall be utilized for either direct thermal applications or power generation , as per viability . Otherwise , landfill gas shall be burnt ( flared ) and shall not be allowed to escape directly to the atmosphere or for illegal tapping . Passive venting shall be allowed in case if its utilisation or flaring is not possible ."
+        ],
+        "bounding_box": [
+          {
+            "x": 43,
+            "y": 80
+          },
+          {
+            "x": 468,
+            "y": 80
+          },
+          {
+            "x": 468,
+            "y": 122
+          },
+          {
+            "x": 43,
+            "y": 122
+          }
+        ],
+        "confidence": 0.983908
+      },
+      {
+        "block_text": "Ambient air quality at the landfill site and at the vicinity shall be regularly monitored . Ambient air quality shall",
+        "lines": [
+          "Ambient air quality at the landfill site and at the vicinity shall be regularly monitored . Ambient air quality shall"
+        ],
+        "bounding_box": [
+          {
+            "x": 42,
+            "y": 128
+          },
+          {
+            "x": 469,
+            "y": 128
+          },
+          {
+            "x": 469,
+            "y": 138
+          },
+          {
+            "x": 42,
+            "y": 138
+          }
+        ],
+        "confidence": 0.9790914
+      },
+      {
+        "block_text": "( i )",
+        "lines": [
+          "( i )"
+        ],
+        "bounding_box": [
+          {
+            "x": 9,
+            "y": 4
+          },
+          {
+            "x": 17,
+            "y": 4
+          },
+          {
+            "x": 17,
+            "y": 11
+          },
+          {
+            "x": 9,
+            "y": 11
+          }
+        ],
+        "confidence": 0.679106
+      },
+      {
+        "block_text": "( ii )",
+        "lines": [
+          "( ii )"
+        ],
+        "bounding_box": [
+          {
+            "x": 9,
+            "y": 54
+          },
+          {
+            "x": 21,
+            "y": 54
+          },
+          {
+            "x": 21,
+            "y": 61
+          },
+          {
+            "x": 9,
+            "y": 61
+          }
+        ],
+        "confidence": 0.73487675
+      },
+      {
+        "block_text": "( m )",
+        "lines": [
+          "( m )"
+        ],
+        "bounding_box": [
+          {
+            "x": 24,
+            "y": 89
+          },
+          {
+            "x": 8,
+            "y": 88
+          },
+          {
+            "x": 9,
+            "y": 80
+          },
+          {
+            "x": 25,
+            "y": 81
+          }
+        ],
+        "confidence": 0.8697765
+      },
+      {
+        "block_text": "( iv )",
+        "lines": [
+          "( iv )"
+        ],
+        "bounding_box": [
+          {
+            "x": 9,
+            "y": 130
+          },
+          {
+            "x": 23,
+            "y": 130
+          },
+          {
+            "x": 23,
+            "y": 137
+          },
+          {
+            "x": 9,
+            "y": 137
+          }
+        ],
+        "confidence": 0.8037924
+      }
+    ]
+  }
+}

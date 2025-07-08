@@ -1,0 +1,32 @@
+{
+  "page_number": 616,
+  "ocr_output": {
+    "blocks": [
+      {
+        "block_text": "COURSE LEARNING OUTCOMES ( CLOS )",
+        "lines": [
+          "COURSE LEARNING OUTCOMES ( CLOS )"
+        ],
+        "bounding_box": [
+          {
+            "x": 11,
+            "y": 11
+          },
+          {
+            "x": 261,
+            "y": 11
+          },
+          {
+            "x": 261,
+            "y": 22
+          },
+          {
+            "x": 11,
+            "y": 22
+          }
+        ],
+        "confidence": 0.9687772
+      }
+    ]
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "sdk_http_response": {
+    "headers": {
+      "content-type": "application/json; charset=UTF-8",
+      "vary": "Origin, X-Origin, Referer",
+      "content-encoding": "gzip",
+      "date": "Fri, 04 Jul 2025 04:49:49 GMT",
+      "server": "scaffolding on HTTPServer2",
+      "x-xss-protection": "0",
+      "x-frame-options": "SAMEORIGIN",
+      "x-content-type-options": "nosniff",
+      "server-timing": "gfet4t7; dur=45562",
+      "alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
+      "transfer-encoding": "chunked"
+    },
+    "body": null
+  },
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "(10) ವ್ಯಾಪಾರ ಚಿಹ್ನೆಯ ನೋಂದಣಿ ಅರ್ಜಿಯನ್ನು ಮತ್ತು ಅದರ ಸಂಬಂಧದಲ್ಲಿ ದಾಖಲಾತಿಯು,\nವಿನೀತಭಾವವನ್ನು ಪರಿಗಣಿಸುವಾಗ ರಹಸ್ಯವಾದುದು.-\n\n(i) ತದ್ರೀತ್ಯ ಇರುವ ಅಥವಾ ಸಮರೂಪ ಇರುವ ವ್ಯಾಪಾರ ಚಿಹ್ನೆಗಳಿಂದ ವಿವಾದಿತ ವ್ಯಾಪಾರ\nಚಿಹ್ನೆಯನ್ನು ರಕ್ಷಿಸತಕ್ಕದ್ದು;\n(ii) ಅರ್ಜಿದಾರನಾಗಲಿ ಅಥವಾ ಪ್ರತಿಕಕ್ಷಿದಾರನಾಗಲಿ ವ್ಯಾಪಾರ ಚಿಹ್ನೆಗೆ ಸಂಬಂಧಿಸಿದ ಹಕ್ಕಿಗೆ\nಬಾಧೆಯನ್ನುಂಟು ಮಾಡುವ ದುರ್ಬಳಕೆಯನ್ನು ಹೊಂದಿದ್ದರೆ ಅದನ್ನು ಪರಿಗಣನೆಗೆ ತೆಗೆದುಕೊಳ್ಳತಕ್ಕದ್ದು.\n\n11. ರಿಜಿಸ್ಟ್ರಾರಿಗೆ ಮುಖ್ಯ ಸಾಕ್ಷಿಪತ್ರಗಳನ್ನು ವಿಚಾರಣೆಯೊಡನೆ ಸಲ್ಲಿಸಬಹುದಾದ ವ್ಯಾಪಾರ ಚಿಹ್ನೆಯನ್ನು\nನೋಂದಾಯಿಸುವಲ್ಲಿ ಅಥವಾ ಈ ಅಧಿನಿಯಮದ ಪ್ರಾರಂಭಕ್ಕೆ ಮುಂಚೆ ಸಲ್ಲಿಸಬಹುದಾದ ಲಕೋಟೆಯಲ್ಲಿ ಒಂದು\nವ್ಯಾಪಾರ ಚಿಹ್ನೆಯು ಹಕ್ಕನ್ನು ಪಡೆದುಕೊಂಡಿರುವಲ್ಲಿ, ಈ ಪ್ರಕರಣದಲ್ಲಿರುವುದಾವುದೂ, ಆ ವ್ಯಾಪಾರ ಚಿಹ್ನೆಯ\nನೋಂದಣಿಯ ಸಿಂಧುತ್ವಕ್ಕೆ ಅಥವಾ ಅಂತಹ ವ್ಯಾಪಾರ ಚಿಹ್ನೆಯು ವಿವಾದಿತ ವ್ಯಾಪಾರ ಚಿಹ್ನೆಗೆ ತದೃಶವಾಗಿರುವ\nಅಥವಾ ಸಮರೂಪವಾಗಿರುವ ಆಧಾರದ ಮೇಲೆ ಆ ವ್ಯಾಪಾರ ಚಿಹ್ನೆಯ ಬಳಕೆಯ ಹಕ್ಕಿಗೆ ಬಾಧೆಯನ್ನುಂಟು\nಮಾಡತಕ್ಕದ್ದಲ್ಲ.\n\n12. ಪ್ರಾಮಾಣಿಕ ಸಮಕಾಲೀನ ಉಪಯೋಗ ಮುಂತಾದವುಗಳ ಸಂದರ್ಭದಲ್ಲಿ ನೋಂದಣಿ, ಇತ್ಯಾದಿ.-\nಪ್ರಾಮಾಣಿಕ ಸಮಕಾಲೀನ ಉಪಯೋಗದ ಸಂದರ್ಭದಲ್ಲಿ ಅಥವಾ ರಿಜಿಸ್ಟ್ರಾರನ ಅಭಿಪ್ರಾಯದಲ್ಲಿ ಹಾಗೆ ಮಾಡುವುದು\nಯುಕ್ತವೆಂದು ಭಾವಿಸಿದ ಇತರ ವಿಶೇಷ ಸನ್ನಿವೇಶಗಳಲ್ಲಿ ಹಾಗೆ ವಿಧಿಸುವುದು ಸೂಕ್ತವೆಂದು ರಿಜಿಸ್ಟ್ರಾರನು\nಭಾವಿಸಬಹುದಾದಂತಹ ಒಂದು ಅಥವಾ ಸಮರೂಪವಾಗಿರುವ ಪದಗಳಿಗೆ ಅಥವಾ ನೋಟಗಳಿಗೆ ಸಂಬಂಧಿಸಿದಂತೆ\nತದೃಶವಾಗಿರುವ ಅಥವಾ ಸಮರೂಪ ಇರುವ (ಅಂಥ ಯಾವುದೇ ವ್ಯಾಪಾರ ಚಿಹ್ನೆಯನ್ನು ಈಗಾಗಲೇ\nನೋಂದಾಯಿಸಿದರೆ ಅಥವಾ ಇಲ್ಲದಿದ್ದರೆ) ವ್ಯಾಪಾರ ಚಿಹ್ನೆಗಳನ್ನು ಒಬ್ಬನಿಗಿಂತ ಹೆಚ್ಚಿನ ಮಾಲೀಕರು ಸಂಬಂಧದಲ್ಲಿ\nನೋಂದಣಿ ಮಾಡುವುದು ಸೂಕ್ತವೆಂದು ರಿಜಿಸ್ಟ್ರಾರನು ಅಭಿಪ್ರಾಯಪಟ್ಟಲ್ಲಿ ಅಂತಹ ಪರವಾನಗಿ ಮತ್ತು ಮಿತಿಮೀರಿದ\nಯಾವುದಾದರೂ ಇದ್ದರೆ, ಅವುಗಳಿಗೆ ಒಳಪಟ್ಟು, ಹಾಗೆ ನೋಂದಣಿ ಮಾಡಲು ಅನುಮತಿಸಬಹುದು.\n\n13. ರಾಸಾಯನಿಕ ವಸ್ತುಗಳ ಹೆಸರುಗಳು ಅಥವಾ ಅಂತರಾಷ್ಟ್ರೀಯ ಸ್ವಾಮ್ಯರಹಿತ ಹೆಸರುಗಳ ನೋಂದಣಿಗೆ\nನಿಷೇಧ.- (ಎ) ಒಂದು ರಾಸಾಯನಿಕ ವಸ್ತುವಿನ ಅಥವಾ ತಯಾರಿಕೆಯ ಸಂಬಂಧದಲ್ಲಿ ಯಾವುದೇ ಒಂದು\nರಾಸಾಯನಿಕ ವಸ್ತು ಅಥವಾ ಯಾವುದೇ ಒಂದು ರಾಸಾಯನಿಕ ಸಂಯುಕ್ತದ (ಮಿಶ್ರಣದಿಂದ ಭಿನ್ನವಾದ)\nಹೆಸರನ್ನು ಸಾಮಾನ್ಯವಾಗಿ ಬಳಸುವ ಮತ್ತು ಒಪ್ಪಿರುವ ಪದವಾದ; ಅಥವಾ\n\n(ಬಿ) ಅಂತರಾಷ್ಟ್ರೀಯ ಸ್ವಾಮ್ಯರಹಿತ ಹೆಸರೆಂದು ಅಥವಾ ಅಂತಹ ಹೆಸರಿಗೆ ಹೋಲಿಕೆ ತೋರಿಸುವ\nಹೆಸರಾಗುವ ಯಾವ ಪದವೆಂದು, ವಿಶ್ವ ಆರೋಗ್ಯ ಸಂಸ್ಥೆಯು ಘೋಷಿಸಿದ ಮತ್ತು ಕಾಲ ಕಾಲಕ್ಕೆ ರಿಜಿಸ್ಟ್ರಾರನು\nಗೊತ್ತುಪಡಿಸಿದ ರೀತಿಯಲ್ಲಿ ಅಧಿಸೂಚಿಸಿದ"
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": "STOP",
+      "safety_ratings": [
+        {
+          "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HATE_SPEECH",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HARASSMENT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+          "probability": "NEGLIGIBLE"
+        }
+      ],
+      "token_count": null
+    }
+  ],
+  "create_time": null,
+  "response_id": null,
+  "model_version": "gemini-2.5-pro",
+  "prompt_feedback": null,
+  "usage_metadata": {
+    "cache_tokens_details": null,
+    "cached_content_token_count": null,
+    "candidates_token_count": 699,
+    "candidates_tokens_details": null,
+    "prompt_token_count": 730,
+    "prompt_tokens_details": [
+      {
+        "modality": "TEXT",
+        "token_count": 472
+      },
+      {
+        "modality": "IMAGE",
+        "token_count": 258
+      }
+    ],
+    "thoughts_token_count": 3338,
+    "tool_use_prompt_token_count": null,
+    "tool_use_prompt_tokens_details": null,
+    "total_token_count": 4767,
+    "traffic_type": null
+  },
+  "automatic_function_calling_history": [],
+  "parsed": null,
+  "page_number": 146
+}

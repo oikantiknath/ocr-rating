@@ -1,0 +1,79 @@
+{
+  "sdk_http_response": {
+    "headers": {
+      "content-type": "application/json; charset=UTF-8",
+      "vary": "Origin, X-Origin, Referer",
+      "content-encoding": "gzip",
+      "date": "Fri, 04 Jul 2025 05:12:52 GMT",
+      "server": "scaffolding on HTTPServer2",
+      "x-xss-protection": "0",
+      "x-frame-options": "SAMEORIGIN",
+      "x-content-type-options": "nosniff",
+      "server-timing": "gfet4t7; dur=42770",
+      "alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
+      "transfer-encoding": "chunked"
+    },
+    "body": null
+  },
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "വ്യാഖ്യാനതന്ത്രങ്ങൾ - പൈതൃകവ്യാഖ്യാനം - വ്യാഖ്യാനം. അർഥോൽപാദന\nപ്രക്രിയ എന്ന നിലയിൽ-ജ്ഞാനോൽപാദനത്തിന്റെ രീതിശാസ്ത്രം.-അറിവ്\nഎന്ന സാംസ്കാരികപ്രയോഗവും നിർമിതിയും-വ്യാഖ്യാനവും വിമർശനവും,\nവ്യാഖ്യാനം-വിമർശനാത്മകജ്ഞാനം, അർഥവിവരണശാസ്ത്രം, വ്യാഖ്യാന\nശാസ്ത്രം - സവിശേഷജ്ഞാനപദ്ധതി-ഭാരതീയവും പാശ്ചാത്യവുമായ പ്രവേ\nശങ്ങൾ, പാഠങ്ങൾ - വിചാരങ്ങൾ, വിശദീകരണങ്ങൾ. പൈതൃകപഠനവും\nവ്യാഖ്യാനവും - വ്യാഖ്യാനതന്ത്രങ്ങൾ - വ്യവഹാരപ്രാഗ്രൂപം - രാഷ്ട്രീയ\nഅബോധം. - പൈതൃകം ഒരു നിർമിതി - വ്യാഖ്യാനസൂത്രണം. (interpretive\nplanning) - ആൾക്കൂട്ടത്തിൽനിന്നുള്ള അറിവുശേഖരണം. (crowd sourcing)-\nസംസ്കാരവിമർശം. - കേളിനിയന്ത്രണവിമർശം. DIKW പിരമിഡ്."
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": "STOP",
+      "safety_ratings": [
+        {
+          "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HATE_SPEECH",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HARASSMENT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+          "probability": "NEGLIGIBLE"
+        }
+      ],
+      "token_count": null
+    }
+  ],
+  "create_time": null,
+  "response_id": null,
+  "model_version": "gemini-2.5-pro",
+  "prompt_feedback": null,
+  "usage_metadata": {
+    "cache_tokens_details": null,
+    "cached_content_token_count": null,
+    "candidates_token_count": 260,
+    "candidates_tokens_details": null,
+    "prompt_token_count": 739,
+    "prompt_tokens_details": [
+      {
+        "modality": "TEXT",
+        "token_count": 481
+      },
+      {
+        "modality": "IMAGE",
+        "token_count": 258
+      }
+    ],
+    "thoughts_token_count": 3807,
+    "tool_use_prompt_token_count": null,
+    "tool_use_prompt_tokens_details": null,
+    "total_token_count": 4806,
+    "traffic_type": null
+  },
+  "automatic_function_calling_history": [],
+  "parsed": null,
+  "page_number": 356
+}

@@ -1,0 +1,27 @@
+{
+  "page_number": 624,
+  "ocr_output": {
+    "blocks": [
+      {
+        "block_text": "ଉତ୍ତର । ୧୬ ଜଣ । addmail com",
+        "lines": [
+          "ଉତ୍ତର । ୧୬ ଜଣ । addmail com"
+        ],
+        "bounding_box": [
+          {},
+          {
+            "x": 124
+          },
+          {
+            "x": 124,
+            "y": 23
+          },
+          {
+            "y": 23
+          }
+        ],
+        "confidence": 0.7510889
+      }
+    ]
+  }
+}

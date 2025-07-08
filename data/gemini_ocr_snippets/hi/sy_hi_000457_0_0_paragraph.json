@@ -1,0 +1,79 @@
+{
+  "sdk_http_response": {
+    "headers": {
+      "content-type": "application/json; charset=UTF-8",
+      "vary": "Origin, X-Origin, Referer",
+      "content-encoding": "gzip",
+      "date": "Fri, 04 Jul 2025 03:23:28 GMT",
+      "server": "scaffolding on HTTPServer2",
+      "x-xss-protection": "0",
+      "x-frame-options": "SAMEORIGIN",
+      "x-content-type-options": "nosniff",
+      "server-timing": "gfet4t7; dur=26217",
+      "alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
+      "transfer-encoding": "chunked"
+    },
+    "body": null
+  },
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "औपनिवेशिक काल में कला स्कूलों के माध्यम से कला में औपचारिक प्रशिक्षण का प्रारम्भ और स्वतंत्रता प्राप्ति के\nपश्चात चैन्नई, कलकत्ता, लाहौर, मुम्बई, दिल्ली, लखनऊ और जयपुर में कला विद्यालयों में कला आकादिमियों\nके माध्यम से कला उन्नति तथा शिक्षा; शान्तिनिकेतन और बड़ोदा में संस्थानिक कला शिक्षा पर पुनर्विचार;\nकलाशिक्षा में कला दीर्घाओं और संग्रहालयों की भूमिका; संग्रहालय, दीर्घा और कार्यरत कलाकारों और\nइतिहासवेत्ताओं के बीच सहयोग के रूप में संरक्षकीय क्यूरेटोरियल उद्यम में वृद्धि; जनता और कलाकार के बीच\nसंवाद स्थापित करने में पत्र-पत्रिकाओं की भूमिका।"
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": "STOP",
+      "safety_ratings": [
+        {
+          "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HATE_SPEECH",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HARASSMENT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+          "probability": "NEGLIGIBLE"
+        }
+      ],
+      "token_count": null
+    }
+  ],
+  "create_time": null,
+  "response_id": null,
+  "model_version": "gemini-2.5-pro",
+  "prompt_feedback": null,
+  "usage_metadata": {
+    "cache_tokens_details": null,
+    "cached_content_token_count": null,
+    "candidates_token_count": 150,
+    "candidates_tokens_details": null,
+    "prompt_token_count": 759,
+    "prompt_tokens_details": [
+      {
+        "modality": "TEXT",
+        "token_count": 501
+      },
+      {
+        "modality": "IMAGE",
+        "token_count": 258
+      }
+    ],
+    "thoughts_token_count": 2056,
+    "tool_use_prompt_token_count": null,
+    "tool_use_prompt_tokens_details": null,
+    "total_token_count": 2965,
+    "traffic_type": null
+  },
+  "automatic_function_calling_history": [],
+  "parsed": null,
+  "page_number": 332
+}

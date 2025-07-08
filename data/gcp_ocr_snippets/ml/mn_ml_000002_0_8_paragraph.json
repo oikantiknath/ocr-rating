@@ -1,0 +1,32 @@
+{
+  "page_number": 2,
+  "ocr_output": {
+    "blocks": [
+      {
+        "block_text": "confirmed succesfully എന്നെഴുതിയ ജാലകം ദൃശ്യമാകുമ്പോൾ ok ബട്ടൺ ക്ളിക്ക് ചെയ്യുക .",
+        "lines": [
+          "confirmed succesfully എന്നെഴുതിയ ജാലകം ദൃശ്യമാകുമ്പോൾ ok ബട്ടൺ ക്ളിക്ക് ചെയ്യുക ."
+        ],
+        "bounding_box": [
+          {
+            "x": 18,
+            "y": 9
+          },
+          {
+            "x": 854,
+            "y": 9
+          },
+          {
+            "x": 854,
+            "y": 35
+          },
+          {
+            "x": 18,
+            "y": 35
+          }
+        ],
+        "confidence": 0.94593793
+      }
+    ]
+  }
+}

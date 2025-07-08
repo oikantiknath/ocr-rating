@@ -1,0 +1,32 @@
+{
+  "page_number": 132,
+  "ocr_output": {
+    "blocks": [
+      {
+        "block_text": "Date 28/10/21",
+        "lines": [
+          "Date 28/10/21"
+        ],
+        "bounding_box": [
+          {
+            "x": 1,
+            "y": 4
+          },
+          {
+            "x": 74,
+            "y": 1
+          },
+          {
+            "x": 75,
+            "y": 19
+          },
+          {
+            "x": 2,
+            "y": 22
+          }
+        ],
+        "confidence": 0.78658795
+      }
+    ]
+  }
+}

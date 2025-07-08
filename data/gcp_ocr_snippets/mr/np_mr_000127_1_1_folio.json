@@ -1,0 +1,30 @@
+{
+  "page_number": 127,
+  "ocr_output": {
+    "blocks": [
+      {
+        "block_text": "TWITTER.COM/LOKSATTALIVE , LOKSATTA.COM/APPS",
+        "lines": [
+          "TWITTER.COM/LOKSATTALIVE , LOKSATTA.COM/APPS"
+        ],
+        "bounding_box": [
+          {
+            "y": 6
+          },
+          {
+            "x": 173,
+            "y": 6
+          },
+          {
+            "x": 173,
+            "y": 13
+          },
+          {
+            "y": 13
+          }
+        ],
+        "confidence": 0.9356518
+      }
+    ]
+  }
+}

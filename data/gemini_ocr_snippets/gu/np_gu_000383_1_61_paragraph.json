@@ -1,0 +1,79 @@
+{
+  "sdk_http_response": {
+    "headers": {
+      "content-type": "application/json; charset=UTF-8",
+      "vary": "Origin, X-Origin, Referer",
+      "content-encoding": "gzip",
+      "date": "Fri, 04 Jul 2025 05:37:07 GMT",
+      "server": "scaffolding on HTTPServer2",
+      "x-xss-protection": "0",
+      "x-frame-options": "SAMEORIGIN",
+      "x-content-type-options": "nosniff",
+      "server-timing": "gfet4t7; dur=28200",
+      "alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
+      "transfer-encoding": "chunked"
+    },
+    "body": null
+  },
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "ઇન્ફોસીસના નબળા પરિણામ જાહેર થતાં ફંડોની વેચવાલી જોવાઈ હતી. આમ આઇટી\nશેરોમાં આજે મિશ્ર ટ્રેન્ડ જોવાયો હતો. ટીસીએસનો ચોખ્ખો નફો અપેક્ષા-અંદાજથી વધુ બે\nટકા વધીને જાહેર થતાં શેર રૂ. ૨૨.૫૦ વધીને રૂ. ૩૭૩૬.૨૦ રહ્યો હતો. જ્યારે ઇન્ફોસીસના\nનબળા પરિણામે રૂ. ૨૪.૬૫ ઘટીને રૂ. ૧૪૯૫ રહ્યો હતો. આ સાથે વિપ્રો રૂ. ૫.૮૦ ઘટીને\nરૂ. ૪૮૮.૦૫, સિમેન્ટ રૂ. ૭૩.૧૦ ઘટીને રૂ. ૨૧૫૦.૯૦, તાન્લા પ્લેટફોર્મ રૂ. ૧૦.૪૫\nઘટીને રૂ. ૧૧૮૭.૨૦, એચસીએલ ટેકનોલોજી રૂ. ૬ ઘટીને રૂ. ૧૪૮૫.૭૫ રહ્યા હતા.\nજ્યારે ક્વિકહિલ ટેકનોલોજી રૂ. ૪૦.૨૫ ઉછળીને રૂ. ૪૦૭.૨૫, રામકો સિસ્ટમ રૂ. ૨૩.૭૦\nવધીને રૂ. ૩૩૯.૧૦, એક્સિસકેડ્સ ટેકનોલોજી રૂ. ૩૯.૫૫ વધીને રૂ. ૮૧૨.૨૫, ઈમુદ્રા\nરૂ. ૧૬.૦૫ વધીને રૂ. ૪૩૭, માસ્ટેક રૂ. ૪૮.૮૫ વધીને રૂ. ૨૭૫૭ રહ્યા હતા."
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": "STOP",
+      "safety_ratings": [
+        {
+          "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HATE_SPEECH",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HARASSMENT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+          "probability": "NEGLIGIBLE"
+        }
+      ],
+      "token_count": null
+    }
+  ],
+  "create_time": null,
+  "response_id": null,
+  "model_version": "gemini-2.5-pro",
+  "prompt_feedback": null,
+  "usage_metadata": {
+    "cache_tokens_details": null,
+    "cached_content_token_count": null,
+    "candidates_token_count": 371,
+    "candidates_tokens_details": null,
+    "prompt_token_count": 756,
+    "prompt_tokens_details": [
+      {
+        "modality": "TEXT",
+        "token_count": 498
+      },
+      {
+        "modality": "IMAGE",
+        "token_count": 258
+      }
+    ],
+    "thoughts_token_count": 2100,
+    "tool_use_prompt_token_count": null,
+    "tool_use_prompt_tokens_details": null,
+    "total_token_count": 3227,
+    "traffic_type": null
+  },
+  "automatic_function_calling_history": [],
+  "parsed": null,
+  "page_number": 145
+}

@@ -1,0 +1,79 @@
+{
+  "sdk_http_response": {
+    "headers": {
+      "content-type": "application/json; charset=UTF-8",
+      "vary": "Origin, X-Origin, Referer",
+      "content-encoding": "gzip",
+      "date": "Fri, 04 Jul 2025 03:58:47 GMT",
+      "server": "scaffolding on HTTPServer2",
+      "x-xss-protection": "0",
+      "x-frame-options": "SAMEORIGIN",
+      "x-content-type-options": "nosniff",
+      "server-timing": "gfet4t7; dur=60596",
+      "alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
+      "transfer-encoding": "chunked"
+    },
+    "body": null
+  },
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "ପାତ୍ର ଆକାରରେ ପତ୍ରୁ ଅନୁସାରେ ମଧ୍ୟ କରାଯାଇପାରେ । ଏହା ସହଜରେ ବହନୀୟ ହୋଇଥିବା ଦ୍ଵାରା ଗୃହିଣୀଙ୍କ ସେବାକାର୍ଯ୍ୟରେ । ଅଧିକ ସେଚ୍ଛାସେବୀଙ୍କ ଦ୍ଵାରା ସାଧ୍ୟ ହୋଇ\nନପାରେ, ଯଥା, ଚାଉଳ ଓ ଡାଲିକୁ ବହୁତ ଦୂର ପର୍ଯ୍ୟନ୍ତ ନେଇ ପାରେନାହିଁ । ଏତଦ୍‌ବ୍ୟତୀତ ଗୋଟିଏଥରରେ ୨୫ରୁ ୬୦ ଭାଗ ମାତ୍ରାରୁ ଅଧିକ ଥିବା ଯୋଗୁଁ ଗୋଟିଏ ସ୍ଥାନରେ ଅଧିକ\nହୋଇଯାଏ । ଏହାଛଡ଼ା ପାତ୍ରଟି ପ୍ଲାଷ୍ଟିକ୍‌ ଆବରଣ ଯୋଗୁଁ ୧୫ମିନିଟ୍ ପରେ ୧ରୁ ୨ ଡିଗ୍ରୀ ଉତ୍ତାପ ବୃଦ୍ଧି ପାଇବାର ଲକ୍ଷଣ ଦେଖାଯାଏ ।\nପାତ୍ର ଆକାରର ତିଆରି ପତ୍ରଟି ପୂର୍ବରୁ ପ୍ରଚଳିତ (ପାତ୍ରରେ) ରନ୍ଧାଖାଦ୍ୟ (ପାତ୍ରରେ ପିଢ଼ା) ତିଆରି କରିବାକୁ । ପାରିବ ନାହିଁ ଏବଂ ତା’ ସହିତ\nତିଆରି କରିବା ପାଇଁ । ଏହାର ଆକାର ପାରିବାରିକ ସଦସ୍ୟ ହିସାବରେ କରାଯାଏ । ଏକ ଘନ ମିଟର (୧ ମି. x ୧ମି. x ୧ ମି.) ପାତ୍ରରେ ପାଖାପାଖି ୫୦୦ରୁ\n୭୦୦ କିଲୋଗ୍ରାମ୍‌ରୁ ଅଧିକ ପଦାର୍ଥକୁ ତିଆରି କରିହେବ ।"
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": "STOP",
+      "safety_ratings": [
+        {
+          "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HATE_SPEECH",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HARASSMENT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+          "probability": "NEGLIGIBLE"
+        }
+      ],
+      "token_count": null
+    }
+  ],
+  "create_time": null,
+  "response_id": null,
+  "model_version": "gemini-2.5-pro",
+  "prompt_feedback": null,
+  "usage_metadata": {
+    "cache_tokens_details": null,
+    "cached_content_token_count": null,
+    "candidates_token_count": 474,
+    "candidates_tokens_details": null,
+    "prompt_token_count": 782,
+    "prompt_tokens_details": [
+      {
+        "modality": "TEXT",
+        "token_count": 524
+      },
+      {
+        "modality": "IMAGE",
+        "token_count": 258
+      }
+    ],
+    "thoughts_token_count": 5237,
+    "tool_use_prompt_token_count": null,
+    "tool_use_prompt_tokens_details": null,
+    "total_token_count": 6493,
+    "traffic_type": null
+  },
+  "automatic_function_calling_history": [],
+  "parsed": null,
+  "page_number": 21
+}

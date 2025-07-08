@@ -1,0 +1,79 @@
+{
+  "sdk_http_response": {
+    "headers": {
+      "content-type": "application/json; charset=UTF-8",
+      "vary": "Origin, X-Origin, Referer",
+      "content-encoding": "gzip",
+      "date": "Fri, 04 Jul 2025 04:32:33 GMT",
+      "server": "scaffolding on HTTPServer2",
+      "x-xss-protection": "0",
+      "x-frame-options": "SAMEORIGIN",
+      "x-content-type-options": "nosniff",
+      "server-timing": "gfet4t7; dur=26851",
+      "alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
+      "transfer-encoding": "chunked"
+    },
+    "body": null
+  },
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "1. इस पृष्ठ के ऊपर नियत स्थान पर अपना रोल नम्बर लिखिए ।\n2. इस प्रश्न-पत्र में पचहत्तर बहुविकल्पीय प्रश्न हैं ।\n3. परीक्षा प्रारम्भ होने पर, प्रश्न-पुस्तिका आपको दे दी जायेगी । पहले\n   पाँच मिनट आपको प्रश्न-पुस्तिका खोलने तथा उसकी निम्नलिखित\n   जाँच के लिए दिये जायेंगे, जिसकी जाँच आपको अवश्य करनी है :\n   (i) प्रश्न-पुस्तिका खोलने के लिए उसके कवर पेज पर लगी कागज\n       की सील को फाड़ लें । खुली हुई या बिना स्टीकर-सील की\n       पुस्तिका स्वीकार न करें ।\n   (ii) कवर पृष्ठ पर छपे निर्देशानुसार प्रश्न-पुस्तिका के पृष्ठ तथा\n        प्रश्नों की संख्या को अच्छी तरह चैक कर लें कि वे पूरे\n        हैं । दोषपूर्ण पुस्तिका जिनमें पृष्ठ/प्रश्न कम हों या दुबारा आ\n        गये हों या सीरियल में न हों अर्थात् किसी भी प्रकार की\n        त्रुटिपूर्ण पुस्तिका स्वीकार न करें तथा उसी समय उसे\n        लौटाकर उसके स्थान पर दूसरी सही प्रश्न-पुस्तिका ले लें ।\n        इसके लिए आपको पाँच मिनट दिये जायेंगे । उसके बाद न\n        तो आपको प्रश्न-पुस्तिका वापस ली जायेगी और न ही आपको\n        अतिरिक्त समय दिया जायेगा ।\n   (iii) इस जाँच के बाद OMR पत्रक की क्रम संख्या इस प्रश्न-पुस्तिका\n         पर अंकित कर दें ।\n4. प्रत्येक प्रश्न के लिए चार उत्तर विकल्प (A), (B), (C) तथा (D) दिये\n   गये हैं । आपको सही उत्तर के वृत्त को पेन से भरकर काला करना है\n   जैसा कि नीचे दिखाया गया है ।\n   उदाहरण : Ⓐ Ⓑ ⚫ Ⓓ\n   जबकि (C) सही उत्तर है ।\n5. प्रश्नों के उत्तर केवल प्रश्न पुस्तिका के अन्दर दिये गये OMR पत्रक पर\n   ही अंकित करने हैं । यदि आप OMR पत्रक पर दिये गये वृत्त के अलावा\n   किसी अन्य स्थान पर उत्तर चिह्नांकित करते हैं, तो उसका मूल्यांकन\n   नहीं होगा ।\n6. अन्दर दिये गये निर्देशों को ध्यानपूर्वक पढ़ें ।\n7. कच्चा काम (Rough Work) इस पुस्तिका के अन्तिम पृष्ठ पर करें ।\n8. यदि आप OMR पत्रक पर नियत स्थान के अलावा अपना नाम, रोल\n   नम्बर, फोन नम्बर या कोई भी ऐसा चिह्न जिससे आपकी पहचान हो\n   सके, अंकित करते हैं अथवा अभद्र भाषा का प्रयोग करते हैं, या कोई\n   अन्य अनुचित साधन का प्रयोग करते हैं, जैसे कि अंकित किये गये\n   उत्तर को मिटाना या सफेद स्याही से बदलना तो परीक्षा के लिये\n   अयोग्य घोषित किये जा सकते हैं ।\n9. परीक्षा समाप्त होने पर प्रश्न-पुस्तिका एवं मूल OMR पत्रक\n   निरीक्षक महोदय को लौटाना आवश्यक है और परीक्षा समाप्ति के बाद\n   उसे अपने साथ परीक्षा भवन से बाहर न लेकर जायें । हालाँकि आप\n   परीक्षा समाप्ति पर OMR पत्रक की डुप्लीकेट प्रति अपने साथ ले जा\n   सकते हैं ।\n10. केवल नीले/काले बाल प्वाइंट पेन का ही इस्तेमाल करें ।\n11. किसी भी प्रकार का संगणक (कैलकुलेटर) या लाग टेबल आदि का\n    प्रयोग वर्जित है ।\n12. गलत उत्तरों के लिए कोई नकारात्मक अंक नहीं हैं ।"
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": "STOP",
+      "safety_ratings": [
+        {
+          "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HATE_SPEECH",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HARASSMENT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+          "probability": "NEGLIGIBLE"
+        }
+      ],
+      "token_count": null
+    }
+  ],
+  "create_time": null,
+  "response_id": null,
+  "model_version": "gemini-2.5-pro",
+  "prompt_feedback": null,
+  "usage_metadata": {
+    "cache_tokens_details": null,
+    "cached_content_token_count": null,
+    "candidates_token_count": 702,
+    "candidates_tokens_details": null,
+    "prompt_token_count": 717,
+    "prompt_tokens_details": [
+      {
+        "modality": "TEXT",
+        "token_count": 459
+      },
+      {
+        "modality": "IMAGE",
+        "token_count": 258
+      }
+    ],
+    "thoughts_token_count": 1498,
+    "tool_use_prompt_token_count": null,
+    "tool_use_prompt_tokens_details": null,
+    "total_token_count": 2917,
+    "traffic_type": null
+  },
+  "automatic_function_calling_history": [],
+  "parsed": null,
+  "page_number": 229
+}

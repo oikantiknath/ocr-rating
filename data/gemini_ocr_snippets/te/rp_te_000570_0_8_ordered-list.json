@@ -1,0 +1,79 @@
+{
+  "sdk_http_response": {
+    "headers": {
+      "content-type": "application/json; charset=UTF-8",
+      "vary": "Origin, X-Origin, Referer",
+      "content-encoding": "gzip",
+      "date": "Fri, 04 Jul 2025 04:34:59 GMT",
+      "server": "scaffolding on HTTPServer2",
+      "x-xss-protection": "0",
+      "x-frame-options": "SAMEORIGIN",
+      "x-content-type-options": "nosniff",
+      "server-timing": "gfet4t7; dur=61275",
+      "alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
+      "transfer-encoding": "chunked"
+    },
+    "body": null
+  },
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "1. రుద్రభాష్యము: — పిడునరి సోమనా\nథుఁడు శైవామ్నాయసారమను గ్రంథ\nము లో రుద్ర భాష్య ము న్నది.\nకాని ఈ నాఁ డిది లభ్యమగుటలేదు. దీనిని\nసోమనాథుఁడు చతుర్వేదసార రత్నాంతరము\nరచించెనందురు. పేరినిబట్టి యిది యజుర్వేద\nమందలి తైత్తరీయ మనుప్రాధ్యాయమునకు\nభాష్యమైయుండునని తోఁచుచున్నది.\n2. సోమనాథ భాష్యము:-‘సంస్కృ)తమున\nశైవతంత్రోద్ధరణ నిమిత్తము నిర్మింపరబడిన ప్ర\nకరణముల పంక్తి. (శ్రుతిస్మృ)తిపురాణా\nగమాదులందుఁ బెక్కింటి కర్థములిం దుదాహృ\nతము’. మల్లికార్జున పండితారాధ్యుల శైవతత్త్వ\nసారము సంగ్రహించి చాలశ్లోకములు\nగ్రంథింపరబడినది. దీనికి ‘శివయోగసార’మను\nనామాంతరము గలదు.’ మనోహర\nమైన శైవమత దీపికా కాంధ్రభాషలో వివ\nరించి వ్రాసియున్నారడు. పదియవ ప్రకరణము\nవఱకే లభ్యమగుచున్నది. దీని టీకారచన\nప్రాచీన టీకల శైలిలో సరళమైన వాండుక\nభాషలోర గలదు. ఇందు (1) బృహదొం\nమాహాత్మ్యము (2) విభూతిమాహాత్మ్యము (3)\nరుద్రాక్షమాహాత్మ్యము. (4) శివలింగధారణ\nమాహాత్మ్యము. (5) లింగార్చనవిధి (6) లింగా\nర్చన మాహాత్మ్యము. (7) పాదోదక మాహా\nత్మ్యము (8) ప్రసాదస్థలమాహాత్మ్యము (9) శిర\nశ్శేవ మాహాత్మ్యము (10) శిరశ్శేషార్పణ\nమాహాత్మ్యము (11) ఇతరదేవతా పరిత్యాగ\nమాహాత్మ్యము. (12) సమస్తాచారపద్ధతిము\n(14) దత్తాభరణ నిరసనము (14) మూర్తా\nర్చాకన నిషేధము (15) నారాయణోపాస\nనము"
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": "STOP",
+      "safety_ratings": [
+        {
+          "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HATE_SPEECH",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HARASSMENT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+          "probability": "NEGLIGIBLE"
+        }
+      ],
+      "token_count": null
+    }
+  ],
+  "create_time": null,
+  "response_id": null,
+  "model_version": "gemini-2.5-pro",
+  "prompt_feedback": null,
+  "usage_metadata": {
+    "cache_tokens_details": null,
+    "cached_content_token_count": null,
+    "candidates_token_count": 590,
+    "candidates_tokens_details": null,
+    "prompt_token_count": 717,
+    "prompt_tokens_details": [
+      {
+        "modality": "TEXT",
+        "token_count": 459
+      },
+      {
+        "modality": "IMAGE",
+        "token_count": 258
+      }
+    ],
+    "thoughts_token_count": 5314,
+    "tool_use_prompt_token_count": null,
+    "tool_use_prompt_tokens_details": null,
+    "total_token_count": 6621,
+    "traffic_type": null
+  },
+  "automatic_function_calling_history": [],
+  "parsed": null,
+  "page_number": 269
+}

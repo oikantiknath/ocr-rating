@@ -1,0 +1,82 @@
+{
+  "page_number": 464,
+  "ocr_output": {
+    "blocks": [
+      {
+        "block_text": "Regd . News Paper RNI No. KARKAN / 2012 / 47568 KA / SK / SMG - 1209 / 2022-24",
+        "lines": [
+          "Regd . News Paper RNI No. KARKAN / 2012 / 47568 KA / SK / SMG - 1209 / 2022-24"
+        ],
+        "bounding_box": [
+          {
+            "x": 43,
+            "y": 720
+          },
+          {
+            "x": 44,
+            "y": 8
+          },
+          {
+            "x": 113,
+            "y": 8
+          },
+          {
+            "x": 112,
+            "y": 720
+          }
+        ],
+        "confidence": 0.9836453
+      },
+      {
+        "block_text": "ಇವರಿಗೆ \\ To",
+        "lines": [
+          "ಇವರಿಗೆ \\ To"
+        ],
+        "bounding_box": [
+          {
+            "x": 138,
+            "y": 643
+          },
+          {
+            "x": 141,
+            "y": 502
+          },
+          {
+            "x": 169,
+            "y": 503
+          },
+          {
+            "x": 166,
+            "y": 644
+          }
+        ],
+        "confidence": 0.8348076
+      },
+      {
+        "block_text": "Rgd No.",
+        "lines": [
+          "Rgd No."
+        ],
+        "bounding_box": [
+          {
+            "x": 85,
+            "y": 721
+          },
+          {
+            "x": 85,
+            "y": 604
+          },
+          {
+            "x": 113,
+            "y": 604
+          },
+          {
+            "x": 113,
+            "y": 721
+          }
+        ],
+        "confidence": 0.97510415
+      }
+    ]
+  }
+}

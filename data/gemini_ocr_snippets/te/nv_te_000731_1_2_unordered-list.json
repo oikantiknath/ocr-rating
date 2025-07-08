@@ -1,0 +1,79 @@
+{
+  "sdk_http_response": {
+    "headers": {
+      "content-type": "application/json; charset=UTF-8",
+      "vary": "Origin, X-Origin, Referer",
+      "content-encoding": "gzip",
+      "date": "Fri, 04 Jul 2025 04:31:36 GMT",
+      "server": "scaffolding on HTTPServer2",
+      "x-xss-protection": "0",
+      "x-frame-options": "SAMEORIGIN",
+      "x-content-type-options": "nosniff",
+      "server-timing": "gfet4t7; dur=27144",
+      "alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
+      "transfer-encoding": "chunked"
+    },
+    "body": null
+  },
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "* 2015 సంవత్సరానికి మీ వ్యక్తిత్వమేమిటో, మీ\nఆలోచనా విధానం, వైఖరులు గురించి చెప్పే కెమెరాలు\nవస్తున్నాయి. కంప్యూటరు మీద మీరు పనిచేస్తుంటే\nమిమ్మల్ని చూస్తున్న కెమెరా, మీ చిత్రాన్ని కంప్యూటరుకు\nఅందిస్తుంది. మీ ఫీలింగ్స్ని విశ్లేషణ చేసి, మీ గురించి\nకంప్యూటరులో ఫలితం వస్తుంది. ఫలితంతో పాటు మీకు\nపక్కని సూచనలు కూడా వస్తుంది.\n\n* 2016వ సంవత్సరం ప్రజలకు చాలా ఆనందం\nకలిగిస్తుంది. అప్పటికి కొత్తరకం అద్దాలు వస్తాయి.\nవాటిలో చూసుకుంటే మీ వంటకి ఏ సబ్బు మంచిది?\nఏరకమైన టాల్కమ్ పౌడర్ వాడాలి? ఏ రంగు లిప్స్టిక్\nవాడాలి? ఏ మేకప్ ఎలా చేసుకోవాలి? అనే వివరాలు\nటకటకా అద్దం మీద ప్రత్యక్షమవుతాయి. దాన్ని బట్టి\nమిమ్మల్ని మీరు బాగా తీర్చిదిద్దుకోవచ్చు.\n\n* 2016వ సంవత్సరానికి జేబులో వేసుకునే టెలివిజన్\nకమ్ సెల్ఫోన్ కమ్ కంప్యూటర్ వాడుకలోకి రాబోతోంది.\nదాని ఖరీదు అతి సామాన్యులకు కూడా అందుబాటులో\nఉంటుంది. నిజానికి టెలివిజన్ కమ్ సెల్ఫోన్ ఇప్పటికే\nవచ్చింది. కాకపోతే సైజు కొంచెం పోస్ట్ కార్డంత\nఉంటుంది. అది కాస్తా అందులో సగానికి తగ్గి, రేటు\nనాలుగురెట్లు తగ్గి లభించబోతోందట.\n\n* 2017కి కృత్రిమ అవయవాలు మార్కెట్లోకి\nరాబోతున్నాయి. ముఖ్యంగా కిడ్నీలు, ఊపిరితిత్తుల కొరకు\nమనం ఇబ్బందులు పడనవసరం లేదు. సూపర్బజార్కి\nవెళ్ళి వస్తువులు కొనుక్కున్నట్లే డాక్టర్లు కృత్రిమ అవయవాలు\nకొని మన శరీరంలో నిమిషాల్లో అమర్చగలరట. అయితే\nఅదే సమయంలో ఢిల్లీ లాంటి నగరాల్లో నకిలీలు కూడా\nచేరారట. జాగ్రత్తగా చూసి కొనుక్కోమని హెచ్చరికలు\nపేపర్లో వస్తాయి."
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": "STOP",
+      "safety_ratings": [
+        {
+          "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HATE_SPEECH",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HARASSMENT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+          "probability": "NEGLIGIBLE"
+        }
+      ],
+      "token_count": null
+    }
+  ],
+  "create_time": null,
+  "response_id": null,
+  "model_version": "gemini-2.5-pro",
+  "prompt_feedback": null,
+  "usage_metadata": {
+    "cache_tokens_details": null,
+    "cached_content_token_count": null,
+    "candidates_token_count": 508,
+    "candidates_tokens_details": null,
+    "prompt_token_count": 715,
+    "prompt_tokens_details": [
+      {
+        "modality": "TEXT",
+        "token_count": 457
+      },
+      {
+        "modality": "IMAGE",
+        "token_count": 258
+      }
+    ],
+    "thoughts_token_count": 1399,
+    "tool_use_prompt_token_count": null,
+    "tool_use_prompt_tokens_details": null,
+    "total_token_count": 2622,
+    "traffic_type": null
+  },
+  "automatic_function_calling_history": [],
+  "parsed": null,
+  "page_number": 201
+}

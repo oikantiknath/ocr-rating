@@ -1,0 +1,79 @@
+{
+  "sdk_http_response": {
+    "headers": {
+      "content-type": "application/json; charset=UTF-8",
+      "vary": "Origin, X-Origin, Referer",
+      "content-encoding": "gzip",
+      "date": "Fri, 04 Jul 2025 05:39:15 GMT",
+      "server": "scaffolding on HTTPServer2",
+      "x-xss-protection": "0",
+      "x-frame-options": "SAMEORIGIN",
+      "x-content-type-options": "nosniff",
+      "server-timing": "gfet4t7; dur=56331",
+      "alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
+      "transfer-encoding": "chunked"
+    },
+    "body": null
+  },
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "‘ખાનુનિસ કાદીયાવાડ’(૧૯૬૩), ‘હવાબારી’(૧૯૯૩), ‘ઈશ્વરપત્ર’(૧૯૬૫), ‘અધિ ય’(૧૯૬૫), ‘ઈદમ્\nસર્વમ્’(૧૯૭૬), ‘ઈતિ મે મતિ’(૧૯૮૪)અને ‘અરણ્યરુદન’(૧૯૭૬) માલવર્કી પોતાના ઈતિહાસ ગ્રંથોમાં આપી\nછે. જ્યારે આ પુસ્તકોની માલવારી મૂળ પુસ્તકોની અને સાહિત્ય પરિષદના ઈતિહાસમાં અનુક્રમે જોઈએ તો તે\n‘ઉત્તમ કપોળ કરસનદાસ મૂળજી’(૧૮૭૭), કરસનદાસ મૂળજી ‘રુસ્તમ ઝીફરઝ’ની કામગીરી (૧૮૬૦-૧૮૬૨),\n‘બૃહદ કાવ્યદોહન’ના આઠ ભાગ (૧૮૮૬-૧૯૧૩), ‘ઈડરનો મુસલમાની વર્ણન (૧૮૬૨), ‘ઉત્તરા’(૧૯૪૪),\n‘પાદરના તીરથ’(૧૯૬૩), ‘છેલ્લી અદાલત’(૧૯૯૩), ‘બંદીઘર’(૧૯૪૬), ‘પ્રેમ અને પૂજા ૧-૨’ (૧૯૪૪),\n‘કુરુક્ષેત્ર’(૧૯૯૧), ‘ભેદની ભીંત્યું માથે ભોગળ’(૧૯૭૨), ‘રજકણિયા’(૧૯૫૨), ‘જ્ઞાની’ની કીર્તિ ને\nજ્ઞાની’ની ફજેતી’(૧૯૭૧), ‘પગલાં પડી ગયાં’(૧૯૯૧), ‘નવું ઘર’(૧૯૯૧), ‘ડગલું વહેલું કે મોડું’(૧૯૯૦),\n‘મનોમુદ્રા’(૧૯૬૦), ‘રૂપ અને રસ’(૧૯૬૫), ‘વિશ્વમય’(૧૯૬૩), ‘તરંગો’(૧૯૯૯), ‘ખાનુનિસ\nકાદીયાવાડ’(૧૯૬૫), ‘હવાબારી’(૧૯૬૩), ‘ઈશ્વરપત્ર’(૧૯૬૯), ‘અધિ ય’(૧૯૬૪), ‘ઈદમ્ સર્વમ્’(૧૯૭૧), ‘ઈતિ\nમે મતિ’(૧૯૮૭)અને ‘અરણ્યરુદન’(૧૯૭૨) આપવામાં આવી છે. માલવારીમાં મૂળ પુસ્તકોમાં અને ગુજરાતી\nસાહિત્ય પરિષદના ઈતિહાસને જોતાં માલવારીમાં આપણને તફાવત જણાઈ આવે છે. ક્યાં આવી ભૂલો તેનો\nખ્યાલ બહાર રહી ગઈ હોય કે પછી ખરેખર માહિતીમાં ફેરફાર થયો હોય તે પણ ત્યાર બાદની માહિતીમાં\nપણ એ પુનરાવર્તન થયું હોય એ બતાવવા માંગે છે."
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": "STOP",
+      "safety_ratings": [
+        {
+          "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HATE_SPEECH",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HARASSMENT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+          "probability": "NEGLIGIBLE"
+        }
+      ],
+      "token_count": null
+    }
+  ],
+  "create_time": null,
+  "response_id": null,
+  "model_version": "gemini-2.5-pro",
+  "prompt_feedback": null,
+  "usage_metadata": {
+    "cache_tokens_details": null,
+    "cached_content_token_count": null,
+    "candidates_token_count": 700,
+    "candidates_tokens_details": null,
+    "prompt_token_count": 758,
+    "prompt_tokens_details": [
+      {
+        "modality": "TEXT",
+        "token_count": 500
+      },
+      {
+        "modality": "IMAGE",
+        "token_count": 258
+      }
+    ],
+    "thoughts_token_count": 4946,
+    "tool_use_prompt_token_count": null,
+    "tool_use_prompt_tokens_details": null,
+    "total_token_count": 6404,
+    "traffic_type": null
+  },
+  "automatic_function_calling_history": [],
+  "parsed": null,
+  "page_number": 285
+}

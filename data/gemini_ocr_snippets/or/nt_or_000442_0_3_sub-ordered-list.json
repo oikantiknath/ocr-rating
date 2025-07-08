@@ -1,0 +1,79 @@
+{
+  "sdk_http_response": {
+    "headers": {
+      "content-type": "application/json; charset=UTF-8",
+      "vary": "Origin, X-Origin, Referer",
+      "content-encoding": "gzip",
+      "date": "Fri, 04 Jul 2025 04:01:24 GMT",
+      "server": "scaffolding on HTTPServer2",
+      "x-xss-protection": "0",
+      "x-frame-options": "SAMEORIGIN",
+      "x-content-type-options": "nosniff",
+      "server-timing": "gfet4t7; dur=39523",
+      "alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
+      "transfer-encoding": "chunked"
+    },
+    "body": null
+  },
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "(୧) ଅନୁକମ୍ପା ଭିତ୍ତିରେ ନିଯୁକ୍ତି କେବଳ ଦୁର୍ଘଟଣା/ମୃତ୍ୟୁ ମାମଲାରେ ବିଚାର କରାଯିବ\nଯାହା ଶ୍ରମିକ କ୍ଷତିପୂରଣ ଅଧିନିୟମର ବ୍ୟବସ୍ଥା ଅନୁଯାୟୀ \"ନିଯୁକ୍ତି ଏବଂ ନିଯୁକ୍ତି\nସମୟରେ ଉତ୍ପନ୍ନ\" ଅର୍ଥରେ ଆସେ ।\n(୨) ମୃତ କର୍ମଚାରୀଙ୍କ ପରିବାରର ବାକିଥିବା ଅନ୍ୟ କୌଣସି ମାଧ୍ୟମ ନାହିଁ ବୋଲି ସ୍ପଷ୍ଟ\nହେବା ପରେ ଅନୁକମ୍ପାମୂଳକ ନିଯୁକ୍ତି ପ୍ରଦାନ କରାଯାଇପାରେ ।\n(୩) ଅନୁକମ୍ପାମୂଳକ ନିଯୁକ୍ତି ପ୍ରଦେଶିକା ସ୍ତରରେ ଏବଂ ଉପରସ୍ଥ ଖାଲି ଥିବା ବିଭାଗରେ\nଅଣ-କାର୍ଯ୍ୟନିର୍ବାହୀ ପଦରେ ପଦବୀରେ ସୀମିତ ରହିପାରିବ ।\n(୪) ମୃତ ବ୍ୟକ୍ତିଙ୍କ ନିକଟତମ ପତ୍ନୀ/ପୁଅ/ଝିଅଙ୍କୁ ନିଯୁକ୍ତି ପାଇଁ ବିଚାର କରାଯାଇପାରେ,\nଯଦି ସେ ଅଣ-କାର୍ଯ୍ୟନିର୍ବାହୀ ନିଯୁକ୍ତି ନିମନ୍ତେ ଅନୁଯାୟୀ ନିର୍ଦ୍ଦିଷ୍ଟ ପଦବୀ ପାଇଁ ସର୍ବନିମ୍ନ\nଆବଶ୍ୟକୀୟ ଯୋଗ୍ୟତା ପୂରଣ କରନ୍ତି ।"
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": "STOP",
+      "safety_ratings": [
+        {
+          "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HATE_SPEECH",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HARASSMENT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+          "probability": "NEGLIGIBLE"
+        }
+      ],
+      "token_count": null
+    }
+  ],
+  "create_time": null,
+  "response_id": null,
+  "model_version": "gemini-2.5-pro",
+  "prompt_feedback": null,
+  "usage_metadata": {
+    "cache_tokens_details": null,
+    "cached_content_token_count": null,
+    "candidates_token_count": 432,
+    "candidates_tokens_details": null,
+    "prompt_token_count": 786,
+    "prompt_tokens_details": [
+      {
+        "modality": "TEXT",
+        "token_count": 528
+      },
+      {
+        "modality": "IMAGE",
+        "token_count": 258
+      }
+    ],
+    "thoughts_token_count": 3557,
+    "tool_use_prompt_token_count": null,
+    "tool_use_prompt_tokens_details": null,
+    "total_token_count": 4775,
+    "traffic_type": null
+  },
+  "automatic_function_calling_history": [],
+  "parsed": null,
+  "page_number": 173
+}

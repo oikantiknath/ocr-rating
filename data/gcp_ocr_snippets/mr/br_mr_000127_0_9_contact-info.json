@@ -1,0 +1,32 @@
+{
+  "page_number": 127,
+  "ocr_output": {
+    "blocks": [
+      {
+        "block_text": "shindemandar@yahoo.com )",
+        "lines": [
+          "shindemandar@yahoo.com )"
+        ],
+        "bounding_box": [
+          {
+            "x": 11,
+            "y": 13
+          },
+          {
+            "x": 849,
+            "y": 18
+          },
+          {
+            "x": 849,
+            "y": 79
+          },
+          {
+            "x": 11,
+            "y": 74
+          }
+        ],
+        "confidence": 0.99015546
+      }
+    ]
+  }
+}

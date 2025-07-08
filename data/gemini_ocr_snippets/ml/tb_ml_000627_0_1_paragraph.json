@@ -1,0 +1,79 @@
+{
+  "sdk_http_response": {
+    "headers": {
+      "content-type": "application/json; charset=UTF-8",
+      "vary": "Origin, X-Origin, Referer",
+      "content-encoding": "gzip",
+      "date": "Fri, 04 Jul 2025 05:13:30 GMT",
+      "server": "scaffolding on HTTPServer2",
+      "x-xss-protection": "0",
+      "x-frame-options": "SAMEORIGIN",
+      "x-content-type-options": "nosniff",
+      "server-timing": "gfet4t7; dur=26589",
+      "alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
+      "transfer-encoding": "chunked"
+    },
+    "body": null
+  },
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "കാഞ്ചീപുരം, അതിൽ വാട,ധാര,ബാഭി,മധുരത തുടങ്ങിയവ ഉൾപ്പെടുന്ന 15\nവ്യത്യസ്തവാദ്യങ്ങളുണ്ടെന്ന് ആൽബറൂണി പറയുന്നു. കാഞ്ചീലിനമുള്ള\nപ്രധാനവഴി പ്രധാനവഴി കിഴക്ക് താമരപ്പള്ളിയിലേക്കും തെക്ക് കാഞ്ചിലേക്കും\nനീളുന്നു.പ്രധാനവഴിയുള്ള വഴിയിൽ ജ്ഞാനം, അമൃത്,കദം,\nബ്രഹ്മശില എന്നീ സ്ഥലങ്ങളുണ്ട്. ഡോൺമ്യൂറിലെ ബാബി(വാടി)യിൽനിന്ന് ഗംഗ\nസമുദ്രത്തിൽ വീഴുന്ന സ്ഥാനം വരെയാണുള്ള ദൂരം ഇന്നും പഴയ പാരമ്പര്യമാ\nണ്. ഈ പാത അതോയോധ്യാപുരി വഴി കലിനോപാഹവുമായി ബന്ധിപ്പിക്കുന്നു.\nപിന്നെ വടക്കലിക്ക് സരവൂർ(ഗോരഖ് പൂർ),മൗണ്ട്,ബസാർ,ബസൻപൂർ (ച\nമ്പാ) ഭാഗവൂർ വഴി ഗംഗാമുഖം വരെ ചെല്ലും. കപിലവസ്തു(നേപ്പാൾ)വിൽനിന്ന്\nബുദ്ധന്റെ പരിനിർവ്വാണസ്ഥാനത്തെ ഗംഗ കടന്ന് കുടകവാടങ്ങളുടെ 30 കി\nമി സഞ്ചരിച്ചാൽ ഗംഗാവർഷമായി. (ഈ വഴിയാണ് ബുദ്ധൻ തന്റെ\nകൊട്ടാരം വിട്ട് ഇന്ത്യയിലേക്ക് വന്നത്)"
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": "STOP",
+      "safety_ratings": [
+        {
+          "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HATE_SPEECH",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HARASSMENT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+          "probability": "NEGLIGIBLE"
+        }
+      ],
+      "token_count": null
+    }
+  ],
+  "create_time": null,
+  "response_id": null,
+  "model_version": "gemini-2.5-pro",
+  "prompt_feedback": null,
+  "usage_metadata": {
+    "cache_tokens_details": null,
+    "cached_content_token_count": null,
+    "candidates_token_count": 296,
+    "candidates_tokens_details": null,
+    "prompt_token_count": 738,
+    "prompt_tokens_details": [
+      {
+        "modality": "TEXT",
+        "token_count": 480
+      },
+      {
+        "modality": "IMAGE",
+        "token_count": 258
+      }
+    ],
+    "thoughts_token_count": 1902,
+    "tool_use_prompt_token_count": null,
+    "tool_use_prompt_tokens_details": null,
+    "total_token_count": 2936,
+    "traffic_type": null
+  },
+  "automatic_function_calling_history": [],
+  "parsed": null,
+  "page_number": 376
+}

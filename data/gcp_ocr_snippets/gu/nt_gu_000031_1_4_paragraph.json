@@ -1,0 +1,32 @@
+{
+  "page_number": 31,
+  "ocr_output": {
+    "blocks": [
+      {
+        "block_text": "GS & HSEB / Board : Gujarat Secondary and Higher Secondary Education Board",
+        "lines": [
+          "GS & HSEB / Board : Gujarat Secondary and Higher Secondary Education Board"
+        ],
+        "bounding_box": [
+          {
+            "x": 3,
+            "y": 6
+          },
+          {
+            "x": 381,
+            "y": 6
+          },
+          {
+            "x": 381,
+            "y": 16
+          },
+          {
+            "x": 3,
+            "y": 16
+          }
+        ],
+        "confidence": 0.98246646
+      }
+    ]
+  }
+}

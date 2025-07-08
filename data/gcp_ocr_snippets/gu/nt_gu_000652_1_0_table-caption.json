@@ -1,0 +1,31 @@
+{
+  "page_number": 652,
+  "ocr_output": {
+    "blocks": [
+      {
+        "block_text": "Provisional Approved New Higher Secondary School Application ( ( 621α SHis : 005 Date : 18/06/2022 ) Patrak ;",
+        "lines": [
+          "Provisional Approved New Higher Secondary School Application ( ( 621α SHis : 005 Date : 18/06/2022 ) Patrak ;"
+        ],
+        "bounding_box": [
+          {
+            "x": 2
+          },
+          {
+            "x": 654,
+            "y": 5
+          },
+          {
+            "x": 654,
+            "y": 17
+          },
+          {
+            "x": 2,
+            "y": 16
+          }
+        ],
+        "confidence": 0.919558
+      }
+    ]
+  }
+}

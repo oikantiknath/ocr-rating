@@ -1,0 +1,52 @@
+{
+  "page_number": 24,
+  "ocr_output": {
+    "blocks": [
+      {
+        "block_text": "https : //www.jalaram bookstore.com",
+        "lines": [
+          "https : //www.jalaram bookstore.com"
+        ],
+        "bounding_box": [
+          {},
+          {
+            "x": 185
+          },
+          {
+            "x": 185,
+            "y": 12
+          },
+          {
+            "y": 13
+          }
+        ],
+        "confidence": 0.97884524
+      },
+      {
+        "block_text": "Click Here",
+        "lines": [
+          "Click Here"
+        ],
+        "bounding_box": [
+          {
+            "x": 68,
+            "y": 24
+          },
+          {
+            "x": 120,
+            "y": 24
+          },
+          {
+            "x": 120,
+            "y": 33
+          },
+          {
+            "x": 68,
+            "y": 33
+          }
+        ],
+        "confidence": 0.9914492
+      }
+    ]
+  }
+}

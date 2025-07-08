@@ -1,0 +1,79 @@
+{
+  "sdk_http_response": {
+    "headers": {
+      "content-type": "application/json; charset=UTF-8",
+      "vary": "Origin, X-Origin, Referer",
+      "content-encoding": "gzip",
+      "date": "Fri, 04 Jul 2025 03:22:07 GMT",
+      "server": "scaffolding on HTTPServer2",
+      "x-xss-protection": "0",
+      "x-frame-options": "SAMEORIGIN",
+      "x-content-type-options": "nosniff",
+      "server-timing": "gfet4t7; dur=26502",
+      "alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
+      "transfer-encoding": "chunked"
+    },
+    "body": null
+  },
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "(a) पंजाब और हरियाणा उच्च न्यायालय के कर्मचारियों ने अभ्यावेदन किया है कि उनके वेतनमान, जिनमें बहुत समय\nसे संशोधन नहीं किया गया है, संघ राज्यक्षेत्र चंडीगढ़ में कार्य कर रहे विभिन्न श्रेणियों के कर्मचारियों के मौजूदा\nवेतनमानों के बराबर किया जाए। वे यह भी चाहते हैं कि उच्च न्यायालय में उन्हें दिए जाने वाले विशेष वेतन और\nभत्ते जारी रहने चाहिए क्योंकि वे विशिष्ट रूप से उच्च न्यायालय के कार्य के लिए ही थे। उच्च न्यायालय के\nरजिस्ट्रार ने अभ्यावेदन को भारत सरकार के न्याय विभाग को इस विषय में उनके विचारार्थ भेज दिया है।\nन्याय विभाग के अनुभाग अधिकारी के रूप में वित्त मंत्रालय के व्यय विभाग को, प्रस्ताव के पक्ष में तर्क देते हुए\nउनकी सहमति के लिए आइ० डी० टिप्पणी का मसौदा तैयार कीजिए।\nThe staff of the Punjab and Haryana High Court made a representation that\ntheir pay scales, which had not been revised for long, be made equivalent to\nthe present pay scales of various categories of staff working in the UT of\nChandigarh. They also wanted the special pay and other allowances given to\nthem in the High Court to continue as they were specific to their jobs in the\nHigh Court. The Registrar of the High Court sent the representation to the\nDepartment of Justice in Government of India for their views in the matter.\nAs Section Officer in the Department of Justice, draft an ID note for the\nDepartment of Expenditure, Ministry of Finance arguing in favour of the\nproposal for their concurrence.\n(b) स्वास्थ्य एवं परिवार कल्याण मंत्रालय के अधीन एक स्वायत्त संस्था के एक वरिष्ठ अधिकारी श्री ABC के खिलाफ\nयौन उत्पीड़न की अनेक शिकायतें मंत्री जी को प्राप्त हुई हैं। मंत्रालय ने संस्था के निदेशक को सलाह दी कि\nशिकायतों की जाँच का आदेश करें और जाँच रिपोर्ट के अनुसार अधिकारी के विरुद्ध कार्रवाई की जाए। मंत्री जी\nकी सूचनार्थ मंत्रालय को की गयी कार्रवाई की अंतिम रिपोर्ट भेजने की आवश्यकता है। संस्था के निदेशक ने संस्था\nकी एक वरिष्ठ महिला अधिकारी को जाँच करने के लिए कहा। उसने श्री ABC अधिकारी को बर्खास्त करने का\nसुझाव देते हुए एक सप्ताह के अंदर अपनी रिपोर्ट जमा कर दी। मंत्रालय को श्री ABC से अभ्यावेदन प्राप्त हुआ कि\nजाँच ठीक प्रकार नहीं की गयी है क्योंकि संस्था में कोई यौन उत्पीड़न शिकायत समिति नहीं है जो कि ऐसी\nशिकायतों की जाँच करने के लिए नियमानुसार आवश्यक है।\nमंत्रालय के अनुभाग अधिकारी के रूप में संयुक्त सचिव (अ) की तरफ से एक पत्र का मसौदा तैयार कीजिए,\nजिसमें संस्था के निदेशक को संस्था में आवश्यक आंतरिक शिकायत समिति का गठन करके नयी जाँच का आदेश\nकरने के लिए कहा जाए।\nSeveral complaints of sexual harassment were received against Mr. ABC, a\nsenior officer in an Autonomous Institute under the Ministry of Health and\nFamily Welfare by the Minister. The Ministry advised the Director of the\nInstitute to order an inquiry into the complaints and action be taken against\nthe officer in accordance with the inquiry report. A final report on the action"
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": "STOP",
+      "safety_ratings": [
+        {
+          "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HATE_SPEECH",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HARASSMENT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+          "probability": "NEGLIGIBLE"
+        }
+      ],
+      "token_count": null
+    }
+  ],
+  "create_time": null,
+  "response_id": null,
+  "model_version": "gemini-2.5-pro",
+  "prompt_feedback": null,
+  "usage_metadata": {
+    "cache_tokens_details": null,
+    "cached_content_token_count": null,
+    "candidates_token_count": 605,
+    "candidates_tokens_details": null,
+    "prompt_token_count": 760,
+    "prompt_tokens_details": [
+      {
+        "modality": "TEXT",
+        "token_count": 502
+      },
+      {
+        "modality": "IMAGE",
+        "token_count": 258
+      }
+    ],
+    "thoughts_token_count": 1448,
+    "tool_use_prompt_token_count": null,
+    "tool_use_prompt_tokens_details": null,
+    "total_token_count": 2813,
+    "traffic_type": null
+  },
+  "automatic_function_calling_history": [],
+  "parsed": null,
+  "page_number": 237
+}

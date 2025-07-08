@@ -1,0 +1,79 @@
+{
+  "sdk_http_response": {
+    "headers": {
+      "content-type": "application/json; charset=UTF-8",
+      "vary": "Origin, X-Origin, Referer",
+      "content-encoding": "gzip",
+      "date": "Fri, 04 Jul 2025 04:28:59 GMT",
+      "server": "scaffolding on HTTPServer2",
+      "x-xss-protection": "0",
+      "x-frame-options": "SAMEORIGIN",
+      "x-content-type-options": "nosniff",
+      "server-timing": "gfet4t7; dur=26038",
+      "alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
+      "transfer-encoding": "chunked"
+    },
+    "body": null
+  },
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "ల మీద ఇసుక పిట్ట పైకప్పుగా వేశారు. ఆ\nపిట్ట మీద ఆర్సీసీ స్లాబ్ వేశారు. భవన నిర్మా\nణంలో బీహార్, పశ్చిమ బెంగాల్ రాష్ట్రాలకు\nచెందిన కార్మికులు పనిచేస్తున్నారు. 14 మంది\nకార్మికులు సోమవారం పనుల్లో ఉండగా..\nనిర్మాణం పైకప్పు పెద్ద శబ్దంతో విరిగి పడింది.\nబీహార్‌కు చెందిన సునీల్(26), పశ్చిమ బెంగా\nల్‌కు చెందిన బాబుల్(35) శిథిలాల కింద పరు\nక్కుపోయి దుర్మరణం చెందారు. ఏడుగురికి\nతీవ్ర గాయాలయ్యాయి. మరో ఐదుగురు సుర\nక్షితంగా బయటపడ్డారు. సమాచారం అందు\nకున్న పోలీసులు సంఘటనా స్థలానికి చేరుకుని\nరెస్క్యూ టీం సహాయంతో మృతదేహాలను\nబయటకు తీశారు. కేసు దర్యాప్తులో ఉంది."
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": "STOP",
+      "safety_ratings": [
+        {
+          "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HATE_SPEECH",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HARASSMENT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+          "probability": "NEGLIGIBLE"
+        }
+      ],
+      "token_count": null
+    }
+  ],
+  "create_time": null,
+  "response_id": null,
+  "model_version": "gemini-2.5-pro",
+  "prompt_feedback": null,
+  "usage_metadata": {
+    "cache_tokens_details": null,
+    "cached_content_token_count": null,
+    "candidates_token_count": 216,
+    "candidates_tokens_details": null,
+    "prompt_token_count": 713,
+    "prompt_tokens_details": [
+      {
+        "modality": "TEXT",
+        "token_count": 455
+      },
+      {
+        "modality": "IMAGE",
+        "token_count": 258
+      }
+    ],
+    "thoughts_token_count": 2286,
+    "tool_use_prompt_token_count": null,
+    "tool_use_prompt_tokens_details": null,
+    "total_token_count": 3215,
+    "traffic_type": null
+  },
+  "automatic_function_calling_history": [],
+  "parsed": null,
+  "page_number": 105
+}

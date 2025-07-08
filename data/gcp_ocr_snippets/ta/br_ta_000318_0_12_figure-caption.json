@@ -1,0 +1,57 @@
+{
+  "page_number": 318,
+  "ocr_output": {
+    "blocks": [
+      {
+        "block_text": "CONSUMER",
+        "lines": [
+          "CONSUMER"
+        ],
+        "bounding_box": [
+          {
+            "x": 31,
+            "y": 7
+          },
+          {
+            "x": 355,
+            "y": 7
+          },
+          {
+            "x": 355,
+            "y": 38
+          },
+          {
+            "x": 31,
+            "y": 38
+          }
+        ],
+        "confidence": 0.98860824
+      },
+      {
+        "block_text": "PROTECTION",
+        "lines": [
+          "PROTECTION"
+        ],
+        "bounding_box": [
+          {
+            "x": 7,
+            "y": 45
+          },
+          {
+            "x": 380,
+            "y": 45
+          },
+          {
+            "x": 380,
+            "y": 76
+          },
+          {
+            "x": 7,
+            "y": 76
+          }
+        ],
+        "confidence": 0.98827374
+      }
+    ]
+  }
+}

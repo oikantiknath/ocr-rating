@@ -1,0 +1,32 @@
+{
+  "page_number": 646,
+  "ocr_output": {
+    "blocks": [
+      {
+        "block_text": "Unit - 5 : Social Control : Meaning and types , Formal and Informal social control , Agencies of Social control",
+        "lines": [
+          "Unit - 5 : Social Control : Meaning and types , Formal and Informal social control , Agencies of Social control"
+        ],
+        "bounding_box": [
+          {
+            "x": 4,
+            "y": 10
+          },
+          {
+            "x": 456,
+            "y": 8
+          },
+          {
+            "x": 456,
+            "y": 37
+          },
+          {
+            "x": 4,
+            "y": 39
+          }
+        ],
+        "confidence": 0.9795515
+      }
+    ]
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "page_number": 301,
+  "ocr_output": {
+    "blocks": [
+      {
+        "block_text": "Reg No.KL / TV ( N ) / 634 / 2021-2023",
+        "lines": [
+          "Reg No.KL / TV ( N ) / 634 / 2021-2023"
+        ],
+        "bounding_box": [
+          {
+            "x": 25,
+            "y": 22
+          },
+          {
+            "x": 667,
+            "y": 22
+          },
+          {
+            "x": 667,
+            "y": 58
+          },
+          {
+            "x": 25,
+            "y": 58
+          }
+        ],
+        "confidence": 0.9780636
+      }
+    ]
+  }
+}

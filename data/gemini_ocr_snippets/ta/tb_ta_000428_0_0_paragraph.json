@@ -1,0 +1,79 @@
+{
+  "sdk_http_response": {
+    "headers": {
+      "content-type": "application/json; charset=UTF-8",
+      "vary": "Origin, X-Origin, Referer",
+      "content-encoding": "gzip",
+      "date": "Fri, 04 Jul 2025 04:18:41 GMT",
+      "server": "scaffolding on HTTPServer2",
+      "x-xss-protection": "0",
+      "x-frame-options": "SAMEORIGIN",
+      "x-content-type-options": "nosniff",
+      "server-timing": "gfet4t7; dur=27689",
+      "alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
+      "transfer-encoding": "chunked"
+    },
+    "body": null
+  },
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "உலகின் சமூக, பொருளாதார, தொழினுட்ப, கலாசார விருத்தியுடன் சேர்ந்து கல்வியின்\nநோக்கங்கள் மிக விரிந்த தோற்றமொன்றைப் பெற்றுள்ளன. மானிட அனுபவங்கள்,\nதொழினுட்ப மாற்றங்கள் ஆராய்ச்சி மற்றும் புதிய குறிகாட்டிகளின்படி கற்றல்\nகற்பித்தல் செயற்பாடும் நவீன மயமாக்கப்பட்டுள்ளது. அதன்போது மாணவர்\nதேவைக்குப் பொருந்தும் விதமான கற்றல் அனுபவத்தை ஒழுங்கமைத்து கற்பித்தல்\nசெயற்பாட்டை நடைமுறைப்படுத்திச் செல்வதற்கு பாடத்திட்டத்தில் காணப்படுகின்ற\nநோக்கங்களிற்கிணங்க பாடம் தொடர்பான விடயங்களை உள்ளடக்கிப் பாடநூல்களை\nஆக்குவது அவசியமாகும். பாடநூல் என்பது மாணவரின் கற்றல் சாதனம்\nமாத்திரமல்ல. அது கற்றல் அனுபவங்களைப் பெறுவதற்கும் அறிவு, பண்பு\nவிருத்திக்கும் நடத்தை மற்றும் மனப்பாங்கு வளர்ச்சியுடன் உயர்ந்த கல்வியொன்றை\nபெற்றுக் கொள்வதற்கும் மிகவும் உதவக்கூடியதுமாகும்."
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": "STOP",
+      "safety_ratings": [
+        {
+          "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HATE_SPEECH",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HARASSMENT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+          "probability": "NEGLIGIBLE"
+        }
+      ],
+      "token_count": null
+    }
+  ],
+  "create_time": null,
+  "response_id": null,
+  "model_version": "gemini-2.5-pro",
+  "prompt_feedback": null,
+  "usage_metadata": {
+    "cache_tokens_details": null,
+    "cached_content_token_count": null,
+    "candidates_token_count": 199,
+    "candidates_tokens_details": null,
+    "prompt_token_count": 754,
+    "prompt_tokens_details": [
+      {
+        "modality": "TEXT",
+        "token_count": 496
+      },
+      {
+        "modality": "IMAGE",
+        "token_count": 258
+      }
+    ],
+    "thoughts_token_count": 1981,
+    "tool_use_prompt_token_count": null,
+    "tool_use_prompt_tokens_details": null,
+    "total_token_count": 2934,
+    "traffic_type": null
+  },
+  "automatic_function_calling_history": [],
+  "parsed": null,
+  "page_number": 240
+}

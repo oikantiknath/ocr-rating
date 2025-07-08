@@ -1,0 +1,79 @@
+{
+  "sdk_http_response": {
+    "headers": {
+      "content-type": "application/json; charset=UTF-8",
+      "vary": "Origin, X-Origin, Referer",
+      "content-encoding": "gzip",
+      "date": "Fri, 04 Jul 2025 03:49:08 GMT",
+      "server": "scaffolding on HTTPServer2",
+      "x-xss-protection": "0",
+      "x-frame-options": "SAMEORIGIN",
+      "x-content-type-options": "nosniff",
+      "server-timing": "gfet4t7; dur=33187",
+      "alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
+      "transfer-encoding": "chunked"
+    },
+    "body": null
+  },
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "ਯੂਨਿਟ-III: ਸਰਕਾਰ ਦੇ ਅੰਗ (Organs of Government)\n(ੳ): ਕਾਰਜਪਾਲਿਕਾ; ਕਿਸਮਾਂ ਅਤੇ ਕਾਰਜ (Executive; Types and Functions)\n(ਅ): ਵਿਧਾਨਪਾਲਿਕਾ; ਕਿਸਮਾਂ-ਇੱਕ ਸਦਨੀ, ਦੋ ਸਦਨੀ ਅਤੇ ਕਾਰਜ (Legislature;\nTypes- Unicameral, Bicameral and Functions)\n(ੲ): ਨਿਆਂਪਾਲਿਕਾ; ਮਹੱਤਵ ਅਤੇ ਕਾਰਜ, ਨਿਆਂਪਾਲਕਾ ਦੀ ਸੁਤੰਤਰਤਾ (Judiciary;\nImportance and Functions, Independence of Judiciary)\n\nਭਾਗ-ਬੀ: ਭਾਰਤ ਦਾ ਸੰਵਿਧਾਨ ਤੇ ਸਰਕਾਰ ( Indian Constitution and\nGovernment)\n\nਯੂਨਿਟ-IV: ਭਾਰਤ ਦਾ ਸੰਵਿਧਾਨ ( Constitution of India)\n(ੳ): ਪ੍ਰਸਤਾਵਨਾ (Preamble)\n(ਅ): ਭਾਰਤ ਦੇ ਸੰਵਿਧਾਨ ਦੀਆਂ ਮੁੱਖ ਵਿਸ਼ੇਸ਼ਤਾਵਾਂ (Salient Features of\nConstitution of India)\n(ੲ): ਮੌਲਿਕ ਅਧਿਕਾਰ ਜਾਂ ਹੱਕ (Fundamental Rights)\n(ਸ): ਮੌਲਿਕ ਕਰਤਵ ਜਾਂ ਫਰਜ਼ (Fundamental Duties)\n(ਹ): ਰਾਜ ਦੀ ਨੀਤੀ ਦੇ ਨਿਰਦੇਸ਼ਕ ਸਿਧਾਂਤ (Directive Principles of State Policy)\n(ਕ): ਮੌਲਿਕ ਅਧਿਕਾਰਾਂ ਤੇ ਨਿਰਦੇਸ਼ਕ ਸਿਧਾਂਤਾਂ ਦੀ ਵਿਲੱਖਣਤਾ ਅਤੇ ਆਪਸੀ ਸਬੰਧ\n(Distinction and relationship between Fundamental Rights)\n\nਯੂਨਿਟ-V : ਭਾਰਤ ਦੀ ਸੰਘੀ ਪ੍ਰਨਾਲੀ (Indian Fededral System)\n(ੳ): ਭਾਰਤੀ ਸੰਘ ਦੀ ਬਨਤਰ ਜਾਂ ਪ੍ਰਕਿਰਤੀ (Nature of Indian Federation)\n(ਅ): ਕੇਂਦਰ-ਸੂਬਾਈ ਸਬੰਧ; ਵਿਧਾਨਕਾਰੀ, ਪ੍ਰਸ਼ਾਸ਼ਕੀ ਅਤੇ ਵਿੱਤੀ (Union-State\nrelations; Legislative, Administrative and Financial)\n(ੲ): ਕੇਂਦਰ ਸਰਕਾਰ (Union Government):-\n* ਕੇਂਦਰੀ ਕਾਰਜ ਪਾਲਿਕਾ-ਰਾਸ਼ਟਰਪਤੀ, ਪ੍ਰਧਾਨ ਮੰਤਰੀ ਅਤੇ ਮੰਤਰੀ ਮੰਡਲ (Union\nExecutive-President, Prime Minister and Council of Ministers)\n* ਕੇਂਦਰੀ ਵਿਧਾਨ ਪਾਲਿਕਾ- ਲੋਕ ਸਭਾ, ਰਾਜ ਸਭਾ (Union Legislature- Lok\nSabha, Rajya Sabha)"
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": "STOP",
+      "safety_ratings": [
+        {
+          "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HATE_SPEECH",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HARASSMENT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+          "probability": "NEGLIGIBLE"
+        }
+      ],
+      "token_count": null
+    }
+  ],
+  "create_time": null,
+  "response_id": null,
+  "model_version": "gemini-2.5-pro",
+  "prompt_feedback": null,
+  "usage_metadata": {
+    "cache_tokens_details": null,
+    "cached_content_token_count": null,
+    "candidates_token_count": 547,
+    "candidates_tokens_details": null,
+    "prompt_token_count": 488,
+    "prompt_tokens_details": [
+      {
+        "modality": "TEXT",
+        "token_count": 230
+      },
+      {
+        "modality": "IMAGE",
+        "token_count": 258
+      }
+    ],
+    "thoughts_token_count": 2410,
+    "tool_use_prompt_token_count": null,
+    "tool_use_prompt_tokens_details": null,
+    "total_token_count": 3445,
+    "traffic_type": null
+  },
+  "automatic_function_calling_history": [],
+  "parsed": null,
+  "page_number": 271
+}

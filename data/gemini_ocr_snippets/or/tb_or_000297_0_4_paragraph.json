@@ -1,0 +1,79 @@
+{
+  "sdk_http_response": {
+    "headers": {
+      "content-type": "application/json; charset=UTF-8",
+      "vary": "Origin, X-Origin, Referer",
+      "content-encoding": "gzip",
+      "date": "Fri, 04 Jul 2025 04:06:08 GMT",
+      "server": "scaffolding on HTTPServer2",
+      "x-xss-protection": "0",
+      "x-frame-options": "SAMEORIGIN",
+      "x-content-type-options": "nosniff",
+      "server-timing": "gfet4t7; dur=76064",
+      "alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
+      "transfer-encoding": "chunked"
+    },
+    "body": null
+  },
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "ଇଂରାଜୀ ଶାସନ ପ୍ରସ୍ତାବ ୩୦ ବର୍ଷ ପରବର୍ତ୍ତୀ ସମୟକୁ\nପ୍ରସାର ଲାଭକରି ଏକ କେନ୍ଦ୍ରୀୟ ସରକାରୀ ଭାଷାର\nମାନ୍ୟତା ଅର୍ଜନରେ ସଫଳ ହେବାପରେ, ନାଗରିକ,\nଶାସନଗତ ସୁବିଧା ଓ ବଡ଼ଲାଟଙ୍କର ସମ୍ମତି କ୍ରମେ\n୧୮୩୫ ମସିହାରୁ (କ) ତଦନ୍ତୀନ୍ତନ ଶିକ୍ଷାନୀତି\nବଦଳି ଯାଇ ପାର୍ସି ମାଧ୍ୟମ ହୋଇଥିଲେ ମଧ୍ୟ କେବଳ\nମକଦ୍ଦମାକୁ ବାଦ୍ ଦିଆଯାଇଥିଲା ଏ କ୍ଷେତ୍ରରେ ବହୁ ବାଧା\nଉପୁଜିଥିଲା ଏ କ୍ଷେତ୍ରରେ ବହୁ ବାଧାବିଘ୍ନ ସତ୍ତ୍ୱେ\nସରକାରୀ ସ୍ତରରେ ଇଂରାଜୀ ଶିକ୍ଷାର ପ୍ରସାର ଘଟାଇ\nଏହି ନିୟମ । ଏଣୁ ସରକାରୀ ଅନୁଷ୍ଠାନମାନଙ୍କ ଏକ ସର୍ଭେକ୍ଷଣରୁ\nଜଣାଯାଏ ଯେ କେବଳ ତତ୍କାଳୀନ ବଙ୍ଗପ୍ରଦେଶର\nରାଜା ମହାରାଜା ଅନୁଗ୍ରହରେ । ତତ୍କାଳୀନ ପୁରୀର ଗଜ-\nପତି (ପ୍ରଥମ ତ୍ରିଲୋଚନ ୧୮୭୭), ବାଲେଶ୍ୱରର ବ୍ରଜାନନ୍ଦ\nଦାସ (୧୮୭୭), ବଳରାମଦାସ (୧୮୭୫), ବଳଭଦ୍ର\nପ୍ରସାଦ (୧୮୮୫), ନନ୍ଦକିଶୋର (୧୮୮୭) ପ୍ରଭୃତି ବହୁଲୋକେ ସ୍ୱ-\nଉଦ୍ୟମରେ କେତେକ ସ୍କୁଲଖୋଲିଲେ । ସମ୍ଭବତଃ ସେଗୁଡ଼ିକ\nଭିତରୁ ବହୁ ସରକାରୀ ସହଯୋଗ ନପାଇ କେତେକ ସମୟରେ ସମୟ\nଅନ୍ତରାଳରେ ବନ୍ଦ ହୋଇଗଲା । ତତ୍କାଳୀନ ସରକାରୀ ମଧ୍ୟବିତ୍ତ ଶ୍ରେଣୀର\nଲୋକ ସ୍ୱଳ୍ପ ଅର୍ଥରେ ସନ୍ତୁଷ୍ଟ ନ ହୋଇ ସରକାରଙ୍କୁ ଦରଖାସ୍ତ କଲେ ।\nଫଳତଃ ଏହାର ମଧ୍ୟବିତ୍ତ ଅନେକ ପରେ କେବଳ ତତ୍କାଳୀନ\nମାନ୍ଦ୍ରାଜ ଓ ବଙ୍ଗଳା ଶାସନରୁ ଅନ୍ତର୍ଗତ ହୋଇଥିଲେ ।\nତତ୍କାଳୀନ ପ୍ରଥମ ଓଡ଼ିଶାର ଗଭର୍ଣ୍ଣର ଜନେଲ୍ ଚାନ୍ଦ୍"
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": "STOP",
+      "safety_ratings": [
+        {
+          "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HATE_SPEECH",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HARASSMENT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+          "probability": "NEGLIGIBLE"
+        }
+      ],
+      "token_count": null
+    }
+  ],
+  "create_time": null,
+  "response_id": null,
+  "model_version": "gemini-2.5-pro",
+  "prompt_feedback": null,
+  "usage_metadata": {
+    "cache_tokens_details": null,
+    "cached_content_token_count": null,
+    "candidates_token_count": 712,
+    "candidates_tokens_details": null,
+    "prompt_token_count": 782,
+    "prompt_tokens_details": [
+      {
+        "modality": "TEXT",
+        "token_count": 524
+      },
+      {
+        "modality": "IMAGE",
+        "token_count": 258
+      }
+    ],
+    "thoughts_token_count": 7272,
+    "tool_use_prompt_token_count": null,
+    "tool_use_prompt_tokens_details": null,
+    "total_token_count": 8766,
+    "traffic_type": null
+  },
+  "automatic_function_calling_history": [],
+  "parsed": null,
+  "page_number": 346
+}

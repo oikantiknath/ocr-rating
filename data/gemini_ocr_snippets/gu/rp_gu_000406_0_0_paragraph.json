@@ -1,0 +1,79 @@
+{
+  "sdk_http_response": {
+    "headers": {
+      "content-type": "application/json; charset=UTF-8",
+      "vary": "Origin, X-Origin, Referer",
+      "content-encoding": "gzip",
+      "date": "Fri, 04 Jul 2025 05:38:42 GMT",
+      "server": "scaffolding on HTTPServer2",
+      "x-xss-protection": "0",
+      "x-frame-options": "SAMEORIGIN",
+      "x-content-type-options": "nosniff",
+      "server-timing": "gfet4t7; dur=29417",
+      "alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
+      "transfer-encoding": "chunked"
+    },
+    "body": null
+  },
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "વિવેચક ધીરુભાઈ ઠાકરનો ‘ગાંધીજી અને પાંચ સાક્ષરો’(૨૦૧૨)માં પ્રકાશિત થયેલો છેલ્લો\nવિવેચનસંગ્રહ છે. ગુજરાતી સાહિત્યના ઇતિહાસમાં સાક્ષરયુગનું ખૂબ મહત્ત્વ રહેલું છે. આ સમયગાળામાં\nયુનિવર્સિટીની સ્થાપના અને તેના પરિણામે અંગ્રેજી કેળવણીનો લાભ આ યુગના સર્જકને મળ્યો હતો. તેથી\nપશ્ચિમની અને સ્વસંસ્કૃતિનો અભ્યાસ કરી આપણી સંસ્કૃતિમાં રહેલા ઉત્તમ અંશોનું દર્શન કરાવી નવી પેઢીને\nપશ્ચિમનું અંધ અનુકરણ છોડાવીને સ્વસંસ્કૃતિ તરફ અભિમુખ કર્યા હતા. સાથે આ સમયગાળામાં ગુજરાતી\nસાહિત્યમાં ગદ્ય-પદ્ય ક્ષેત્રમાં અનેક નવીન પ્રયોગોનું ખેડાણ પણ થાય છે. લગભગ સાડા ત્રણ-દાયકા સુધી"
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": "STOP",
+      "safety_ratings": [
+        {
+          "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HATE_SPEECH",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HARASSMENT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+          "probability": "NEGLIGIBLE"
+        }
+      ],
+      "token_count": null
+    }
+  ],
+  "create_time": null,
+  "response_id": null,
+  "model_version": "gemini-2.5-pro",
+  "prompt_feedback": null,
+  "usage_metadata": {
+    "cache_tokens_details": null,
+    "cached_content_token_count": null,
+    "candidates_token_count": 234,
+    "candidates_tokens_details": null,
+    "prompt_token_count": 758,
+    "prompt_tokens_details": [
+      {
+        "modality": "TEXT",
+        "token_count": 500
+      },
+      {
+        "modality": "IMAGE",
+        "token_count": 258
+      }
+    ],
+    "thoughts_token_count": 2410,
+    "tool_use_prompt_token_count": null,
+    "tool_use_prompt_tokens_details": null,
+    "total_token_count": 3402,
+    "traffic_type": null
+  },
+  "automatic_function_calling_history": [],
+  "parsed": null,
+  "page_number": 278
+}

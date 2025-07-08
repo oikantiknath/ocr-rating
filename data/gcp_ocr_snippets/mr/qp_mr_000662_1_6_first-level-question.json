@@ -1,0 +1,307 @@
+{
+  "page_number": 662,
+  "ocr_output": {
+    "blocks": [
+      {
+        "block_text": "8. भारताच्या महत्वाकांक्षी ' गगनयान ' या अंतरिक्ष मोहिमेला खालीलपैकी कोणत्या देशाचे महत्वपूर्ण सहकार्य लाभले आहे ?",
+        "lines": [
+          "8. भारताच्या महत्वाकांक्षी ' गगनयान ' या अंतरिक्ष मोहिमेला खालीलपैकी कोणत्या देशाचे महत्वपूर्ण सहकार्य लाभले आहे ?"
+        ],
+        "bounding_box": [
+          {
+            "x": 12,
+            "y": 5
+          },
+          {
+            "x": 521,
+            "y": 2
+          },
+          {
+            "x": 521,
+            "y": 15
+          },
+          {
+            "x": 12,
+            "y": 18
+          }
+        ],
+        "confidence": 0.94894695
+      },
+      {
+        "block_text": "( 2 ) दक्षिण कोरिया",
+        "lines": [
+          "( 2 ) दक्षिण कोरिया"
+        ],
+        "bounding_box": [
+          {
+            "x": 239,
+            "y": 30
+          },
+          {
+            "x": 327,
+            "y": 27
+          },
+          {
+            "x": 327,
+            "y": 40
+          },
+          {
+            "x": 239,
+            "y": 43
+          }
+        ],
+        "confidence": 0.96161854
+      },
+      {
+        "block_text": "( 1 ) जपान",
+        "lines": [
+          "( 1 ) जपान"
+        ],
+        "bounding_box": [
+          {
+            "x": 41,
+            "y": 32
+          },
+          {
+            "x": 91,
+            "y": 30
+          },
+          {
+            "x": 91,
+            "y": 43
+          },
+          {
+            "x": 42,
+            "y": 45
+          }
+        ],
+        "confidence": 0.9451235
+      },
+      {
+        "block_text": "( 3 ) संयुक्त अरब अमिरात",
+        "lines": [
+          "( 3 ) संयुक्त अरब अमिरात"
+        ],
+        "bounding_box": [
+          {
+            "x": 40,
+            "y": 56
+          },
+          {
+            "x": 158,
+            "y": 52
+          },
+          {
+            "x": 158,
+            "y": 66
+          },
+          {
+            "x": 40,
+            "y": 70
+          }
+        ],
+        "confidence": 0.9602749
+      },
+      {
+        "block_text": "फ्रांस",
+        "lines": [
+          "फ्रांस"
+        ],
+        "bounding_box": [
+          {
+            "x": 264,
+            "y": 55
+          },
+          {
+            "x": 286,
+            "y": 54
+          },
+          {
+            "x": 286,
+            "y": 65
+          },
+          {
+            "x": 264,
+            "y": 66
+          }
+        ],
+        "confidence": 0.92052937
+      },
+      {
+        "block_text": "( 4 )",
+        "lines": [
+          "( 4 )"
+        ],
+        "bounding_box": [
+          {
+            "x": 238,
+            "y": 56
+          },
+          {
+            "x": 250,
+            "y": 56
+          },
+          {
+            "x": 250,
+            "y": 68
+          },
+          {
+            "x": 238,
+            "y": 68
+          }
+        ],
+        "confidence": 0.976612
+      },
+      {
+        "block_text": "Which one of the following country has provided instrumental support to India's ambitious space mission ' Gaganyan ' ?",
+        "lines": [
+          "Which one of the following country has provided instrumental support to India's ambitious space mission ' Gaganyan ' ?"
+        ],
+        "bounding_box": [
+          {
+            "x": 39,
+            "y": 78
+          },
+          {
+            "x": 521,
+            "y": 78
+          },
+          {
+            "x": 521,
+            "y": 105
+          },
+          {
+            "x": 39,
+            "y": 105
+          }
+        ],
+        "confidence": 0.98814344
+      },
+      {
+        "block_text": "South Koria",
+        "lines": [
+          "South Koria"
+        ],
+        "bounding_box": [
+          {
+            "x": 265,
+            "y": 112
+          },
+          {
+            "x": 327,
+            "y": 111
+          },
+          {
+            "x": 327,
+            "y": 124
+          },
+          {
+            "x": 265,
+            "y": 125
+          }
+        ],
+        "confidence": 0.98096913
+      },
+      {
+        "block_text": "( 1 ) Japan",
+        "lines": [
+          "( 1 ) Japan"
+        ],
+        "bounding_box": [
+          {
+            "x": 39,
+            "y": 114
+          },
+          {
+            "x": 97,
+            "y": 113
+          },
+          {
+            "x": 97,
+            "y": 125
+          },
+          {
+            "x": 39,
+            "y": 126
+          }
+        ],
+        "confidence": 0.9558891
+      },
+      {
+        "block_text": "( 2 )",
+        "lines": [
+          "( 2 )"
+        ],
+        "bounding_box": [
+          {
+            "x": 239,
+            "y": 113
+          },
+          {
+            "x": 251,
+            "y": 113
+          },
+          {
+            "x": 251,
+            "y": 126
+          },
+          {
+            "x": 239,
+            "y": 126
+          }
+        ],
+        "confidence": 0.9399424
+      },
+      {
+        "block_text": "( 4 ) France",
+        "lines": [
+          "( 4 ) France"
+        ],
+        "bounding_box": [
+          {
+            "x": 239,
+            "y": 135
+          },
+          {
+            "x": 300,
+            "y": 133
+          },
+          {
+            "x": 300,
+            "y": 146
+          },
+          {
+            "x": 239,
+            "y": 148
+          }
+        ],
+        "confidence": 0.9703311
+      },
+      {
+        "block_text": "( 3 ) United Arab Emirates ( UAE )",
+        "lines": [
+          "( 3 ) United Arab Emirates ( UAE )"
+        ],
+        "bounding_box": [
+          {
+            "x": 40,
+            "y": 136
+          },
+          {
+            "x": 213,
+            "y": 136
+          },
+          {
+            "x": 213,
+            "y": 147
+          },
+          {
+            "x": 40,
+            "y": 147
+          }
+        ],
+        "confidence": 0.9863611
+      }
+    ]
+  }
+}

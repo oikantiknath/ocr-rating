@@ -1,0 +1,507 @@
+{
+  "page_number": 179,
+  "ocr_output": {
+    "blocks": [
+      {
+        "block_text": "Logical Reasoning and Analytical Ability .",
+        "lines": [
+          "Logical Reasoning and Analytical Ability ."
+        ],
+        "bounding_box": [
+          {
+            "x": 66,
+            "y": 20
+          },
+          {
+            "x": 515,
+            "y": 20
+          },
+          {
+            "x": 515,
+            "y": 43
+          },
+          {
+            "x": 66,
+            "y": 43
+          }
+        ],
+        "confidence": 0.9843231
+      },
+      {
+        "block_text": "Number Series , Coding -Decoding .",
+        "lines": [
+          "Number Series , Coding -Decoding ."
+        ],
+        "bounding_box": [
+          {
+            "x": 66,
+            "y": 60
+          },
+          {
+            "x": 458,
+            "y": 63
+          },
+          {
+            "x": 458,
+            "y": 87
+          },
+          {
+            "x": 66,
+            "y": 84
+          }
+        ],
+        "confidence": 0.9686026
+      },
+      {
+        "block_text": "3. Problems related to Relations .",
+        "lines": [
+          "3. Problems related to Relations ."
+        ],
+        "bounding_box": [
+          {
+            "x": 10,
+            "y": 106
+          },
+          {
+            "x": 400,
+            "y": 107
+          },
+          {
+            "x": 400,
+            "y": 126
+          },
+          {
+            "x": 10,
+            "y": 125
+          }
+        ],
+        "confidence": 0.98835516
+      },
+      {
+        "block_text": "← ભં છું",
+        "lines": [
+          "← ભં છું"
+        ],
+        "bounding_box": [
+          {
+            "x": 26,
+            "y": 20
+          },
+          {
+            "x": 26,
+            "y": 124
+          },
+          {
+            "x": 8,
+            "y": 124
+          },
+          {
+            "x": 8,
+            "y": 20
+          }
+        ],
+        "confidence": 1
+      },
+      {
+        "block_text": "4. Shapes and their Sub - sections , Venn Diagram .",
+        "lines": [
+          "4. Shapes and their Sub - sections , Venn Diagram ."
+        ],
+        "bounding_box": [
+          {
+            "x": 9,
+            "y": 149
+          },
+          {
+            "x": 587,
+            "y": 150
+          },
+          {
+            "x": 587,
+            "y": 173
+          },
+          {
+            "x": 9,
+            "y": 172
+          }
+        ],
+        "confidence": 0.98752475
+      },
+      {
+        "block_text": "છું",
+        "lines": [
+          "છું"
+        ],
+        "bounding_box": [
+          {
+            "x": 7,
+            "y": 193
+          },
+          {
+            "x": 24,
+            "y": 193
+          },
+          {
+            "x": 24,
+            "y": 210
+          },
+          {
+            "x": 7,
+            "y": 210
+          }
+        ],
+        "confidence": 1
+      },
+      {
+        "block_text": "5. Problems based on Clocks , Calendar and Age .",
+        "lines": [
+          "5. Problems based on Clocks , Calendar and Age ."
+        ],
+        "bounding_box": [
+          {
+            "x": 10,
+            "y": 193
+          },
+          {
+            "x": 584,
+            "y": 193
+          },
+          {
+            "x": 584,
+            "y": 215
+          },
+          {
+            "x": 10,
+            "y": 215
+          }
+        ],
+        "confidence": 0.98250836
+      },
+      {
+        "block_text": "6. Number system and order of Magnitude .",
+        "lines": [
+          "6. Number system and order of Magnitude ."
+        ],
+        "bounding_box": [
+          {
+            "x": 9,
+            "y": 235
+          },
+          {
+            "x": 513,
+            "y": 236
+          },
+          {
+            "x": 513,
+            "y": 259
+          },
+          {
+            "x": 9,
+            "y": 258
+          }
+        ],
+        "confidence": 0.9857211
+      },
+      {
+        "block_text": "7. Linear Equations - in one or two Variables .",
+        "lines": [
+          "7. Linear Equations - in one or two Variables ."
+        ],
+        "bounding_box": [
+          {
+            "x": 9,
+            "y": 278
+          },
+          {
+            "x": 536,
+            "y": 279
+          },
+          {
+            "x": 536,
+            "y": 301
+          },
+          {
+            "x": 9,
+            "y": 300
+          }
+        ],
+        "confidence": 0.97554713
+      },
+      {
+        "block_text": "Ratio , proportion and variation .",
+        "lines": [
+          "Ratio , proportion and variation ."
+        ],
+        "bounding_box": [
+          {
+            "x": 67,
+            "y": 321
+          },
+          {
+            "x": 406,
+            "y": 320
+          },
+          {
+            "x": 406,
+            "y": 344
+          },
+          {
+            "x": 67,
+            "y": 345
+          }
+        ],
+        "confidence": 0.97577465
+      },
+      {
+        "block_text": "8 .",
+        "lines": [
+          "8 ."
+        ],
+        "bounding_box": [
+          {
+            "x": 10,
+            "y": 322
+          },
+          {
+            "x": 26,
+            "y": 322
+          },
+          {
+            "x": 26,
+            "y": 340
+          },
+          {
+            "x": 10,
+            "y": 340
+          }
+        ],
+        "confidence": 1
+      },
+      {
+        "block_text": "9. Average of mean , median , mode - including weighted mean .",
+        "lines": [
+          "9. Average of mean , median , mode - including weighted mean ."
+        ],
+        "bounding_box": [
+          {
+            "x": 9,
+            "y": 365
+          },
+          {
+            "x": 739,
+            "y": 365
+          },
+          {
+            "x": 739,
+            "y": 388
+          },
+          {
+            "x": 9,
+            "y": 388
+          }
+        ],
+        "confidence": 0.9814223
+      },
+      {
+        "block_text": "10. Power and exponent , Square , Square Root , Cube Root , H.C.F. and",
+        "lines": [
+          "10. Power and exponent , Square , Square Root , Cube Root , H.C.F. and"
+        ],
+        "bounding_box": [
+          {
+            "x": 10,
+            "y": 408
+          },
+          {
+            "x": 883,
+            "y": 408
+          },
+          {
+            "x": 883,
+            "y": 431
+          },
+          {
+            "x": 10,
+            "y": 431
+          }
+        ],
+        "confidence": 0.9756744
+      },
+      {
+        "block_text": "L.C.M.",
+        "lines": [
+          "L.C.M."
+        ],
+        "bounding_box": [
+          {
+            "x": 67,
+            "y": 453
+          },
+          {
+            "x": 138,
+            "y": 453
+          },
+          {
+            "x": 138,
+            "y": 470
+          },
+          {
+            "x": 67,
+            "y": 470
+          }
+        ],
+        "confidence": 0.96028334
+      },
+      {
+        "block_text": "11. Percentage , Simple and Compound Interest , Profit and loss .",
+        "lines": [
+          "11. Percentage , Simple and Compound Interest , Profit and loss ."
+        ],
+        "bounding_box": [
+          {
+            "x": 10,
+            "y": 495
+          },
+          {
+            "x": 731,
+            "y": 495
+          },
+          {
+            "x": 731,
+            "y": 517
+          },
+          {
+            "x": 10,
+            "y": 517
+          }
+        ],
+        "confidence": 0.9779891
+      },
+      {
+        "block_text": "12. Time and Work , Time and Distance , Speed and Distance .",
+        "lines": [
+          "12. Time and Work , Time and Distance , Speed and Distance ."
+        ],
+        "bounding_box": [
+          {
+            "x": 9,
+            "y": 538
+          },
+          {
+            "x": 703,
+            "y": 538
+          },
+          {
+            "x": 703,
+            "y": 560
+          },
+          {
+            "x": 9,
+            "y": 560
+          }
+        ],
+        "confidence": 0.9675727
+      },
+      {
+        "block_text": "13. Area and Perimeter of Simple Geometrical Shapes , Volume and Surface Area of Sphere , Cone , Cylinder , cubes and Cuboids .",
+        "lines": [
+          "13. Area and Perimeter of Simple Geometrical Shapes , Volume and Surface Area of Sphere , Cone , Cylinder , cubes and Cuboids ."
+        ],
+        "bounding_box": [
+          {
+            "x": 10,
+            "y": 581
+          },
+          {
+            "x": 884,
+            "y": 579
+          },
+          {
+            "x": 884,
+            "y": 645
+          },
+          {
+            "x": 10,
+            "y": 647
+          }
+        ],
+        "confidence": 0.980368
+      },
+      {
+        "block_text": "14. Lines , angels and common geometrical figures - properties of transverse of parallel lines , properties of related to measure of sides of a triangles , Pythagoras theorem , quadrilateral , rectangle , rectangle , parallelogram , and rhombus .",
+        "lines": [
+          "14. Lines , angels and common geometrical figures - properties of transverse of parallel lines , properties of related to measure of sides of a triangles , Pythagoras theorem , quadrilateral , rectangle , rectangle , parallelogram , and rhombus ."
+        ],
+        "bounding_box": [
+          {
+            "x": 11,
+            "y": 667
+          },
+          {
+            "x": 885,
+            "y": 665
+          },
+          {
+            "x": 885,
+            "y": 813
+          },
+          {
+            "x": 11,
+            "y": 815
+          }
+        ],
+        "confidence": 0.983215
+      },
+      {
+        "block_text": "15. Introduction to algebra - BODMAS , simplification of weird symbols .",
+        "lines": [
+          "15. Introduction to algebra - BODMAS , simplification of weird symbols ."
+        ],
+        "bounding_box": [
+          {
+            "x": 10,
+            "y": 840
+          },
+          {
+            "x": 808,
+            "y": 840
+          },
+          {
+            "x": 808,
+            "y": 862
+          },
+          {
+            "x": 10,
+            "y": 862
+          }
+        ],
+        "confidence": 0.97548735
+      },
+      {
+        "block_text": "16. Data interpretation , Data Analysis , Data sufficiency , Probability .",
+        "lines": [
+          "16. Data interpretation , Data Analysis , Data sufficiency , Probability ."
+        ],
+        "bounding_box": [
+          {
+            "x": 10,
+            "y": 883
+          },
+          {
+            "x": 766,
+            "y": 883
+          },
+          {
+            "x": 766,
+            "y": 906
+          },
+          {
+            "x": 10,
+            "y": 906
+          }
+        ],
+        "confidence": 0.984762
+      }
+    ]
+  }
+}

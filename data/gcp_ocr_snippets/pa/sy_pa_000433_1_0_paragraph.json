@@ -1,0 +1,31 @@
+{
+  "page_number": 433,
+  "ocr_output": {
+    "blocks": [
+      {
+        "block_text": "and INA provide the candidate has obtained minimum 25 % marks in theory of each subject ) .",
+        "lines": [
+          "and INA provide the candidate has obtained minimum 25 % marks in theory of each subject ) ."
+        ],
+        "bounding_box": [
+          {
+            "x": 10
+          },
+          {
+            "x": 315,
+            "y": 10
+          },
+          {
+            "x": 314,
+            "y": 39
+          },
+          {
+            "x": 9,
+            "y": 36
+          }
+        ],
+        "confidence": 0.97826463
+      }
+    ]
+  }
+}

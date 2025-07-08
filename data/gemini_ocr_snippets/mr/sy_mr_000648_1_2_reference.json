@@ -1,0 +1,79 @@
+{
+  "sdk_http_response": {
+    "headers": {
+      "content-type": "application/json; charset=UTF-8",
+      "vary": "Origin, X-Origin, Referer",
+      "content-encoding": "gzip",
+      "date": "Fri, 04 Jul 2025 05:26:24 GMT",
+      "server": "scaffolding on HTTPServer2",
+      "x-xss-protection": "0",
+      "x-frame-options": "SAMEORIGIN",
+      "x-content-type-options": "nosniff",
+      "server-timing": "gfet4t7; dur=37057",
+      "alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
+      "transfer-encoding": "chunked"
+    },
+    "body": null
+  },
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "संदर्भ ग्रंथ :\n१. प्राचीन मराठी वाङ्मयाचा इतिहास - ल.रा.नशिराबादकर, फडके प्रकाशन, कोल्हापूर.\n२. प्राचीन मराठी वाङ्मयाचा इतिहास खंड १ व २ - अ.ना.देशपांडे, व्हीनस प्रकाशन, पुणे.\n३. प्राचीन मराठी वाङ्मयाचा इतिहास - इ.श्री. शेणोलीकर, मोघे प्रकाशन, कोल्हापूर.\n४. प्राचीन मराठी वाङ्मयाचा इतिहास खंड १ व २ - ल.रा.पांगारकर, विदर्भ मराठवाडा\nबुक कंपनी, पुणे.\n५. प्राचीन मराठी वाङ्मयाचा विवेचक इतिहास - प्र.न.जोशी\n६. प्राचीन मराठी वाङ्मयाचा इतिहास खंड १ ते ३ - म.सा.प.प्रकाशन, पुणे.\n७. प्राचीन मराठी जैन साहित्य -सुभाषचंद्र अवकोळे, सुविचार प्रकाशन मंडळ, नागपूर.\n८. प्राचीन मराठीच्या नवधारा - रा.चिं.ढेरे, मोघे प्रकाशन, कोल्हापूर.\n९. प्राचीन मराठी साहित्य संशोधन - वि.भि.कोलते, श्री लेखन वाचन भांडार, पुणे.\n१०.मराठी वाङ्मयाचा इतिहास खंड २ - संपादक स.ग.मालशे, म.सा.प.पुणे.\n११. मराठी साहित्याचे आदिबंध - उषा माधव देशमुख\n१२.धर्मसंप्रदाय आणि मध्ययुगीन मराठी वाङ्मय - र.बा.मंचरकर\n१३.वीरशैव व इतर धर्म आणि समाज - सूर्यकांत घुगरे.\n१४. पाच संप्रदाय- र.रा.गोसावी\n१५. प्राचीन मराठी वाङ्मयाचा अभ्यास - भारती रेवडकर\n१६. संत ज्ञानेश्वरांची कूटरचना - शिवाजी पाटील"
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": "STOP",
+      "safety_ratings": [
+        {
+          "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HATE_SPEECH",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HARASSMENT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+          "probability": "NEGLIGIBLE"
+        }
+      ],
+      "token_count": null
+    }
+  ],
+  "create_time": null,
+  "response_id": null,
+  "model_version": "gemini-2.5-pro",
+  "prompt_feedback": null,
+  "usage_metadata": {
+    "cache_tokens_details": null,
+    "cached_content_token_count": null,
+    "candidates_token_count": 389,
+    "candidates_tokens_details": null,
+    "prompt_token_count": 715,
+    "prompt_tokens_details": [
+      {
+        "modality": "TEXT",
+        "token_count": 457
+      },
+      {
+        "modality": "IMAGE",
+        "token_count": 258
+      }
+    ],
+    "thoughts_token_count": 3467,
+    "tool_use_prompt_token_count": null,
+    "tool_use_prompt_tokens_details": null,
+    "total_token_count": 4571,
+    "traffic_type": null
+  },
+  "automatic_function_calling_history": [],
+  "parsed": null,
+  "page_number": 313
+}

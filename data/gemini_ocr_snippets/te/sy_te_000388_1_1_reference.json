@@ -1,0 +1,79 @@
+{
+  "sdk_http_response": {
+    "headers": {
+      "content-type": "application/json; charset=UTF-8",
+      "vary": "Origin, X-Origin, Referer",
+      "content-encoding": "gzip",
+      "date": "Fri, 04 Jul 2025 04:37:13 GMT",
+      "server": "scaffolding on HTTPServer2",
+      "x-xss-protection": "0",
+      "x-frame-options": "SAMEORIGIN",
+      "x-content-type-options": "nosniff",
+      "server-timing": "gfet4t7; dur=30183",
+      "alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
+      "transfer-encoding": "chunked"
+    },
+    "body": null
+  },
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "1. మనుచరిత్ర – అల్లసాని పెద్దన (రుచిసమాన వ్యాఖ్య - వావిళ్ళ రామస్వామి శాస్త్రి)\n2. ఆముక్తమాల్యద – శ్రీకృష్ణదేవరాయలు (సౌందర్యలహరి వ్యాఖ్య -తుమ్మపూడి కోటీశ్వరరావు)\n3. పారిజాతాపహరణం – నంది తిమ్మన (పరిమళోల్లాస వ్యాఖ్య – నాగపూడి కుప్పుస్వామి)\n4. కళాపూర్ణోదయం – పింగళి సూరన\n5. విజయ విలాసం – చేమకూరి వేంకట కవి (హృదయోల్లాస వ్యాఖ్య – తాపీ ధర్మారావు)\n6. కావ్యలహరి – దివాకర్ల వేంకటావధాని\n7. ఛందోదర్పణం – అనంతామాత్యుడు\n8. ఛందః పదకోశం – కోవెల సంపత్కుమారాచార్యులు\n9. కవిజనాశ్రయం – మల్లియ రేచన"
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": "STOP",
+      "safety_ratings": [
+        {
+          "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HATE_SPEECH",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HARASSMENT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+          "probability": "NEGLIGIBLE"
+        }
+      ],
+      "token_count": null
+    }
+  ],
+  "create_time": null,
+  "response_id": null,
+  "model_version": "gemini-2.5-pro",
+  "prompt_feedback": null,
+  "usage_metadata": {
+    "cache_tokens_details": null,
+    "cached_content_token_count": null,
+    "candidates_token_count": 231,
+    "candidates_tokens_details": null,
+    "prompt_token_count": 714,
+    "prompt_tokens_details": [
+      {
+        "modality": "TEXT",
+        "token_count": 456
+      },
+      {
+        "modality": "IMAGE",
+        "token_count": 258
+      }
+    ],
+    "thoughts_token_count": 2645,
+    "tool_use_prompt_token_count": null,
+    "tool_use_prompt_tokens_details": null,
+    "total_token_count": 3590,
+    "traffic_type": null
+  },
+  "automatic_function_calling_history": [],
+  "parsed": null,
+  "page_number": 313
+}

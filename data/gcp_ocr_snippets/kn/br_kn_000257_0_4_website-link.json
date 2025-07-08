@@ -1,0 +1,32 @@
+{
+  "page_number": 257,
+  "ocr_output": {
+    "blocks": [
+      {
+        "block_text": "Daley whom www.dtetech.karnataka.gov.in/kartechnical or www.cetonline.karnataka.gov.in/kea/",
+        "lines": [
+          "Daley whom www.dtetech.karnataka.gov.in/kartechnical or www.cetonline.karnataka.gov.in/kea/"
+        ],
+        "bounding_box": [
+          {
+            "x": 6,
+            "y": 3
+          },
+          {
+            "x": 999,
+            "y": 3
+          },
+          {
+            "x": 999,
+            "y": 22
+          },
+          {
+            "x": 6,
+            "y": 22
+          }
+        ],
+        "confidence": 0.90848786
+      }
+    ]
+  }
+}

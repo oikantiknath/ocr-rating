@@ -1,0 +1,32 @@
+{
+  "page_number": 376,
+  "ocr_output": {
+    "blocks": [
+      {
+        "block_text": "www.towesternodisha.com .",
+        "lines": [
+          "www.towesternodisha.com ."
+        ],
+        "bounding_box": [
+          {
+            "x": 1,
+            "y": 3
+          },
+          {
+            "x": 109,
+            "y": 3
+          },
+          {
+            "x": 109,
+            "y": 8
+          },
+          {
+            "x": 1,
+            "y": 8
+          }
+        ],
+        "confidence": 0.9178262
+      }
+    ]
+  }
+}

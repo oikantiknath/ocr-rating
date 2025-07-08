@@ -1,0 +1,79 @@
+{
+  "sdk_http_response": {
+    "headers": {
+      "content-type": "application/json; charset=UTF-8",
+      "vary": "Origin, X-Origin, Referer",
+      "content-encoding": "gzip",
+      "date": "Fri, 04 Jul 2025 05:37:41 GMT",
+      "server": "scaffolding on HTTPServer2",
+      "x-xss-protection": "0",
+      "x-frame-options": "SAMEORIGIN",
+      "x-content-type-options": "nosniff",
+      "server-timing": "gfet4t7; dur=42928",
+      "alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
+      "transfer-encoding": "chunked"
+    },
+    "body": null
+  },
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "● ગુણ ચકાસણી એટલે ઉત્તરવહીનો વિષય શિક્ષક પાસે ચકાસણી કરાવી વિદ્યાર્થીને બોર્ડ દ્વારા ફક્ત પ્રત્યુત્તર પાઠવવાની\nપ્રક્રિયા. ગુણ ચકાસણી તમામ વિષયોમાં કરવામાં આવે છે.\n● ઉત્તરવહી અવલોકન એટલે : મુખ્ય 4(ચાર) વિષયોની ઉત્તરવહીઓ વિષય શિક્ષક પાસે ચકાસણી કરાવી બોર્ડ દ્વારા\nજાહેર કરેલ કાર્યક્રમ મુજબ ઉમેદવારને રૂબરૂમાં પોતાની ઉત્તરવહીનું નિરીક્ષણ કરવાની પ્રક્રિયા. ઉત્તરવહી અવલોકન\n4(ચાર) વિષયનું કરી શકાશે: (050) ગણિત, (052) રસાયણ વિજ્ઞાન, (054) ભૌતિક વિજ્ઞાન, (056) જીવવિજ્ઞાન.\n● OMR ઝેરોક્ષ અને વેરિફિકેશન એટલે મુખ્ય ચાર વિષયોની વિદ્યાર્થી દ્વારા લખેલી OMRની ઝેરોક્ષ કોપી અને વિદ્યાર્થીએ\nOMRમાં આપેલ પ્રત્યુત્તર અને બોર્ડ દ્વારા તૈયાર કરેલ આન્સર-કી સાથે વેરિફિકેશન રીપોર્ટ આપવાની પ્રક્રિયા. OMRની\nઝેરોક્ષ 4(ચાર) વિષયની મળી શકે છે : (050) ગણિત, (052) રસાયણ વિજ્ઞાન, (054) ભૌતિક વિજ્ઞાન, (056)\nજીવવિજ્ઞાન.\n● ધોરણ 12માં (050) ગણિત, (052) રસાયણ વિજ્ઞાન, (054) ભૌતિક વિજ્ઞાન, (056) જીવવિજ્ઞાન આ ચાર વિષયનું\nઅવલોકન અથવા ગુણચકાસણી બંને પૈકી કોઇપણ એક જ થઈ શકશે.\n● ઉત્તરવહી અવલોકન સ્થળ, તારીખ અને સમયની વિગતો બોર્ડની વેબસાઇટ www.gseb.org ઉપર મુકવામાં આવશે.\nતે મુજબ ઉત્તરવહી અવલોકન માટે બોર્ડે જણાવે તે સ્થળે સ્વખર્ચે હાજર થવાનું રહેશે.\n● વિજ્ઞાન પ્રવાહમાં અવલોકન, ગુણ ચકાસણી, મુખ્ય(4) વિષયોની OMRની ઝેરોક્ષ મેળવવા માટેની અરજી ફક્ત બોર્ડની\nવેબસાઇટ www.gseb.org પર ઓનલાઇન માધ્યમે જ સ્વીકારવામાં આવશે. તે અંગેની નિયમ ફી ઉક્ત વેબસાઇટ\nઉપર ઓનલાઇન ફોર્મ ભરતી વખતે ઓનલાઇન અથવા ઓફલાઇન ભરી શકાશે. કોઈ ઉમેદવારે ફોર્મ અંગેના આધારો\nબોર્ડને મોકલવાના નથી."
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": "STOP",
+      "safety_ratings": [
+        {
+          "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HATE_SPEECH",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HARASSMENT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+          "probability": "NEGLIGIBLE"
+        }
+      ],
+      "token_count": null
+    }
+  ],
+  "create_time": null,
+  "response_id": null,
+  "model_version": "gemini-2.5-pro",
+  "prompt_feedback": null,
+  "usage_metadata": {
+    "cache_tokens_details": null,
+    "cached_content_token_count": null,
+    "candidates_token_count": 642,
+    "candidates_tokens_details": null,
+    "prompt_token_count": 761,
+    "prompt_tokens_details": [
+      {
+        "modality": "TEXT",
+        "token_count": 503
+      },
+      {
+        "modality": "IMAGE",
+        "token_count": 258
+      }
+    ],
+    "thoughts_token_count": 3326,
+    "tool_use_prompt_token_count": null,
+    "tool_use_prompt_tokens_details": null,
+    "total_token_count": 4729,
+    "traffic_type": null
+  },
+  "automatic_function_calling_history": [],
+  "parsed": null,
+  "page_number": 175
+}

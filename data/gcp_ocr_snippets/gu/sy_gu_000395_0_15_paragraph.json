@@ -1,0 +1,32 @@
+{
+  "page_number": 395,
+  "ocr_output": {
+    "blocks": [
+      {
+        "block_text": "Course SAN 509",
+        "lines": [
+          "Course SAN 509"
+        ],
+        "bounding_box": [
+          {
+            "x": 12,
+            "y": 9
+          },
+          {
+            "x": 210,
+            "y": 8
+          },
+          {
+            "x": 210,
+            "y": 26
+          },
+          {
+            "x": 12,
+            "y": 27
+          }
+        ],
+        "confidence": 0.9729107
+      }
+    ]
+  }
+}

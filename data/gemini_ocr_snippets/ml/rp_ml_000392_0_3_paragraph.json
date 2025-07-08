@@ -1,0 +1,79 @@
+{
+  "sdk_http_response": {
+    "headers": {
+      "content-type": "application/json; charset=UTF-8",
+      "vary": "Origin, X-Origin, Referer",
+      "content-encoding": "gzip",
+      "date": "Fri, 04 Jul 2025 05:09:44 GMT",
+      "server": "scaffolding on HTTPServer2",
+      "x-xss-protection": "0",
+      "x-frame-options": "SAMEORIGIN",
+      "x-content-type-options": "nosniff",
+      "server-timing": "gfet4t7; dur=50879",
+      "alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
+      "transfer-encoding": "chunked"
+    },
+    "body": null
+  },
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "ജാതിമതഭേദങ്ങൾക്കപ്പുറമുള്ള മനുഷ്യത്വത്തെയും സഹോദര്യ\nത്തിന്നുംവേണ്ടിയാണ് പട്ടാളവാഹികളും മറ്റും പ്രവർത്തിച്ചത്. അദ്ദേഹത്തിന്റെ\n‘അഖണ്ഡമാനവധർമ്മം’ (ബ്രാഹ്മണാനന്തരമുള്ള അറിവ് പകരുന്നതാണ്.\nധർമ്മിയുടെ അടിസ്ഥാനത്തിലാണദ്ദേഹം വേദവിചാരം എല്ലാം മനുഷ്യർക്കുവേ\nണ്ടെന്ന് സ്ഥാപിച്ചത്. ലോകമെല്ലാം ഒരേ മനസ്സാണ് വ്യാപിച്ചിരിക്കുന്നതെന്നും പല\nശുദ്ധമായ സ്നേഹത്തോടെ ജീവിയ്ക്കാൻ മനുഷ്യജാതികളും സഹോദരനിർവി\nശേഷം സഹകരിക്കാനും എന്ന വിശാലമായ ഒരു സ്നേഹസങ്കല്പമാണ് അദ്ദേഹത്തി\nനുണ്ടായിരുന്നത്. (ശ്രീനാരായണഗുരുവിനെപ്പോലുള്ള യഥാപ്രവാചകർ\nവന്നത് ഈ സ്നേഹയോഗത്തിന്റെ വഴികളിലൂടെയാണ്."
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": "STOP",
+      "safety_ratings": [
+        {
+          "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HATE_SPEECH",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HARASSMENT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+          "probability": "NEGLIGIBLE"
+        }
+      ],
+      "token_count": null
+    }
+  ],
+  "create_time": null,
+  "response_id": null,
+  "model_version": "gemini-2.5-pro",
+  "prompt_feedback": null,
+  "usage_metadata": {
+    "cache_tokens_details": null,
+    "cached_content_token_count": null,
+    "candidates_token_count": 185,
+    "candidates_tokens_details": null,
+    "prompt_token_count": 740,
+    "prompt_tokens_details": [
+      {
+        "modality": "TEXT",
+        "token_count": 482
+      },
+      {
+        "modality": "IMAGE",
+        "token_count": 258
+      }
+    ],
+    "thoughts_token_count": 4897,
+    "tool_use_prompt_token_count": null,
+    "tool_use_prompt_tokens_details": null,
+    "total_token_count": 5822,
+    "traffic_type": null
+  },
+  "automatic_function_calling_history": [],
+  "parsed": null,
+  "page_number": 293
+}

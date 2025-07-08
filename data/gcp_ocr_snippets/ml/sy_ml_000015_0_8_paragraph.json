@@ -1,0 +1,32 @@
+{
+  "page_number": 15,
+  "ocr_output": {
+    "blocks": [
+      {
+        "block_text": "Basics of Geography – Earth Structure - Atmosphere , Rocks , Landforms , Pressure Belt and Winds , Temperature and Seasons , Global Issues- Global Warming- Various forms of Pollution , Maps- Topographic Maps and Signs , Remote Sensing – Geographic Information System , Oceans and its various movements - Continents , - Nations and their specific features .",
+        "lines": [
+          "Basics of Geography – Earth Structure - Atmosphere , Rocks , Landforms , Pressure Belt and Winds , Temperature and Seasons , Global Issues- Global Warming- Various forms of Pollution , Maps- Topographic Maps and Signs , Remote Sensing – Geographic Information System , Oceans and its various movements - Continents , - Nations and their specific features ."
+        ],
+        "bounding_box": [
+          {
+            "x": 17,
+            "y": 11
+          },
+          {
+            "x": 893,
+            "y": 11
+          },
+          {
+            "x": 893,
+            "y": 238
+          },
+          {
+            "x": 17,
+            "y": 238
+          }
+        ],
+        "confidence": 0.96711856
+      }
+    ]
+  }
+}

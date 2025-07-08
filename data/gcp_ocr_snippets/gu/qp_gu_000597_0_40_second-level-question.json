@@ -1,0 +1,32 @@
+{
+  "page_number": 597,
+  "ocr_output": {
+    "blocks": [
+      {
+        "block_text": "( c ) Answer in one - two lines only ( Any two ) : ( i ) What are operation's plans and policies ? ( ii ) Define strategic evaluation and control . ( iii ) State the participants in strategic evaluation .",
+        "lines": [
+          "( c ) Answer in one - two lines only ( Any two ) : ( i ) What are operation's plans and policies ? ( ii ) Define strategic evaluation and control . ( iii ) State the participants in strategic evaluation ."
+        ],
+        "bounding_box": [
+          {
+            "x": 3,
+            "y": 11
+          },
+          {
+            "x": 560,
+            "y": 20
+          },
+          {
+            "x": 558,
+            "y": 134
+          },
+          {
+            "x": 1,
+            "y": 125
+          }
+        ],
+        "confidence": 0.9805645
+      }
+    ]
+  }
+}

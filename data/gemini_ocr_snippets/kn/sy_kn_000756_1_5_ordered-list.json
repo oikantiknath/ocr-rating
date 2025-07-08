@@ -1,0 +1,79 @@
+{
+  "sdk_http_response": {
+    "headers": {
+      "content-type": "application/json; charset=UTF-8",
+      "vary": "Origin, X-Origin, Referer",
+      "content-encoding": "gzip",
+      "date": "Fri, 04 Jul 2025 04:53:31 GMT",
+      "server": "scaffolding on HTTPServer2",
+      "x-xss-protection": "0",
+      "x-frame-options": "SAMEORIGIN",
+      "x-content-type-options": "nosniff",
+      "server-timing": "gfet4t7; dur=25671",
+      "alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
+      "transfer-encoding": "chunked"
+    },
+    "body": null
+  },
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "1. ಸಂಸ್ಕೃತಿ-ಡಿ.ವಿ.ಜಿ\n2. ನಮ್ಮ ಸಂಸ್ಕೃತಿಯು ನಮ್ಮ ಸಾಲದು-ಕಾರಂತರು.\n3. ಕನ್ನಡ ಸಂಸ್ಕೃತಿ – ನಮ್ಮ ಹೆಮ್ಮೆ-ಡಾ. ಎಂ.ಚಿದಾನಂದಮೂರ್ತಿ\n4. ಮೂರ್ತಿರಾವ್‌ ಅವರ ಬರಹಗಳು\n5. ಕನ್ನಡ ಸಂಸ್ಕೃತಿ ಮತ್ತು ರಾಷ್ಟ್ರೀಯತೆ\n6. ಯು.ಆರ್.ಅನಂತಮೂರ್ತಿ ಅವರ ಬರಹಗಳು\n7. ಸಿದ್ದಲಿಂಗಯ್ಯ ಅವರ ಬರಹಗಳು\n8. ಡಿ. ಆರ್. ನಾಗರಾಜ್ ಅವರ ಕೃತಿಗಳು\n9. ದೇವನೂರು ಮಹಾದೇವರ ಕೃತಿಗಳು\n10. ಬರಗೂರು ರಾಮಚಂದ್ರಪ್ಪ ಅವರ ಬರಹಗಳು\n11. ಕೆ.ವಿ. ಸಿದ್ದಯ್ಯ ಅವರ ಕೃತಿಗಳು\n12. ತಂಜಾ ಬೋಚಿ ಅವರ ಕೃತಿಗಳು\n13. ಕರ್ನಾಟಕ ಸಂಸ್ಕೃತಿ ಸಮೀಕ್ಷೆ –ಎಚ್.ತಿಪ್ಪೇರುದ್ರಸ್ವಾಮಿ\n14. ಬೆಟಗೇರಿ ಕೃಷ್ಣಶರ್ಮ ಅವರ ಬರಹಗಳು\n15. ಬಸವರಾಜ ಕಲ್ಲುಡಿ ಬರಹಗಳು\n16. ತಿರುಮಳಾ ಶರೀಫರ ಪದಗಳು\n17. ವಚನಗಳ ಭಾಗಗಳು\n18. ದೇವುಡು-ಬರಹಗಳು.\n19. ಗಂಗಾಮಾಯಿ-ಡಾ. ಚಂದ್ರಶೇಖರ ಕಂಬಾರ.\n20. ಡಾ. ಚಿದಾನಂದಮೂರ್ತಿಯವರ ಬರಹಗಳು.\n21. ನಾಡೋಜ ಎಸ್. ಎಲ್. ಭೈರಪ್ಪನವರ ಬರಹಗಳು.\n22. ನಾಡೋಜ ಜಿ. ಎಸ್ ಶಿವರುದ್ರಪ್ಪನವರ ಬರಹಗಳು.\n23. ಸ್ವಾಮಿ ವಿವೇಕಾನಂದರ/ ರಮಣ ಮಹರ್ಷಿಗಳ/ ರಾಷ್ಟ್ರೋತ್ಥಾನ ಸಾಹಿತ್ಯದ ಕೃತಿಗಳ ಆಯ್ಕೆ ಭಾಗಗಳು.\n24. ಭಾರತೀಯ ಸಂಸ್ಕೃತಿ- ಎಸ್. ಶ್ರೀಕಂಠ ಶಾಸ್ತ್ರಿ."
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": "STOP",
+      "safety_ratings": [
+        {
+          "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HATE_SPEECH",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HARASSMENT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+          "probability": "NEGLIGIBLE"
+        }
+      ],
+      "token_count": null
+    }
+  ],
+  "create_time": null,
+  "response_id": null,
+  "model_version": "gemini-2.5-pro",
+  "prompt_feedback": null,
+  "usage_metadata": {
+    "cache_tokens_details": null,
+    "cached_content_token_count": null,
+    "candidates_token_count": 427,
+    "candidates_tokens_details": null,
+    "prompt_token_count": 731,
+    "prompt_tokens_details": [
+      {
+        "modality": "TEXT",
+        "token_count": 473
+      },
+      {
+        "modality": "IMAGE",
+        "token_count": 258
+      }
+    ],
+    "thoughts_token_count": 1865,
+    "tool_use_prompt_token_count": null,
+    "tool_use_prompt_tokens_details": null,
+    "total_token_count": 3023,
+    "traffic_type": null
+  },
+  "automatic_function_calling_history": [],
+  "parsed": null,
+  "page_number": 334
+}

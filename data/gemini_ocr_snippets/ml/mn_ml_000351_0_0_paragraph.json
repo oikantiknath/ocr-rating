@@ -1,0 +1,79 @@
+{
+  "sdk_http_response": {
+    "headers": {
+      "content-type": "application/json; charset=UTF-8",
+      "vary": "Origin, X-Origin, Referer",
+      "content-encoding": "gzip",
+      "date": "Fri, 04 Jul 2025 05:04:43 GMT",
+      "server": "scaffolding on HTTPServer2",
+      "x-xss-protection": "0",
+      "x-frame-options": "SAMEORIGIN",
+      "x-content-type-options": "nosniff",
+      "server-timing": "gfet4t7; dur=23105",
+      "alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
+      "transfer-encoding": "chunked"
+    },
+    "body": null
+  },
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "ബൾക്ക് അപ്ഡേറ്റ് ചെയ്യുന്നതിന്നുവേണ്ടി “Bulk Update” എന്ന മെനുവിൽ ക്ലിക്ക്\nചെയ്യുക. അതിനുശേഷം Action to be taken എന്നതിന്നു നേരെയുള്ള Update, File\nLink, Close Request, Close എന്നീ നാല് ഓപ്ഷൻ ബട്ടണുകളിൽ ആവശ്യമുള്ള\nബട്ടണിൽ ക്ലിക്ക് ചെയ്യുക. (തെരഞ്ഞെടുത്ത ഓപ്ഷനുമായി ബന്ധപ്പെട്ട\nസ്ക്രീനായിരിക്കും ലഭിക്കുക). തുടർന്ന് സബ്ജക്ട്, വാർഡ് ഇവ ആവശ്യമുണ്ടെങ്കിൽ\nരേഖപ്പെടുത്തുക. അടുത്തത് “From Date”, To Date എന്നത് ഏതൊക്കെ\nദിവസത്തിനിടയിലുള്ള ഫയലുകളാണ് ബൾക്ക് അപ്ഡേറ്റ് ചെയ്യേണ്ടത് ആ\nദിവസങ്ങൾ (ചിത്രം.2.5.1) നൽകി സെർച്ച് ബട്ടണിൽ ക്ലിക്ക് ചെയ്യുക."
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": "STOP",
+      "safety_ratings": [
+        {
+          "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HATE_SPEECH",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HARASSMENT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+          "probability": "NEGLIGIBLE"
+        }
+      ],
+      "token_count": null
+    }
+  ],
+  "create_time": null,
+  "response_id": null,
+  "model_version": "gemini-2.5-pro",
+  "prompt_feedback": null,
+  "usage_metadata": {
+    "cache_tokens_details": null,
+    "cached_content_token_count": null,
+    "candidates_token_count": 183,
+    "candidates_tokens_details": null,
+    "prompt_token_count": 738,
+    "prompt_tokens_details": [
+      {
+        "modality": "TEXT",
+        "token_count": 480
+      },
+      {
+        "modality": "IMAGE",
+        "token_count": 258
+      }
+    ],
+    "thoughts_token_count": 1665,
+    "tool_use_prompt_token_count": null,
+    "tool_use_prompt_tokens_details": null,
+    "total_token_count": 2586,
+    "traffic_type": null
+  },
+  "automatic_function_calling_history": [],
+  "parsed": null,
+  "page_number": 93
+}

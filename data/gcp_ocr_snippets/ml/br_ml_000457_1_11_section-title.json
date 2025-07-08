@@ -1,0 +1,32 @@
+{
+  "page_number": 457,
+  "ocr_output": {
+    "blocks": [
+      {
+        "block_text": "മുറിവുകൾ ( Wounds and cuts )",
+        "lines": [
+          "മുറിവുകൾ ( Wounds and cuts )"
+        ],
+        "bounding_box": [
+          {
+            "x": 4,
+            "y": 3
+          },
+          {
+            "x": 137,
+            "y": 5
+          },
+          {
+            "x": 137,
+            "y": 20
+          },
+          {
+            "x": 4,
+            "y": 18
+          }
+        ],
+        "confidence": 0.903652
+      }
+    ]
+  }
+}

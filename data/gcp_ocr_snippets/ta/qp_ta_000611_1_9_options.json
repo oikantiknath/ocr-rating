@@ -1,0 +1,32 @@
+{
+  "page_number": 611,
+  "ocr_output": {
+    "blocks": [
+      {
+        "block_text": "( A ) Orissa ( B ) Bihar ( C ) Punjab",
+        "lines": [
+          "( A ) Orissa ( B ) Bihar ( C ) Punjab"
+        ],
+        "bounding_box": [
+          {
+            "x": 12,
+            "y": 4
+          },
+          {
+            "x": 81,
+            "y": 4
+          },
+          {
+            "x": 81,
+            "y": 54
+          },
+          {
+            "x": 12,
+            "y": 54
+          }
+        ],
+        "confidence": 0.9619682
+      }
+    ]
+  }
+}

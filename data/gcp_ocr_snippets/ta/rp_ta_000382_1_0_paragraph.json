@@ -1,0 +1,32 @@
+{
+  "page_number": 382,
+  "ocr_output": {
+    "blocks": [
+      {
+        "block_text": "The Tamil maritime history begins long time back . Inadequate information and missing records about ancient Tamil seafarers , lead to the opinion that maritime trade activities were pioneered by European seafarers . Ancient Tamil seafarers explored the wide ocean , discovered new lands , and initiated trade activities with other ancient civilizations in the past . However only fewer records describing Tamils seafaring experience details were identified so far . This paper study ancient maritime activities of Tamil people , referencing information in Sangam Tamil literature , maritime records from travelers visited Tamil country and records on ship making industry practiced by the Tamil folks . A Palm leaf manu- script from the 17th Cent A.D is also used in this study , particularly for the purpose of understanding the ship making industry practiced by ship making community lived in Tranquebar , a harbor city on the Coromandel Coast .",
+        "lines": [
+          "The Tamil maritime history begins long time back . Inadequate information and missing records about ancient Tamil seafarers , lead to the opinion that maritime trade activities were pioneered by European seafarers . Ancient Tamil seafarers explored the wide ocean , discovered new lands , and initiated trade activities with other ancient civilizations in the past . However only fewer records describing Tamils seafaring experience details were identified so far . This paper study ancient maritime activities of Tamil people , referencing information in Sangam Tamil literature , maritime records from travelers visited Tamil country and records on ship making industry practiced by the Tamil folks . A Palm leaf manu- script from the 17th Cent A.D is also used in this study , particularly for the purpose of understanding the ship making industry practiced by ship making community lived in Tranquebar , a harbor city on the Coromandel Coast ."
+        ],
+        "bounding_box": [
+          {
+            "x": 10,
+            "y": 11
+          },
+          {
+            "x": 450,
+            "y": 11
+          },
+          {
+            "x": 450,
+            "y": 133
+          },
+          {
+            "x": 10,
+            "y": 133
+          }
+        ],
+        "confidence": 0.98622125
+      }
+    ]
+  }
+}

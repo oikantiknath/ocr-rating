@@ -1,0 +1,79 @@
+{
+  "sdk_http_response": {
+    "headers": {
+      "content-type": "application/json; charset=UTF-8",
+      "vary": "Origin, X-Origin, Referer",
+      "content-encoding": "gzip",
+      "date": "Fri, 04 Jul 2025 05:39:57 GMT",
+      "server": "scaffolding on HTTPServer2",
+      "x-xss-protection": "0",
+      "x-frame-options": "SAMEORIGIN",
+      "x-content-type-options": "nosniff",
+      "server-timing": "gfet4t7; dur=42380",
+      "alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
+      "transfer-encoding": "chunked"
+    },
+    "body": null
+  },
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "છે, અને તે પોતાની મેળે ઇંદ્રિયોની મદદ વગર કાંઈ કરી શકે છે.\nજ્ઞાનેંદ્રિયો પણ વેના દુઃખ વગર કશું કરી શકતી નથી, કેમકે તેઓ\nતેને આધીન છે. નજર ભલે જુએ, પણ તેમાં ચિત્ત પરોવાયું ન હોય\nતો તે કશું જોઇ શકતી નથી. મન લક્ષ ન આપે, તો કાનથી અવાજ\nસંભળાતો નથી. આપણું ધ્યાન લખવામાં ખરેખરું રોકાયું હોય તો\nઘડિયાળના ટકોરા કાનના પડદા ઉપર પડે, તોપણ આપણે તે સાંભ-\nળતા નથી. અમુક બાબત ઉપર મનની એકાગ્રતા થઇ, કે તે બાબ-\nતમાં રોકાયેલી વૃત્તિ સિવાય બીજી ઇંદ્રિયો પોતાનાં કાર્ય કરી શકતી\nનથી. જો મન અંતર જગતમાં બરાબર પરોવાયું તો સઘળી ઇંદ્રિયો\nશિથિળ અથવા નિરૂદ્યમી રહેછે. આપણે જે યાદ રાખીએ છીએ, ને ખપ\nપડે ત્યારે સંભારી કાઢીએ છીએ, તેમાં કોઇ ઇંદ્રિયો ખપ પડતી નથી. એ\nક્રિયા મન પોતે કરેછે. કોઇ વહાણું મરી જવાથી શોક થાય, કે અચાનક\nલાભ મળવાથી આનંદ થાય, એ મનની કૃતિ છે. જાણવું, યાદ કરવું\nવિચારવું, લાગવું, પસંદ કરવું, નિર્ણય કરવો, એ સૌ મનોધર્મછે, અને તે\nઅંતરનો વિષય છે. મનની ક્રિયા સતત ચાલુ રહેછે. ઉંઘમાં ઇંદ્રિયો શિથિળ\nહોય, તે વખતે પણ મન પોતાની ચંચળતા જારી રાખેછે અને તેની\nમરજીમાં આવે તો શિથિળ ઇંદ્રિયોને જાગૃત કરી તેમની પાસે કાર્યો\nકરાવેછે. સ્વપ્નાવસ્થામાં આ પ્રમાણે ઘણીવાર બનેછે. મન પોતે અનેક\nતરેહના તરંગ ઉઠાવ્યા કરેછે. નીતિ સમજવી, અને તેવું આચરણ કરવું,\nએ મનનો ધર્મ છે. ગતિ, બળ, ઉત્સાહ, અને ધ્યાનને ઉત્પન્ન કરનાર\nમન છે. પદાર્થોના જ્ઞાન ઉપરથી તેમને કામમાં લેવાની, તેમની ખાસિયતો\nભણવાની, અને તેમના નિયમો જાણી કાઢવાની શક્તિ મન* ધરાવેછે.\nહું કોણ, જીવ શું, આત્મા શું, મુઆ પછી શું થશે, પરમાત્મા કોણ,"
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": "STOP",
+      "safety_ratings": [
+        {
+          "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HATE_SPEECH",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HARASSMENT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+          "probability": "NEGLIGIBLE"
+        }
+      ],
+      "token_count": null
+    }
+  ],
+  "create_time": null,
+  "response_id": null,
+  "model_version": "gemini-2.5-pro",
+  "prompt_feedback": null,
+  "usage_metadata": {
+    "cache_tokens_details": null,
+    "cached_content_token_count": null,
+    "candidates_token_count": 576,
+    "candidates_tokens_details": null,
+    "prompt_token_count": 756,
+    "prompt_tokens_details": [
+      {
+        "modality": "TEXT",
+        "token_count": 498
+      },
+      {
+        "modality": "IMAGE",
+        "token_count": 258
+      }
+    ],
+    "thoughts_token_count": 2988,
+    "tool_use_prompt_token_count": null,
+    "tool_use_prompt_tokens_details": null,
+    "total_token_count": 4320,
+    "traffic_type": null
+  },
+  "automatic_function_calling_history": [],
+  "parsed": null,
+  "page_number": 336
+}

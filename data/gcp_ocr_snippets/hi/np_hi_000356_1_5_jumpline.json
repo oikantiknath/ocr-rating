@@ -1,0 +1,30 @@
+{
+  "page_number": 356,
+  "ocr_output": {
+    "blocks": [
+      {
+        "block_text": "... continued from previous page .",
+        "lines": [
+          "... continued from previous page ."
+        ],
+        "bounding_box": [
+          {
+            "y": 8
+          },
+          {
+            "x": 131,
+            "y": 8
+          },
+          {
+            "x": 131,
+            "y": 18
+          },
+          {
+            "y": 18
+          }
+        ],
+        "confidence": 0.92721456
+      }
+    ]
+  }
+}

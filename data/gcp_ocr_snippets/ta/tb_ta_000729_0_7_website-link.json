@@ -1,0 +1,32 @@
+{
+  "page_number": 729,
+  "ocr_output": {
+    "blocks": [
+      {
+        "block_text": "www.edupub.gov.lk",
+        "lines": [
+          "www.edupub.gov.lk"
+        ],
+        "bounding_box": [
+          {
+            "x": 4,
+            "y": 4
+          },
+          {
+            "x": 188,
+            "y": 5
+          },
+          {
+            "x": 188,
+            "y": 24
+          },
+          {
+            "x": 4,
+            "y": 23
+          }
+        ],
+        "confidence": 0.9867036
+      }
+    ]
+  }
+}

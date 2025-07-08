@@ -1,0 +1,79 @@
+{
+  "sdk_http_response": {
+    "headers": {
+      "content-type": "application/json; charset=UTF-8",
+      "vary": "Origin, X-Origin, Referer",
+      "content-encoding": "gzip",
+      "date": "Fri, 04 Jul 2025 05:27:16 GMT",
+      "server": "scaffolding on HTTPServer2",
+      "x-xss-protection": "0",
+      "x-frame-options": "SAMEORIGIN",
+      "x-content-type-options": "nosniff",
+      "server-timing": "gfet4t7; dur=52862",
+      "alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
+      "transfer-encoding": "chunked"
+    },
+    "body": null
+  },
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "त्वरित ताण वाढवणाऱ्या घटनेमुळे एपिनेफ्रिन व नॉरएपिनेफ्रिन संप्रेरके\nत्वरित स्त्रवतात. या संप्रेरकामुळे हृदयाची गति वाढते, हात पाय गार पडतात. ही संप्रेरके\nशरीरास लढायला किंवा जीव वाचवण्यास तयार करतात. याला फ्लाईट किंवा फ्राईट असे\nइंग्रजीमध्ये म्हणण्याची पद्धत आहे. सततच्या ताणामुळे शरीरावरील परिणाम सावकाश पण\nनिश्चितपणे कॉर्टिसॉलच्या पातळीमध्ये वाढ होण्यामध्ये होतो. कॉर्टिसॉलचा आश्चर्यकारक\nपरिणाम प्रतिक्षमता यंत्रणा क्षीण होण्यामध्ये होतो. आपल्या नेहमीच्या पाहण्यातील\nउदाहरण म्हणजे महत्त्वाच्या परीक्षेपूर्वी विद्यार्थ्यांमध्ये होणारी सर्दी किंवा ताप. विवाहाच्या\nआधी सौम्य आजार होणे ते ताण वाढल्याचे लक्षण आहे. कॉर्टिसॉलच्या पातळीतील\nवाढीमुळे लसिकापेशींची (श्वेतपेशीमधील एक पेशी- लिंफोसाइट) कार्यक्षमता संख्या व\nआयुष्य कमी होते. शरीरात ज्या ज्या ठिकाणी कॉर्टिसॉल ग्राही पेशी आहेत त्या कॉर्टिसोलला\nअधिक प्रतिसाद द्यायला लागतात. कदाचित कॉर्टिसॉल ग्राही पेशीमुळे आणखी काही जनुके\nअधिक उत्तेजित होत असल्याची शक्यता असावी. TCF कॉर्टिसॉलचा द्वितीयक परिणाम\nम्हणजे शेकडो जनुकांना उत्तेजित करणे. अॅड्रिनल कॉर्टेक्स मध्ये असलेल्या पेशी या\nजनुकामुळे उत्तेजित होतात. कॉर्टिसॉल बनवणाऱ्या बहुतेक पेशी येथेच असतात त्यातील\nCYP17 जनुक उत्तेजित झाले म्हणजे अधिक कॉर्टिसॉल तयार होते. ही सर्व यंत्रणा अतिशय\nगुंतागुंतीची आहे. थोडक्यात कॉर्टिसॉलचा परिणाम हे बऱ्याच जनुकांचे एकत्रित कार्य आहे.\nमानवी जीनोममधील बरीच जनुके एकाऐवजी एकत्र कामाला लागतात. उदाहरणार्थ\nश्वेतपेशीमध्ये कॉर्टिसॉल TCF नावाच्या जनुकास कामाला लावते. TCF जनुक दहाव्या"
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": "STOP",
+      "safety_ratings": [
+        {
+          "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HATE_SPEECH",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HARASSMENT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+          "probability": "NEGLIGIBLE"
+        }
+      ],
+      "token_count": null
+    }
+  ],
+  "create_time": null,
+  "response_id": null,
+  "model_version": "gemini-2.5-pro",
+  "prompt_feedback": null,
+  "usage_metadata": {
+    "cache_tokens_details": null,
+    "cached_content_token_count": null,
+    "candidates_token_count": 442,
+    "candidates_tokens_details": null,
+    "prompt_token_count": 714,
+    "prompt_tokens_details": [
+      {
+        "modality": "TEXT",
+        "token_count": 456
+      },
+      {
+        "modality": "IMAGE",
+        "token_count": 258
+      }
+    ],
+    "thoughts_token_count": 4765,
+    "tool_use_prompt_token_count": null,
+    "tool_use_prompt_tokens_details": null,
+    "total_token_count": 5921,
+    "traffic_type": null
+  },
+  "automatic_function_calling_history": [],
+  "parsed": null,
+  "page_number": 353
+}

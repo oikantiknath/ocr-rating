@@ -1,0 +1,32 @@
+{
+  "page_number": 720,
+  "ocr_output": {
+    "blocks": [
+      {
+        "block_text": "Th",
+        "lines": [
+          "Th"
+        ],
+        "bounding_box": [
+          {
+            "x": 30,
+            "y": 112
+          },
+          {
+            "x": 50,
+            "y": 113
+          },
+          {
+            "x": 49,
+            "y": 131
+          },
+          {
+            "x": 29,
+            "y": 130
+          }
+        ],
+        "confidence": 0.8966608
+      }
+    ]
+  }
+}

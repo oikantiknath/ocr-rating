@@ -1,0 +1,79 @@
+{
+  "sdk_http_response": {
+    "headers": {
+      "content-type": "application/json; charset=UTF-8",
+      "vary": "Origin, X-Origin, Referer",
+      "content-encoding": "gzip",
+      "date": "Fri, 04 Jul 2025 04:01:53 GMT",
+      "server": "scaffolding on HTTPServer2",
+      "x-xss-protection": "0",
+      "x-frame-options": "SAMEORIGIN",
+      "x-content-type-options": "nosniff",
+      "server-timing": "gfet4t7; dur=28142",
+      "alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
+      "transfer-encoding": "chunked"
+    },
+    "body": null
+  },
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "ସାଧାରଣତଃ ସିଏ ଜଣେ ନୈଷ୍ଠିକ ବ୍ରାହ୍ମଣ । କେବଳ\nପର୍ବ-ପର୍ବାଣି, ବ୍ରତ, ବନ୍ଧୁବର୍ଗଙ୍କ ଘରେ, ଗୋଷ୍ଠୀଭୁକ୍ତରେ\nଭୋଜି ସଭାର ସମିଳାନ ବା ନୈଷ୍ଠିକ କାରଣରୁ ନିୟମିତ\nଭାବରେ ଚଳିବାର ବାଧ୍ୟତା ନାହିଁ । ବ୍ୟାଙ୍କରେ\nଅନ୍ତର୍ଭୁକ୍ତ; ନିଜ ବୈଚିତ୍ର୍ଯରୁ କିଛି ଦୂର, ସୋସାଇଟିର ମାର୍କିତ ପଣ !\nସକଳ ପରିଚିତି ଓ ବହୁତ୍ଵ ସେ ତେଣୁ ସବୁ ଦିନେ ତ୍ୟାଗ । ସ୍ଵତନ୍ତ୍ର\nକିଛି ଏବଂ ସେ ସ୍ଵାଭିମାନ ମନେ କରି ବହୁ ଦୂରକୁ ଚାଲିଯିବେ, ସେ\nସ୍ଵାଭିମାନ ସେ କେବେ ନୁହେଁ । ଏ ପ୍ରକାର ଚିନ୍ତାରୁ ତାଙ୍କୁ ସବୁ ଏକା\nକରାଉଚି । ତେବେ ପ୍ରାକୃତିକ କ୍ଷମା କ୍ଷେତ୍ରେ କ’ଣ ଗୋଟିଏ\nଅନ୍ତରାୟ କିଛି, ଅନ୍ୟ କ୍ଷେତ୍ରେ—ଗୋଟିଏ କର୍ମାନ, ପ୍ରଗାଢ଼ କିଛି\nଯେ ଘଟାଇଛି ବିଧାତା, ଅନେକ ଆଗେ ୧୮୭୦ ସାଲରେ କ୍ଷେତ୍ରୀ\nଅନୁସନ୍ଧାନ ଏବଂ ଆତ୍ମପ୍ରାପ୍ତି କରିଥିଲେ । ତୁଳୟ ଆଉ କ୍ଷେତ୍ରୀ\nକେନ୍ଦ୍ର—ସିଏ ଇ କର୍ମାନ, ଦୁଇଜଣଙ୍କୁ ସେଇଟା ସମାଜ ପ୍ରଗାଢ଼\nକିଛି ଯେ ଆକ୍ରମଣ କରିଥିଲା ବ୍ରାହ୍ମଣ୍ୟବାଦ, ସେମାନେ ଦୁଇ-\nଜଣ ଅନ୍ତରଙ୍ଗତା ବଦଳରେ ବେଳେ ବାଟ ଦେଖିଲେଣି ବାଟ\nବଦଳର ଦୂରତ୍ଵ, କିନ୍ତୁ ସେ ଦୁହେଁ ଏବେ କେବଳକେ ସେ\nକର୍ମକ୍ଷେତ୍ରୀ ବାହୁ ଭିତରେ । ଏବେକ, ସେତେବେଳେ ଚିନ୍ତା ଆମର"
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": "STOP",
+      "safety_ratings": [
+        {
+          "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HATE_SPEECH",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HARASSMENT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+          "probability": "NEGLIGIBLE"
+        }
+      ],
+      "token_count": null
+    }
+  ],
+  "create_time": null,
+  "response_id": null,
+  "model_version": "gemini-2.5-pro",
+  "prompt_feedback": null,
+  "usage_metadata": {
+    "cache_tokens_details": null,
+    "cached_content_token_count": null,
+    "candidates_token_count": 607,
+    "candidates_tokens_details": null,
+    "prompt_token_count": 782,
+    "prompt_tokens_details": [
+      {
+        "modality": "TEXT",
+        "token_count": 524
+      },
+      {
+        "modality": "IMAGE",
+        "token_count": 258
+      }
+    ],
+    "thoughts_token_count": 1330,
+    "tool_use_prompt_token_count": null,
+    "tool_use_prompt_tokens_details": null,
+    "total_token_count": 2719,
+    "traffic_type": null
+  },
+  "automatic_function_calling_history": [],
+  "parsed": null,
+  "page_number": 210
+}

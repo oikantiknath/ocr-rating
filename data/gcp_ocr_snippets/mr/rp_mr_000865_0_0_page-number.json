@@ -1,0 +1,32 @@
+{
+  "page_number": 865,
+  "ocr_output": {
+    "blocks": [
+      {
+        "block_text": "६५",
+        "lines": [
+          "६५"
+        ],
+        "bounding_box": [
+          {
+            "x": 1,
+            "y": 3
+          },
+          {
+            "x": 38,
+            "y": 3
+          },
+          {
+            "x": 38,
+            "y": 26
+          },
+          {
+            "x": 1,
+            "y": 26
+          }
+        ],
+        "confidence": 0.9813376
+      }
+    ]
+  }
+}

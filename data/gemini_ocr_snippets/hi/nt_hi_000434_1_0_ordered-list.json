@@ -1,0 +1,79 @@
+{
+  "sdk_http_response": {
+    "headers": {
+      "content-type": "application/json; charset=UTF-8",
+      "vary": "Origin, X-Origin, Referer",
+      "content-encoding": "gzip",
+      "date": "Fri, 04 Jul 2025 03:21:04 GMT",
+      "server": "scaffolding on HTTPServer2",
+      "x-xss-protection": "0",
+      "x-frame-options": "SAMEORIGIN",
+      "x-content-type-options": "nosniff",
+      "server-timing": "gfet4t7; dur=21501",
+      "alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
+      "transfer-encoding": "chunked"
+    },
+    "body": null
+  },
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "5. प्रश्न पत्रों के लिए आवेदन केवल ईमेल के माध्यम से 31.07.2020 तक सहायक निदेशक\n(परीक्षा), नासिन, फरीदाबाद को पहुंचना चाहिए। इस अवधि के बाद प्रश्न पत्रों के लिए किसी\nभी मांग पर विचार नहीं किया जा सकता है। पासवर्ड संरक्षित पीडीएफ प्रारूप में उक्त परीक्षा\nके लिए प्रश्न पत्र 19.08.2020 को केवल ई-मेल के माध्यम से नामित प्राधिकृत अधिकारी\nको भेजा जाएगा, जो वापिस ईमेल द्वारा नासिन उसकी रसीद स्वीकार करेगा। पीडीएफ\nफाइल खोलने का पासवर्ड 20.08.2020 को दिया जाएगा। प्राधिकृत अधिकारी यह सुनिश्चित\nकरेगा कि परीक्षा निष्पक्ष और पारदर्शी तरीके से आयोजित की गई है। प्रश्न पत्रों के लिए\nअनुरोध ई-मेल आईडी: nacin.exam@icegate.gov.in पर भेजा जा सकता है।\n\n6. फिल्ड फॉरमेशनों से इस तरह की मांगे केवल उनके संबंधित संवर्ग नियंत्रण प्राधिकरण\n(सीसीए) के माध्यम से नासिन को भेजी जाएंगी। परीक्षा के उपरांत, केवल परीक्षा में प्राप्त\nअंकों को संबंधित सीसीए को अग्रेषित किया जायेगा।\n\n7. संवर्ग नियंत्रण प्राधिकरण, प्राधिकृत अधिकारी आदि के बारे में जानकारी संलग्न प्रारूप\nअनुलग्नक 'क' में इस कार्यालय को प्रदान किया जा सकता है।\n\n8. पेपर- I और पेपर- II दोनों के लिए पाठ्यक्रम समान है और इसे अनुलग्नक 'ख' में संलग्न\nकिया गया है।\n\n9. यह सूचना नासिन और सीबीआईसी वेबसाइट पर भी पोस्ट किया जा रहा है।\n\n10. उम्मीदवारों की पात्रता संवर्ग नियंत्रण प्राधिकरण द्वारा तय की जाएगी। पात्रता के प्रश्न पर\nकोई संदर्भ नासिन द्वारा विचार नहीं किया जाएगा।\n\n11. नासिन, फरीदाबाद के पास यदि, परीक्षा में अनुचित साधनों का प्रयोग किया गया हो या\nउनको उपयोग करने की अनुमति दी गई हो या परीक्षा में किसी के साथ कोई पक्षपात या\nअन्याय किया गया था या सेंटर के किसी समूह या सेंटर का या किसी परीक्षार्थी की परीक्षा\nको रद्द करने का संपूर्ण अधिकार है।\n\n12. 'परीक्षा के निर्देश' संलग्न हैं, जोकि इस परीक्षा सूचना का अभिन्न अंग है।"
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": "STOP",
+      "safety_ratings": [
+        {
+          "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HATE_SPEECH",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HARASSMENT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+          "probability": "NEGLIGIBLE"
+        }
+      ],
+      "token_count": null
+    }
+  ],
+  "create_time": null,
+  "response_id": null,
+  "model_version": "gemini-2.5-pro",
+  "prompt_feedback": null,
+  "usage_metadata": {
+    "cache_tokens_details": null,
+    "cached_content_token_count": null,
+    "candidates_token_count": 465,
+    "candidates_tokens_details": null,
+    "prompt_token_count": 760,
+    "prompt_tokens_details": [
+      {
+        "modality": "TEXT",
+        "token_count": 502
+      },
+      {
+        "modality": "IMAGE",
+        "token_count": 258
+      }
+    ],
+    "thoughts_token_count": 1096,
+    "tool_use_prompt_token_count": null,
+    "tool_use_prompt_tokens_details": null,
+    "total_token_count": 2321,
+    "traffic_type": null
+  },
+  "automatic_function_calling_history": [],
+  "parsed": null,
+  "page_number": 161
+}

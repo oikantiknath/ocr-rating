@@ -1,0 +1,132 @@
+{
+  "page_number": 497,
+  "ocr_output": {
+    "blocks": [
+      {
+        "block_text": "( 1 ) Writing a paragraph on a given subject ( Subject should be related to routine office work ) .",
+        "lines": [
+          "( 1 ) Writing a paragraph on a given subject ( Subject should be related to routine office work ) ."
+        ],
+        "bounding_box": [
+          {
+            "x": 7,
+            "y": 9
+          },
+          {
+            "x": 266,
+            "y": 9
+          },
+          {
+            "x": 266,
+            "y": 43
+          },
+          {
+            "x": 7,
+            "y": 43
+          }
+        ],
+        "confidence": 0.97759575
+      },
+      {
+        "block_text": "( 2 ) Preliminary Office Correspondence ( Preliminary Prashasanik Lekhan ) .",
+        "lines": [
+          "( 2 ) Preliminary Office Correspondence ( Preliminary Prashasanik Lekhan ) ."
+        ],
+        "bounding_box": [
+          {
+            "x": 7,
+            "y": 54
+          },
+          {
+            "x": 275,
+            "y": 55
+          },
+          {
+            "x": 275,
+            "y": 81
+          },
+          {
+            "x": 7,
+            "y": 80
+          }
+        ],
+        "confidence": 0.96316904
+      },
+      {
+        "block_text": "( a ) Drafting or letter Writing . ( b ) Noting .",
+        "lines": [
+          "( a ) Drafting or letter Writing . ( b ) Noting ."
+        ],
+        "bounding_box": [
+          {
+            "x": 35,
+            "y": 90
+          },
+          {
+            "x": 260,
+            "y": 91
+          },
+          {
+            "x": 260,
+            "y": 120
+          },
+          {
+            "x": 35,
+            "y": 119
+          }
+        ],
+        "confidence": 0.9698973
+      },
+      {
+        "block_text": "( c ) Administrative Phrases and Designations .",
+        "lines": [
+          "( c ) Administrative Phrases and Designations ."
+        ],
+        "bounding_box": [
+          {
+            "x": 35,
+            "y": 124
+          },
+          {
+            "x": 255,
+            "y": 124
+          },
+          {
+            "x": 255,
+            "y": 148
+          },
+          {
+            "x": 35,
+            "y": 148
+          }
+        ],
+        "confidence": 0.937072
+      },
+      {
+        "block_text": "( d ) Translation ( English - Marathi ) . ( 15 Marks each ) .",
+        "lines": [
+          "( d ) Translation ( English - Marathi ) . ( 15 Marks each ) ."
+        ],
+        "bounding_box": [
+          {
+            "x": 36,
+            "y": 150
+          },
+          {
+            "x": 281,
+            "y": 151
+          },
+          {
+            "x": 281,
+            "y": 176
+          },
+          {
+            "x": 36,
+            "y": 175
+          }
+        ],
+        "confidence": 0.95409256
+      }
+    ]
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "sdk_http_response": {
+    "headers": {
+      "content-type": "application/json; charset=UTF-8",
+      "vary": "Origin, X-Origin, Referer",
+      "content-encoding": "gzip",
+      "date": "Fri, 04 Jul 2025 05:06:52 GMT",
+      "server": "scaffolding on HTTPServer2",
+      "x-xss-protection": "0",
+      "x-frame-options": "SAMEORIGIN",
+      "x-content-type-options": "nosniff",
+      "server-timing": "gfet4t7; dur=53683",
+      "alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
+      "transfer-encoding": "chunked"
+    },
+    "body": null
+  },
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "ധനികനായ ഹമീദും, വലിയ അഭിമാനിയായിരുന്നു.\nലൈംഗികമായ കാര്യങ്ങളെ വളരെ ഗൗരവതരമായി കരുതി\nയിരുന്നതുകൊണ്ട്, കണക്കും കണിശവും, ചിട്ടയും നിഷ്ഠയും\nമറ്റും ബഹു കേമമായിരുന്നു. വളരെ സൽവൃത്തനായി\nത്തതുകൊണ്ട്, ചുരുട്ട്, വീടി, പൊടി മുതലായവ ഒന്നും\nതന്നെ ഹമീദ് കൈകൊണ്ടു തൊടുകപോലും ചെയ്തിരു\nന്നില്ല. ആ പ്രദേശത്തുള്ളവരെല്ലാം ഹമീദിനെ ഒരൊറ്റ\nകായസ്ഥനായിട്ടാണ് ഗണിച്ചിരുന്നത്. അയാളുടെ കു\nടുംബം സാമാന്യം വലിയതായിരുന്നു. കുടുംബികളായ\nരണ്ടു പുത്രന്മാരും, സഹായിയായ ഒരു പെങ്ങളും എന്നും\nഅയാളൊന്നിച്ചാണ് താമസിച്ചിരുന്നത്. ഹമീദി\nനു വയസ്സ് എഴുപതെട്ടായിരുന്നെങ്കിലും അയാള് അരോ\nഗദൃഢഗാത്രനായിരുന്നു."
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": "STOP",
+      "safety_ratings": [
+        {
+          "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HATE_SPEECH",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HARASSMENT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+          "probability": "NEGLIGIBLE"
+        }
+      ],
+      "token_count": null
+    }
+  ],
+  "create_time": null,
+  "response_id": null,
+  "model_version": "gemini-2.5-pro",
+  "prompt_feedback": null,
+  "usage_metadata": {
+    "cache_tokens_details": null,
+    "cached_content_token_count": null,
+    "candidates_token_count": 203,
+    "candidates_tokens_details": null,
+    "prompt_token_count": 738,
+    "prompt_tokens_details": [
+      {
+        "modality": "TEXT",
+        "token_count": 480
+      },
+      {
+        "modality": "IMAGE",
+        "token_count": 258
+      }
+    ],
+    "thoughts_token_count": 5044,
+    "tool_use_prompt_token_count": null,
+    "tool_use_prompt_tokens_details": null,
+    "total_token_count": 5985,
+    "traffic_type": null
+  },
+  "automatic_function_calling_history": [],
+  "parsed": null,
+  "page_number": 193
+}

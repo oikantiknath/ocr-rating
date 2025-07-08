@@ -1,0 +1,32 @@
+{
+  "page_number": 47,
+  "ocr_output": {
+    "blocks": [
+      {
+        "block_text": "The structure of the question paper shall be as below .",
+        "lines": [
+          "The structure of the question paper shall be as below ."
+        ],
+        "bounding_box": [
+          {
+            "x": 7,
+            "y": 10
+          },
+          {
+            "x": 645,
+            "y": 10
+          },
+          {
+            "x": 645,
+            "y": 32
+          },
+          {
+            "x": 7,
+            "y": 32
+          }
+        ],
+        "confidence": 0.98849094
+      }
+    ]
+  }
+}

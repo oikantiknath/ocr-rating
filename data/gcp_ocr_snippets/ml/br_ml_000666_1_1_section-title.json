@@ -1,0 +1,32 @@
+{
+  "page_number": 666,
+  "ocr_output": {
+    "blocks": [
+      {
+        "block_text": "FMSC",
+        "lines": [
+          "FMSC"
+        ],
+        "bounding_box": [
+          {
+            "x": 95,
+            "y": 31
+          },
+          {
+            "x": 8,
+            "y": 31
+          },
+          {
+            "x": 8,
+            "y": 10
+          },
+          {
+            "x": 95,
+            "y": 10
+          }
+        ],
+        "confidence": 0.57072824
+      }
+    ]
+  }
+}

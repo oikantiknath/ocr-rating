@@ -1,0 +1,82 @@
+{
+  "page_number": 613,
+  "ocr_output": {
+    "blocks": [
+      {
+        "block_text": "Answer Options :",
+        "lines": [
+          "Answer Options :"
+        ],
+        "bounding_box": [
+          {
+            "x": 4,
+            "y": 3
+          },
+          {
+            "x": 97,
+            "y": 3
+          },
+          {
+            "x": 97,
+            "y": 14
+          },
+          {
+            "x": 4,
+            "y": 14
+          }
+        ],
+        "confidence": 0.95816594
+      },
+      {
+        "block_text": "£ £ £ € €",
+        "lines": [
+          "£ £ £ € €"
+        ],
+        "bounding_box": [
+          {
+            "x": 77,
+            "y": 19
+          },
+          {
+            "x": 75,
+            "y": 107
+          },
+          {
+            "x": 58,
+            "y": 107
+          },
+          {
+            "x": 60,
+            "y": 19
+          }
+        ],
+        "confidence": 0.3047831
+      },
+      {
+        "block_text": "3 8 8 8 €",
+        "lines": [
+          "3 8 8 8 €"
+        ],
+        "bounding_box": [
+          {
+            "x": 32,
+            "y": 106
+          },
+          {
+            "x": 30,
+            "y": 21
+          },
+          {
+            "x": 46,
+            "y": 21
+          },
+          {
+            "x": 48,
+            "y": 106
+          }
+        ],
+        "confidence": 0.4118591
+      }
+    ]
+  }
+}

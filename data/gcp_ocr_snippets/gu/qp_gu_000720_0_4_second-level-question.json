@@ -1,0 +1,32 @@
+{
+  "page_number": 720,
+  "ocr_output": {
+    "blocks": [
+      {
+        "block_text": "( A ) Explain Free - Trade and state the advantages of Free - Trade .",
+        "lines": [
+          "( A ) Explain Free - Trade and state the advantages of Free - Trade ."
+        ],
+        "bounding_box": [
+          {
+            "x": 13,
+            "y": 6
+          },
+          {
+            "x": 675,
+            "y": 3
+          },
+          {
+            "x": 675,
+            "y": 27
+          },
+          {
+            "x": 13,
+            "y": 30
+          }
+        ],
+        "confidence": 0.9764422
+      }
+    ]
+  }
+}

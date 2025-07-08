@@ -1,0 +1,32 @@
+{
+  "page_number": 518,
+  "ocr_output": {
+    "blocks": [
+      {
+        "block_text": "ପୃଷ୍ଠା SC b",
+        "lines": [
+          "ପୃଷ୍ଠା SC b"
+        ],
+        "bounding_box": [
+          {
+            "x": 12,
+            "y": 11
+          },
+          {
+            "x": 151,
+            "y": 7
+          },
+          {
+            "x": 152,
+            "y": 47
+          },
+          {
+            "x": 13,
+            "y": 51
+          }
+        ],
+        "confidence": 0.639785
+      }
+    ]
+  }
+}

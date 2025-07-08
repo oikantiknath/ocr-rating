@@ -1,0 +1,31 @@
+{
+  "page_number": 483,
+  "ocr_output": {
+    "blocks": [
+      {
+        "block_text": "-sp.pune.r@mahapolice.gov.in",
+        "lines": [
+          "-sp.pune.r@mahapolice.gov.in"
+        ],
+        "bounding_box": [
+          {
+            "x": 34
+          },
+          {
+            "x": 194,
+            "y": 3
+          },
+          {
+            "x": 194,
+            "y": 13
+          },
+          {
+            "x": 34,
+            "y": 13
+          }
+        ],
+        "confidence": 0.8989437
+      }
+    ]
+  }
+}

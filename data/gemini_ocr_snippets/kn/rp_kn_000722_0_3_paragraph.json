@@ -1,0 +1,79 @@
+{
+  "sdk_http_response": {
+    "headers": {
+      "content-type": "application/json; charset=UTF-8",
+      "vary": "Origin, X-Origin, Referer",
+      "content-encoding": "gzip",
+      "date": "Fri, 04 Jul 2025 04:52:03 GMT",
+      "server": "scaffolding on HTTPServer2",
+      "x-xss-protection": "0",
+      "x-frame-options": "SAMEORIGIN",
+      "x-content-type-options": "nosniff",
+      "server-timing": "gfet4t7; dur=22875",
+      "alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
+      "transfer-encoding": "chunked"
+    },
+    "body": null
+  },
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "೨೦ನೇ ಶತಮಾನ ವೈಚಾರಿಕ ದೃಷ್ಟಿಯಿಂದ ತುಂಬಾ ಪ್ರಮುಖವಾದುದು. ಹಾಗಾಗಿಯೇ ಈ\nಶತಮಾನವನ್ನು ಚಳುವಳಿಗಳ ಶತಮಾನ ಎನ್ನಬಹುದು. ಸ್ವಾತಂತ್ರ್ಯ ಚಳುವಳಿ\nಪ್ರಾರಂಭವಾಗುವುದಕ್ಕಿಂತ ಮುಂಚೆಯೇ ಸಾಮಾಜಿಕ ಚಳುವಳಿ ಅಲೆಯನ್ನೂ ಗುರುತಿಸಬಹುದು.\nಭಾರತದಲ್ಲಿ ಇಂಗ್ಲೀಷ್ ವಿದ್ಯಾಭ್ಯಾಸದ ಫಲದಿಂದಾಗಿಯೇ ಈ ದೇಶದ ಸಾಮಾಜಿಕ ಅಂತರಗಳು, ಈ"
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": "STOP",
+      "safety_ratings": [
+        {
+          "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HATE_SPEECH",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HARASSMENT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+          "probability": "NEGLIGIBLE"
+        }
+      ],
+      "token_count": null
+    }
+  ],
+  "create_time": null,
+  "response_id": null,
+  "model_version": "gemini-2.5-pro",
+  "prompt_feedback": null,
+  "usage_metadata": {
+    "cache_tokens_details": null,
+    "cached_content_token_count": null,
+    "candidates_token_count": 99,
+    "candidates_tokens_details": null,
+    "prompt_token_count": 730,
+    "prompt_tokens_details": [
+      {
+        "modality": "TEXT",
+        "token_count": 472
+      },
+      {
+        "modality": "IMAGE",
+        "token_count": 258
+      }
+    ],
+    "thoughts_token_count": 1826,
+    "tool_use_prompt_token_count": null,
+    "tool_use_prompt_tokens_details": null,
+    "total_token_count": 2655,
+    "traffic_type": null
+  },
+  "automatic_function_calling_history": [],
+  "parsed": null,
+  "page_number": 275
+}

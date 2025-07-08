@@ -1,0 +1,32 @@
+{
+  "page_number": 702,
+  "ocr_output": {
+    "blocks": [
+      {
+        "block_text": "कच्च्या कामासाठी जागा / SPACE FOR ROUGH WORK",
+        "lines": [
+          "कच्च्या कामासाठी जागा / SPACE FOR ROUGH WORK"
+        ],
+        "bounding_box": [
+          {
+            "x": 9,
+            "y": 1
+          },
+          {
+            "x": 229,
+            "y": 6
+          },
+          {
+            "x": 229,
+            "y": 20
+          },
+          {
+            "x": 9,
+            "y": 15
+          }
+        ],
+        "confidence": 0.93679005
+      }
+    ]
+  }
+}

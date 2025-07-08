@@ -1,0 +1,57 @@
+{
+  "page_number": 528,
+  "ocr_output": {
+    "blocks": [
+      {
+        "block_text": "( A ) ( a ) and ( b ) are correct and ( c ) and ( d ) are wrong ( B ) ( c ) and ( d ) are correct and ( a ) and ( b ) are wrong",
+        "lines": [
+          "( A ) ( a ) and ( b ) are correct and ( c ) and ( d ) are wrong ( B ) ( c ) and ( d ) are correct and ( a ) and ( b ) are wrong"
+        ],
+        "bounding_box": [
+          {
+            "x": 2,
+            "y": 3
+          },
+          {
+            "x": 277,
+            "y": 4
+          },
+          {
+            "x": 277,
+            "y": 42
+          },
+          {
+            "x": 2,
+            "y": 41
+          }
+        ],
+        "confidence": 0.9771756
+      },
+      {
+        "block_text": "( C ) ( a ) and ( c ) are correct and ( b ) and ( d ) are wrong ( D ) ( b ) and ( d ) are correct and ( a ) and ( c ) are wrong",
+        "lines": [
+          "( C ) ( a ) and ( c ) are correct and ( b ) and ( d ) are wrong ( D ) ( b ) and ( d ) are correct and ( a ) and ( c ) are wrong"
+        ],
+        "bounding_box": [
+          {
+            "x": 1,
+            "y": 50
+          },
+          {
+            "x": 277,
+            "y": 50
+          },
+          {
+            "x": 277,
+            "y": 87
+          },
+          {
+            "x": 1,
+            "y": 87
+          }
+        ],
+        "confidence": 0.9785832
+      }
+    ]
+  }
+}

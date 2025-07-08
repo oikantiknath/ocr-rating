@@ -1,0 +1,57 @@
+{
+  "page_number": 431,
+  "ocr_output": {
+    "blocks": [
+      {
+        "block_text": "CO1 . The learner will be able to access the core concepts of heritage conservation and",
+        "lines": [
+          "CO1 . The learner will be able to access the core concepts of heritage conservation and"
+        ],
+        "bounding_box": [
+          {
+            "x": 10,
+            "y": 7
+          },
+          {
+            "x": 1160,
+            "y": 7
+          },
+          {
+            "x": 1160,
+            "y": 38
+          },
+          {
+            "x": 10,
+            "y": 38
+          }
+        ],
+        "confidence": 0.9765041
+      },
+      {
+        "block_text": "management",
+        "lines": [
+          "management"
+        ],
+        "bounding_box": [
+          {
+            "x": 11,
+            "y": 57
+          },
+          {
+            "x": 182,
+            "y": 57
+          },
+          {
+            "x": 182,
+            "y": 67
+          },
+          {
+            "x": 11,
+            "y": 67
+          }
+        ],
+        "confidence": 0.9445093
+      }
+    ]
+  }
+}

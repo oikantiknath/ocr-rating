@@ -1,0 +1,79 @@
+{
+  "sdk_http_response": {
+    "headers": {
+      "content-type": "application/json; charset=UTF-8",
+      "vary": "Origin, X-Origin, Referer",
+      "content-encoding": "gzip",
+      "date": "Fri, 04 Jul 2025 04:30:20 GMT",
+      "server": "scaffolding on HTTPServer2",
+      "x-xss-protection": "0",
+      "x-frame-options": "SAMEORIGIN",
+      "x-content-type-options": "nosniff",
+      "server-timing": "gfet4t7; dur=40107",
+      "alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
+      "transfer-encoding": "chunked"
+    },
+    "body": null
+  },
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "i) ప్రశ్నలో ఉన్న, రెండు అప్పీళ్లలోని అప్పీలుదారులు వలన కొన్నట్లుగా క్లెయిమ్ చేయబడుతున్న\nభూమి యొక్క గుర్తింపు ప్రాంతమునకు సంబంధించిన.\nii) ఓ.ఎస్.నెం.266/2005 లోని ఎ-షెడ్యూలు ఆస్తిలో, బి.షెడ్యూలు ఆస్తి అంతర్భాగమై ఉన్నదా,\nకానట్లయితే బి. షెడ్యూలు ఆస్తి యొక్క నిర్దిష్టమైన సరిహద్దులు ఏమైఉన్నవి?\niii) ఓ.ఎస్.నెం.266/2005లోని వాదినే కొనబడినట్లు చెప్పబడుతున్న రంగారెడ్డి జిల్లా, శేరిలింగం\nపల్లి మండలములో ఉన్న హఫీజ్ పేట గ్రామములో చేరియున్న సర్వే నెం. 56/1లోని మొత్తము\nవిస్తీర్ణము ఎంత? పైన చెప్పబడిన అంశములను పరిష్కరించు సందర్భములో, గౌరవ విచారణ\nన్యాయస్థానము, రికార్డులో ఉన్న అడ్వకేట్ కమిషనరు యొక్క నివేదికను పరిశీలనలోనికి\nతీసుకొనవలెను మరియు, రంగారెడ్డి జిల్లాలోని శేరిలింగంపల్లి మండలంలోని, హఫీజ్ పేటలో\nచేరియున్న సర్వే నెం.56/1 భూమి యొక్క మొత్తము విస్తీర్ణమునకు సంబంధించిన రెవెన్యూ\nరికార్డులను కూడా తెప్పించవలెను."
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": "STOP",
+      "safety_ratings": [
+        {
+          "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HATE_SPEECH",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HARASSMENT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+          "probability": "NEGLIGIBLE"
+        }
+      ],
+      "token_count": null
+    }
+  ],
+  "create_time": null,
+  "response_id": null,
+  "model_version": "gemini-2.5-pro",
+  "prompt_feedback": null,
+  "usage_metadata": {
+    "cache_tokens_details": null,
+    "cached_content_token_count": null,
+    "candidates_token_count": 324,
+    "candidates_tokens_details": null,
+    "prompt_token_count": 715,
+    "prompt_tokens_details": [
+      {
+        "modality": "TEXT",
+        "token_count": 457
+      },
+      {
+        "modality": "IMAGE",
+        "token_count": 258
+      }
+    ],
+    "thoughts_token_count": 3728,
+    "tool_use_prompt_token_count": null,
+    "tool_use_prompt_tokens_details": null,
+    "total_token_count": 4767,
+    "traffic_type": null
+  },
+  "automatic_function_calling_history": [],
+  "parsed": null,
+  "page_number": 150
+}

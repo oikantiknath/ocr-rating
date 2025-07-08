@@ -1,0 +1,32 @@
+{
+  "page_number": 737,
+  "ocr_output": {
+    "blocks": [
+      {
+        "block_text": "\" A man's genius is always at the beginning of life as much un- known to himself as to hotors . \"",
+        "lines": [
+          "\" A man's genius is always at the beginning of life as much un- known to himself as to hotors . \""
+        ],
+        "bounding_box": [
+          {
+            "x": 5,
+            "y": 8
+          },
+          {
+            "x": 394,
+            "y": 7
+          },
+          {
+            "x": 394,
+            "y": 95
+          },
+          {
+            "x": 5,
+            "y": 96
+          }
+        ],
+        "confidence": 0.9819597
+      }
+    ]
+  }
+}

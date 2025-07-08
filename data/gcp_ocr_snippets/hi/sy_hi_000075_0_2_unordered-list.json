@@ -1,0 +1,257 @@
+{
+  "page_number": 75,
+  "ocr_output": {
+    "blocks": [
+      {
+        "block_text": "भाषा का संसार",
+        "lines": [
+          "भाषा का संसार"
+        ],
+        "bounding_box": [
+          {
+            "x": 97,
+            "y": 36
+          },
+          {
+            "x": 273,
+            "y": 31
+          },
+          {
+            "x": 274,
+            "y": 59
+          },
+          {
+            "x": 98,
+            "y": 64
+          }
+        ],
+        "confidence": 0.979706
+      },
+      {
+        "block_text": "दिलीप सिंह",
+        "lines": [
+          "दिलीप सिंह"
+        ],
+        "bounding_box": [
+          {
+            "x": 322,
+            "y": 32
+          },
+          {
+            "x": 457,
+            "y": 31
+          },
+          {
+            "x": 457,
+            "y": 64
+          },
+          {
+            "x": 322,
+            "y": 65
+          }
+        ],
+        "confidence": 0.9190919
+      },
+      {
+        "block_text": "-",
+        "lines": [
+          "-"
+        ],
+        "bounding_box": [
+          {
+            "x": 309,
+            "y": 54
+          },
+          {
+            "x": 297,
+            "y": 54
+          },
+          {
+            "x": 297,
+            "y": 51
+          },
+          {
+            "x": 309,
+            "y": 51
+          }
+        ],
+        "confidence": 0.9178608
+      },
+      {
+        "block_text": "मैनेजर पाण्डेय",
+        "lines": [
+          "मैनेजर पाण्डेय"
+        ],
+        "bounding_box": [
+          {
+            "x": 449,
+            "y": 87
+          },
+          {
+            "x": 611,
+            "y": 89
+          },
+          {
+            "x": 611,
+            "y": 122
+          },
+          {
+            "x": 449,
+            "y": 120
+          }
+        ],
+        "confidence": 0.90466404
+      },
+      {
+        "block_text": "आलोचना की सामाजिकता",
+        "lines": [
+          "आलोचना की सामाजिकता"
+        ],
+        "bounding_box": [
+          {
+            "x": 99,
+            "y": 91
+          },
+          {
+            "x": 397,
+            "y": 91
+          },
+          {
+            "x": 397,
+            "y": 122
+          },
+          {
+            "x": 99,
+            "y": 122
+          }
+        ],
+        "confidence": 0.97215885
+      },
+      {
+        "block_text": "-",
+        "lines": [
+          "-"
+        ],
+        "bounding_box": [
+          {
+            "x": 413,
+            "y": 109
+          },
+          {
+            "x": 430,
+            "y": 109
+          },
+          {
+            "x": 430,
+            "y": 113
+          },
+          {
+            "x": 413,
+            "y": 113
+          }
+        ],
+        "confidence": 0.83669335
+      },
+      {
+        "block_text": "Socio Linguistics : An Introduction to Language and Society -- Peter Trudgill",
+        "lines": [
+          "Socio Linguistics : An Introduction to Language and Society -- Peter Trudgill"
+        ],
+        "bounding_box": [
+          {
+            "x": 99,
+            "y": 158
+          },
+          {
+            "x": 1047,
+            "y": 158
+          },
+          {
+            "x": 1047,
+            "y": 188
+          },
+          {
+            "x": 99,
+            "y": 188
+          }
+        ],
+        "confidence": 0.9946411
+      },
+      {
+        "block_text": "Socio Linguistics -- R.A. Hudson",
+        "lines": [
+          "Socio Linguistics -- R.A. Hudson"
+        ],
+        "bounding_box": [
+          {
+            "x": 99,
+            "y": 205
+          },
+          {
+            "x": 506,
+            "y": 205
+          },
+          {
+            "x": 506,
+            "y": 233
+          },
+          {
+            "x": 99,
+            "y": 233
+          }
+        ],
+        "confidence": 0.99089295
+      },
+      {
+        "block_text": "An Introduction to Socio Linguistics – Ronald Wordhaugh",
+        "lines": [
+          "An Introduction to Socio Linguistics – Ronald Wordhaugh"
+        ],
+        "bounding_box": [
+          {
+            "x": 99,
+            "y": 252
+          },
+          {
+            "x": 817,
+            "y": 252
+          },
+          {
+            "x": 817,
+            "y": 282
+          },
+          {
+            "x": 99,
+            "y": 282
+          }
+        ],
+        "confidence": 0.9846648
+      },
+      {
+        "block_text": "The Shadow of Language - George Yule",
+        "lines": [
+          "The Shadow of Language - George Yule"
+        ],
+        "bounding_box": [
+          {
+            "x": 98,
+            "y": 298
+          },
+          {
+            "x": 601,
+            "y": 301
+          },
+          {
+            "x": 601,
+            "y": 331
+          },
+          {
+            "x": 98,
+            "y": 328
+          }
+        ],
+        "confidence": 0.9791413
+      }
+    ]
+  }
+}

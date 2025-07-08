@@ -1,0 +1,32 @@
+{
+  "page_number": 477,
+  "ocr_output": {
+    "blocks": [
+      {
+        "block_text": "ਭਾਗ- III",
+        "lines": [
+          "ਭਾਗ- III"
+        ],
+        "bounding_box": [
+          {
+            "x": 12,
+            "y": 10
+          },
+          {
+            "x": 53,
+            "y": 10
+          },
+          {
+            "x": 53,
+            "y": 18
+          },
+          {
+            "x": 12,
+            "y": 18
+          }
+        ],
+        "confidence": 0.5700019
+      }
+    ]
+  }
+}

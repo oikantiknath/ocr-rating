@@ -1,0 +1,79 @@
+{
+  "sdk_http_response": {
+    "headers": {
+      "content-type": "application/json; charset=UTF-8",
+      "vary": "Origin, X-Origin, Referer",
+      "content-encoding": "gzip",
+      "date": "Fri, 04 Jul 2025 04:37:22 GMT",
+      "server": "scaffolding on HTTPServer2",
+      "x-xss-protection": "0",
+      "x-frame-options": "SAMEORIGIN",
+      "x-content-type-options": "nosniff",
+      "server-timing": "gfet4t7; dur=47848",
+      "alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
+      "transfer-encoding": "chunked"
+    },
+    "body": null
+  },
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "1. 'భారతీయ తత్త్వశాస్త్రం' - సర్వేపల్లి రాధాకృష్ణన్,\n2. 'విశ్వదర్శనం, భారతీయ చింతన' - నండూరి రామమోహన రావు, లిఖిత ప్రచురణలు, విజయవాడ\n3. 'భారతీయ దర్శనము (బి.ఏ) - తెలుగు అకాడమి, హైదరాబాద్\n4. 'భారతీయ తత్త్వశాస్త్రం సులభ పరిచయం' - దేవీ ప్రసాద్ చటోపాధ్యాయ,\nవిశాలాంధ్ర పబ్లిషింగ్ హౌస్, హైదరాబాద్\n5. 'ప్రపంచ చింతనా ధోరణులు' - తెలుగు అకాడమి, హైదరాబాద్\n6. 'భారతీయ తాత్త్విక స్రవంతి సజీవాంశాలు నిర్జీవ ధోరణులు' - దేవీ ప్రసాద్ చటోపాధ్యాయ,\nప్రజాశక్తి బుక్ హౌస్, విజయవాడ\n7. ప్రముఖుల జీవిత చరిత్రలు"
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": "STOP",
+      "safety_ratings": [
+        {
+          "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HATE_SPEECH",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HARASSMENT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+          "probability": "NEGLIGIBLE"
+        }
+      ],
+      "token_count": null
+    }
+  ],
+  "create_time": null,
+  "response_id": null,
+  "model_version": "gemini-2.5-pro",
+  "prompt_feedback": null,
+  "usage_metadata": {
+    "cache_tokens_details": null,
+    "cached_content_token_count": null,
+    "candidates_token_count": 225,
+    "candidates_tokens_details": null,
+    "prompt_token_count": 716,
+    "prompt_tokens_details": [
+      {
+        "modality": "TEXT",
+        "token_count": 458
+      },
+      {
+        "modality": "IMAGE",
+        "token_count": 258
+      }
+    ],
+    "thoughts_token_count": 4728,
+    "tool_use_prompt_token_count": null,
+    "tool_use_prompt_tokens_details": null,
+    "total_token_count": 5669,
+    "traffic_type": null
+  },
+  "automatic_function_calling_history": [],
+  "parsed": null,
+  "page_number": 308
+}

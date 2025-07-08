@@ -1,0 +1,79 @@
+{
+  "sdk_http_response": {
+    "headers": {
+      "content-type": "application/json; charset=UTF-8",
+      "vary": "Origin, X-Origin, Referer",
+      "content-encoding": "gzip",
+      "date": "Fri, 04 Jul 2025 04:33:56 GMT",
+      "server": "scaffolding on HTTPServer2",
+      "x-xss-protection": "0",
+      "x-frame-options": "SAMEORIGIN",
+      "x-content-type-options": "nosniff",
+      "server-timing": "gfet4t7; dur=44510",
+      "alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
+      "transfer-encoding": "chunked"
+    },
+    "body": null
+  },
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "\" యథాప్రయోగంబగు గ్రామ్యము \"\nలని వైయాకరణుడు చెప్పిన 'విశేషంబులు,\nహాస్యాదుల్కు'లంటి రూపము\nలన్నియు ధాతువుల ప్రాచీన రూపముల\nకంటె నర్వాచీనతను తెలిసికొనగలవగు\nచున్నవి. దీనినిబట్టి-ఇప్పటి-'ఇంకు' ధాతు\nవునకు ఇఱుంకు-ఇఱుకు అనునది ప్రాచీన రూప\nముగా నేర్పడుచున్నది. ఇట్లే 'క్రోల్చు-అను\nదానికి 'క్రుల్చి'-'క్రుగ్గించు' అనునది శబ్ద-రత్నా\nవళి-అనుదానికి 'వళు' (వళుగు); క్రీఁడు-\nఅనుదానికి 'పెఱుకు' ప్రాచీనరూపము లైనట్లు\nతెలియుచున్నయది. ఇట్లే-విఱు-విఱియు-లకు,\nవిఱుగు-వీఁగు-లకు నిఱు-కు, నిక్కు-లకు, దగ్గర\nసంబంధమే కలదు. ఇక ననేక ధాతువులలోని\nరేఫములు తరువాత చేర్పఁబడిన ధాతువులతో\nకలిసిపోవుటచే మూలధాతుస్వరూపము తెలియ\nకుండ పోవుట తటస్థించినది. ఉదా : వర్-\nచుమ్ము, కర్-తెర్-తెమ్ము, పుర్-ప్రుమ్మి, మెల్-\nమెచ్చు, మొదలగువాని సరిపోల్చి చూచిన\nగాని, కేవలము ధాతువులుగానే పరిగణింప\nబడుచున్న 'చమ్ము, క్రమ్ము, మెచ్చు' అనువానిని\nబట్టి చూచినచో, దీని పూర్వరూపములలో నొక\nరేఫముకూడ నుండెనని యూహించుటకే అవ\nకాశము కలుగును. ఈ భాషలో దీనికి సంబం\nధించిన కొన్ని యితర రూపములతోగాని,\nఇతర సన్నిహిత భాషలలోని ధాతురూప\nములతోగాని, పోల్చిచూచినట్టయితే ఇవి\nవాస్తవముగా ధాతుపల్లవములే కాని మూల\nధాతువులు కానేకాదని మనకు తెలియకపోదు.\nఇట్లే తెలుగున కథనంతయ కృదంతరూప\nమగు సంయుక్తాక్షరము తొలిరూపముగా గలిగిన\nయనేక ధాతువులు - కబ్జనలునుగాక, ఏ\nభాషలలోని మూలధాతువులు రేఫా శబ్దములు\nకావనియు, పదమందుండు సంయుక్తాక్షర\nమందుట ద్రావిడభాషా సంప్రదాయసిద్ధమే\nకాకపోవుటచేత నీ భాషలోని రూపములన్ని\nవర్ణవ్యత్యయాది సంస్కార ఫలితముగా ౨"
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": "STOP",
+      "safety_ratings": [
+        {
+          "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HATE_SPEECH",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HARASSMENT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+          "probability": "NEGLIGIBLE"
+        }
+      ],
+      "token_count": null
+    }
+  ],
+  "create_time": null,
+  "response_id": null,
+  "model_version": "gemini-2.5-pro",
+  "prompt_feedback": null,
+  "usage_metadata": {
+    "cache_tokens_details": null,
+    "cached_content_token_count": null,
+    "candidates_token_count": 657,
+    "candidates_tokens_details": null,
+    "prompt_token_count": 715,
+    "prompt_tokens_details": [
+      {
+        "modality": "TEXT",
+        "token_count": 457
+      },
+      {
+        "modality": "IMAGE",
+        "token_count": 258
+      }
+    ],
+    "thoughts_token_count": 3484,
+    "tool_use_prompt_token_count": null,
+    "tool_use_prompt_tokens_details": null,
+    "total_token_count": 4856,
+    "traffic_type": null
+  },
+  "automatic_function_calling_history": [],
+  "parsed": null,
+  "page_number": 256
+}

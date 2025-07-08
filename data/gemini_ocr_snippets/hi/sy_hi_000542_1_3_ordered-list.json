@@ -1,0 +1,79 @@
+{
+  "sdk_http_response": {
+    "headers": {
+      "content-type": "application/json; charset=UTF-8",
+      "vary": "Origin, X-Origin, Referer",
+      "content-encoding": "gzip",
+      "date": "Fri, 04 Jul 2025 03:23:35 GMT",
+      "server": "scaffolding on HTTPServer2",
+      "x-xss-protection": "0",
+      "x-frame-options": "SAMEORIGIN",
+      "x-content-type-options": "nosniff",
+      "server-timing": "gfet4t7; dur=26689",
+      "alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
+      "transfer-encoding": "chunked"
+    },
+    "body": null
+  },
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "(1) हिन्दी की ऐतिहासिक पृष्ठभूमि : प्राचीन भारतीय आर्य भाषाएँ – वैदिक और लौकिक संस्कृत ।\nमध्यकालीन भारतीय आर्य भाषाएँ- पालि, प्राकृत, अपभ्रंश और पुरानी हिन्दी- सामान्य परिचय ।\n(2) हिन्दी का भौगोलिक विस्तार, हिन्दी का ऐतिहासिक विकास और उसकी बोलियाँ । काव्यभाषा के रूप\nरूप में ब्रज और अवधि ।\n(3) खड़ी बोली हिन्दी का उदय और विकास । दक्खिनी हिन्दी । हिन्दी-उर्दू रूपों का संबंध । ईस्ट इंडिया\nकंपनी की भाषा नीति । शिवप्रसाद सितारेहिंद, लक्ष्मण सिंह और भारतेन्दु की भाषा-दृष्टि ।\n(4) हिन्दी जाति का विकास : हिन्दी क्षेत्र, हिन्दी समाज और हिन्दी संस्कृति । हिन्दी की सामासिक प्रकृति ।\n(5) हिन्दी का शब्द भंडार, भूमंडलीकरण और हिन्दी ।"
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": "STOP",
+      "safety_ratings": [
+        {
+          "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HATE_SPEECH",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HARASSMENT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+          "probability": "NEGLIGIBLE"
+        }
+      ],
+      "token_count": null
+    }
+  ],
+  "create_time": null,
+  "response_id": null,
+  "model_version": "gemini-2.5-pro",
+  "prompt_feedback": null,
+  "usage_metadata": {
+    "cache_tokens_details": null,
+    "cached_content_token_count": null,
+    "candidates_token_count": 169,
+    "candidates_tokens_details": null,
+    "prompt_token_count": 761,
+    "prompt_tokens_details": [
+      {
+        "modality": "TEXT",
+        "token_count": 503
+      },
+      {
+        "modality": "IMAGE",
+        "token_count": 258
+      }
+    ],
+    "thoughts_token_count": 2234,
+    "tool_use_prompt_token_count": null,
+    "tool_use_prompt_tokens_details": null,
+    "total_token_count": 3164,
+    "traffic_type": null
+  },
+  "automatic_function_calling_history": [],
+  "parsed": null,
+  "page_number": 337
+}

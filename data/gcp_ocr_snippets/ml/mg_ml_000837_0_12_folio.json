@@ -1,0 +1,32 @@
+{
+  "page_number": 837,
+  "ocr_output": {
+    "blocks": [
+      {
+        "block_text": "Malankarasabha March 2021",
+        "lines": [
+          "Malankarasabha March 2021"
+        ],
+        "bounding_box": [
+          {
+            "x": 12,
+            "y": 15
+          },
+          {
+            "x": 191,
+            "y": 16
+          },
+          {
+            "x": 191,
+            "y": 32
+          },
+          {
+            "x": 12,
+            "y": 31
+          }
+        ],
+        "confidence": 0.9907633
+      }
+    ]
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "page_number": 3,
+  "ocr_output": {
+    "blocks": [
+      {
+        "block_text": "www.akhandjyoti.org",
+        "lines": [
+          "www.akhandjyoti.org"
+        ],
+        "bounding_box": [
+          {
+            "x": 8,
+            "y": 15
+          },
+          {
+            "x": 236,
+            "y": 15
+          },
+          {
+            "x": 236,
+            "y": 40
+          },
+          {
+            "x": 8,
+            "y": 40
+          }
+        ],
+        "confidence": 0.9872207
+      }
+    ]
+  }
+}

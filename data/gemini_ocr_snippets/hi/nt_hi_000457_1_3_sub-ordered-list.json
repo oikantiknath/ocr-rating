@@ -1,0 +1,79 @@
+{
+  "sdk_http_response": {
+    "headers": {
+      "content-type": "application/json; charset=UTF-8",
+      "vary": "Origin, X-Origin, Referer",
+      "content-encoding": "gzip",
+      "date": "Fri, 04 Jul 2025 03:21:13 GMT",
+      "server": "scaffolding on HTTPServer2",
+      "x-xss-protection": "0",
+      "x-frame-options": "SAMEORIGIN",
+      "x-content-type-options": "nosniff",
+      "server-timing": "gfet4t7; dur=29052",
+      "alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
+      "transfer-encoding": "chunked"
+    },
+    "body": null
+  },
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "क) ऑनलाइन आवेदन प्राप्त करने की अंतिम तिथि के बाद, उम्मीदवारों को ऑनलाइन आवेदन मापदंडों को सही/संशोधित करने के लिए\nपांच (05) दिनों की अवधि प्रदान की जाएगी, जिसमें उम्मीदवारों को अपेक्षित सुधार/परिवर्तन करने के बाद फिर से आवेदन जमा करने\nकी अनुमति दी जाएगी।\n\nख) केवल उन्हीं उम्मीदवारों को आवेदन पत्र में सुधार करने की अनुमति दी जाएगी, जिनके पूर्व ऑनलाइन आवेदन अपेक्षित शुल्क के भुगतान\nके साथ, जहां भी लागू हो, निर्दिष्ट अवधि के भीतर प्राप्त हो गए हैं।\n\nग) एक उम्मीदवार को 'एप्लिकेशन फॉर्म सुधार के लिए विंडो' के दौरान अपने संशोधित आवेदन को सही करने और फिर से जमा करने की\nअनुमति दी जाएगी। हालांकि, उम्मीदवार को मूल आवेदन वापस लेने की अनुमति नहीं दी जाएगी। आवेदन में संशोधन/सुधार की प्रक्रिया\nपूर्ण नहीं करने की स्थिति में ऐसे अपूर्ण संशोधित आवेदन स्वीकार नहीं किये जायेंगे तथा पूर्व में प्रस्तुत आवेदन वैध रहेगा।\n\nघ) एक उम्मीदवार जिसे मूल आवेदन के दौरान शुल्क के भुगतान से छूट दी गई थी, यदि 'विंडो फॉर एप्लीकेशन फॉर्म करेक्शन' के दौरान\nलिंग/श्रेणी में परिवर्तन होता है, जिसे शुल्क के भुगतान से छूट नहीं है, तो उसे पैरा 13 के अनुसार अपेक्षित आवेदन शुल्क का भुगतान\nकरना होगा। एक बार भुगतान किया गया शुल्क किसी भी परिस्थिति में वापस नहीं किया जाएगा और न ही इसे किसी अन्य परीक्षा या\nचयन के विरुद्ध समायोजित किया जाएगा।\n\nङ) सही आवेदन जमा करने से पहले, उम्मीदवारों को यह जांचना होगा कि उन्होंने फॉर्म के प्रत्येक क्षेत्र में सही विवरण भरा है। 'एप्लिकेशन\nफॉर्म सुधार के लिए विंडो' की समाप्ति के बाद, किसी भी परिस्थिति में कोई परिवर्तन/सुधार/संशोधन की अनुमति नहीं दी जाएगी। इस\nसंबंध में पोस्ट, फैक्स, ईमेल, हाथ से आदि किसी भी रूप में प्राप्त अनुरोधों पर विचार नहीं किया जाएगा और उन्हें सरसरी तौर पर खारिज\nकर दिया जाएगा।"
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": "STOP",
+      "safety_ratings": [
+        {
+          "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HATE_SPEECH",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HARASSMENT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+          "probability": "NEGLIGIBLE"
+        }
+      ],
+      "token_count": null
+    }
+  ],
+  "create_time": null,
+  "response_id": null,
+  "model_version": "gemini-2.5-pro",
+  "prompt_feedback": null,
+  "usage_metadata": {
+    "cache_tokens_details": null,
+    "cached_content_token_count": null,
+    "candidates_token_count": 388,
+    "candidates_tokens_details": null,
+    "prompt_token_count": 762,
+    "prompt_tokens_details": [
+      {
+        "modality": "TEXT",
+        "token_count": 504
+      },
+      {
+        "modality": "IMAGE",
+        "token_count": 258
+      }
+    ],
+    "thoughts_token_count": 2154,
+    "tool_use_prompt_token_count": null,
+    "tool_use_prompt_tokens_details": null,
+    "total_token_count": 3304,
+    "traffic_type": null
+  },
+  "automatic_function_calling_history": [],
+  "parsed": null,
+  "page_number": 163
+}

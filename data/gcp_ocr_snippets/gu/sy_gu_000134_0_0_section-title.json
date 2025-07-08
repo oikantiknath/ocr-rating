@@ -1,0 +1,132 @@
+{
+  "page_number": 134,
+  "ocr_output": {
+    "blocks": [
+      {
+        "block_text": "Syllabus of Main Examination for",
+        "lines": [
+          "Syllabus of Main Examination for"
+        ],
+        "bounding_box": [
+          {
+            "x": 41,
+            "y": 20
+          },
+          {
+            "x": 890,
+            "y": 13
+          },
+          {
+            "x": 890,
+            "y": 59
+          },
+          {
+            "x": 41,
+            "y": 66
+          }
+        ],
+        "confidence": 0.98695886
+      },
+      {
+        "block_text": "Gujarat Administrative services ,",
+        "lines": [
+          "Gujarat Administrative services ,"
+        ],
+        "bounding_box": [
+          {
+            "x": 66,
+            "y": 127
+          },
+          {
+            "x": 865,
+            "y": 124
+          },
+          {
+            "x": 865,
+            "y": 173
+          },
+          {
+            "x": 66,
+            "y": 176
+          }
+        ],
+        "confidence": 0.98775357
+      },
+      {
+        "block_text": "Class - I , Gujarat Civil Service , Class-",
+        "lines": [
+          "Class - I , Gujarat Civil Service , Class-"
+        ],
+        "bounding_box": [
+          {
+            "x": 3,
+            "y": 233
+          },
+          {
+            "x": 927,
+            "y": 233
+          },
+          {
+            "x": 927,
+            "y": 283
+          },
+          {
+            "x": 3,
+            "y": 283
+          }
+        ],
+        "confidence": 0.9748921
+      },
+      {
+        "block_text": "I and Class - ll and Gujarat Municipal",
+        "lines": [
+          "I and Class - ll and Gujarat Municipal"
+        ],
+        "bounding_box": [
+          {
+            "x": 4,
+            "y": 334
+          },
+          {
+            "x": 928,
+            "y": 341
+          },
+          {
+            "x": 928,
+            "y": 390
+          },
+          {
+            "x": 4,
+            "y": 383
+          }
+        ],
+        "confidence": 0.93126625
+      },
+      {
+        "block_text": "Chief Officer Service , Class - ll",
+        "lines": [
+          "Chief Officer Service , Class - ll"
+        ],
+        "bounding_box": [
+          {
+            "x": 88,
+            "y": 449
+          },
+          {
+            "x": 842,
+            "y": 449
+          },
+          {
+            "x": 842,
+            "y": 494
+          },
+          {
+            "x": 88,
+            "y": 494
+          }
+        ],
+        "confidence": 0.94164044
+      }
+    ]
+  }
+}

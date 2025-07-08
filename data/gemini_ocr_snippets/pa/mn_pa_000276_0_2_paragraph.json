@@ -1,0 +1,79 @@
+{
+  "sdk_http_response": {
+    "headers": {
+      "content-type": "application/json; charset=UTF-8",
+      "vary": "Origin, X-Origin, Referer",
+      "content-encoding": "gzip",
+      "date": "Fri, 04 Jul 2025 03:46:33 GMT",
+      "server": "scaffolding on HTTPServer2",
+      "x-xss-protection": "0",
+      "x-frame-options": "SAMEORIGIN",
+      "x-content-type-options": "nosniff",
+      "server-timing": "gfet4t7; dur=68982",
+      "alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
+      "transfer-encoding": "chunked"
+    },
+    "body": null
+  },
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "ਤੁਹਾਡੇ ਕੋਲ ਆਪਣੇ ਡਰਾਫਟਿਡ ਸਮਾਜ ਦੇ ਵਿੱਚ ਫੈਕਟਰ ਪਦ ਸ਼ਾਮਲ ਕਰਨ ਦਾ ਮੌਕਾ ਹੈ, ਜੋ ਸਪਸ਼ਟ ਤੌਰ 'ਤੇ ਸੂਚਤ ਕਰਦਾ ਹੈ ਕੀ ਤੁਸੀਂ ਪ੍ਰਾਪ੍ਰਟੀਜ਼ ਸਟੇਟਸ ਅਨੁਸਾਰ ਫਿਲਟਰ ਦੇ ਫੈਕਟਰ ਹਨ। ਯੋਗ\nਹੋਣ ਦੇ ਲਈ, ਜਰੂਰੀ ਹੈ ਕੀ ਤੁਸੀਂ ਪ੍ਰਾਪ੍ਰਟੀਜ਼ ਸਟੇਟਸ ਅਨੁਸਾਰ ਫਿਲਟਰ ਦੇ ਵਿੱਚ ਸੇਵ ਕੀਤੀ ਹੋ, ਜਿਸ ਦੇ ਵਿੱਚ ਇੱਕ ਰਜਿਸਟਰਡ ਕੰਪੋਨੈਂਟ ਜਾਂ ਸਮੱਗਰੀ ਸ਼ਾਮਲ ਹੈ ਅਤੇ ਅਜਿਹੀਆਂ ਸਥਿਤੀਆਂ\nਅਧੀਨ ਸਮੇਂ 'ਤੇ ਤੋਂ ਡਿਜ਼ਾਇਨ ਕੀਤਾ ਗਿਆ ਹੈ ਜਾਂ ਗਲੋਬਲ ਕੀਤੇ ਗਿਆ ਹੈ ਪਰ ਕੋਈ ਗਲਤ ਸਮਾਪਤੀ ਨਹੀਂ ਹੋਣੀ ਚਾਹੀਦੀ।"
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": "STOP",
+      "safety_ratings": [
+        {
+          "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HATE_SPEECH",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HARASSMENT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+          "probability": "NEGLIGIBLE"
+        }
+      ],
+      "token_count": null
+    }
+  ],
+  "create_time": null,
+  "response_id": null,
+  "model_version": "gemini-2.5-pro",
+  "prompt_feedback": null,
+  "usage_metadata": {
+    "cache_tokens_details": null,
+    "cached_content_token_count": null,
+    "candidates_token_count": 206,
+    "candidates_tokens_details": null,
+    "prompt_token_count": 485,
+    "prompt_tokens_details": [
+      {
+        "modality": "TEXT",
+        "token_count": 227
+      },
+      {
+        "modality": "IMAGE",
+        "token_count": 258
+      }
+    ],
+    "thoughts_token_count": 6507,
+    "tool_use_prompt_token_count": null,
+    "tool_use_prompt_tokens_details": null,
+    "total_token_count": 7198,
+    "traffic_type": null
+  },
+  "automatic_function_calling_history": [],
+  "parsed": null,
+  "page_number": 78
+}

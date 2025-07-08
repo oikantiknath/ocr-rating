@@ -1,0 +1,79 @@
+{
+  "sdk_http_response": {
+    "headers": {
+      "content-type": "application/json; charset=UTF-8",
+      "vary": "Origin, X-Origin, Referer",
+      "content-encoding": "gzip",
+      "date": "Fri, 04 Jul 2025 04:50:59 GMT",
+      "server": "scaffolding on HTTPServer2",
+      "x-xss-protection": "0",
+      "x-frame-options": "SAMEORIGIN",
+      "x-content-type-options": "nosniff",
+      "server-timing": "gfet4t7; dur=69839",
+      "alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
+      "transfer-encoding": "chunked"
+    },
+    "body": null
+  },
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "ಕಾನ್ಯಸಾಮ್ರಾಜ್ಯದಲ್ಲೆ ವಿರಹಿತದ ಸರೋಜಿನಿ ಬೇರೆ ಕೆಲ\nಗೆಳೆಯಳೂ ಅದನ್ನು ಭಾವಿಸುತ್ತಿದ್ದರು. ತಮ್ಮ ಸಂಸಾರ ನಿರ್ವಹಣೆಯಲ್ಲಿ\nವಿಜಯ ಸಿಕ್ಕಗಲ್ಲದೇ ಸಾಮಾಜಿಕ ಕಾರ್ಯಗಳಲ್ಲಿ ಪ್ರವೇಶಿಸುತ್ತಿದ್ದರು.\nಆದರೆ ಅದರಿಂದೆಚ್ಚು ಬಿಸಿನನ್ನು ಸಿಕ್ಕಿತರಿಲ್ಲ ತಮ್ಮ ಮಕ್ಕಳ ಲಾಲನೆ\nಪಾಲನೆಯನ್ನು ದಾದಿಯರಿಗೆ ಬಿಟ್ಟು ತಾವು ಹಾಯಾಗಿ ಕುಳಿತುಕೊಳ್ಳಲು\nನೈತಿಕ ಧೈರ್ಯವಿರಲಿಲ್ಲ. ಏಕೆಂದರೆ ದಾದಿಯರು ಒಂದಲ್ಲದೆ ಹತ್ತು ಜನ\nದಾದಿಯರನ್ನು ನೇಮಿಸುವಷ್ಟು ಅನುಕೂಲಸ್ಥರಾಗಿದ್ದರು. ಆದರೆ\nಸರೋಜಿನಿ ಅದಕ್ಕೆ ಇಷ್ಟಪಡಲಿಲ್ಲ. ಮಕ್ಕಳ ಯೋಗಕ್ಷೇಮವನ್ನು, ಗೃಹ\nಕೃತ್ಯದ ಕೆಲಸಗಳನ್ನು ತಾವೇ ನೋಡಿಕೊಳ್ಳುತ್ತಿದ್ದರು. ಅದುಗನಸುನ\nಲ್ಲಿಯೂ ಅವರ ಚೆಲುವಿಕೆಯನ್ನು ಕಳಾಚಿಸುತ್ತಿರಲಿಲ್ಲ. ಬಂದ ಹೀರಿ\nಯರನ್ನು ಉಪಚರಿಸಿ ನಲಿನಲಿಯಾಡಿಕೊಂಡು ಅದುಗಳಲ್ಲಿಯೇ ತೀರಗಿ\nತ್ತಿದ್ದರು. ಅಷ್ಟೊಂದು ಉತ್ಸಾಹ ಅವರಿಗೆ ಗೃಹಕೃತ್ಯದ ಕೆಲಸದಲ್ಲಿ. ಅವರು\nಒಂದಲ್ಲದೆ ಹತ್ತಾರು ಭೃತ್ಯಭೃತ್ಯೆಯರನ್ನು ನೂಡಿಬಡಿಸುವ ಸಿರಿವಂ\nತರಗಿದ್ದರು. ಒಟ್ಟಿನಲ್ಲಿ ಅವರು ತಮ್ಮ ತಂದೆ-ತಾಯಿಗಳಿಗೆ ಆದರ್ಶ\nಮಗಳಾಗಿ, ಗಂಡನಿಗೆ ಆದರ್ಶ ಸತಿಯಾಗಿ, ಮಕ್ಕಳಿಗೆ ಆದರ್ಶ ತಾಯಿಯಾಗಿ,\nಸರ್ವರಿಗೂ ಆದರ್ಶ ವ್ಯಕ್ತಿಯಾಗಿ ತಮ್ಮ ಸಂಸಾರ ಜೀವನ ನಡೆಸಿದರು."
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": "STOP",
+      "safety_ratings": [
+        {
+          "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HATE_SPEECH",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HARASSMENT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+          "probability": "NEGLIGIBLE"
+        }
+      ],
+      "token_count": null
+    }
+  ],
+  "create_time": null,
+  "response_id": null,
+  "model_version": "gemini-2.5-pro",
+  "prompt_feedback": null,
+  "usage_metadata": {
+    "cache_tokens_details": null,
+    "cached_content_token_count": null,
+    "candidates_token_count": 329,
+    "candidates_tokens_details": null,
+    "prompt_token_count": 728,
+    "prompt_tokens_details": [
+      {
+        "modality": "TEXT",
+        "token_count": 470
+      },
+      {
+        "modality": "IMAGE",
+        "token_count": 258
+      }
+    ],
+    "thoughts_token_count": 6485,
+    "tool_use_prompt_token_count": null,
+    "tool_use_prompt_tokens_details": null,
+    "total_token_count": 7542,
+    "traffic_type": null
+  },
+  "automatic_function_calling_history": [],
+  "parsed": null,
+  "page_number": 182
+}

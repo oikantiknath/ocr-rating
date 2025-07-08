@@ -1,0 +1,32 @@
+{
+  "page_number": 680,
+  "ocr_output": {
+    "blocks": [
+      {
+        "block_text": "Celebrating 100th Birthday-",
+        "lines": [
+          "Celebrating 100th Birthday-"
+        ],
+        "bounding_box": [
+          {
+            "x": 12,
+            "y": 3
+          },
+          {
+            "x": 258,
+            "y": 15
+          },
+          {
+            "x": 255,
+            "y": 75
+          },
+          {
+            "x": 9,
+            "y": 68
+          }
+        ],
+        "confidence": 0.9865789
+      }
+    ]
+  }
+}

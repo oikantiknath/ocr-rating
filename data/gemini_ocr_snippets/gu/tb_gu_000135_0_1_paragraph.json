@@ -1,0 +1,79 @@
+{
+  "sdk_http_response": {
+    "headers": {
+      "content-type": "application/json; charset=UTF-8",
+      "vary": "Origin, X-Origin, Referer",
+      "content-encoding": "gzip",
+      "date": "Fri, 04 Jul 2025 05:39:57 GMT",
+      "server": "scaffolding on HTTPServer2",
+      "x-xss-protection": "0",
+      "x-frame-options": "SAMEORIGIN",
+      "x-content-type-options": "nosniff",
+      "server-timing": "gfet4t7; dur=38582",
+      "alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
+      "transfer-encoding": "chunked"
+    },
+    "body": null
+  },
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "છાપ ઉપર છે. એ છાપ સ્પષ્ટ ને મજબૂત પડવા સારૂ\nધ્યાનમાં રાખવાની બાબતો;—( ૧ ) જે શીખવવું તે એવું રસિક, ઉત્તે-\nજક અને બમણું હોવું જોઇએ, કે તે સચોટ મગજમાં પ્રવેશ\nકરે, અને તેની ઉંડી છાપ તેમાં પડી રહે. જે વાત ઇંદ્રિયગોચર દેખાશે,\nતે જલદી મગજમાં પેસે છે. તેને રસિક કરતી કે તેથી છોકરાંનું મન\nદૃઢાવવું, એ કામ શિક્ષકનું છે. વસ્તુ પ્રત્યક્ષ દેખાડવી, કે તે ન મળે તો\nતેનું ચિત્ર કે નમુનો બતાવવો, એટલે આંખદ્વારા તે વિષેનો વિચાર મનમાં\nવધારે સારી રીતે પ્રવેશ કરશે, અને તેની છાપ પણ સારી પડશે. વાંચન\nચોપડીઓમાં સારાં ચિત્રો હોય, તો તે છોકરાંને ગમશે, એટલુંજ નહિ,"
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": "STOP",
+      "safety_ratings": [
+        {
+          "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HATE_SPEECH",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HARASSMENT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+          "probability": "NEGLIGIBLE"
+        }
+      ],
+      "token_count": null
+    }
+  ],
+  "create_time": null,
+  "response_id": null,
+  "model_version": "gemini-2.5-pro",
+  "prompt_feedback": null,
+  "usage_metadata": {
+    "cache_tokens_details": null,
+    "cached_content_token_count": null,
+    "candidates_token_count": 230,
+    "candidates_tokens_details": null,
+    "prompt_token_count": 756,
+    "prompt_tokens_details": [
+      {
+        "modality": "TEXT",
+        "token_count": 498
+      },
+      {
+        "modality": "IMAGE",
+        "token_count": 258
+      }
+    ],
+    "thoughts_token_count": 3598,
+    "tool_use_prompt_token_count": null,
+    "tool_use_prompt_tokens_details": null,
+    "total_token_count": 4584,
+    "traffic_type": null
+  },
+  "automatic_function_calling_history": [],
+  "parsed": null,
+  "page_number": 338
+}

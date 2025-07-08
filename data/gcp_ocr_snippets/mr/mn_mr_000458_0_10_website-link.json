@@ -1,0 +1,32 @@
+{
+  "page_number": 458,
+  "ocr_output": {
+    "blocks": [
+      {
+        "block_text": "wellness - and - safety - resources / helping - hands / how - and - why - to - thicken - liquids",
+        "lines": [
+          "wellness - and - safety - resources / helping - hands / how - and - why - to - thicken - liquids"
+        ],
+        "bounding_box": [
+          {
+            "x": 11,
+            "y": 2
+          },
+          {
+            "x": 1081,
+            "y": 2
+          },
+          {
+            "x": 1081,
+            "y": 31
+          },
+          {
+            "x": 11,
+            "y": 31
+          }
+        ],
+        "confidence": 0.9901891
+      }
+    ]
+  }
+}

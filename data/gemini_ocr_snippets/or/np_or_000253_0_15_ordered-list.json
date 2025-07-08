@@ -1,0 +1,79 @@
+{
+  "sdk_http_response": {
+    "headers": {
+      "content-type": "application/json; charset=UTF-8",
+      "vary": "Origin, X-Origin, Referer",
+      "content-encoding": "gzip",
+      "date": "Fri, 04 Jul 2025 04:00:59 GMT",
+      "server": "scaffolding on HTTPServer2",
+      "x-xss-protection": "0",
+      "x-frame-options": "SAMEORIGIN",
+      "x-content-type-options": "nosniff",
+      "server-timing": "gfet4t7; dur=64982",
+      "alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
+      "transfer-encoding": "chunked"
+    },
+    "body": null
+  },
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "୧ । ୭୫୫୯୦ ଶିକ୍ଷକ ବ୍ୟତୀତ ୭୯୭ ଜଣ ଉପ\nଦେଷ୍ଟା, ୧୭ ଜଣ ନିଜସ୍ଵ ଛାତ୍ରାବାସର ତତ୍ତ୍ଵାବ\nଧାରକ ଏବଂ ୧୭୬୦।୭୬ ଜଣ ଚତୁର୍ଥ ଶ୍ରେଣୀ\nକର୍ମଚାରୀ ।\n୨ । ୫୫୫ ଗୋଷ୍ଠୀଶିକ୍ଷା ଅଫିସର କାର୍ଯ୍ୟା\nଳୟ—ବର୍ଗ ପାଇଁ, ୭୭ ଟି ଶହେ ଶହେ\nଟଙ୍କିଆ ପଦବୀ ଏବଂ ୭୭ ମାସିକ ୫୦\nଟଙ୍କା ଦରମାରେ ଅସ୍ଥାୟୀଭାବେ ପିଅନ ଓ ଅନ୍ୟା\nନ୍ୟ କାମ ପାଇଁ ।\n୩ । ୫୦୨୩ ଅତିରିକ୍ତ ଶିକ୍ଷକଙ୍କ ପାଇଁ\nକେନ୍ଦ୍ର ସରକାର ଦେବାକୁ ରାଜି ।\nଏଥିପାଇଁ ବର୍ଷକୁ ୯ ଲକ୍ଷ ଟଙ୍କାରୁ ବେଶି\nପଡ଼ିବ, ଯିଏ ଏହି ବ୍ୟବସ୍ଥାରେ ଅନ୍ତତଃ\nପକ୍ଷରେ ତୃତୀୟ ଶ୍ରେଣୀ ମାଟ୍ରିକୁଲେଟ୍\nହୋଇଥିବେ । ତୃତୀୟ ଓ ଚତୁର୍ଥ ଶ୍ରେଣୀ\nଶିକ୍ଷିତ ପାଇଁ କେନ୍ଦ୍ର ସରକାର ଏହି\nଟଙ୍କା ଦେବେ ନାହିଁ ବୋଲି କହିଛନ୍ତି ।\n୪ । ୫୦ଟି ବହୁମୁଖୀ ବିଦ୍ୟାଳୟ ସ୍ଥାପନରେ\nଅସ୍ଥାୟୀଭାବେ ସଂପୃକ୍ତ ହେବାକୁ\nମଧ୍ୟପ୍ରଦେଶରୁ ଆସିଥିବା ଦଳ ପାଇଁ\nବିଭିନ୍ନ ଅସ୍ଥାୟୀଭାବେ ପଦବୀ ସୃଷ୍ଟି ।\n୫ । ଅସ୍ଥାୟୀଭାବେ ସ୍ଥାପିତ ହେବାକୁ\nଥିବା ୯୦ଟି ମଧ୍ୟ ଇଂରାଜୀ ବିଦ୍ୟାଳୟ\nପାଇଁ ୯୦। ଜଣ ବିଜ୍ଞାନ ଶିକ୍ଷକ, ୯୦\nଜଣ ପିଅନ, ୯୦ ଜଣ ରାତ୍ରି ଜଗୁଆଳି\nଓ ୯୦ ଜଣ ମେହେନ୍ତର ।"
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": "STOP",
+      "safety_ratings": [
+        {
+          "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HATE_SPEECH",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HARASSMENT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+          "probability": "NEGLIGIBLE"
+        }
+      ],
+      "token_count": null
+    }
+  ],
+  "create_time": null,
+  "response_id": null,
+  "model_version": "gemini-2.5-pro",
+  "prompt_feedback": null,
+  "usage_metadata": {
+    "cache_tokens_details": null,
+    "cached_content_token_count": null,
+    "candidates_token_count": 587,
+    "candidates_tokens_details": null,
+    "prompt_token_count": 784,
+    "prompt_tokens_details": [
+      {
+        "modality": "TEXT",
+        "token_count": 526
+      },
+      {
+        "modality": "IMAGE",
+        "token_count": 258
+      }
+    ],
+    "thoughts_token_count": 5906,
+    "tool_use_prompt_token_count": null,
+    "tool_use_prompt_tokens_details": null,
+    "total_token_count": 7277,
+    "traffic_type": null
+  },
+  "automatic_function_calling_history": [],
+  "parsed": null,
+  "page_number": 133
+}

@@ -1,0 +1,79 @@
+{
+  "sdk_http_response": {
+    "headers": {
+      "content-type": "application/json; charset=UTF-8",
+      "vary": "Origin, X-Origin, Referer",
+      "content-encoding": "gzip",
+      "date": "Fri, 04 Jul 2025 04:17:35 GMT",
+      "server": "scaffolding on HTTPServer2",
+      "x-xss-protection": "0",
+      "x-frame-options": "SAMEORIGIN",
+      "x-content-type-options": "nosniff",
+      "server-timing": "gfet4t7; dur=33856",
+      "alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
+      "transfer-encoding": "chunked"
+    },
+    "body": null
+  },
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "1. ‘இலக்கியத் திறனாய்வியல்’ - எனும் நூலின் ஆசிரியர் யார்?\n2. ‘இலக்கியம் சிறந்ததா அல்லது குறையுடையதா என்பதைக்\nகாண்பதே திறனாய்வு’ - என்று கூறியவர் யார்?\n3. ‘இலக்கிய விமரிசனம்’ எனும் நூலின் ஆசிரியர் யார்?\n4. ஹோமர் எழுதிய காப்பியங்களைக் கூறுக.\n5. ‘கவிஞன் எந்த இடத்தில் விட்டுச் செல்கின்றானோ அந்த இடத்தைத்\nதிறனாய்வாளன் பிடித்துக் கொள்கிறான்’ - எனக் கூறியவர் யார்?\n6. ஒப்பிலக்கியம் என்றால் என்ன?\n7. ‘ஒப்பியல் இலக்கியம்’ - என்னும் நூலின் ஆசிரியர் யார்?\n8. மதிப்பீட்டு முறைத் திறனாய்வு என்றால் என்ன?\n9. ‘இலக்கியக் கலை’ - என்ற நூலின் ஆசிரியர் யார்?\n10. மொழிபெயர்ப்பு - விளக்கம் தருக."
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": "STOP",
+      "safety_ratings": [
+        {
+          "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HATE_SPEECH",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HARASSMENT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+          "probability": "NEGLIGIBLE"
+        }
+      ],
+      "token_count": null
+    }
+  ],
+  "create_time": null,
+  "response_id": null,
+  "model_version": "gemini-2.5-pro",
+  "prompt_feedback": null,
+  "usage_metadata": {
+    "cache_tokens_details": null,
+    "cached_content_token_count": null,
+    "candidates_token_count": 189,
+    "candidates_tokens_details": null,
+    "prompt_token_count": 760,
+    "prompt_tokens_details": [
+      {
+        "modality": "TEXT",
+        "token_count": 502
+      },
+      {
+        "modality": "IMAGE",
+        "token_count": 258
+      }
+    ],
+    "thoughts_token_count": 3031,
+    "tool_use_prompt_token_count": null,
+    "tool_use_prompt_tokens_details": null,
+    "total_token_count": 3980,
+    "traffic_type": null
+  },
+  "automatic_function_calling_history": [],
+  "parsed": null,
+  "page_number": 156
+}

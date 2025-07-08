@@ -1,0 +1,57 @@
+{
+  "page_number": 126,
+  "ocr_output": {
+    "blocks": [
+      {
+        "block_text": "This is my own house ..",
+        "lines": [
+          "This is my own house .."
+        ],
+        "bounding_box": [
+          {
+            "x": 19,
+            "y": 10
+          },
+          {
+            "x": 406,
+            "y": 10
+          },
+          {
+            "x": 406,
+            "y": 44
+          },
+          {
+            "x": 19,
+            "y": 44
+          }
+        ],
+        "confidence": 0.9541014
+      },
+      {
+        "block_text": "ਇਹ ਮੇਰਾ ਆਪਣਾ ਘਰ ਹੈ ।",
+        "lines": [
+          "ਇਹ ਮੇਰਾ ਆਪਣਾ ਘਰ ਹੈ ।"
+        ],
+        "bounding_box": [
+          {
+            "x": 18,
+            "y": 51
+          },
+          {
+            "x": 444,
+            "y": 54
+          },
+          {
+            "x": 444,
+            "y": 105
+          },
+          {
+            "x": 18,
+            "y": 102
+          }
+        ],
+        "confidence": 0.9515499
+      }
+    ]
+  }
+}

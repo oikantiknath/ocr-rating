@@ -1,0 +1,79 @@
+{
+  "sdk_http_response": {
+    "headers": {
+      "content-type": "application/json; charset=UTF-8",
+      "vary": "Origin, X-Origin, Referer",
+      "content-encoding": "gzip",
+      "date": "Fri, 04 Jul 2025 05:13:36 GMT",
+      "server": "scaffolding on HTTPServer2",
+      "x-xss-protection": "0",
+      "x-frame-options": "SAMEORIGIN",
+      "x-content-type-options": "nosniff",
+      "server-timing": "gfet4t7; dur=44446",
+      "alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
+      "transfer-encoding": "chunked"
+    },
+    "body": null
+  },
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "മിന്നലിലെ ഒരു രാജാവിന് ഭരതനെന്ന വേദാനന്ദനെന്നയൊന്ന് എന്നു\nകൊണ്ട് അർത്ഥം. മിന്നിക്കനില്ലേ, ഋഗ്വേദത്തിൽ(5.61.13)പറയുന്നു: ബോധ രഥ (രഥ\nത്തോടുകൂടിയവൻ). ഈ രാജാവിന്റെ കാലത്താണ് ഋഗ്വേദദശമമണ്ഡലം നിബന്ധി\nക്കുന്ന പശ്ചാത്തലമുണ്ട് (പേജ് 158) ,ഭരതവംശത്തിന്റെ യുദ്ധത്തിലേ വിജയമായി വർണ്ണിക്ക\nന്നതിനെക്കുറിച്ചുള്ള ഒരു സൂക്തം. (അവലംബം)പിറ്റേന്ന് രാവിലെ മിന്നൽരാജാവി\nനെക്കൽ എഴുതിയതിൽ,ഏങ്ങനെ ഇതുണ്ടായി. സംശയങ്ങളുണ്ടായി എന്ന് അ\nന്വേഷിക്കേണ്ടതാണ്. രാമായണക്കാലത്തെ ഭരതന്റെ മകനായ ഭരതന്റെ പിൻഗാമി\nകളായ സാല്വസ്ഥാനത്തെ കേകയത്തിലെ സന്തതികളാണവനെന്ന് ആലോചി\nക്കുന്നത് രാമായണത്തെ മിന്ന് എന്ന മുദ്രയിലൂടെ സൂചിപ്പിക്കുന്നതുകൊണ്ടാണ്.\nഋഗ്വേദം. മിന്നലിലെ ഭരതന്റെ പേരാണ്, അതുകൊണ്ട് രാമായണവും. ഭര\nതനും ഒരേ അർത്ഥമാവാനും. എന്നതിലൂടെയാണ് അടച്ചമനസ്സുകൾക്കുള്ള.\nമിന്നലിലെ ഭരതന് കിള്ളി അഥവാ ഇളയതായി സ്ഥാപിക്കുന്നതിലെ ഒരു പ്രശ്നം\nതെളിഞ്ഞുവന്നാൽ അതിനകത്തുള്ള രാമായണക്കാലത്തെ ഭരതനും. പുതിയ ഭരത\nനും വേദമാണ് മിന്നലിലെ ഭരതകാലമെന്നും. മനസ്സിലാവും."
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": "STOP",
+      "safety_ratings": [
+        {
+          "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HATE_SPEECH",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HARASSMENT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+          "probability": "NEGLIGIBLE"
+        }
+      ],
+      "token_count": null
+    }
+  ],
+  "create_time": null,
+  "response_id": null,
+  "model_version": "gemini-2.5-pro",
+  "prompt_feedback": null,
+  "usage_metadata": {
+    "cache_tokens_details": null,
+    "cached_content_token_count": null,
+    "candidates_token_count": 357,
+    "candidates_tokens_details": null,
+    "prompt_token_count": 738,
+    "prompt_tokens_details": [
+      {
+        "modality": "TEXT",
+        "token_count": 480
+      },
+      {
+        "modality": "IMAGE",
+        "token_count": 258
+      }
+    ],
+    "thoughts_token_count": 3515,
+    "tool_use_prompt_token_count": null,
+    "tool_use_prompt_tokens_details": null,
+    "total_token_count": 4610,
+    "traffic_type": null
+  },
+  "automatic_function_calling_history": [],
+  "parsed": null,
+  "page_number": 370
+}

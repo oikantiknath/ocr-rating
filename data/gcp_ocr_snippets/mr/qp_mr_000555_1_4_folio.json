@@ -1,0 +1,32 @@
+{
+  "page_number": 555,
+  "ocr_output": {
+    "blocks": [
+      {
+        "block_text": "P.T.O.",
+        "lines": [
+          "P.T.O."
+        ],
+        "bounding_box": [
+          {
+            "x": 3,
+            "y": 5
+          },
+          {
+            "x": 42,
+            "y": 5
+          },
+          {
+            "x": 42,
+            "y": 14
+          },
+          {
+            "x": 3,
+            "y": 14
+          }
+        ],
+        "confidence": 0.92704296
+      }
+    ]
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "page_number": 685,
+  "ocr_output": {
+    "blocks": [
+      {
+        "block_text": "Ans : d ) പാർശ്വികം ( Lateral )",
+        "lines": [
+          "Ans : d ) പാർശ്വികം ( Lateral )"
+        ],
+        "bounding_box": [
+          {
+            "x": 15,
+            "y": 3
+          },
+          {
+            "x": 274,
+            "y": 3
+          },
+          {
+            "x": 274,
+            "y": 23
+          },
+          {
+            "x": 15,
+            "y": 23
+          }
+        ],
+        "confidence": 0.9164181
+      }
+    ]
+  }
+}

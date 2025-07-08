@@ -1,0 +1,79 @@
+{
+  "sdk_http_response": {
+    "headers": {
+      "content-type": "application/json; charset=UTF-8",
+      "vary": "Origin, X-Origin, Referer",
+      "content-encoding": "gzip",
+      "date": "Fri, 04 Jul 2025 05:13:28 GMT",
+      "server": "scaffolding on HTTPServer2",
+      "x-xss-protection": "0",
+      "x-frame-options": "SAMEORIGIN",
+      "x-content-type-options": "nosniff",
+      "server-timing": "gfet4t7; dur=47730",
+      "alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
+      "transfer-encoding": "chunked"
+    },
+    "body": null
+  },
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "കാണുന്നു. (ശതവാഹനന്മാരല്ലാത്ത നാന്യങ്ങൾ കാണുക).മൗര്യം,ആന്ധ്രം എന്ന് വിളി\nക്കാവുന്ന അനേകം സിംബലുകളാണ് ദ്രാവീഡയ തമിഴം ഉപയോഗിച്ചിരുന്നത്. നടുവിൽ\nദ്വാരമുള്ള ഒട്ടകമാല അടക്കം പഴയ ദ്രാവീഡയോ പഴയതമിഴ് നിന്ന് നഷ്ടപ്പെട്ട\nപ്രാക്സിസിൽനിന്നാണെന്നാണ്. ചാണകം,കളിമണ്ണ് എന്നിവകൊണ്ട് മറ്റു മെറ്റൽ കോലം\n(ഗോളം)വരയുന്നത് ഭക്തിയേക്കാൾ നിത്യവും, ഉണർവേകാൻ വിശേഷ ദിവസങ്ങളിലും\nഉണ്ട്. ഈ മണ്ഡലങ്ങളിലും തമിഴുവഴിയുടെ സ്വാധീനം വന്ന്. ഇപ്പോഴും ഇത്തരം\nആചാരങ്ങളെ ഏറ്റവും പഴയ തമിഴ് സംസ്കൃതിയു ടെ തുടർച്ചയായിത്തന്നെയാണ് കാ\nണുന്നത്.(പേജ് 56.)ഈ ഉപഭൂഖണ്ഡനാഗരീകൃത നാഗരികസംസ്കൃതിയെ ഉപഭൂഖ\nണ്ഡനാഗരീകൃതപ്പെടുന്നതിന് മുമ്പാണ്.കാവേരിയിൽ മണല് തുരന്നെടുത്ത് വരെ വിട്ടു\nള്ളതും. പുഴയിലും കോലം എന്ന വാസ്തുശില്പനിർമ്മാണത്തിന് വരാത്ത സുന്ദരമായ സംസ്കൃതി\nയാണ്. ബ്രഹ്മാവിന്റെ നെറ്റി, പവിത്രക്കെട്ട്, നാഗക്കെട്ട്, മണ്ഡലം,എന്നൊക്കെ വിളിക്കുന്ന\nഈ കെട്ട് 3500 ബിസിയിലെ മെസപ്പൊട്ടേമിയയിലെ ചിഹ്നവും. എല്ലാം വിരലിന്റെ മാനം\nശരീരവുമായി ഇന്ത്യയിലറിയപ്പെടുന്ന ചിഹ്നത്തിന്റെ വകഭേദങ്ങളാണ്."
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": "STOP",
+      "safety_ratings": [
+        {
+          "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HATE_SPEECH",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HARASSMENT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+          "probability": "NEGLIGIBLE"
+        }
+      ],
+      "token_count": null
+    }
+  ],
+  "create_time": null,
+  "response_id": null,
+  "model_version": "gemini-2.5-pro",
+  "prompt_feedback": null,
+  "usage_metadata": {
+    "cache_tokens_details": null,
+    "cached_content_token_count": null,
+    "candidates_token_count": 363,
+    "candidates_tokens_details": null,
+    "prompt_token_count": 738,
+    "prompt_tokens_details": [
+      {
+        "modality": "TEXT",
+        "token_count": 480
+      },
+      {
+        "modality": "IMAGE",
+        "token_count": 258
+      }
+    ],
+    "thoughts_token_count": 3957,
+    "tool_use_prompt_token_count": null,
+    "tool_use_prompt_tokens_details": null,
+    "total_token_count": 5058,
+    "traffic_type": null
+  },
+  "automatic_function_calling_history": [],
+  "parsed": null,
+  "page_number": 367
+}

@@ -1,0 +1,79 @@
+{
+  "sdk_http_response": {
+    "headers": {
+      "content-type": "application/json; charset=UTF-8",
+      "vary": "Origin, X-Origin, Referer",
+      "content-encoding": "gzip",
+      "date": "Fri, 04 Jul 2025 05:26:59 GMT",
+      "server": "scaffolding on HTTPServer2",
+      "x-xss-protection": "0",
+      "x-frame-options": "SAMEORIGIN",
+      "x-content-type-options": "nosniff",
+      "server-timing": "gfet4t7; dur=33374",
+      "alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
+      "transfer-encoding": "chunked"
+    },
+    "body": null
+  },
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "प्रसारमाध्यमानी त्यांच्या नेहमीच्या पद्धतीने विषय झोडपायचे ठरवले होते.\nदोन्ही बाजूंचे अतिरेकी मुलाखती व प्रश्न प्रतिप्रश्न तयार ठेवूनच होते. एका भयंकर तापलेल्या\nचर्चेदरम्यान एका वैज्ञानिकास सेवानिवृत्त होण्यास भाग पाडले. त्या वैज्ञानिकाने\nबटाट्यामध्ये लेक्टिन जनुक घातल्याचे व लेक्टिन उंदरावर विपरित परिणाम करीत\nअसल्याचे कबूल केले. एवढीच चूक त्याला भोवली. जनुकीय अभियांत्रिकी जेवढी सुरक्षित\nतेवढीच घातक. काहीं जनुके पर्यावरणावर विपरित परिणाम करणारी. राऊंडअप प्रतिकारक\n'रेप' (एक तेल बियाणे) इतर तणामध्ये प्रतिकार उत्पन्न करते त्यामुळे घातक. पण कीड\nप्रतिबंधक बटाट्यावर कमी कीडनाशके वापरावी लागतात. कीडनाशके वाहून नेण्यासाठी\nकमी वाहने लागल्याने इंधनाची बचत होते. जनुकीय परावर्तित पिकावर टीका करणाऱ्यांचे\nकाहीं बाबतीत असणारे अज्ञान टोकाची भूमिका घेण्यास भाग पाडते. एक जनुकीय\nपरावर्तित पीक बाजारात आणण्याआधी त्यावर हजारो चाचण्या घेऊन त्याची उपयुक्तता व\nसुरक्षितता तपासलेली असते. जनुकीय परावर्तित पिके बाजारात येण्याआधी बियाणावर\nकिरणोत्सर्गाचा मारा करून नवे बियाणे तयार होत असे. बियाण्यांच्या जनुकामध्ये कोणता\nबदल झाला आहे हे आधी कळण्याची कोणतीही सोय नसताना नवे बियाणे बाजारात येई."
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": "STOP",
+      "safety_ratings": [
+        {
+          "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HATE_SPEECH",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HARASSMENT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+          "probability": "NEGLIGIBLE"
+        }
+      ],
+      "token_count": null
+    }
+  ],
+  "create_time": null,
+  "response_id": null,
+  "model_version": "gemini-2.5-pro",
+  "prompt_feedback": null,
+  "usage_metadata": {
+    "cache_tokens_details": null,
+    "cached_content_token_count": null,
+    "candidates_token_count": 343,
+    "candidates_tokens_details": null,
+    "prompt_token_count": 714,
+    "prompt_tokens_details": [
+      {
+        "modality": "TEXT",
+        "token_count": 456
+      },
+      {
+        "modality": "IMAGE",
+        "token_count": 258
+      }
+    ],
+    "thoughts_token_count": 2844,
+    "tool_use_prompt_token_count": null,
+    "tool_use_prompt_tokens_details": null,
+    "total_token_count": 3901,
+    "traffic_type": null
+  },
+  "automatic_function_calling_history": [],
+  "parsed": null,
+  "page_number": 356
+}

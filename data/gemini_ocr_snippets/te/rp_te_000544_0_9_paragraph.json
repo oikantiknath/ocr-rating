@@ -1,0 +1,79 @@
+{
+  "sdk_http_response": {
+    "headers": {
+      "content-type": "application/json; charset=UTF-8",
+      "vary": "Origin, X-Origin, Referer",
+      "content-encoding": "gzip",
+      "date": "Fri, 04 Jul 2025 04:34:28 GMT",
+      "server": "scaffolding on HTTPServer2",
+      "x-xss-protection": "0",
+      "x-frame-options": "SAMEORIGIN",
+      "x-content-type-options": "nosniff",
+      "server-timing": "gfet4t7; dur=31559",
+      "alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
+      "transfer-encoding": "chunked"
+    },
+    "body": null
+  },
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "శతపథ బ్రాహ్మణము 1144\n(క్రీ. శ. 1222) లో శాసన ప్రచంచితమైన\nఉద్భటారాధ్యములో నొక్క పద్యములోనో\nహరిభద్రుని, కైరయభద్రుగను, పాలకురికి\nసోమనాథుని నుతించినందుటచే నీ సుప్రసిద్ధ\nగ్రంథ క్రీ. శ. 1222 కు పూర్వము 1195 ప్రాంత\nమున నుండియుండునని శ్రీ నరసింహాచార్యులు\nగారి నిర్ణయము. ఈ గ్రంథము నా కాలమున\nగూర్చి కవిచెప్పిన పద్యములో సుప్రసిద్ధమై\nయుండును, దానికి మాతృకయగు తాళపత్ర ప్రతి\nయందును “సాసిరహరార్చ్యంత నాల్గునై\nనాల్గునై” అను పాఠముగాని నరసింహా\nచార్యులుగా రుదాహరించిన “సాసిరహరార్చిం\nచిన నాల్గునై నాల్గునై” అను పాఠము\nలేదనియు, ముద్రితప్రతి దాని మాతృక ప్రతి\nలోని పాఠముతో “నార్చ్యంత” అను పదము\nనకు ముందొక గురుత్వము పొరపాటున\nలోపించిన దనియు, లేకున్న పద్యములో గణ\nభంగము కలుగుననియు, ఆ అక్షరము\n“నా” అయియుండు ననియు దానినిబట్టి\nగ్రంథరచనాకాలము “సాసిరహ నామార్చ్యంత\nనాల్గునై నాల్గునై.” అనగా శా. శకము 1444\n(1522 A-D) సంవత్సర మగుననియు, “నామా\nర్చ్యంత” అను పాఠము వ్యాకరణ దుష్టమగుటచే\nశ్రీ నరసింహాచార్యులుగారు దానిని “నార్చిం\nచిన” అని మార్చియుందురనియు శ్రీ వేంకట\nసుబ్బయ్యగారి యభిప్రాయము. కవి చరిత్రమును\nరచించునప్పుడు తమకు దొరకిన తాళపత్ర\nప్రతిలో “నార్చించిన” అను పాఠమే యున్న\nదనియు, కనవచ్చిన పాఠములో తామెట్టి\nమార్పు చేయలేదనియు, అట్లు మార్చవలసిన\nయవసరము తమకు లేదనియు శ్రీ నరసింహా"
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": "STOP",
+      "safety_ratings": [
+        {
+          "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HATE_SPEECH",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HARASSMENT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+          "probability": "NEGLIGIBLE"
+        }
+      ],
+      "token_count": null
+    }
+  ],
+  "create_time": null,
+  "response_id": null,
+  "model_version": "gemini-2.5-pro",
+  "prompt_feedback": null,
+  "usage_metadata": {
+    "cache_tokens_details": null,
+    "cached_content_token_count": null,
+    "candidates_token_count": 546,
+    "candidates_tokens_details": null,
+    "prompt_token_count": 715,
+    "prompt_tokens_details": [
+      {
+        "modality": "TEXT",
+        "token_count": 457
+      },
+      {
+        "modality": "IMAGE",
+        "token_count": 258
+      }
+    ],
+    "thoughts_token_count": 2214,
+    "tool_use_prompt_token_count": null,
+    "tool_use_prompt_tokens_details": null,
+    "total_token_count": 3475,
+    "traffic_type": null
+  },
+  "automatic_function_calling_history": [],
+  "parsed": null,
+  "page_number": 268
+}

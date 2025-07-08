@@ -1,0 +1,32 @@
+{
+  "page_number": 144,
+  "ocr_output": {
+    "blocks": [
+      {
+        "block_text": "SCIENCE AND TECHNOLOGY - 1 QUESTION PAPER WITH ANSWERS",
+        "lines": [
+          "SCIENCE AND TECHNOLOGY - 1 QUESTION PAPER WITH ANSWERS"
+        ],
+        "bounding_box": [
+          {
+            "x": 7,
+            "y": 5
+          },
+          {
+            "x": 157,
+            "y": 5
+          },
+          {
+            "x": 157,
+            "y": 24
+          },
+          {
+            "x": 7,
+            "y": 24
+          }
+        ],
+        "confidence": 0.9818135
+      }
+    ]
+  }
+}

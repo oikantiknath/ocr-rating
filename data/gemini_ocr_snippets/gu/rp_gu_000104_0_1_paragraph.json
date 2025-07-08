@@ -1,0 +1,79 @@
+{
+  "sdk_http_response": {
+    "headers": {
+      "content-type": "application/json; charset=UTF-8",
+      "vary": "Origin, X-Origin, Referer",
+      "content-encoding": "gzip",
+      "date": "Fri, 04 Jul 2025 05:38:40 GMT",
+      "server": "scaffolding on HTTPServer2",
+      "x-xss-protection": "0",
+      "x-frame-options": "SAMEORIGIN",
+      "x-content-type-options": "nosniff",
+      "server-timing": "gfet4t7; dur=33405",
+      "alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
+      "transfer-encoding": "chunked"
+    },
+    "body": null
+  },
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "આ નવલકથામાં અમીર, તેની નાની બહેન, અઝીમાં, ગણેશા, ઈસ્માઈલ, મરિયમ, ફાતિમા\nડોશી, જોહરા, વિલિયમ સ્વીમન, શિરીન, ગુલબદન, અફલો, સ્વીમનની પત્ની એમિલી, યુસુફ,\nશંભુસિંહ, દેવીસિંહ, શબ્બીખાન, ગફુરખાં, રામદીન, ઉસ્માન, ચિત્તુ પિંઢારો, બટ્ટુનાથ, મોતીરામ,\nમુનશી, પીરખાં, રોશન વગેરે જેવા અઢળક પાત્રોનો અહીં સમાવેશ થયેલો છે. જેમાં અમીરને મુખ્ય\nનાયક તરીકેનું પાત્ર કહી શકાય. અમીરના જીવનની આસપાસ અઢળક ઘટનાઓનું આલેખન કરી\nકથાને ઓપ આપવામાં આવ્યો છે. અમીરના જીવનની મુખ્ય ઘટના પ્રથમ ખંડમાં, ચારેક વર્ષની ઉંમરે\nજ એના પઠાણ માતા-પિતાથી છૂટો પાડી દેવાયો. નાનું બાળક હંમેશા નિર્દોષ હોય છે. એના\nસ્વભાવમાં કપટ, ઈર્ષ્યા, ખુન્નસ આદિ દુર્ગુણો હોતા નથી. પરંતુ સગા મા-બાપનો સાથ છોડી તે\nઈસ્માઈલને બાપ માની મોટો થાય છે. જ્યાં સુધી તે તેના બાપના ધંધામાં જોડાતો નથી ત્યાં સુધી તે\nયોગ્ય અને સંસ્કારી પુરવાર થાય છે. જે ગુલુ પ્રત્યેની લાગણી, શિરીનને બચાવતી ઘટના વગેરે પ્રસંગો"
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": "STOP",
+      "safety_ratings": [
+        {
+          "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+          "probability": "MEDIUM"
+        },
+        {
+          "category": "HARM_CATEGORY_HATE_SPEECH",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HARASSMENT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+          "probability": "NEGLIGIBLE"
+        }
+      ],
+      "token_count": null
+    }
+  ],
+  "create_time": null,
+  "response_id": null,
+  "model_version": "gemini-2.5-pro",
+  "prompt_feedback": null,
+  "usage_metadata": {
+    "cache_tokens_details": null,
+    "cached_content_token_count": null,
+    "candidates_token_count": 388,
+    "candidates_tokens_details": null,
+    "prompt_token_count": 758,
+    "prompt_tokens_details": [
+      {
+        "modality": "TEXT",
+        "token_count": 500
+      },
+      {
+        "modality": "IMAGE",
+        "token_count": 258
+      }
+    ],
+    "thoughts_token_count": 2850,
+    "tool_use_prompt_token_count": null,
+    "tool_use_prompt_tokens_details": null,
+    "total_token_count": 3996,
+    "traffic_type": null
+  },
+  "automatic_function_calling_history": [],
+  "parsed": null,
+  "page_number": 267
+}

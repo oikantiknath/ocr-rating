@@ -1,0 +1,82 @@
+{
+  "page_number": 27,
+  "ocr_output": {
+    "blocks": [
+      {
+        "block_text": "Carda",
+        "lines": [
+          "Carda"
+        ],
+        "bounding_box": [
+          {
+            "x": 127,
+            "y": 7
+          },
+          {
+            "x": 174,
+            "y": 7
+          },
+          {
+            "x": 174,
+            "y": 15
+          },
+          {
+            "x": 127,
+            "y": 15
+          }
+        ],
+        "confidence": 0.47661695
+      },
+      {
+        "block_text": "and a pos",
+        "lines": [
+          "and a pos"
+        ],
+        "bounding_box": [
+          {
+            "x": 13,
+            "y": 13
+          },
+          {
+            "x": 159,
+            "y": 18
+          },
+          {
+            "x": 158,
+            "y": 31
+          },
+          {
+            "x": 13,
+            "y": 26
+          }
+        ],
+        "confidence": 0.39720017
+      },
+      {
+        "block_text": "delas alons .",
+        "lines": [
+          "delas alons ."
+        ],
+        "bounding_box": [
+          {
+            "x": 5,
+            "y": 30
+          },
+          {
+            "x": 73,
+            "y": 33
+          },
+          {
+            "x": 72,
+            "y": 44
+          },
+          {
+            "x": 4,
+            "y": 41
+          }
+        ],
+        "confidence": 0.502728
+      }
+    ]
+  }
+}

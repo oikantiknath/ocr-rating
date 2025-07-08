@@ -1,0 +1,79 @@
+{
+  "sdk_http_response": {
+    "headers": {
+      "content-type": "application/json; charset=UTF-8",
+      "vary": "Origin, X-Origin, Referer",
+      "content-encoding": "gzip",
+      "date": "Fri, 04 Jul 2025 03:59:07 GMT",
+      "server": "scaffolding on HTTPServer2",
+      "x-xss-protection": "0",
+      "x-frame-options": "SAMEORIGIN",
+      "x-content-type-options": "nosniff",
+      "server-timing": "gfet4t7; dur=29904",
+      "alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
+      "transfer-encoding": "chunked"
+    },
+    "body": null
+  },
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "ମାତାଜୀ ! ଆପଣ ତ ଏହାକୁ ଗୋଟିନେଇ ବେଶୀ ମୂର୍ତ୍ତି ମାତ୍ର ଦିଅନ୍ତେ ।\nତାପରେ ତ ଏହା ଶୁଖି ଦଶଦିନକୁ ଠିକ୍ । କିନ୍ତୁ ଏହି ଫୁଲ ଯଦି ଏପିରି\nବେଳେ ବେମାରେ ଏପରି ପରିତକ୍ତ ହେବେ, ମନେକଲେ ଏବଂ ତାଙ୍କ ମସ୍ତିଷ୍କ\nନୂତନ ରସ ଓ ଫୁଲର ସୃଷ୍ଟି ହେବ । ଆପଣଙ୍କ ଭଳି ଆଗ୍ରହୀ ଶହଶହ ଯାତ୍ରୀ\nଯଦି ଏପରି ବ୍ୟବହାର କରିବେ ତେବେ ଦିନ ଆସିବ ଏଠି ଗୋଟିଏ ବି ଫୁଲ\nଫୁଟିବ ନାହିଁ । ଆମେ ଏହି ପ୍ରକୃତି, ପାହାଡ଼କୁ ପୂଜା କରୁ । ଏହା ଆମର\nଦରକାର । ତେଣୁ ଏହି ସ୍ଥାନର ପବିତ୍ରତା ଓ ସୁନ୍ଦରତା ନଷ୍ଟ କରିବା ଆମ\nସମସ୍ତଙ୍କର କର୍ତ୍ତବ୍ୟ । ସେଦିନ ମୋର ମଧ୍ୟ ଏହି ପ୍ରକୃତିପ୍ରେମୀ ମଣିଷ ଦୁଇଟିଙ୍କ\nଆଗରେ ମୁଣ୍ଡ ନଇଁ ଯାଇଥିଲା ।"
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": "STOP",
+      "safety_ratings": [
+        {
+          "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HATE_SPEECH",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HARASSMENT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+          "probability": "NEGLIGIBLE"
+        }
+      ],
+      "token_count": null
+    }
+  ],
+  "create_time": null,
+  "response_id": null,
+  "model_version": "gemini-2.5-pro",
+  "prompt_feedback": null,
+  "usage_metadata": {
+    "cache_tokens_details": null,
+    "cached_content_token_count": null,
+    "candidates_token_count": 336,
+    "candidates_tokens_details": null,
+    "prompt_token_count": 782,
+    "prompt_tokens_details": [
+      {
+        "modality": "TEXT",
+        "token_count": 524
+      },
+      {
+        "modality": "IMAGE",
+        "token_count": 258
+      }
+    ],
+    "thoughts_token_count": 2313,
+    "tool_use_prompt_token_count": null,
+    "tool_use_prompt_tokens_details": null,
+    "total_token_count": 3431,
+    "traffic_type": null
+  },
+  "automatic_function_calling_history": [],
+  "parsed": null,
+  "page_number": 69
+}

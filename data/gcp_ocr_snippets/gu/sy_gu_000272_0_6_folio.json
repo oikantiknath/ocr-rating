@@ -1,0 +1,32 @@
+{
+  "page_number": 272,
+  "ocr_output": {
+    "blocks": [
+      {
+        "block_text": "Total Marks : 70",
+        "lines": [
+          "Total Marks : 70"
+        ],
+        "bounding_box": [
+          {
+            "x": 1,
+            "y": 15
+          },
+          {
+            "x": 197,
+            "y": 15
+          },
+          {
+            "x": 197,
+            "y": 35
+          },
+          {
+            "x": 1,
+            "y": 35
+          }
+        ],
+        "confidence": 0.9731445
+      }
+    ]
+  }
+}

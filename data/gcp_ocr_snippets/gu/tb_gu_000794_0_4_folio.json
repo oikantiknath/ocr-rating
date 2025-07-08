@@ -1,0 +1,31 @@
+{
+  "page_number": 794,
+  "ocr_output": {
+    "blocks": [
+      {
+        "block_text": "કવ",
+        "lines": [
+          "કવ"
+        ],
+        "bounding_box": [
+          {
+            "x": 10,
+            "y": 1
+          },
+          {
+            "x": 54
+          },
+          {
+            "x": 56,
+            "y": 41
+          },
+          {
+            "x": 12,
+            "y": 42
+          }
+        ],
+        "confidence": 1
+      }
+    ]
+  }
+}

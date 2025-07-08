@@ -1,0 +1,31 @@
+{
+  "page_number": 753,
+  "ocr_output": {
+    "blocks": [
+      {
+        "block_text": "\" It is Swedenborg's theory , that every organ is made up of homogeneous particles ; or , as it is sometimes expressed , every whole is made of similars , that is , the lungs are composed of infinitely small lungs , the liver , of infinitely small livers ; the kidney , of little kidneys , & c . Following this ana- logy if any man is found to carry with him the power and affecti- ons of vast numbers , if Napoleon is France , if Napoleon ig Europe , it is because the poeple whom",
+        "lines": [
+          "\" It is Swedenborg's theory , that every organ is made up of homogeneous particles ; or , as it is sometimes expressed , every whole is made of similars , that is , the lungs are composed of infinitely small lungs , the liver , of infinitely small livers ; the kidney , of little kidneys , & c . Following this ana- logy if any man is found to carry with him the power and affecti- ons of vast numbers , if Napoleon is France , if Napoleon ig Europe , it is because the poeple whom"
+        ],
+        "bounding_box": [
+          {
+            "y": 7
+          },
+          {
+            "x": 412,
+            "y": 1
+          },
+          {
+            "x": 414,
+            "y": 453
+          },
+          {
+            "x": 5,
+            "y": 459
+          }
+        ],
+        "confidence": 0.97692263
+      }
+    ]
+  }
+}

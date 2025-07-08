@@ -1,0 +1,32 @@
+{
+  "page_number": 499,
+  "ocr_output": {
+    "blocks": [
+      {
+        "block_text": "નેપાળ",
+        "lines": [
+          "નેપાળ"
+        ],
+        "bounding_box": [
+          {
+            "x": 9,
+            "y": 3
+          },
+          {
+            "x": 51,
+            "y": 3
+          },
+          {
+            "x": 51,
+            "y": 24
+          },
+          {
+            "x": 9,
+            "y": 24
+          }
+        ],
+        "confidence": 1
+      }
+    ]
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "sdk_http_response": {
+    "headers": {
+      "content-type": "application/json; charset=UTF-8",
+      "vary": "Origin, X-Origin, Referer",
+      "content-encoding": "gzip",
+      "date": "Fri, 04 Jul 2025 05:03:50 GMT",
+      "server": "scaffolding on HTTPServer2",
+      "x-xss-protection": "0",
+      "x-frame-options": "SAMEORIGIN",
+      "x-content-type-options": "nosniff",
+      "server-timing": "gfet4t7; dur=38543",
+      "alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
+      "transfer-encoding": "chunked"
+    },
+    "body": null
+  },
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "കേരളത്തിലെ മറ്റു പിന്നോക്ക / മതന്യൂനപക്ഷ വിഭാഗങ്ങളെ സാമ്പത്തികമായി പിന്നോക്കം\nനിൽക്കുന്നവരുടെ സാമൂഹിക സാമ്പത്തിക വിദ്യാഭ്യാസ ഉന്നമനം ലക്ഷ്യം വെച്ചുകൊണ്ട് 1995 ൽ കേരള\nസർക്കാർ ഉടമസ്ഥതയിൽ രൂപീകൃതമായ സ്ഥാപനമാണ് കേരള സംസ്ഥാന പിന്നോക്ക വിഭാഗ\nവികസന കോർപ്പറേഷൻ (KSBCDC) വളരെ കുറഞ്ഞ പലിശ നിരക്കിലും ലളിതമായ വ്യവസ്ഥയിലും\nനടപ്പിലാക്കിവരുന്ന വൈവിധ്യമാർന്ന വായ്പാ പദ്ധതികളാണ് കോർപ്പറേഷന്റെ പ്രധാന സവിശേഷത.\nദേശീയ പിന്നോക്ക വിഭാഗ ധനകാര്യ വികസന കോർപ്പറേഷൻ (NBCFDC), ദേശീയ ന്യൂനപക്ഷ\nധനകാര്യ വികസന കോർപ്പറേഷൻ (NMDFC), ദേശീയ സഫായി കർമ്മചാരീസ് ധനകാര്യ വികസന\nകോർപ്പറേഷൻ (NSKFDC) എന്നീ ദേശീയ ഏജൻസികളുടെ വായ്പാ പദ്ധതികളുടെ കേരളത്തിലെ\nനിർവ്വഹണ ഏജൻസിയായി കെ.എസ്.ബി.സി.ഡി.സി. ഈ ഏജൻസികളുടെ സ്വയം തൊഴിൽ/വി\nദ്യാഭ്യാസം/കൈത്തൊഴിൽ ട്രെയിനിംഗ് വായ്പാ പദ്ധതികൾ കെ.എസ്.ബി.സി.ഡി.സി. നടപ്പിലാക്കിവരുന്നു.\nഇതിനു പുറമേ പെൺകുട്ടികളുടെ വിവാഹം, ഗൃഹനിർമ്മാണം, ഗൃഹപുനരുദ്ധാരണം തുടങ്ങി വിവിധ\nആവശ്യങ്ങൾക്ക് ഉതകുന്ന ഒട്ടേറെ വായ്പാ പദ്ധതികളും കെ.എസ്.ബി.സി.ഡി.സി. നടപ്പിലാക്കി\nവരുന്നു. വായ്പാ വിതരണം, തിരിച്ചടവ്, ഗുണഭോക്തൃ സേവനം എന്നീ മേഖലകളിൽ പ്രവർത്തനം\nമികവിന് നിരവധി ദേശീയ പുരസ്കാരങ്ങളും ലഭിച്ചിട്ടുണ്ട്. വായ്പാ പദ്ധതികൾക്ക് പുറമേ തൊഴിൽ\nപരിശീലനം, വിപണനമേളകൾ (BCDC EXPO) തുടങ്ങിയ മേഖലാ പ്രവർത്തനങ്ങളും\nകോർപ്പറേഷൻ നടത്തി വരുന്നു. കെ.എസ്.ബി.സി.ഡി.സി. നടപ്പിലാക്കുന്ന വിവിധ വായ്പാ\nപദ്ധതികളുടെ വിശദാംശങ്ങൾ ഇതിൽ ഉൾക്കൊള്ളിച്ചിരിക്കുന്നു."
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": "STOP",
+      "safety_ratings": [
+        {
+          "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HATE_SPEECH",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HARASSMENT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+          "probability": "NEGLIGIBLE"
+        }
+      ],
+      "token_count": null
+    }
+  ],
+  "create_time": null,
+  "response_id": null,
+  "model_version": "gemini-2.5-pro",
+  "prompt_feedback": null,
+  "usage_metadata": {
+    "cache_tokens_details": null,
+    "cached_content_token_count": null,
+    "candidates_token_count": 475,
+    "candidates_tokens_details": null,
+    "prompt_token_count": 738,
+    "prompt_tokens_details": [
+      {
+        "modality": "TEXT",
+        "token_count": 480
+      },
+      {
+        "modality": "IMAGE",
+        "token_count": 258
+      }
+    ],
+    "thoughts_token_count": 3108,
+    "tool_use_prompt_token_count": null,
+    "tool_use_prompt_tokens_details": null,
+    "total_token_count": 4321,
+    "traffic_type": null
+  },
+  "automatic_function_calling_history": [],
+  "parsed": null,
+  "page_number": 15
+}

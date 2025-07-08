@@ -1,0 +1,79 @@
+{
+  "sdk_http_response": {
+    "headers": {
+      "content-type": "application/json; charset=UTF-8",
+      "vary": "Origin, X-Origin, Referer",
+      "content-encoding": "gzip",
+      "date": "Fri, 04 Jul 2025 05:03:45 GMT",
+      "server": "scaffolding on HTTPServer2",
+      "x-xss-protection": "0",
+      "x-frame-options": "SAMEORIGIN",
+      "x-content-type-options": "nosniff",
+      "server-timing": "gfet4t7; dur=24268",
+      "alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
+      "transfer-encoding": "chunked"
+    },
+    "body": null
+  },
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "1. മെച്യൂരിറ്റി ബെനിഫിറ്റ് (ലമ്പ്സം) : മെച്യൂരിറ്റി തീയതിയിൽ ശ്രീ. ജെയിൻറെ മെച്യൂരിറ്റി ബെനിഫിറ്റ് അനുമാനിക നിക്ഷേപ വരുമാനത്തിന്റെ\nഅടിസ്ഥാനത്തിൽ താഴെ കൊടുത്തിരിക്കുന്നു.\nവാർഷിക പ്രീമിയം : 20 വർഷത്തേക്ക് ₹ 15,00,000\nഅനുമാനിക നിക്ഷേപ പ്രകാരമുള്ള\nക്യുമുലേറ്റീവ് ഫണ്ട് വാല്യു**:\n@4% ₹4,19,57,263\n@8% ₹6,57,50,750\nPY 0\nPY 20\n2. ഡെത്ത് ബെനിഫിറ്റ് (ലമ്പ്സം) : 10-ാം പോളിസി വർഷത്തിൽ നിർഭാഗ്യവശാൽ ശ്രീ. ജെയിൻ മരിക്കുകയാണെങ്കിൽ, ഡെത്ത് ബെനിഫിറ്റ് അനുമാനിക\nനിക്ഷേപ വരുമാനം അനുസരിച്ച് താഴെയുള്ള പട്ടികയിൽ കൊടുത്തിരിക്കും പ്രകാരമായിരിക്കും:\nഅനുമാനിക നിക്ഷേപ\nപ്രകാരമുള്ള ഡെത്ത് ബെനിഫിറ്റ്**:\n@4% ₹1,72,91,031\n@8% ₹2,15,28,303\nവാർഷിക പ്രീമിയം : 10 വർഷത്തേക്ക് ₹ 15,00,000\nPY 0\nPY 20"
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": "STOP",
+      "safety_ratings": [
+        {
+          "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HATE_SPEECH",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HARASSMENT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+          "probability": "NEGLIGIBLE"
+        }
+      ],
+      "token_count": null
+    }
+  ],
+  "create_time": null,
+  "response_id": null,
+  "model_version": "gemini-2.5-pro",
+  "prompt_feedback": null,
+  "usage_metadata": {
+    "cache_tokens_details": null,
+    "cached_content_token_count": null,
+    "candidates_token_count": 315,
+    "candidates_tokens_details": null,
+    "prompt_token_count": 740,
+    "prompt_tokens_details": [
+      {
+        "modality": "TEXT",
+        "token_count": 482
+      },
+      {
+        "modality": "IMAGE",
+        "token_count": 258
+      }
+    ],
+    "thoughts_token_count": 1904,
+    "tool_use_prompt_token_count": null,
+    "tool_use_prompt_tokens_details": null,
+    "total_token_count": 2959,
+    "traffic_type": null
+  },
+  "automatic_function_calling_history": [],
+  "parsed": null,
+  "page_number": 35
+}

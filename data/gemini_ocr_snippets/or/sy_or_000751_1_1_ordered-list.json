@@ -1,0 +1,79 @@
+{
+  "sdk_http_response": {
+    "headers": {
+      "content-type": "application/json; charset=UTF-8",
+      "vary": "Origin, X-Origin, Referer",
+      "content-encoding": "gzip",
+      "date": "Fri, 04 Jul 2025 04:05:17 GMT",
+      "server": "scaffolding on HTTPServer2",
+      "x-xss-protection": "0",
+      "x-frame-options": "SAMEORIGIN",
+      "x-content-type-options": "nosniff",
+      "server-timing": "gfet4t7; dur=48901",
+      "alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
+      "transfer-encoding": "chunked"
+    },
+    "body": null
+  },
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "୨୧. ପ୍ରୟୋଜିତ ଓଡ଼ିଆ ଭାଷା- ସାହିତ୍ୟ ଶିକ୍ଷଣ\n୨୨. ସାମଗ୍ରିକ ବ୍ୟବହାରିକ ବ୍ୟାକରଣ- ପ୍ରକଳ୍ପଭିତ୍ତିକ ପ୍ରୟୋଗ\n୨୩. ପ୍ରବନ୍ଧ ଓଡ଼ିଆ ଭାଷାର ବ୍ୟାକରଣ- ବିଭିନ୍ନ ପ୍ରସଙ୍ଗ ସମ୍ବନ୍ଧୀୟ\n୨୪. ଓଡ଼ିଶାର ପର୍ବପର୍ବାଣି- ପ୍ରବେଶିକା ସ୍ତରୀୟ\n୨୫. ଲୋକସାହିତ୍ୟ ଓ ଲୋକସଂସ୍କୃତି- ପରିଚୟ ଶିକ୍ଷଣ\n୨୬. ଲୋକସାହିତ୍ୟ ଓ ଲୋକସଂସ୍କୃତି- ପ୍ରବେଶ ସ୍ତର\n୨୭. ଗଣମାଧ୍ୟମ ଲୋକସାହିତ୍ୟ ଓ ଲୋକସଂସ୍କୃତି- ମଧ୍ୟମିକ ପାଠ୍ୟକ୍ରମ\n୨୮. ଗଣମାଧ୍ୟମ ଲୋକସଂସ୍କୃତି ଓ ଶ୍ରୀଜଗନ୍ନାଥ- ଦୃଶ୍ୟ ଶ୍ରାବ୍ୟ\n୨୯. ଓଡ଼ିଶାର ଲୋକସଂସ୍କୃତି- ଓଡ଼ିଆ ଜନଜୀବନ ସୋପାନ\n୩୦. ଓଡ଼ିଆ ସାହିତ୍ୟର ସଂକ୍ଷିପ୍ତ ଇତିହାସ- ବିକାଶର ସ୍ତର\n୩୧. ଲୋକଧାରା, ଲୋକସଂସ୍କୃତି ଓ ଲୋକସାହିତ୍ୟ- ତୁଳନାତ୍ମକ ପାଠ୍ୟକ୍ରମ\n୩୨. ଲୋକସଂସ୍କୃତି: ବିକାଶ ଓ ପ୍ରୟୋଗ- ମଧ୍ୟମ ସ୍ତରୀୟ ଶିକ୍ଷଣ\n୩୩. ଓଡ଼ିଶାର ସାଂସ୍କୃତିକ ପରମ୍ପରା- ପ୍ରବେଶିକା ସ୍ତରୀୟ\n୩୪. ଓଡ଼ିଶାର ଦେବଦେବୀ- ପ୍ରବେଶିକା ସ୍ତରୀୟ\n୩୫. ଓଡ଼ିଆ ନାଟ ସାହିତ୍ୟ: ପରମ୍ପରା ଓ ପ୍ରୟୋଗ- ପ୍ରବେଶ ସ୍ତର\n୩୬. ଓଡ଼ିଆ କାବ୍ୟ କବିତା- ପ୍ରବୀଣ ପରୀକ୍ଷା\n୩୭. ସଂସ୍କାର ସାଧାରଣଜ୍ଞାନ- ସେବାମୂଳକ ପାଠ"
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": "STOP",
+      "safety_ratings": [
+        {
+          "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HATE_SPEECH",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HARASSMENT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+          "probability": "NEGLIGIBLE"
+        }
+      ],
+      "token_count": null
+    }
+  ],
+  "create_time": null,
+  "response_id": null,
+  "model_version": "gemini-2.5-pro",
+  "prompt_feedback": null,
+  "usage_metadata": {
+    "cache_tokens_details": null,
+    "cached_content_token_count": null,
+    "candidates_token_count": 611,
+    "candidates_tokens_details": null,
+    "prompt_token_count": 785,
+    "prompt_tokens_details": [
+      {
+        "modality": "TEXT",
+        "token_count": 527
+      },
+      {
+        "modality": "IMAGE",
+        "token_count": 258
+      }
+    ],
+    "thoughts_token_count": 4459,
+    "tool_use_prompt_token_count": null,
+    "tool_use_prompt_tokens_details": null,
+    "total_token_count": 5855,
+    "traffic_type": null
+  },
+  "automatic_function_calling_history": [],
+  "parsed": null,
+  "page_number": 332
+}

@@ -1,0 +1,32 @@
+{
+  "page_number": 247,
+  "ocr_output": {
+    "blocks": [
+      {
+        "block_text": "JSW ଗୃପ୍",
+        "lines": [
+          "JSW ଗୃପ୍"
+        ],
+        "bounding_box": [
+          {
+            "x": 4,
+            "y": 2
+          },
+          {
+            "x": 135,
+            "y": 11
+          },
+          {
+            "x": 132,
+            "y": 47
+          },
+          {
+            "x": 1,
+            "y": 38
+          }
+        ],
+        "confidence": 0.97883815
+      }
+    ]
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "sdk_http_response": {
+    "headers": {
+      "content-type": "application/json; charset=UTF-8",
+      "vary": "Origin, X-Origin, Referer",
+      "content-encoding": "gzip",
+      "date": "Fri, 04 Jul 2025 04:15:53 GMT",
+      "server": "scaffolding on HTTPServer2",
+      "x-xss-protection": "0",
+      "x-frame-options": "SAMEORIGIN",
+      "x-content-type-options": "nosniff",
+      "server-timing": "gfet4t7; dur=42231",
+      "alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
+      "transfer-encoding": "chunked"
+    },
+    "body": null
+  },
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "பெயர் நீக்கம், முகவரி மாற்றம், கைபேசி\nஎண் பதிவு / மாற்றம் செய்தல் உள்ளிட்ட\nபொது விநியோகத் திட்டம் தொடர்பான\nசேவைகள் மேற்கொள்ளப்படும்.\nமேலும், நியாய விலைக் கடைகளில்\nஅத்தியாவசியப் பொருட்கள் பெற நேரில்\nவருகை தர இயலாத மூத்த குடிமக்கள்\nஉள்ளிட்டோருக்கு அங்கீகாரச் சான்று\n(Authorization) வழங்கப்படும். மேலும்,\nபொது விநியோகக் கடைகளின்\nசெயல்பாடுகள், தனியார் சந்தையில்\nவிற்கப்படும் பொருட்கள் அல்லது\nசேவைகளில் குறைபாடுகள் குறித்த\nபுகார்கள் ஏதேனும் இருப்பின் அவற்றை\nபொதுமக்கள் இம்முகாமில் தெரிவித்தால்\nகுறைகளை விரைந்து தீர்வு செய்ய உரிய\nநடவடிக்கை மேற்கொள்ளப்படும்."
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": "STOP",
+      "safety_ratings": [
+        {
+          "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HATE_SPEECH",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HARASSMENT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+          "probability": "NEGLIGIBLE"
+        }
+      ],
+      "token_count": null
+    }
+  ],
+  "create_time": null,
+  "response_id": null,
+  "model_version": "gemini-2.5-pro",
+  "prompt_feedback": null,
+  "usage_metadata": {
+    "cache_tokens_details": null,
+    "cached_content_token_count": null,
+    "candidates_token_count": 155,
+    "candidates_tokens_details": null,
+    "prompt_token_count": 754,
+    "prompt_tokens_details": [
+      {
+        "modality": "TEXT",
+        "token_count": 496
+      },
+      {
+        "modality": "IMAGE",
+        "token_count": 258
+      }
+    ],
+    "thoughts_token_count": 4336,
+    "tool_use_prompt_token_count": null,
+    "tool_use_prompt_tokens_details": null,
+    "total_token_count": 5245,
+    "traffic_type": null
+  },
+  "automatic_function_calling_history": [],
+  "parsed": null,
+  "page_number": 25
+}

@@ -1,0 +1,57 @@
+{
+  "page_number": 360,
+  "ocr_output": {
+    "blocks": [
+      {
+        "block_text": "CARDIOVASCULAR DISEASE ( CVD )",
+        "lines": [
+          "CARDIOVASCULAR DISEASE ( CVD )"
+        ],
+        "bounding_box": [
+          {
+            "x": 23,
+            "y": 14
+          },
+          {
+            "x": 588,
+            "y": 14
+          },
+          {
+            "x": 588,
+            "y": 41
+          },
+          {
+            "x": 23,
+            "y": 41
+          }
+        ],
+        "confidence": 0.9763698
+      },
+      {
+        "block_text": "a group of conditions that affect the heart and blood vessels",
+        "lines": [
+          "a group of conditions that affect the heart and blood vessels"
+        ],
+        "bounding_box": [
+          {
+            "x": 23,
+            "y": 67
+          },
+          {
+            "x": 590,
+            "y": 67
+          },
+          {
+            "x": 590,
+            "y": 82
+          },
+          {
+            "x": 23,
+            "y": 82
+          }
+        ],
+        "confidence": 0.9825713
+      }
+    ]
+  }
+}

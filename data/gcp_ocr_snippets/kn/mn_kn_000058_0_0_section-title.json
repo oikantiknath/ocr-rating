@@ -1,0 +1,57 @@
+{
+  "page_number": 58,
+  "ocr_output": {
+    "blocks": [
+      {
+        "block_text": "COVID - 19 VACCINATION : 2021",
+        "lines": [
+          "COVID - 19 VACCINATION : 2021"
+        ],
+        "bounding_box": [
+          {
+            "x": 165,
+            "y": 25
+          },
+          {
+            "x": 377,
+            "y": 25
+          },
+          {
+            "x": 377,
+            "y": 43
+          },
+          {
+            "x": 165,
+            "y": 43
+          }
+        ],
+        "confidence": 0.9834553
+      },
+      {
+        "block_text": "READINESS ASSESSMENT FOR COVID - 19 VACCINATION - DISTRICT LEVEL",
+        "lines": [
+          "READINESS ASSESSMENT FOR COVID - 19 VACCINATION - DISTRICT LEVEL"
+        ],
+        "bounding_box": [
+          {
+            "x": 20,
+            "y": 53
+          },
+          {
+            "x": 525,
+            "y": 53
+          },
+          {
+            "x": 525,
+            "y": 72
+          },
+          {
+            "x": 20,
+            "y": 72
+          }
+        ],
+        "confidence": 0.9818222
+      }
+    ]
+  }
+}

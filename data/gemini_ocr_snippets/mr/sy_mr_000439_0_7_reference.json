@@ -1,0 +1,79 @@
+{
+  "sdk_http_response": {
+    "headers": {
+      "content-type": "application/json; charset=UTF-8",
+      "vary": "Origin, X-Origin, Referer",
+      "content-encoding": "gzip",
+      "date": "Fri, 04 Jul 2025 05:26:05 GMT",
+      "server": "scaffolding on HTTPServer2",
+      "x-xss-protection": "0",
+      "x-frame-options": "SAMEORIGIN",
+      "x-content-type-options": "nosniff",
+      "server-timing": "gfet4t7; dur=27763",
+      "alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
+      "transfer-encoding": "chunked"
+    },
+    "body": null
+  },
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "1. Brown, Percy, Indian Architecture (Islamic period ), Vol. 2, Bombay, 1964.\n2. Brown, Percy, ‘Monuments of the Mughul Period’, Cambridge History of India, Vol.\n3. IV,Cambridge, 1937.\n4. Brown, Percy, Indian Painting under the Mughals, A.D. 1550-1750, Oxford, 1924.\n5. Barett, D. & Gray, B., Paintings of India, Lausanne, 1963.\n6. Fergusson, J., History of Indian and Eastern Architecture, Revised by J. Burgess\n7. Ashraf K.M. Life and condition of the People of Hindustan, 1200-1500\n9. Basham A.L., The Illustrated Cultural History of India, OUP,\n10. Batra M.L., Conservation, Preservation and Restoration of Monuments, New Delhi\n11. Bhoumik S.K. Heritage Management: care, understanding and Appreciation of\nCultural Heritage\n12. Brown Percy, Indian Architecture (Islamic Period)\n13. Deshpande M.N. Care of Cultural Heritage, New Delhi\n14. Grover, Satish, The Architecture of India\n15. Ghoshmaulik, S.K. and K.K. Bass, Understanding Heritage, Role of Museum"
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": "STOP",
+      "safety_ratings": [
+        {
+          "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HATE_SPEECH",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HARASSMENT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+          "probability": "NEGLIGIBLE"
+        }
+      ],
+      "token_count": null
+    }
+  ],
+  "create_time": null,
+  "response_id": null,
+  "model_version": "gemini-2.5-pro",
+  "prompt_feedback": null,
+  "usage_metadata": {
+    "cache_tokens_details": null,
+    "cached_content_token_count": null,
+    "candidates_token_count": 301,
+    "candidates_tokens_details": null,
+    "prompt_token_count": 715,
+    "prompt_tokens_details": [
+      {
+        "modality": "TEXT",
+        "token_count": 457
+      },
+      {
+        "modality": "IMAGE",
+        "token_count": 258
+      }
+    ],
+    "thoughts_token_count": 2034,
+    "tool_use_prompt_token_count": null,
+    "tool_use_prompt_tokens_details": null,
+    "total_token_count": 3050,
+    "traffic_type": null
+  },
+  "automatic_function_calling_history": [],
+  "parsed": null,
+  "page_number": 299
+}

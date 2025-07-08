@@ -1,0 +1,32 @@
+{
+  "page_number": 392,
+  "ocr_output": {
+    "blocks": [
+      {
+        "block_text": "CHIKUPIKU Fun & Learning",
+        "lines": [
+          "CHIKUPIKU Fun & Learning"
+        ],
+        "bounding_box": [
+          {
+            "x": 4,
+            "y": 3
+          },
+          {
+            "x": 125,
+            "y": 4
+          },
+          {
+            "x": 125,
+            "y": 14
+          },
+          {
+            "x": 4,
+            "y": 13
+          }
+        ],
+        "confidence": 0.9378521
+      }
+    ]
+  }
+}

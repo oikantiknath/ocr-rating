@@ -1,0 +1,79 @@
+{
+  "sdk_http_response": {
+    "headers": {
+      "content-type": "application/json; charset=UTF-8",
+      "vary": "Origin, X-Origin, Referer",
+      "content-encoding": "gzip",
+      "date": "Fri, 04 Jul 2025 05:09:54 GMT",
+      "server": "scaffolding on HTTPServer2",
+      "x-xss-protection": "0",
+      "x-frame-options": "SAMEORIGIN",
+      "x-content-type-options": "nosniff",
+      "server-timing": "gfet4t7; dur=54193",
+      "alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
+      "transfer-encoding": "chunked"
+    },
+    "body": null
+  },
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "മനുഷ്യർ ഒഴിച്ചു വിടുന്നതാണെന്നോ ഉണ്ടാക്കിയിട്ടുള്ള\nതെറ്റുകൾക്കുള്ള ഒരു പൊതുപേരാകുന്നു. അതുകൊണ്ട് മുഖമൊ, കൈമൊ കാലമൊ\nമറ്റൊ തന്നെ എന്ന് ചിലർ പറയുന്നു” (സസാ: എൻ.കൃഷ്ണപിള്ള, 1982,\nപുറം.47).അതെന്താ സംബന്ധിച്ച് ഗുരു നടത്തുന്ന ഇത്തരം വിശദീകരണങ്ങൾ എത്ര\nമാത്രം പുരോഭാഗമാണെന്നതാണ്! എന്നാൽ ഗുരുവിന്റെ കാലത്തോ അതിനുശേഷ\nമോ അതെന്താ സംബന്ധിച്ച് ഈ നൂതന സമീപനം അംഗീകരിക്കപ്പെടുന്നില്ലെന്നു\nമാത്രമല്ല, അതിനു നേരെ വിപരീതമായ ദിശയിലാണ് കാര്യങ്ങൾ സംഭവിച്ചത്.\n“നാം ജാതിഭേദം വിട്ട് ഇപ്പോൾ ഏതാണ്ടും സംബന്ധം കഴിഞ്ഞിരിക്കുന്നു,\nഎന്നിട്ടും ചില പ്രത്യേക വർഗ്ഗക്കാർ നമ്മെ അവരുടെ വർഗ്ഗത്തിൽ പെടുത്താതെ\nവിചാരിച്ചു പ്രവർത്തിച്ചും വരുന്നതായും അതു ഹേതുവായി നമ്മുടെ വർഗ്ഗ\nത്തിന് വിശുദ്ധമായ ധർമ്മയ്ക്ക് ഇടവന്നിട്ടുണ്ടെന്നും അറിയിക്കുന്നു. നാം പ്രത്യേക\nജാതിയിലോ മതത്തിലോ ഉൾപ്പെടുന്നില്ല. വിശേഷിച്ചും നമ്മുടെ ശിഷ്യവർഗ്ഗ\nത്തിൽനിന്നും ഭേദപ്രകാരമുള്ളവരെ മാത്രമേ നമ്മുടെ പിൻഗാമിയായി വരുത്താൻ\nവിധം ആലോചനാസംഗതിയിൽ ശിഷ്യസംഘത്തിൽ ചേർത്തിട്ടുള്ളൂ എന്നും വ്യവസ്ഥ\nയിലും ചേർക്കുകയുള്ളൂ എന്നും വ്യവസ്ഥപ്പെടുത്തിയിരിക്കുന്നതായും ആകുന്നു. ഈ\nവസ്തുത പൊതുജനങ്ങളുടെ അറിവിലേക്കായി പ്രസിദ്ധം ചെയ്തിരിക്കുന്നു.\nഎന്ന് നാരായണഗുരു (ഒപ്പ്)” (സസാ: കുമാരനാശാൻ, 1982, പുറം.44)."
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": "STOP",
+      "safety_ratings": [
+        {
+          "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HATE_SPEECH",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HARASSMENT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+          "probability": "NEGLIGIBLE"
+        }
+      ],
+      "token_count": null
+    }
+  ],
+  "create_time": null,
+  "response_id": null,
+  "model_version": "gemini-2.5-pro",
+  "prompt_feedback": null,
+  "usage_metadata": {
+    "cache_tokens_details": null,
+    "cached_content_token_count": null,
+    "candidates_token_count": 370,
+    "candidates_tokens_details": null,
+    "prompt_token_count": 740,
+    "prompt_tokens_details": [
+      {
+        "modality": "TEXT",
+        "token_count": 482
+      },
+      {
+        "modality": "IMAGE",
+        "token_count": 258
+      }
+    ],
+    "thoughts_token_count": 4687,
+    "tool_use_prompt_token_count": null,
+    "tool_use_prompt_tokens_details": null,
+    "total_token_count": 5797,
+    "traffic_type": null
+  },
+  "automatic_function_calling_history": [],
+  "parsed": null,
+  "page_number": 297
+}

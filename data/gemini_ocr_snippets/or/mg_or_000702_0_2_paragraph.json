@@ -1,0 +1,79 @@
+{
+  "sdk_http_response": {
+    "headers": {
+      "content-type": "application/json; charset=UTF-8",
+      "vary": "Origin, X-Origin, Referer",
+      "content-encoding": "gzip",
+      "date": "Fri, 04 Jul 2025 03:59:22 GMT",
+      "server": "scaffolding on HTTPServer2",
+      "x-xss-protection": "0",
+      "x-frame-options": "SAMEORIGIN",
+      "x-content-type-options": "nosniff",
+      "server-timing": "gfet4t7; dur=59725",
+      "alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
+      "transfer-encoding": "chunked"
+    },
+    "body": null
+  },
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "ନାହିଁ ? ପିଣ୍ଡା ପ୍ରଦତ୍ତ ନାହିଁ ? କଳ୍ପନାରେ\nଜ୍ଞାନର ସମ୍ଭ୍ୟ କେତେ ? ଶବ୍ଦର ଘର—\nନିମ୍ନତମ—କଳ୍ପିତ ଅତଳ ପ୍ରଦେଶ\n—ବୃହତ୍ତମଠାରୁ କ୍ଷୁଦ୍ର—ଏପରିକି ପାଖ-\nଦୂରରେ ଓହ୍ଲାଇ ପଡ଼ି ହୋଇ ଯାଉ ନଥିବା—\nବଡ଼ ଗୋଟାକରୁ ସାନ ନାହିଁ—ସେଇଟାରୁ\nସାନ ନାହିଁ ? କି ନିର୍ଜନ—ନିର୍ବୋଧ ଭାବ !\nନାନା ବୃତ୍ତରେଖାରୁ ନାନା ଭାବ—ନାନା\nବ୍ୟବଧାନ ହେଲେ—ନିଃସଙ୍ଗ—ନିଃସଙ୍ଗ\nକେବଳ ସ୍ଵକି ଓ କେବଳତମ ବେଦନ ଏ ନିଃଶବ୍ଦ\nଆହ୍ଵାନ—ଦେଖ : ୨ ଅବସ୍ଥାର ଉଭୟ\nକରୁଅଛନ୍ତି । ଓଡ଼ିଆରେ—ଯେଉଁ ମାନଙ୍କର\nସଂଖ୍ୟା ନ୍ୟୁନାଧିକ ପାଞ୍ଚ ଏକଲକ୍ଷ—କଲ-\nକତାର କେନ୍ଦ୍ରସ୍ଥଳୀରୁ ପାଞ୍ଚ ଦଶମାଇଲ—\nବର୍ତ୍ତମାନ ଏକ ଉପକଣ୍ଠରେ ‘ମହାନଗରରେ\nବାସ କରି ଯେଉଁ ଓଡ଼ିଆଙ୍କୁ ଦେଖି ଓଡ଼ିଆ\n—ଅତି ଘନିଷ୍ଠ ଭାବେ ବୋଲି ବିଶ୍ଵାସଠାରେ\nଆଘାତ ହେଉଅଛନ୍ତି । “ହେ, ସତେ\nକେହି ?” ଅତି ସାମାନ୍ୟ କେତେ ପ୍ରଶ୍ନକୁ\nଏକ ଭାବରେ ଏମାନେ ପଚାରିବେ କରନ୍ତି ।\nଏମାନେ ଅନ୍ୟମାନଙ୍କରେ ଏକ ପଚାରିବେ\nପ୍ରଶ୍ନ କରନ୍ତି । ସେ ଭାବର ଆଘାତରେ ନାହିଁ\nସେ କି ନିରୁପାୟ ଭାବ !"
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": "STOP",
+      "safety_ratings": [
+        {
+          "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HATE_SPEECH",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HARASSMENT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+          "probability": "NEGLIGIBLE"
+        }
+      ],
+      "token_count": null
+    }
+  ],
+  "create_time": null,
+  "response_id": null,
+  "model_version": "gemini-2.5-pro",
+  "prompt_feedback": null,
+  "usage_metadata": {
+    "cache_tokens_details": null,
+    "cached_content_token_count": null,
+    "candidates_token_count": 541,
+    "candidates_tokens_details": null,
+    "prompt_token_count": 782,
+    "prompt_tokens_details": [
+      {
+        "modality": "TEXT",
+        "token_count": 524
+      },
+      {
+        "modality": "IMAGE",
+        "token_count": 258
+      }
+    ],
+    "thoughts_token_count": 5299,
+    "tool_use_prompt_token_count": null,
+    "tool_use_prompt_tokens_details": null,
+    "total_token_count": 6622,
+    "traffic_type": null
+  },
+  "automatic_function_calling_history": [],
+  "parsed": null,
+  "page_number": 60
+}

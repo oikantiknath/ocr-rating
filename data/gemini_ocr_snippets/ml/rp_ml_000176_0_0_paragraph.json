@@ -1,0 +1,79 @@
+{
+  "sdk_http_response": {
+    "headers": {
+      "content-type": "application/json; charset=UTF-8",
+      "vary": "Origin, X-Origin, Referer",
+      "content-encoding": "gzip",
+      "date": "Fri, 04 Jul 2025 05:09:46 GMT",
+      "server": "scaffolding on HTTPServer2",
+      "x-xss-protection": "0",
+      "x-frame-options": "SAMEORIGIN",
+      "x-content-type-options": "nosniff",
+      "server-timing": "gfet4t7; dur=71834",
+      "alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
+      "transfer-encoding": "chunked"
+    },
+    "body": null
+  },
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "ഋഗ്വേദം, തിരുക്കുറൾ, പലതരം രാമായണങ്ങൾ എന്നിവയെയുളള (പ്രാചീനകാലം മുതലുളള കാര്യപഠനത്തിന്റെ പലമട്ടിലുളള ആവിഷ്കാര\nങ്ങളാണ്. ഇങ്ങനെ സാഹിത്യചർച്ചകളിൽ മാത്രമല്ല മനുഷ്യന്റെ അടിസ്ഥാനപരമായ ഒരു\nമനഃപ്രേരണയായി മാറുന്നു. കാര്യം ഒരു ദർശനം എന്ന നിലയിൽ പല\nകാലത്തും പല രീതിയിൽ ആവിഷ്കരിക്കപ്പെട്ടിട്ടുണ്ട്. ബുദ്ധമതം, ക്രിസ്തുമതം,\nഇസ്ലാംമതം എന്നീ മതങ്ങളിലും കാര്യം പ്രധാനമായി വരുന്നു.\nഗാന്ധിയൻതത്ത്വചിന്തയിലും അതുപോലെത്തന്നെ മലയാളത്തിലെ കാര്യദർശന\nത്തിന്റെ സ്വാധീനം കാണാം. അംബേദ്കറിസം, മാർക്സിസം അതിന്റെ\nതുടർച്ചയായ വിമർശനമാനദണ്ഡീയതയും എന്നിവയിലൊക്കെ കാര്യത്തിന് ഒരു\nസ്ഥാനമുണ്ട് എന്ന തലത്തിലുളള തുടർജീവിതം കാണാം. സാഹിത്യത്തിൽ ഓരോ\nകാലത്തും അതിനനുസരിച്ചവിധം കാര്യസങ്കല്പം ആവിഷ്കൃതമായിട്ടുണ്ട്.\nകാര്യം ഒരു ദർശനമെന്ന നിലയിൽ എങ്ങനെ മലയാളസാഹിത്യത്തിൽ\nആവിഷ്കരിക്കപ്പെട്ടു എന്ന് സൂക്ഷ്മമായി സാഹിത്യത്തിലെഴുതിയ\nവാണിവിടെ. തുടർന്ന് ആധുനികതയിലുളള രചനകളിലും അതിന്റെ വ്യാപ്തി\nഅന്വേഷിക്കുന്നു. പലകാലങ്ങളിൽ വ്യത്യസ്തമാനങ്ങളോടെ കാര്യദർശനം\nഎങ്ങനെ ആവിഷ്കരിക്കപ്പെട്ടു എന്നും കണ്ടെത്താൻ ശ്രമിക്കുന്നു. ഏതു\nകാലത്തും ഇതൊരു മൂല്യസങ്കല്പത്തിന് എന്തെങ്കിലും പ്രസക്തിയുണ്ടോ?\nഅത് ഏതെല്ലാം തരത്തിൽ വികസ്വരമാകുന്നുണ്ടോ? എന്നീ അന്വേഷണങ്ങൾ\nകൂടി നടത്തുന്നു."
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": "STOP",
+      "safety_ratings": [
+        {
+          "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HATE_SPEECH",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HARASSMENT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+          "probability": "NEGLIGIBLE"
+        }
+      ],
+      "token_count": null
+    }
+  ],
+  "create_time": null,
+  "response_id": null,
+  "model_version": "gemini-2.5-pro",
+  "prompt_feedback": null,
+  "usage_metadata": {
+    "cache_tokens_details": null,
+    "cached_content_token_count": null,
+    "candidates_token_count": 382,
+    "candidates_tokens_details": null,
+    "prompt_token_count": 740,
+    "prompt_tokens_details": [
+      {
+        "modality": "TEXT",
+        "token_count": 482
+      },
+      {
+        "modality": "IMAGE",
+        "token_count": 258
+      }
+    ],
+    "thoughts_token_count": 6810,
+    "tool_use_prompt_token_count": null,
+    "tool_use_prompt_tokens_details": null,
+    "total_token_count": 7932,
+    "traffic_type": null
+  },
+  "automatic_function_calling_history": [],
+  "parsed": null,
+  "page_number": 282
+}

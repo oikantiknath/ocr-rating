@@ -1,0 +1,79 @@
+{
+  "sdk_http_response": {
+    "headers": {
+      "content-type": "application/json; charset=UTF-8",
+      "vary": "Origin, X-Origin, Referer",
+      "content-encoding": "gzip",
+      "date": "Fri, 04 Jul 2025 03:45:31 GMT",
+      "server": "scaffolding on HTTPServer2",
+      "x-xss-protection": "0",
+      "x-frame-options": "SAMEORIGIN",
+      "x-content-type-options": "nosniff",
+      "server-timing": "gfet4t7; dur=22256",
+      "alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
+      "transfer-encoding": "chunked"
+    },
+    "body": null
+  },
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "ਮੈਸਨ ਖ਼ਤਮ ਹੁੰਦਿਆਂ ਹੀ ਉਹ ਪਾਸ਼ਾ ਦੇ ਘਰ ਆ ਗਈ। ਉਸ ਨੂੰ\nਦੇਖਭਾਲ ਲਈ ਕਿਸੇ ਦੀ ਲੋੜ ਸੀ। ਇਸੇ ਕਾਰਣ ਸ਼ਾਮ ਨੂੰ ਜਦ ਪਾਸ਼ਾ\nਨੇ ਮੁਗ਼ਲ ਰਾਜ ਅੰਦਰ ਰਾਜਸੀ ਅਸਹਿਣਸ਼ੀਲਤਾ ਬਾਰੇ ਖੋਜ ਪੱਤਰ\nਲਿਖਣਾ ਹੁੰਦਾ ਸੀ ਤਾਂ ਉਸ ਦੀ ਥਾਂ ਉਹ ਰਜ਼ੀਆ ਦਾ ਸਿਰ ਗੋਦ ਵਿਚ ਲੈ\nਬੈਠਾ ਹੁੰਦਾ। ਲੰਮੀ ਪਈ ਰਜ਼ੀਆ ਇੰਨ੍ਹੀ ਬਿਮਾਰ ਨਹੀਂ ਸੀ ਲੱਗਦੀ।\nਕਮਰੇ ਦੀ ਘੱਟ ਰੌਸ਼ਨੀ ਵਿਚ ਉਹ ਬਹੁਤੀ ਪੀਲੀ ਵੀ ਨਹੀਂ ਸੀ ਜਾਪਦੀ।\nਸਰੀਰਕ ਤੌਰ ਉੱਤੇ ਉਹ ਠੀਕ ਹੀ ਜਾਪਦੀ ਸੀ ਪਰ ਉਸ ਦੀਆਂ ਉਗਲਾਂ\nਗਲਟੀਆਂ ਸ਼ੁਰੂ ਹੋ ਚੁੱਕੀਆਂ ਸਨ ਤੇ ਉਸ ਦੇ ਵਿਦਿਆਰਥੀਆਂ ਨੇ ਵੀ\nਕਲਾਸ ਰੂਮ ਵਿਚ ਬਦਬੂ ਦੀ ਸ਼ਿਕਾਇਤ ਕਰਨਾ ਸ਼ੁਰੂ ਕਰ ਦਿੱਤਾ ਸੀ।"
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": "STOP",
+      "safety_ratings": [
+        {
+          "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HATE_SPEECH",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HARASSMENT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+          "probability": "NEGLIGIBLE"
+        }
+      ],
+      "token_count": null
+    }
+  ],
+  "create_time": null,
+  "response_id": null,
+  "model_version": "gemini-2.5-pro",
+  "prompt_feedback": null,
+  "usage_metadata": {
+    "cache_tokens_details": null,
+    "cached_content_token_count": null,
+    "candidates_token_count": 252,
+    "candidates_tokens_details": null,
+    "prompt_token_count": 485,
+    "prompt_tokens_details": [
+      {
+        "modality": "TEXT",
+        "token_count": 227
+      },
+      {
+        "modality": "IMAGE",
+        "token_count": 258
+      }
+    ],
+    "thoughts_token_count": 1711,
+    "tool_use_prompt_token_count": null,
+    "tool_use_prompt_tokens_details": null,
+    "total_token_count": 2448,
+    "traffic_type": null
+  },
+  "automatic_function_calling_history": [],
+  "parsed": null,
+  "page_number": 60
+}

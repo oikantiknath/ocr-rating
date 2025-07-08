@@ -1,0 +1,79 @@
+{
+  "sdk_http_response": {
+    "headers": {
+      "content-type": "application/json; charset=UTF-8",
+      "vary": "Origin, X-Origin, Referer",
+      "content-encoding": "gzip",
+      "date": "Fri, 04 Jul 2025 05:40:55 GMT",
+      "server": "scaffolding on HTTPServer2",
+      "x-xss-protection": "0",
+      "x-frame-options": "SAMEORIGIN",
+      "x-content-type-options": "nosniff",
+      "server-timing": "gfet4t7; dur=65926",
+      "alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
+      "transfer-encoding": "chunked"
+    },
+    "body": null
+  },
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "8. શા માટે એસિડ પાણીની ગેરહાજરીમાં એસિડિક વર્તણૂક દર્શાવતા નથી ?\n9. પાંચ દ્રાવણો A, B, C, D અને Eને સાર્વત્રિક સૂચક દ્વારા તપાસતાં અનુક્રમે 4, 1, 11, 7 અને 9\npH દર્શાવે છે તો કયું દ્રાવણ ..........\n(a) તટસ્થ હશે ?\n(b) પ્રબળ બેઝિક હશે ?\n(c) પ્રબળ એસિડિક હશે ?\n(d) નિર્બળ એસિડિક હશે ?\n(e) નિર્બળ બેઝિક હશે ?\npH નાં મૂલ્યોને હાઇડ્રોજન આયનની સાંદ્રતાના ચડતા ક્રમમાં દર્શાવો.\n10. કસનળી A અને Bમાં સમાન લંબાઈની મૅગ્નેશિયમની પટ્ટીઓ લીધેલી છે. કસનળી\nAમાં હાઇડ્રોક્લોરિક એસિડ (HCl) ઉમેરવામાં આવે છે અને કસનળી Bમાં એસિટિક એસિડ\n(CH₃COOH) ઉમેરવામાં આવે છે. કઈ કસનળીમાં અતિ તીવ્ર ઉભરા મળે છે ? અને શા માટે ?\n11. તાજા દૂધની pH 6 છે. જો તેનું દહીંમાં રૂપાંતર થાય તો તેની pHના ફેરફાર વિશે તમે શું વિચારો\nછો ? તમારો ઉત્તર સમજાવો.\n12. એક દૂધવાળો તાજા દૂધમાં ખૂબ જ અલ્પમાત્રામાં બેકિંગ સોડા ઉમેરે છે.\n(a) તે તાજા દૂધની pH ને 6થી થોડી બેઝિક તરફ શા માટે ફેરવે છે ?\n(b) શા માટે આવું દૂધ દહીં બનવા માટે વધુ સમય લે છે ?\n13. પ્લાસ્ટર ઑફ પૅરિસને ભેજમુક્ત પાત્રમાં સંગૃહીત કરવું જોઈએ. સમજાવો શા માટે ?\n14. તટસ્થીકરણ પ્રક્રિયા શું છે ? બે ઉદાહરણ આપો.\n15. વૉશિંગ સોડા અને બેકિંગ સોડાના બે મહત્ત્વના ઉપયોગો આપો."
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": "STOP",
+      "safety_ratings": [
+        {
+          "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HATE_SPEECH",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HARASSMENT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+          "probability": "NEGLIGIBLE"
+        }
+      ],
+      "token_count": null
+    }
+  ],
+  "create_time": null,
+  "response_id": null,
+  "model_version": "gemini-2.5-pro",
+  "prompt_feedback": null,
+  "usage_metadata": {
+    "cache_tokens_details": null,
+    "cached_content_token_count": null,
+    "candidates_token_count": 506,
+    "candidates_tokens_details": null,
+    "prompt_token_count": 758,
+    "prompt_tokens_details": [
+      {
+        "modality": "TEXT",
+        "token_count": 500
+      },
+      {
+        "modality": "IMAGE",
+        "token_count": 258
+      }
+    ],
+    "thoughts_token_count": 6012,
+    "tool_use_prompt_token_count": null,
+    "tool_use_prompt_tokens_details": null,
+    "total_token_count": 7276,
+    "traffic_type": null
+  },
+  "automatic_function_calling_history": [],
+  "parsed": null,
+  "page_number": 370
+}

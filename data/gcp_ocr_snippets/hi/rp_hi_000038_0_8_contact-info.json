@@ -1,0 +1,32 @@
+{
+  "page_number": 38,
+  "ocr_output": {
+    "blocks": [
+      {
+        "block_text": "CC - 0 . Gurukul Kangri Collection , Haridwar",
+        "lines": [
+          "CC - 0 . Gurukul Kangri Collection , Haridwar"
+        ],
+        "bounding_box": [
+          {
+            "x": 7,
+            "y": 8
+          },
+          {
+            "x": 421,
+            "y": 8
+          },
+          {
+            "x": 421,
+            "y": 27
+          },
+          {
+            "x": 7,
+            "y": 27
+          }
+        ],
+        "confidence": 0.98552644
+      }
+    ]
+  }
+}

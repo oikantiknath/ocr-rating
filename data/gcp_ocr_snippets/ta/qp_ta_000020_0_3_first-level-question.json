@@ -1,0 +1,307 @@
+{
+  "page_number": 20,
+  "ocr_output": {
+    "blocks": [
+      {
+        "block_text": "In order to reach the more geographical area of the bank operation , establishment of the following is necessary",
+        "lines": [
+          "In order to reach the more geographical area of the bank operation , establishment of the following is necessary"
+        ],
+        "bounding_box": [
+          {
+            "x": 87,
+            "y": 5
+          },
+          {
+            "x": 1070,
+            "y": 7
+          },
+          {
+            "x": 1070,
+            "y": 78
+          },
+          {
+            "x": 87,
+            "y": 76
+          }
+        ],
+        "confidence": 0.9960856
+      },
+      {
+        "block_text": "37 .",
+        "lines": [
+          "37 ."
+        ],
+        "bounding_box": [
+          {
+            "x": 14,
+            "y": 16
+          },
+          {
+            "x": 43,
+            "y": 16
+          },
+          {
+            "x": 43,
+            "y": 36
+          },
+          {
+            "x": 14,
+            "y": 36
+          }
+        ],
+        "confidence": 0.98510474
+      },
+      {
+        "block_text": "வங்கியின் செயல்பாடுகளை அதிகளவு நிலபரப்பில் சென்றடைய கீழ்கண்டவற்றில்",
+        "lines": [
+          "வங்கியின் செயல்பாடுகளை அதிகளவு நிலபரப்பில் சென்றடைய கீழ்கண்டவற்றில்"
+        ],
+        "bounding_box": [
+          {
+            "x": 151,
+            "y": 66
+          },
+          {
+            "x": 1069,
+            "y": 62
+          },
+          {
+            "x": 1069,
+            "y": 92
+          },
+          {
+            "x": 151,
+            "y": 96
+          }
+        ],
+        "confidence": 0.9874588
+      },
+      {
+        "block_text": "ஒரு",
+        "lines": [
+          "ஒரு"
+        ],
+        "bounding_box": [
+          {
+            "x": 87,
+            "y": 78
+          },
+          {
+            "x": 124,
+            "y": 78
+          },
+          {
+            "x": 124,
+            "y": 97
+          },
+          {
+            "x": 87,
+            "y": 97
+          }
+        ],
+        "confidence": 0.9310756
+      },
+      {
+        "block_text": "தேவையானது எது ?",
+        "lines": [
+          "தேவையானது எது ?"
+        ],
+        "bounding_box": [
+          {
+            "x": 87,
+            "y": 95
+          },
+          {
+            "x": 295,
+            "y": 98
+          },
+          {
+            "x": 295,
+            "y": 127
+          },
+          {
+            "x": 87,
+            "y": 124
+          }
+        ],
+        "confidence": 0.9861511
+      },
+      {
+        "block_text": "( A ) On - site ATM",
+        "lines": [
+          "( A ) On - site ATM"
+        ],
+        "bounding_box": [
+          {
+            "x": 87,
+            "y": 145
+          },
+          {
+            "x": 325,
+            "y": 144
+          },
+          {
+            "x": 325,
+            "y": 166
+          },
+          {
+            "x": 87,
+            "y": 167
+          }
+        ],
+        "confidence": 0.96581495
+      },
+      {
+        "block_text": "( B ) Branch opening",
+        "lines": [
+          "( B ) Branch opening"
+        ],
+        "bounding_box": [
+          {
+            "x": 572,
+            "y": 140
+          },
+          {
+            "x": 816,
+            "y": 142
+          },
+          {
+            "x": 816,
+            "y": 168
+          },
+          {
+            "x": 572,
+            "y": 166
+          }
+        ],
+        "confidence": 0.9860807
+      },
+      {
+        "block_text": "வங்கிகிளை ஆரம்பித்தல்",
+        "lines": [
+          "வங்கிகிளை ஆரம்பித்தல்"
+        ],
+        "bounding_box": [
+          {
+            "x": 632,
+            "y": 167
+          },
+          {
+            "x": 890,
+            "y": 170
+          },
+          {
+            "x": 890,
+            "y": 199
+          },
+          {
+            "x": 632,
+            "y": 196
+          }
+        ],
+        "confidence": 0.97804666
+      },
+      {
+        "block_text": "( D ) Off- site ATM",
+        "lines": [
+          "( D ) Off- site ATM"
+        ],
+        "bounding_box": [
+          {
+            "x": 573,
+            "y": 212
+          },
+          {
+            "x": 801,
+            "y": 209
+          },
+          {
+            "x": 801,
+            "y": 232
+          },
+          {
+            "x": 573,
+            "y": 235
+          }
+        ],
+        "confidence": 0.9488806
+      },
+      {
+        "block_text": "வங்கி அமைவிடமில்லாத ATM",
+        "lines": [
+          "வங்கி அமைவிடமில்லாத ATM"
+        ],
+        "bounding_box": [
+          {
+            "x": 632,
+            "y": 241
+          },
+          {
+            "x": 962,
+            "y": 237
+          },
+          {
+            "x": 962,
+            "y": 265
+          },
+          {
+            "x": 632,
+            "y": 269
+          }
+        ],
+        "confidence": 0.9816921
+      },
+      {
+        "block_text": "வங்கிஅமைவிட ATM Core Banking Solution மைய வங்கியியல் தீர்வு",
+        "lines": [
+          "வங்கிஅமைவிட ATM Core Banking Solution மைய வங்கியியல் தீர்வு"
+        ],
+        "bounding_box": [
+          {
+            "x": 157,
+            "y": 175
+          },
+          {
+            "x": 420,
+            "y": 173
+          },
+          {
+            "x": 421,
+            "y": 270
+          },
+          {
+            "x": 158,
+            "y": 272
+          }
+        ],
+        "confidence": 0.9859173
+      },
+      {
+        "block_text": "( C )",
+        "lines": [
+          "( C )"
+        ],
+        "bounding_box": [
+          {
+            "x": 87,
+            "y": 215
+          },
+          {
+            "x": 121,
+            "y": 215
+          },
+          {
+            "x": 121,
+            "y": 238
+          },
+          {
+            "x": 87,
+            "y": 238
+          }
+        ],
+        "confidence": 0.9254141
+      }
+    ]
+  }
+}

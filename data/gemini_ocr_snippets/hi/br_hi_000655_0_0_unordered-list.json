@@ -1,0 +1,79 @@
+{
+  "sdk_http_response": {
+    "headers": {
+      "content-type": "application/json; charset=UTF-8",
+      "vary": "Origin, X-Origin, Referer",
+      "content-encoding": "gzip",
+      "date": "Fri, 04 Jul 2025 03:19:38 GMT",
+      "server": "scaffolding on HTTPServer2",
+      "x-xss-protection": "0",
+      "x-frame-options": "SAMEORIGIN",
+      "x-content-type-options": "nosniff",
+      "server-timing": "gfet4t7; dur=29055",
+      "alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
+      "transfer-encoding": "chunked"
+    },
+    "body": null
+  },
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "✓ परीक्षा के दिन हॉल टिकट को सत्यापन के लिए प्रस्तुत करना होगा और कम-से-कम\nएक मूल (स्कैन कॉपी नहीं) (वैध) वैधता समाप्त नहीं हुई हो (फोटो पहचान पत्र) जैसे -\nवोटर आईडी, पासपोर्ट, पैन कार्ड, ड्राइविंग लाइसेंस, फोटोयुक्त राष्ट्रीयकृत बैंक की पासबुक,\nयूआईडी आधार कार्ड, फोटोयुक्त 10वीं/12वीं की अंकतालिका/प्रमाण-पत्र/प्रवेश-पत्र) प्रस्तुत\nकिया जाना चाहिए । फोटो पहचान पत्र पर अभ्यर्थी की फोटो और हस्ताक्षर स्पष्ट रूप से\nमुद्रित होने चाहिए तथा हॉल टिकट में दिए गए नाम से मेल खाना चाहिए । फोटोयुक्त\nपहचान-पत्र जर्जर अथवा खराब नहीं होना चाहिए ।\n✓ हॉल टिकट के साथ भरे हुए स्वघोषित फॉर्म को लाना सुनिश्चित करें ।\n✓ अभ्यर्थियों को सलाह दी जाती है कि परीक्षा दिवस से कम-से-कम एक दिन पहले\nअपने परीक्षा केंद्र तथा पहुंच मार्ग का पता लगा लें ताकि वे परीक्षा के दिन केंद्र में\nसमय पर पहुंच सकें ।\n✓ अभ्यर्थियों को परीक्षा सत्र के लिए सुबह 7:00 बजे रिपोर्ट करना होगा । सुबह 8:30\nबजे के बाद किसी भी अभ्यर्थी को परीक्षा केंद्र के अंदर जाने की अनुमति नहीं दी\nजाएगी। पीडब्ल्यूडी अभ्यर्थियों को परीक्षा केंद्र में प्रवेश के लिए प्राथमिकता दी जाएगी।\n✓ मेटल से निर्मित कोई भी आभूषण या अन्य वस्तु न पहनें । मोबाइल फोन अथवा\nस्मार्ट घड़ियाँ, कैलकुलेटर जैसे इलेक्ट्रॉनिक गैजेट को परीक्षा केंद्र के अंदर ले जाने की\nअनुमति नहीं होगी । परीक्षा कक्ष के बाहर अभ्यर्थियों के व्यक्तिगत सामान को\nसुरक्षित रखने के लिए कोई सुविधा मुहैया नहीं कराई जाएगी । किसी भी प्रकार के\nनुकसान के लिए आईआईएसईआर उत्तरदायी नहीं होगा ।\n✓ परीक्षा कक्ष के अंदर केवल हॉल टिकट, मूल फोटो पहचान-पत्र, पारदर्शी पानी की बोतल\nऔर बॉल पेन ले जाने की अनुमति होगी ।\n✓ अभ्यर्थियों को रफ कार्य के लिए रफ पैड/शीट उपलब्ध कराई जाएगी जिसे परीक्षा के\nबाद वापस करना होगा । अभ्यर्थियों को रफ पैड पर अपना नाम और आवेदन संख्या\nस्पष्ट रूप से लिखना होगा । अभ्यर्थी के कंसोल पर एक ऑनलाइन नॉन-प्रोग्रामेबल\nसाइन्टिफिक कैलकुलेटर उपलब्ध कराया जाएगा । कृपया अपना कैलकुलेटर साथ न\nरखें ।\n✓ अभ्यर्थियों के साथ आने वाले मित्रों और रिश्तेदारों को परीक्षा केंद्र के अंदर जाने की\nअनुमति नहीं दी जाएगी ।\n✓ परीक्षा में भाग लेने के लिए अभ्यर्थियों को अपनी यात्रा और ठहरने की व्यवस्था स्वयं"
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": "STOP",
+      "safety_ratings": [
+        {
+          "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HATE_SPEECH",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HARASSMENT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+          "probability": "LOW"
+        }
+      ],
+      "token_count": null
+    }
+  ],
+  "create_time": null,
+  "response_id": null,
+  "model_version": "gemini-2.5-pro",
+  "prompt_feedback": null,
+  "usage_metadata": {
+    "cache_tokens_details": null,
+    "cached_content_token_count": null,
+    "candidates_token_count": 514,
+    "candidates_tokens_details": null,
+    "prompt_token_count": 760,
+    "prompt_tokens_details": [
+      {
+        "modality": "TEXT",
+        "token_count": 502
+      },
+      {
+        "modality": "IMAGE",
+        "token_count": 258
+      }
+    ],
+    "thoughts_token_count": 1780,
+    "tool_use_prompt_token_count": null,
+    "tool_use_prompt_tokens_details": null,
+    "total_token_count": 3054,
+    "traffic_type": null
+  },
+  "automatic_function_calling_history": [],
+  "parsed": null,
+  "page_number": 21
+}

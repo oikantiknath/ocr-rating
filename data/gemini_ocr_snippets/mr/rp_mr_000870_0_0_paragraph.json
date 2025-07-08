@@ -1,0 +1,79 @@
+{
+  "sdk_http_response": {
+    "headers": {
+      "content-type": "application/json; charset=UTF-8",
+      "vary": "Origin, X-Origin, Referer",
+      "content-encoding": "gzip",
+      "date": "Fri, 04 Jul 2025 05:26:20 GMT",
+      "server": "scaffolding on HTTPServer2",
+      "x-xss-protection": "0",
+      "x-frame-options": "SAMEORIGIN",
+      "x-content-type-options": "nosniff",
+      "server-timing": "gfet4t7; dur=65908",
+      "alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
+      "transfer-encoding": "chunked"
+    },
+    "body": null
+  },
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "आत्मचरित्रकार आपल्या हेतूनुसार व्यक्तिमत्त्वाचा, 'स्व'चा शोध, आत्माविष्कार, बोध देणे,\nआत्मसमर्थन, कबुलीजबाब दृष्टिकोणामुसार आत्मचरित्र नायकाच्या प्रकृतीशी अनुरूप वा संवादी अशी\nमूल्यदृष्टी व कलादृष्टी धारण करून लेखन करतो. ही आत्मचरित्राची संहिता वाचताना वाचकाच्या मनात\nकथकाच्या कथन क्रियेतून आणि वाचकाच्या सर्जनशील वाचनक्रियेतून गर्भित लेखकाची प्रतिमा निर्माण\nकरते. कथकाला गर्भित लेखकाचा संदर्भ आहे पण कथक आणि आत्मचरित्राचा गर्भित लेखक वेगळे केले\nआहेत. आत्मचरित्राचा कथक हा आत्मचरित्राचा नायक असतो किंवा प्रमुख पात्र असतो. किंवा लेखकाने\nसाहित्यिक क्लृप्ती म्हणून आपलीच स्वतःची दोन रूपे निर्माण केलेली असतात. पण ते दोघे एकच असतात.\nजेनेते यांनी कथकाचे तीन प्रकार केले आहेत. २४ आत्मचरित्राचा कथक कथांतर्गत पात्र असतो. तो श्रोत्याला\nआपली कथा ‘विशिष्ट दृष्टिकोणातून’ सांगत असतो. आत्मचरित्र म्हणजे या कथकाच्या कथनप्रक्रियेतून\nनिर्माण झालेली समग्रता होय. या आत्मचरित्रातून कथकाने पाहिलेली, अनुभवलेली कथा वाचकांना\nसांगताना तो बोलत असतो. त्यामुळे या कथकाला स्वतःचा आवाज असतो. कथन करताना तो\nविशिष्टरीतीने बोलत-लिहित असतो. बोलण्या-लिहिण्याच्या भानामुळे कथकाच्या शब्दांना, वाक्यांना\nविशिष्ट लकब, शैली प्राप्त होते. आत्मचरित्राच्या गरजेनुसार आणि भूमिकेनुसार हा कथक विशिष्ट लिंग,\nवचन, पुरुषात भूमिका घेऊन कथन करतो. निवेदकाजवळ असलेली ही साधने गर्भित लेखकाजवळ\nनसतात. त्याला स्वतःचा आवाज नसतो. कारण कथक कथन करत असताना वाचक त्या कथकामागे\nअस्तित्वात असलेल्या गर्भित लेखकाची प्रतिमा रचत असतो. हा गर्भित लेखक म्हणजे एक आदर्श"
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": "STOP",
+      "safety_ratings": [
+        {
+          "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HATE_SPEECH",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HARASSMENT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+          "probability": "NEGLIGIBLE"
+        }
+      ],
+      "token_count": null
+    }
+  ],
+  "create_time": null,
+  "response_id": null,
+  "model_version": "gemini-2.5-pro",
+  "prompt_feedback": null,
+  "usage_metadata": {
+    "cache_tokens_details": null,
+    "cached_content_token_count": null,
+    "candidates_token_count": 425,
+    "candidates_tokens_details": null,
+    "prompt_token_count": 716,
+    "prompt_tokens_details": [
+      {
+        "modality": "TEXT",
+        "token_count": 458
+      },
+      {
+        "modality": "IMAGE",
+        "token_count": 258
+      }
+    ],
+    "thoughts_token_count": 5887,
+    "tool_use_prompt_token_count": null,
+    "tool_use_prompt_tokens_details": null,
+    "total_token_count": 7028,
+    "traffic_type": null
+  },
+  "automatic_function_calling_history": [],
+  "parsed": null,
+  "page_number": 275
+}

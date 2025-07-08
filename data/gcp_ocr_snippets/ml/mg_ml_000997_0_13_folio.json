@@ -1,0 +1,31 @@
+{
+  "page_number": 997,
+  "ocr_output": {
+    "blocks": [
+      {
+        "block_text": "July 2020 Malankarasabha",
+        "lines": [
+          "July 2020 Malankarasabha"
+        ],
+        "bounding_box": [
+          {
+            "x": 4,
+            "y": 2
+          },
+          {
+            "x": 180
+          },
+          {
+            "x": 180,
+            "y": 18
+          },
+          {
+            "x": 4,
+            "y": 19
+          }
+        ],
+        "confidence": 0.9920266
+      }
+    ]
+  }
+}

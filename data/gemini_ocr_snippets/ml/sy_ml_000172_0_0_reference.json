@@ -1,0 +1,79 @@
+{
+  "sdk_http_response": {
+    "headers": {
+      "content-type": "application/json; charset=UTF-8",
+      "vary": "Origin, X-Origin, Referer",
+      "content-encoding": "gzip",
+      "date": "Fri, 04 Jul 2025 05:11:38 GMT",
+      "server": "scaffolding on HTTPServer2",
+      "x-xss-protection": "0",
+      "x-frame-options": "SAMEORIGIN",
+      "x-content-type-options": "nosniff",
+      "server-timing": "gfet4t7; dur=57904",
+      "alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
+      "transfer-encoding": "chunked"
+    },
+    "body": null
+  },
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "10. വിമർശനം, എൻ.എൻ.പിള്ള, നാഷണൽ ബുക്സ്, കോട്ടയം, 1980.\n11. ഈ പുറം കാണിച്ച താലം, സുനിൽ ചെറിയാൻ, കേരളസാഹിത്യ അക്കാദമി, തൃശൂർ,\n2018.\n12. പ്രവാസിയുടെ കുറിപ്പുകൾ, ബാബു ഭരദ്വാജ്, മാതൃഭൂമി ബുക്സ്, കോഴിക്കോട്, 2004.\n13. കുടിയേറ്റക്കാരന്റെ വീട്, വി. മുസഫർ അഹമ്മദ്, ഡി.സി. ബുക്സ്, കോട്ടയം, 2014.\n14. മലയാളിയുടെ സ്വത്വാനുഭവങ്ങൾ, മണികണ്ഠൻ പി., കേരളസാഹിത്യ അക്കാദമി,\nതൃശൂർ, 2009.\n15. വിട്ടാളന്മാർ തേടുന്ന പ്രവാസലോകം, വി.ശോഭ (എഡി.),ഗ്രീൻ ബുക്സ്, തൃശൂർ,\n2014.\n16. ദേശാടനത്തിന്റെ കഥകൾ, മുസാഫിർ പി., കേരളഭാഷാ ഇൻസ്റ്റിറ്റ്യൂട്ട്,\nതിരുവനന്തപുരം, 2008.\n17. ദുഃഖിതർക്കൊരുദേശം, ബെന്യാമിൻ, മുസഫർ അഹമ്മദ് പി, ശിഹാബുദ്ദീൻ പൊയ്ത്തുംകടവ്,\nഗ്രീൻബുക്സ്, തൃശൂർ, 2017.\n18. പ്രവാസസാഹിത്യം, എ.എഫ്. യൂസഫ് (എഡി.) കേരളഭാഷാ ഇൻസ്റ്റിറ്റ്യൂട്ട്,\nതിരുവനന്തപുരം, 2019.\n19. പ്രാന്തം പ്രതിനിധാനവും സർഗ്ഗാത്മകതയും, കെ. കെ. ശിവാദാസ്, ഇൻസൈറ്റ്\nപബ്ലിക്കേഷൻസ്, കോഴിക്കോട്, 2019.\n20. Jana Evans Braziel Diaspora An Introduction, Blackwell Publishing. USA,\n2008.\n21. Sam George and Thomas T.V. (Eds.), Malayali Diaspora from Kerala to the\nends of the World, Serial Publication, New York, 2013.\n22. Mark Shackleton, Diasporic Literature and Theory Cambridge Scholars\nPublishing, U.K., 2008.\n23. K.C. Zachariah, Irudaya Rajan S., Dynamics of Emigration and Remitances\nin Kerala Results from the Kerala Migration Survey, 2014.\n24. K.C. Zachariah, Irudaya Rajan S., Kerala's Gulf Connection 1998 – 2011,\nOrient Blackswan, New Delhi, 2012."
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": "STOP",
+      "safety_ratings": [
+        {
+          "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HATE_SPEECH",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HARASSMENT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+          "probability": "NEGLIGIBLE"
+        }
+      ],
+      "token_count": null
+    }
+  ],
+  "create_time": null,
+  "response_id": null,
+  "model_version": "gemini-2.5-pro",
+  "prompt_feedback": null,
+  "usage_metadata": {
+    "cache_tokens_details": null,
+    "cached_content_token_count": null,
+    "candidates_token_count": 603,
+    "candidates_tokens_details": null,
+    "prompt_token_count": 739,
+    "prompt_tokens_details": [
+      {
+        "modality": "TEXT",
+        "token_count": 481
+      },
+      {
+        "modality": "IMAGE",
+        "token_count": 258
+      }
+    ],
+    "thoughts_token_count": 5220,
+    "tool_use_prompt_token_count": null,
+    "tool_use_prompt_tokens_details": null,
+    "total_token_count": 6562,
+    "traffic_type": null
+  },
+  "automatic_function_calling_history": [],
+  "parsed": null,
+  "page_number": 324
+}

@@ -1,0 +1,56 @@
+{
+  "page_number": 7,
+  "ocr_output": {
+    "blocks": [
+      {
+        "block_text": "ସନ",
+        "lines": [
+          "ସନ"
+        ],
+        "bounding_box": [
+          {
+            "x": 548
+          },
+          {
+            "x": 566,
+            "y": 16
+          },
+          {
+            "x": 554,
+            "y": 29
+          },
+          {
+            "x": 536,
+            "y": 12
+          }
+        ],
+        "confidence": 0.7104849
+      },
+      {
+        "block_text": "The Odisha Gazette",
+        "lines": [
+          "The Odisha Gazette"
+        ],
+        "bounding_box": [
+          {
+            "x": 18,
+            "y": 16
+          },
+          {
+            "x": 970,
+            "y": 16
+          },
+          {
+            "x": 970,
+            "y": 71
+          },
+          {
+            "x": 18,
+            "y": 71
+          }
+        ],
+        "confidence": 0.98781896
+      }
+    ]
+  }
+}

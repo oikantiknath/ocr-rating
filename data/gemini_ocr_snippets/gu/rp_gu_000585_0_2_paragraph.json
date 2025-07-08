@@ -1,0 +1,79 @@
+{
+  "sdk_http_response": {
+    "headers": {
+      "content-type": "application/json; charset=UTF-8",
+      "vary": "Origin, X-Origin, Referer",
+      "content-encoding": "gzip",
+      "date": "Fri, 04 Jul 2025 05:38:47 GMT",
+      "server": "scaffolding on HTTPServer2",
+      "x-xss-protection": "0",
+      "x-frame-options": "SAMEORIGIN",
+      "x-content-type-options": "nosniff",
+      "server-timing": "gfet4t7; dur=30068",
+      "alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
+      "transfer-encoding": "chunked"
+    },
+    "body": null
+  },
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "‘ધર્મ-તત્ત્વ-ચિંતન ત્રણ ખોવાયેલી કડીઓ’ એ શીર્ષક હેઠળ મણિલાલ, આનંદશંકર ધ્રુવ પછી\nધર્મતત્ત્વ ચિંતન ક્ષેત્રે નોંધપાત્ર ફાળો આપનાર શ્રીમદ્ રાજચંદ્ર, છોટાલાલ માસ્તર અને વાડીલાલ શાહનો\nઉલ્લેખ કર્યો છે. છોટાલાલ માસ્તરની ‘યોગિનીકુમારી’ નવલકથાને તેઓ મણિલાલની ‘ગુલાબસિંહ’ની\nઅનુગામી સફળ આધ્યાત્મિક નવલકથા ગણે છે. વળી વિશ્વવંદ્યની ગદ્યની વિશેષતાઓ પણ તારવી આપે છે\nજેમ કે, “મણિલાલના લખાણોમાં પાંડિત્યનો ભાર વરતાય આવે છે. વિશ્વવંદ્યના લખાણો મુકાબલે હળવાં ને"
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": "STOP",
+      "safety_ratings": [
+        {
+          "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HATE_SPEECH",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HARASSMENT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+          "probability": "NEGLIGIBLE"
+        }
+      ],
+      "token_count": null
+    }
+  ],
+  "create_time": null,
+  "response_id": null,
+  "model_version": "gemini-2.5-pro",
+  "prompt_feedback": null,
+  "usage_metadata": {
+    "cache_tokens_details": null,
+    "cached_content_token_count": null,
+    "candidates_token_count": 214,
+    "candidates_tokens_details": null,
+    "prompt_token_count": 758,
+    "prompt_tokens_details": [
+      {
+        "modality": "TEXT",
+        "token_count": 500
+      },
+      {
+        "modality": "IMAGE",
+        "token_count": 258
+      }
+    ],
+    "thoughts_token_count": 2679,
+    "tool_use_prompt_token_count": null,
+    "tool_use_prompt_tokens_details": null,
+    "total_token_count": 3651,
+    "traffic_type": null
+  },
+  "automatic_function_calling_history": [],
+  "parsed": null,
+  "page_number": 284
+}

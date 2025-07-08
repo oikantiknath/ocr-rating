@@ -1,0 +1,32 @@
+{
+  "page_number": 608,
+  "ocr_output": {
+    "blocks": [
+      {
+        "block_text": "SCHEDULE",
+        "lines": [
+          "SCHEDULE"
+        ],
+        "bounding_box": [
+          {
+            "x": 33,
+            "y": 40
+          },
+          {
+            "x": 209,
+            "y": 40
+          },
+          {
+            "x": 209,
+            "y": 65
+          },
+          {
+            "x": 33,
+            "y": 65
+          }
+        ],
+        "confidence": 0.9928015
+      }
+    ]
+  }
+}

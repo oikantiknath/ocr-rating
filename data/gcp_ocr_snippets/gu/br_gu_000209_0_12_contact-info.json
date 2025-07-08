@@ -1,0 +1,57 @@
+{
+  "page_number": 209,
+  "ocr_output": {
+    "blocks": [
+      {
+        "block_text": "AUM INTERIORS GALLERY",
+        "lines": [
+          "AUM INTERIORS GALLERY"
+        ],
+        "bounding_box": [
+          {
+            "x": 43,
+            "y": 4
+          },
+          {
+            "x": 232,
+            "y": 4
+          },
+          {
+            "x": 232,
+            "y": 18
+          },
+          {
+            "x": 43,
+            "y": 18
+          }
+        ],
+        "confidence": 0.9908359
+      },
+      {
+        "block_text": "Bhatar , Surat .",
+        "lines": [
+          "Bhatar , Surat ."
+        ],
+        "bounding_box": [
+          {
+            "x": 94,
+            "y": 23
+          },
+          {
+            "x": 182,
+            "y": 22
+          },
+          {
+            "x": 182,
+            "y": 35
+          },
+          {
+            "x": 94,
+            "y": 36
+          }
+        ],
+        "confidence": 0.97460145
+      }
+    ]
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "page_number": 207,
+  "ocr_output": {
+    "blocks": [
+      {
+        "block_text": "https://compose.kerala.gov.in/",
+        "lines": [
+          "https://compose.kerala.gov.in/"
+        ],
+        "bounding_box": [
+          {
+            "x": 13,
+            "y": 17
+          },
+          {
+            "x": 419,
+            "y": 17
+          },
+          {
+            "x": 419,
+            "y": 45
+          },
+          {
+            "x": 13,
+            "y": 45
+          }
+        ],
+        "confidence": 0.98353046
+      }
+    ]
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "page_number": 425,
+  "ocr_output": {
+    "blocks": [
+      {
+        "block_text": "Bharathidasan and Tamil are inseparable . In fact , Tamil language operated Bharathidasan . He did not consider Tamil as a language ; but treated it as his life . He had a strong belief that Tamil language is the life source of the Tamils ; without which the Tamil race is dead . It is because of this , he constantly injected into the minds of the Tamil people the sense of the language . This Paper discusses these sentiments as the Tamil Nationalism of Pavender and how he culls out the ideas through language , race and country .",
+        "lines": [
+          "Bharathidasan and Tamil are inseparable . In fact , Tamil language operated Bharathidasan . He did not consider Tamil as a language ; but treated it as his life . He had a strong belief that Tamil language is the life source of the Tamils ; without which the Tamil race is dead . It is because of this , he constantly injected into the minds of the Tamil people the sense of the language . This Paper discusses these sentiments as the Tamil Nationalism of Pavender and how he culls out the ideas through language , race and country ."
+        ],
+        "bounding_box": [
+          {
+            "x": 11,
+            "y": 4
+          },
+          {
+            "x": 410,
+            "y": 5
+          },
+          {
+            "x": 410,
+            "y": 74
+          },
+          {
+            "x": 11,
+            "y": 73
+          }
+        ],
+        "confidence": 0.9841847
+      }
+    ]
+  }
+}

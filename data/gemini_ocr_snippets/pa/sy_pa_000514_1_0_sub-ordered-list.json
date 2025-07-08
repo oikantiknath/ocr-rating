@@ -1,0 +1,79 @@
+{
+  "sdk_http_response": {
+    "headers": {
+      "content-type": "application/json; charset=UTF-8",
+      "vary": "Origin, X-Origin, Referer",
+      "content-encoding": "gzip",
+      "date": "Fri, 04 Jul 2025 03:48:51 GMT",
+      "server": "scaffolding on HTTPServer2",
+      "x-xss-protection": "0",
+      "x-frame-options": "SAMEORIGIN",
+      "x-content-type-options": "nosniff",
+      "server-timing": "gfet4t7; dur=13684",
+      "alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
+      "transfer-encoding": "chunked"
+    },
+    "body": null
+  },
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "1. ਕਿਸ਼ੋਰ ਅਵਸਥਾ ਅਤੇ ਪੁਨਣ ਆਯੂ ਦਾ ਆਰੰਭ (ADOLESCENCE AND PUBERTY): ਲੜਕੇ ਅਤੇ ਲੜਕੀਆਂ ਦੀ\nਕਿਸ਼ੋਰ ਅਵਸਥਾ ਦਾ ਸ਼ੁਰੂ ਹੋਣਾ।\n2. ਪੁਨਣ ਆਯੂ ਸ਼ੁਰੂ ਹੋਣ ਸਮੇਂ ਪਰਿਵਰਤਨ (CHANGES AT PUBERTY): ਜਵਾਨੀ ਦੇ ਸ਼ੁਰੂ ਵਿੱਚ ਲੜਕੇ ਅਤੇ ਲੜਕੀਆਂ\nਵਿੱਚ ਹੋਣ ਵਾਲੇ ਪਰਿਵਰਤਨ - ਸਰੀਰਿਕ, ਮਾਨਸਿਕ ਅਤੇ ਪੁਨਣ ਸੰਬੰਧੀ ਪਰਿਵਰਤਨ, ਅਵਾਜ਼ ਵਿੱਚ ਪਰਿਵਰਤਨ,\nਚਿਹਰੇ ਦੇ ਵਾਲ, ਦਾੜ੍ਹੀਆਂ, ਮਾਨਸਿਕ ਤੌਰ ਤੇ ਬੁੱਧੀ ਵਿੱਚ ਪਰਿਵਰਤਨ ਅਤੇ ਭਾਵਨਾਤਮਕ ਪਰਿਵਰਤਨ।\n3. ਸਹਾਇਕ ਲਿੰਗੀ ਗੁਣ (SECONDARY SEXUAL CHARACTERS): ਲੜਕਿਆਂ ਵਿੱਚ ਟੈਸਟੋਸਟੀਰੋਨ ਹਾਰਮੋਨ ਕਾਰਨ\nਦਾੜੀ, ਮੁੱਛਾਂ, ਕੱਛਾਂ ਅਤੇ ਜਨਨ ਅੰਗਾਂ ਨੇੜੇ ਵਾਲ ਆਉਣਾ, ਅਵਾਜ਼ ਭਾਰੀ ਹੋਣਾ। ਲੜਕੀਆਂ ਵਿੱਚ ਐਸਟਰੋਜਨ ਹਾਰਮੋਨ\nਦੇ ਪ੍ਰਭਾਵ ਕਾਰਨ ਛਾਤੀ ਵੱਧਣਾ, ਕਮਰ ਦਾ ਆਕਾਰ ਵੱਧਣਾ, ਬਗਲਾਂ ਅਤੇ ਜਨਨ ਅੰਗਾਂ ਨੇੜੇ ਵਾਲ ਆਉਣਾ,\nਚਿਹਰੇ ਤੇ ਕਿਲ ਅਤੇ ਫਾਈਆਂ ਆਉਣਾ।"
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": "STOP",
+      "safety_ratings": [
+        {
+          "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HATE_SPEECH",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HARASSMENT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+          "probability": "NEGLIGIBLE"
+        }
+      ],
+      "token_count": null
+    }
+  ],
+  "create_time": null,
+  "response_id": null,
+  "model_version": "gemini-2.5-pro",
+  "prompt_feedback": null,
+  "usage_metadata": {
+    "cache_tokens_details": null,
+    "cached_content_token_count": null,
+    "candidates_token_count": 359,
+    "candidates_tokens_details": null,
+    "prompt_token_count": 490,
+    "prompt_tokens_details": [
+      {
+        "modality": "TEXT",
+        "token_count": 232
+      },
+      {
+        "modality": "IMAGE",
+        "token_count": 258
+      }
+    ],
+    "thoughts_token_count": 672,
+    "tool_use_prompt_token_count": null,
+    "tool_use_prompt_tokens_details": null,
+    "total_token_count": 1521,
+    "traffic_type": null
+  },
+  "automatic_function_calling_history": [],
+  "parsed": null,
+  "page_number": 275
+}

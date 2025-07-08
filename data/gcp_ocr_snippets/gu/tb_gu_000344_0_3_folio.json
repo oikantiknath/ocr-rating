@@ -1,0 +1,32 @@
+{
+  "page_number": 344,
+  "ocr_output": {
+    "blocks": [
+      {
+        "block_text": "ગાવયુ .",
+        "lines": [
+          "ગાવયુ ."
+        ],
+        "bounding_box": [
+          {
+            "x": 5,
+            "y": 3
+          },
+          {
+            "x": 38,
+            "y": 5
+          },
+          {
+            "x": 37,
+            "y": 19
+          },
+          {
+            "x": 4,
+            "y": 17
+          }
+        ],
+        "confidence": 1
+      }
+    ]
+  }
+}

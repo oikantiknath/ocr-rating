@@ -1,0 +1,57 @@
+{
+  "page_number": 99,
+  "ocr_output": {
+    "blocks": [
+      {
+        "block_text": "A GUIDE TO TELUGU",
+        "lines": [
+          "A GUIDE TO TELUGU"
+        ],
+        "bounding_box": [
+          {
+            "x": 217,
+            "y": 27
+          },
+          {
+            "x": 885,
+            "y": 43
+          },
+          {
+            "x": 884,
+            "y": 84
+          },
+          {
+            "x": 216,
+            "y": 68
+          }
+        ],
+        "confidence": 0.9906713
+      },
+      {
+        "block_text": "COMPOSITION & TRANSLATION .",
+        "lines": [
+          "COMPOSITION & TRANSLATION ."
+        ],
+        "bounding_box": [
+          {
+            "x": 32,
+            "y": 98
+          },
+          {
+            "x": 1062,
+            "y": 121
+          },
+          {
+            "x": 1061,
+            "y": 163
+          },
+          {
+            "x": 31,
+            "y": 140
+          }
+        ],
+        "confidence": 0.986874
+      }
+    ]
+  }
+}

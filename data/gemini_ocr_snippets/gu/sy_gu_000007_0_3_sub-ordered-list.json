@@ -1,0 +1,79 @@
+{
+  "sdk_http_response": {
+    "headers": {
+      "content-type": "application/json; charset=UTF-8",
+      "vary": "Origin, X-Origin, Referer",
+      "content-encoding": "gzip",
+      "date": "Fri, 04 Jul 2025 05:39:10 GMT",
+      "server": "scaffolding on HTTPServer2",
+      "x-xss-protection": "0",
+      "x-frame-options": "SAMEORIGIN",
+      "x-content-type-options": "nosniff",
+      "server-timing": "gfet4t7; dur=30544",
+      "alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
+      "transfer-encoding": "chunked"
+    },
+    "body": null
+  },
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "1. તાર્કિક અને વિશ્લેષણાત્મક ક્ષમતા.\n2. સંચાલનની શ્રેણી, સંકેત અને તેનો ઉકેલ.\n3. સંબંધ વિષયક પ્રશ્નો.\n4. આકૃતિઓ અને તેના પેટા વિભાગો, વેન આકૃતિઓ.\n5. ઘડિયાળ, કેલેન્ડર અને ઉંમર સંબંધિત પ્રશ્નો.\n6. સંખ્યા વ્યવસ્થા અને તેના માનક્રમ.\n7. રેખિક સમીકરણ (એક કે બે ચલમાં).\n8. પ્રમાણ, હિસ્સો અને ચલ.\n9. સરેરાશ ચા મધ્યક, મધ્યસ્થ અને બહુલક, ભારિત સરેરાશ.\n10. ઘાત અને ઘાતાંક, વર્ગ, વર્ગમૂળ, ઘનમૂળ, ગુ.સા.અ અને લ.સા.અ.\n11. ટકા, સાદું અને ચક્રવૃદ્ધિ વ્યાજ, નફો અને નુકસાન.\n12. સમય અને કાર્ય, સમય અને અંતર, ઝડપ અને અંતર."
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": "STOP",
+      "safety_ratings": [
+        {
+          "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HATE_SPEECH",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HARASSMENT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+          "probability": "NEGLIGIBLE"
+        }
+      ],
+      "token_count": null
+    }
+  ],
+  "create_time": null,
+  "response_id": null,
+  "model_version": "gemini-2.5-pro",
+  "prompt_feedback": null,
+  "usage_metadata": {
+    "cache_tokens_details": null,
+    "cached_content_token_count": null,
+    "candidates_token_count": 248,
+    "candidates_tokens_details": null,
+    "prompt_token_count": 761,
+    "prompt_tokens_details": [
+      {
+        "modality": "TEXT",
+        "token_count": 503
+      },
+      {
+        "modality": "IMAGE",
+        "token_count": 258
+      }
+    ],
+    "thoughts_token_count": 2587,
+    "tool_use_prompt_token_count": null,
+    "tool_use_prompt_tokens_details": null,
+    "total_token_count": 3596,
+    "traffic_type": null
+  },
+  "automatic_function_calling_history": [],
+  "parsed": null,
+  "page_number": 300
+}

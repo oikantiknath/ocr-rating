@@ -1,0 +1,257 @@
+{
+  "page_number": 668,
+  "ocr_output": {
+    "blocks": [
+      {
+        "block_text": "17. हिस्टोरिकल स्केच ऑफ दि भिल्ल ट्राइब्ज ऑफ खानदेश ( 1843 ) या ग्रंथाचे लेखक कोण ?",
+        "lines": [
+          "17. हिस्टोरिकल स्केच ऑफ दि भिल्ल ट्राइब्ज ऑफ खानदेश ( 1843 ) या ग्रंथाचे लेखक कोण ?"
+        ],
+        "bounding_box": [
+          {
+            "x": 9,
+            "y": 9
+          },
+          {
+            "x": 423,
+            "y": 9
+          },
+          {
+            "x": 423,
+            "y": 23
+          },
+          {
+            "x": 9,
+            "y": 23
+          }
+        ],
+        "confidence": 0.9676896
+      },
+      {
+        "block_text": "( 1 ) शशिभूषण चौधरी",
+        "lines": [
+          "( 1 ) शशिभूषण चौधरी"
+        ],
+        "bounding_box": [
+          {
+            "x": 38,
+            "y": 39
+          },
+          {
+            "x": 138,
+            "y": 36
+          },
+          {
+            "x": 138,
+            "y": 50
+          },
+          {
+            "x": 38,
+            "y": 53
+          }
+        ],
+        "confidence": 0.94242966
+      },
+      {
+        "block_text": "( 2 ) व्हिन्सेट स्मिथ",
+        "lines": [
+          "( 2 ) व्हिन्सेट स्मिथ"
+        ],
+        "bounding_box": [
+          {
+            "x": 237,
+            "y": 40
+          },
+          {
+            "x": 322,
+            "y": 38
+          },
+          {
+            "x": 322,
+            "y": 50
+          },
+          {
+            "x": 237,
+            "y": 52
+          }
+        ],
+        "confidence": 0.95988625
+      },
+      {
+        "block_text": "( 4 ) जेम्स मिल",
+        "lines": [
+          "( 4 ) जेम्स मिल"
+        ],
+        "bounding_box": [
+          {
+            "x": 238,
+            "y": 70
+          },
+          {
+            "x": 308,
+            "y": 68
+          },
+          {
+            "x": 308,
+            "y": 81
+          },
+          {
+            "x": 238,
+            "y": 83
+          }
+        ],
+        "confidence": 0.9809975
+      },
+      {
+        "block_text": "( 3 ) ग्रॅहम",
+        "lines": [
+          "( 3 ) ग्रॅहम"
+        ],
+        "bounding_box": [
+          {
+            "x": 38,
+            "y": 71
+          },
+          {
+            "x": 84,
+            "y": 69
+          },
+          {
+            "x": 85,
+            "y": 81
+          },
+          {
+            "x": 39,
+            "y": 83
+          }
+        ],
+        "confidence": 0.9373224
+      },
+      {
+        "block_text": "Who is the author of “ Historical Sketch of the Bhill Tribes of Khandesh \" ( 1843 ) ?",
+        "lines": [
+          "Who is the author of “ Historical Sketch of the Bhill Tribes of Khandesh \" ( 1843 ) ?"
+        ],
+        "bounding_box": [
+          {
+            "x": 36,
+            "y": 99
+          },
+          {
+            "x": 440,
+            "y": 99
+          },
+          {
+            "x": 440,
+            "y": 112
+          },
+          {
+            "x": 36,
+            "y": 112
+          }
+        ],
+        "confidence": 0.9814263
+      },
+      {
+        "block_text": "( 2 ) Vincent Smith",
+        "lines": [
+          "( 2 ) Vincent Smith"
+        ],
+        "bounding_box": [
+          {
+            "x": 237,
+            "y": 125
+          },
+          {
+            "x": 336,
+            "y": 124
+          },
+          {
+            "x": 336,
+            "y": 137
+          },
+          {
+            "x": 237,
+            "y": 138
+          }
+        ],
+        "confidence": 0.98621976
+      },
+      {
+        "block_text": "( 1 ) Shashi Bhushan Chaudhari",
+        "lines": [
+          "( 1 ) Shashi Bhushan Chaudhari"
+        ],
+        "bounding_box": [
+          {
+            "x": 38,
+            "y": 127
+          },
+          {
+            "x": 203,
+            "y": 126
+          },
+          {
+            "x": 203,
+            "y": 138
+          },
+          {
+            "x": 38,
+            "y": 139
+          }
+        ],
+        "confidence": 0.99310005
+      },
+      {
+        "block_text": "( 4 ) James Mill",
+        "lines": [
+          "( 4 ) James Mill"
+        ],
+        "bounding_box": [
+          {
+            "x": 236,
+            "y": 153
+          },
+          {
+            "x": 316,
+            "y": 151
+          },
+          {
+            "x": 316,
+            "y": 165
+          },
+          {
+            "x": 236,
+            "y": 167
+          }
+        ],
+        "confidence": 0.97519165
+      },
+      {
+        "block_text": "( 3 ) Graham",
+        "lines": [
+          "( 3 ) Graham"
+        ],
+        "bounding_box": [
+          {
+            "x": 37,
+            "y": 154
+          },
+          {
+            "x": 105,
+            "y": 152
+          },
+          {
+            "x": 105,
+            "y": 165
+          },
+          {
+            "x": 37,
+            "y": 167
+          }
+        ],
+        "confidence": 0.9815973
+      }
+    ]
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "sdk_http_response": {
+    "headers": {
+      "content-type": "application/json; charset=UTF-8",
+      "vary": "Origin, X-Origin, Referer",
+      "content-encoding": "gzip",
+      "date": "Fri, 04 Jul 2025 03:19:57 GMT",
+      "server": "scaffolding on HTTPServer2",
+      "x-xss-protection": "0",
+      "x-frame-options": "SAMEORIGIN",
+      "x-content-type-options": "nosniff",
+      "server-timing": "gfet4t7; dur=30517",
+      "alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
+      "transfer-encoding": "chunked"
+    },
+    "body": null
+  },
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "जन्म के बाद की समस्याओं से निपटने की धुन में मनुष्य में पायी जाने वाली\nविविधता एवं फर्क का आदरपूर्वक स्वीकार एवं सहन करने की चेतना लुप्त होती जा रही है।\nइससे भी ज्यादा चिंताजनक बात अनुसंधान के लिए आवश्यक और उपयोगी जननिक तत्वों\n(जेनेटिक मटेरियल) के मालिकाना-हक सम्बन्धी सवालों की है। इस क्षेत्र में अनुसंधान करने\nवाली बड़ी संस्थाएँ और कम्पनियाँ ऐसे तत्वों का एकाधिकार (पेटेन्ट) पाने के लिए गलाकाट\nप्रतियोगिता में लगी हैं। मूल सवाल यह है कि क्या किसी जीव का या जीव के किसी तत्व का\nपेटेन्ट लेने की अनुमति प्रदान की जानी चाहिये? यदि दी जानी चाहिये तो किस प्रकार के पेटेन्ट\nके लिए? इससे अनुसंधान कार्य में कौन सी बाधाएँ पैदा होंगी? इन सवालों पर विज्ञान-जगत\nमें गर्मागर्म बहसें चल रही हैं।"
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": "STOP",
+      "safety_ratings": [
+        {
+          "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HATE_SPEECH",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HARASSMENT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+          "probability": "NEGLIGIBLE"
+        }
+      ],
+      "token_count": null
+    }
+  ],
+  "create_time": null,
+  "response_id": null,
+  "model_version": "gemini-2.5-pro",
+  "prompt_feedback": null,
+  "usage_metadata": {
+    "cache_tokens_details": null,
+    "cached_content_token_count": null,
+    "candidates_token_count": 188,
+    "candidates_tokens_details": null,
+    "prompt_token_count": 758,
+    "prompt_tokens_details": [
+      {
+        "modality": "TEXT",
+        "token_count": 500
+      },
+      {
+        "modality": "IMAGE",
+        "token_count": 258
+      }
+    ],
+    "thoughts_token_count": 2328,
+    "tool_use_prompt_token_count": null,
+    "tool_use_prompt_tokens_details": null,
+    "total_token_count": 3274,
+    "traffic_type": null
+  },
+  "automatic_function_calling_history": [],
+  "parsed": null,
+  "page_number": 43
+}

@@ -1,0 +1,32 @@
+{
+  "page_number": 213,
+  "ocr_output": {
+    "blocks": [
+      {
+        "block_text": "SYLLABUS EFFECTIVE FROM : 2017-18",
+        "lines": [
+          "SYLLABUS EFFECTIVE FROM : 2017-18"
+        ],
+        "bounding_box": [
+          {
+            "x": 3,
+            "y": 13
+          },
+          {
+            "x": 442,
+            "y": 13
+          },
+          {
+            "x": 442,
+            "y": 30
+          },
+          {
+            "x": 3,
+            "y": 30
+          }
+        ],
+        "confidence": 0.9873078
+      }
+    ]
+  }
+}

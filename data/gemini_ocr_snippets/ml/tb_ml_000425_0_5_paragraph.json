@@ -1,0 +1,79 @@
+{
+  "sdk_http_response": {
+    "headers": {
+      "content-type": "application/json; charset=UTF-8",
+      "vary": "Origin, X-Origin, Referer",
+      "content-encoding": "gzip",
+      "date": "Fri, 04 Jul 2025 05:13:29 GMT",
+      "server": "scaffolding on HTTPServer2",
+      "x-xss-protection": "0",
+      "x-frame-options": "SAMEORIGIN",
+      "x-content-type-options": "nosniff",
+      "server-timing": "gfet4t7; dur=43681",
+      "alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
+      "transfer-encoding": "chunked"
+    },
+    "body": null
+  },
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "നിലവിലെ ലിഖിതങ്ങൾ(2തരം)സാം,ഭൂമി,മദ്ധ്യ,ശിലായുഗമുള്ള ഭേദം. ഇവ ശാരീരമായ\nഅദ്ധ്വാനമായേത്തെ കാണിക്കുന്നു. തെന്നിട്ട് (മധുര)അം.ബാം, എന്ന് പരാജ്യം\nപറയുന്ന സാമന്തിന്റെ മധുവിദ്യ,സോമരസം, നാം. എണ്ണിയ ചിഹ്നം ഇവയാണ് പിന്നീട് കാ\nണുന്നത്.(മുകളിലെ ചിഹ്നം കാണുക)യോഗി,കല്ലേന്തൽ (പുരുഷൻ,സോമനിന്റെ ഇവ വേർതിരി\nച്ചെ സുരക്ഷിതമായ ബിംബങ്ങളാണ്. കളിമണ്ണനിലെ ചിഹ്നങ്ങളിൽ മൊത്തം( 2 കല്ലുകൾ\nഉണ്ട് കാണുന്നത്.സം.സ്നേഹരസം),നാം.(ശിവ,ശിവം-അല്ലെങ്കിലുള്ളത്) ചക്ര\nവും പൊടികളും ലിംഗയോനി(അരകല്ല്,ഉരൽ,മറ്റൊന്ന് സം.സ്നേഹരസം, ഉലക്ക( mortar and\npestle type),ഭസ്മം.ഇം ഉണ്ടാക്കാം.മോഹൻജദാരോവിൽനിന്നുകിട്ടിയ എ. 478ൽ 8 ദിക്ക\nളോടുകൂടിയ മണ്ഡലം. (രാശിചക്രം,സൂസിം) അഷ്ടകോണുള്ള ക്ഷേത്രഫലം കാണാനായി\nഉപയോഗിക്കുന്ന 9 എന്ന വിളിക്കുന്ന ചിഹ്നം.(ഒമ്പാറയിലെ). അഥവാ പാമ്പിനിലും ഉള്ളത്)\nമറ്റുള്ള ക്ഷേത്രത്തിനകത്ത് വൃഷഭ(വിഗ്രഹം)ചിഹ്നം, നാം.പോലെ ഒരു യാഗ് (ലഘു) 4 മാ\nത്രകളുടെ സം.ഖ്യ, യാഗ് ഉയർത്തിപ്പിടിച്ച് കിട്ടി ചിഹ്നം പടിഞ്ഞാറ് കുന്നിനപ്പുറം ആകാ\nയിരുന്ന മനുഷ്യ(നായക)രൂപം എന്നിവ കാണാം."
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": "STOP",
+      "safety_ratings": [
+        {
+          "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HATE_SPEECH",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HARASSMENT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+          "probability": "NEGLIGIBLE"
+        }
+      ],
+      "token_count": null
+    }
+  ],
+  "create_time": null,
+  "response_id": null,
+  "model_version": "gemini-2.5-pro",
+  "prompt_feedback": null,
+  "usage_metadata": {
+    "cache_tokens_details": null,
+    "cached_content_token_count": null,
+    "candidates_token_count": 427,
+    "candidates_tokens_details": null,
+    "prompt_token_count": 738,
+    "prompt_tokens_details": [
+      {
+        "modality": "TEXT",
+        "token_count": 480
+      },
+      {
+        "modality": "IMAGE",
+        "token_count": 258
+      }
+    ],
+    "thoughts_token_count": 3180,
+    "tool_use_prompt_token_count": null,
+    "tool_use_prompt_tokens_details": null,
+    "total_token_count": 4345,
+    "traffic_type": null
+  },
+  "automatic_function_calling_history": [],
+  "parsed": null,
+  "page_number": 369
+}

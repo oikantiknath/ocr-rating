@@ -1,0 +1,79 @@
+{
+  "sdk_http_response": {
+    "headers": {
+      "content-type": "application/json; charset=UTF-8",
+      "vary": "Origin, X-Origin, Referer",
+      "content-encoding": "gzip",
+      "date": "Fri, 04 Jul 2025 04:00:20 GMT",
+      "server": "scaffolding on HTTPServer2",
+      "x-xss-protection": "0",
+      "x-frame-options": "SAMEORIGIN",
+      "x-content-type-options": "nosniff",
+      "server-timing": "gfet4t7; dur=35374",
+      "alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
+      "transfer-encoding": "chunked"
+    },
+    "body": null
+  },
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "କିଛିଦିନ ତଳେ ଏମାନଙ୍କୁ ସମ୍ବନ୍ଧରେ ଦୁଇପଦ\nକଥା ଓ.ସି.ୟୁ ପୂର୍ବ ଅନୁଷ୍ଠାନ ଦ୍ବାରା ସେ\nସଭାଗୃହରେ ତା ପାଇଁ ସ୍ଥାନ ତଥା ହୃଦ-\nୟ ଦାନ ନ ଥିବାରୁ ଅନେକଙ୍କୁ କିଏ ଆସିଲେ\nବା ଗଲେ ସବୁ ସମାନ, ନ କେହି ପୂର୍ବତନଙ୍କୁ ଓ\nଆଉ କେତେକ ପ୍ରାଦେଶିକ ସଦସ୍ୟ ସମ୍ବନ୍ଧରେ\nଠାରେ କିମ୍ବା ନ ଥିବା ସ୍ଥାନରେ ପ୍ରାଦେଶିକ\nଅଫିସକୁ ପଠାଇ ଦେଇ ସବୁ ତ ସମ୍ଭାଳିବା\nଦେବାଲାଗି ଚେଷ୍ଟିତ ହେଉଛନ୍ତି ବାହାରକୁ\nକିଛି ପ୍ରକାଶ କଲେ । ହେଉଛନ୍ତି ସମ୍ବନ୍ଧରେ\nଏହି ସ୍ତୁତି ବାଦ । ଶ୍ରୀ ଦାସେ ସ୍ବଭାବ ଓ\nକାର୍ଯ୍ୟକଳାପ ସମ୍ବନ୍ଧରେ ଅନେକଙ୍କର ଧାରଣା\nପୁଣି ଏହି ସ୍ତୁତି ବାଦ ସମ୍ବନ୍ଧରେ । ସେ କହି\nଲେ ଯେ, ସେ ସଦସ୍ୟ ଅନୁଷ୍ଠାନ ସମ୍ବନ୍ଧ-\nରେ ବକ୍ତୃତା ଦେଉଥିଲେ ତାହା ସେ\nସେହି ଅଧିବାସୀ ବୋଲି ସ୍ଥିର କରିଥିଲେ ।\nମାତ୍ର ସେଠାରେ ନ ଥିବାରୁ, ଯଦି ଦୁଃଖର ସହ\nକେହିତ କିଛି କଥା କାହାରି କେହି କହିବାକୁ\nନାହିଁ ସେ ଅନୁଷ୍ଠାନ ଦ୍ବାରା ସେ କହି\nବସିଠାରେ ବସାଇବାକୁ ଚାହେଁଇ ରଖି\nଛନ୍ତି । ଫଳରେ ଅନୁଷ୍ଠାନ ଦ୍ବାରାର ଆବଶ୍ୟକତା\nହୋଇ ପାରେ ନାହିଁ । ସହିତ କହିଲେ ତାଙ୍କ\nସହିତ ବହୁତ ସେ ଲୋକଙ୍କର ବାସ୍ତବ\nଅବସ୍ଥାକୁ ଜଣାପଡିବ ତା ନ ହେବ । ସେ ଥରେ ତ\nକହିବା ନେଇଥିଲେ । ପୁଣି କହିବା ନେବା-\nକିଛି ନେଇଥିଲେ ବୋଲେ କହିଛନ୍ତି । ସ.ସି\nଅନୁଷ୍ଠାନ ସମ୍ବନ୍ଧରେ ଅଧିକା କିଛି ତାଙ୍କ\nକହିବାର କିଛି ଅର୍ଥ ନାହିଁ । ମୁଁ କେବଳ\nସବୁ ଅନ୍ୟାନ୍ୟ ଅନେକ କେତେକ କହିଛନ୍ତି ।\nକଲାବେଳେ କାହିଁକି କଣ ?"
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": "STOP",
+      "safety_ratings": [
+        {
+          "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HATE_SPEECH",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HARASSMENT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+          "probability": "NEGLIGIBLE"
+        }
+      ],
+      "token_count": null
+    }
+  ],
+  "create_time": null,
+  "response_id": null,
+  "model_version": "gemini-2.5-pro",
+  "prompt_feedback": null,
+  "usage_metadata": {
+    "cache_tokens_details": null,
+    "cached_content_token_count": null,
+    "candidates_token_count": 697,
+    "candidates_tokens_details": null,
+    "prompt_token_count": 782,
+    "prompt_tokens_details": [
+      {
+        "modality": "TEXT",
+        "token_count": 524
+      },
+      {
+        "modality": "IMAGE",
+        "token_count": 258
+      }
+    ],
+    "thoughts_token_count": 2340,
+    "tool_use_prompt_token_count": null,
+    "tool_use_prompt_tokens_details": null,
+    "total_token_count": 3819,
+    "traffic_type": null
+  },
+  "automatic_function_calling_history": [],
+  "parsed": null,
+  "page_number": 129
+}

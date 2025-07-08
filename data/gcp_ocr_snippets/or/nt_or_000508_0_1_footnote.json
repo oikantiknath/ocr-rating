@@ -1,0 +1,132 @@
+{
+  "page_number": 508,
+  "ocr_output": {
+    "blocks": [
+      {
+        "block_text": "Signature Not Verified",
+        "lines": [
+          "Signature Not Verified"
+        ],
+        "bounding_box": [
+          {
+            "x": 6,
+            "y": 7
+          },
+          {
+            "x": 152,
+            "y": 6
+          },
+          {
+            "x": 152,
+            "y": 20
+          },
+          {
+            "x": 6,
+            "y": 21
+          }
+        ],
+        "confidence": 0.9863701
+      },
+      {
+        "block_text": "Digitally Signed",
+        "lines": [
+          "Digitally Signed"
+        ],
+        "bounding_box": [
+          {
+            "x": 6,
+            "y": 26
+          },
+          {
+            "x": 54,
+            "y": 26
+          },
+          {
+            "x": 54,
+            "y": 34
+          },
+          {
+            "x": 6,
+            "y": 34
+          }
+        ],
+        "confidence": 0.8656741
+      },
+      {
+        "block_text": "Signed by : BHABAGRAHI JHANKAR",
+        "lines": [
+          "Signed by : BHABAGRAHI JHANKAR"
+        ],
+        "bounding_box": [
+          {
+            "x": 6,
+            "y": 32
+          },
+          {
+            "x": 120,
+            "y": 31
+          },
+          {
+            "x": 120,
+            "y": 40
+          },
+          {
+            "x": 6,
+            "y": 41
+          }
+        ],
+        "confidence": 0.9452934
+      },
+      {
+        "block_text": "Designation : Assistant Registrar - cum - Senior Secretary Reason : Authentication",
+        "lines": [
+          "Designation : Assistant Registrar - cum - Senior Secretary Reason : Authentication"
+        ],
+        "bounding_box": [
+          {
+            "x": 6,
+            "y": 39
+          },
+          {
+            "x": 176,
+            "y": 39
+          },
+          {
+            "x": 176,
+            "y": 53
+          },
+          {
+            "x": 6,
+            "y": 53
+          }
+        ],
+        "confidence": 0.8755735
+      },
+      {
+        "block_text": "Location : HIGH COURT OF ORISSA , CUTTACK Date : 27 - Jul - 2023 10:12:48",
+        "lines": [
+          "Location : HIGH COURT OF ORISSA , CUTTACK Date : 27 - Jul - 2023 10:12:48"
+        ],
+        "bounding_box": [
+          {
+            "x": 6,
+            "y": 54
+          },
+          {
+            "x": 157,
+            "y": 54
+          },
+          {
+            "x": 157,
+            "y": 68
+          },
+          {
+            "x": 6,
+            "y": 68
+          }
+        ],
+        "confidence": 0.92227703
+      }
+    ]
+  }
+}

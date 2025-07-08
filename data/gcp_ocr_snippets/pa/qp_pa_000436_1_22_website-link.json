@@ -1,0 +1,32 @@
+{
+  "page_number": 436,
+  "ocr_output": {
+    "blocks": [
+      {
+        "block_text": "www.dailyjobalert.in",
+        "lines": [
+          "www.dailyjobalert.in"
+        ],
+        "bounding_box": [
+          {
+            "x": 11,
+            "y": 167
+          },
+          {
+            "x": 11,
+            "y": 16
+          },
+          {
+            "x": 27,
+            "y": 16
+          },
+          {
+            "x": 27,
+            "y": 167
+          }
+        ],
+        "confidence": 0.98820275
+      }
+    ]
+  }
+}

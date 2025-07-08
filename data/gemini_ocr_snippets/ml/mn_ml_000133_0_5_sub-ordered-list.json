@@ -1,0 +1,79 @@
+{
+  "sdk_http_response": {
+    "headers": {
+      "content-type": "application/json; charset=UTF-8",
+      "vary": "Origin, X-Origin, Referer",
+      "content-encoding": "gzip",
+      "date": "Fri, 04 Jul 2025 05:05:55 GMT",
+      "server": "scaffolding on HTTPServer2",
+      "x-xss-protection": "0",
+      "x-frame-options": "SAMEORIGIN",
+      "x-content-type-options": "nosniff",
+      "server-timing": "gfet4t7; dur=101177",
+      "alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
+      "transfer-encoding": "chunked"
+    },
+    "body": null
+  },
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "1. യാത്രക്കാരോട് സഭ്യമായ വാക്കുകൾ ഉപയോഗിക്കുക.\n2. യാത്രക്കാരുടെ സംശയങ്ങൾക്ക് വളരെ സൗമ്യമായും മര്യാദയോടും കൂടി ഉത്തരം നൽകുക.\n3. വൃദ്ധർ, വികലാംഗർ, കുട്ടികൾ, രോഗികൾ, സ്ത്രീകൾ എന്നിങ്ങനെ സമൂഹത്തിന്റെ പ്രത്യേക\nപരിഗണന ആവശ്യമുള്ളവർക്ക് സൗകര്യപ്രദമായ രീതിയിൽ വാഹനം നിർത്തി കയറുവാനും ഇറങ്ങു\nവാനുള്ള സൗകര്യം ഒരുക്കുക.\n4. വളരെ വേഗത്തിലും അശ്രദ്ധമായും ബസ് ഓടിച്ച് യാത്രക്കാരെ പരിഭ്രാന്തരാക്കാതിരിക്കുക.\n5. മറ്റ് വാഹനങ്ങളെ ഡ്രൈവർമാരോട് വാഹനം നിർത്തി സംസാരിക്കുക,\nമത്സരിക്കുക തുടങ്ങിയവ ഒഴിവാക്കുക.\n6. ഓവർടേക്ക് ചെയ്യുകയോ എതിരെ വരുകയോ ചെയ്യുന്ന വാഹനങ്ങളെ ജീവനക്കാരോടും കാണുന്ന\nമറ്റുള്ളവരോടും അപമര്യാദയായി പെരുമാറുകയോ ചെയ്യുന്നത് ഒഴിവാക്കുക.\n7. ബസ്സുകൾ സ്റ്റോപ്പിൽ നിർത്താതിരിക്കുകയോ, വളരെ ദൂരെ മാറ്റി നിർത്തി യാത്രക്കാർക്ക് അസൗകര്യം\nഉണ്ടാക്കുകയോ ചെയ്യരുത്.\n8. യാത്രക്കാരെ കയറ്റുവാനോ ഇറക്കുവാനോ അയി സ്റ്റോപ്പുകളിൽ നിന്ന് നിർത്തുമ്പോൾ ബസ് റോഡി\nരയിൽ തന്നെ നിർത്തുക, ഒരിക്കലും കാണാതിരിക്കാനോ മറ്റ് വാഹനങ്ങൾക്കോ തടസ്സമുണ്ടാക്കാ\nതിരിക്കുക.\n9. അപകടവേളകളിലാണ് പൊതുജനങ്ങൾ ഡ്രൈവറോട് ക്രൂരമായി പ്രതികരിക്കാറുള്ളത്. തന്മൂലമല്ലാത്ത\nകുറ്റകൊണ്ടാണ് അപകടം സംഭവിച്ചതെങ്കിലും അപകടസ്ഥലത്തുനിന്നൊഴിയാതെ പരിക്കേറ്റ\nവരെയും സഹായിക്കേണ്ടതാണ്."
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": "STOP",
+      "safety_ratings": [
+        {
+          "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HATE_SPEECH",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HARASSMENT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+          "probability": "NEGLIGIBLE"
+        }
+      ],
+      "token_count": null
+    }
+  ],
+  "create_time": null,
+  "response_id": null,
+  "model_version": "gemini-2.5-pro",
+  "prompt_feedback": null,
+  "usage_metadata": {
+    "cache_tokens_details": null,
+    "cached_content_token_count": null,
+    "candidates_token_count": 381,
+    "candidates_tokens_details": null,
+    "prompt_token_count": 742,
+    "prompt_tokens_details": [
+      {
+        "modality": "TEXT",
+        "token_count": 484
+      },
+      {
+        "modality": "IMAGE",
+        "token_count": 258
+      }
+    ],
+    "thoughts_token_count": 10459,
+    "tool_use_prompt_token_count": null,
+    "tool_use_prompt_tokens_details": null,
+    "total_token_count": 11582,
+    "traffic_type": null
+  },
+  "automatic_function_calling_history": [],
+  "parsed": null,
+  "page_number": 85
+}

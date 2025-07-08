@@ -1,0 +1,107 @@
+{
+  "page_number": 98,
+  "ocr_output": {
+    "blocks": [
+      {
+        "block_text": "75. The young one of a pigeon is called :",
+        "lines": [
+          "75. The young one of a pigeon is called :"
+        ],
+        "bounding_box": [
+          {
+            "x": 17,
+            "y": 15
+          },
+          {
+            "x": 456,
+            "y": 13
+          },
+          {
+            "x": 456,
+            "y": 35
+          },
+          {
+            "x": 17,
+            "y": 37
+          }
+        ],
+        "confidence": 0.98471916
+      },
+      {
+        "block_text": "( B ) bunny ( D ) foal",
+        "lines": [
+          "( B ) bunny ( D ) foal"
+        ],
+        "bounding_box": [
+          {
+            "x": 604,
+            "y": 45
+          },
+          {
+            "x": 730,
+            "y": 40
+          },
+          {
+            "x": 732,
+            "y": 93
+          },
+          {
+            "x": 606,
+            "y": 98
+          }
+        ],
+        "confidence": 0.9864366
+      },
+      {
+        "block_text": "( A ) squab",
+        "lines": [
+          "( A ) squab"
+        ],
+        "bounding_box": [
+          {
+            "x": 134,
+            "y": 46
+          },
+          {
+            "x": 255,
+            "y": 46
+          },
+          {
+            "x": 255,
+            "y": 66
+          },
+          {
+            "x": 134,
+            "y": 66
+          }
+        ],
+        "confidence": 0.9781194
+      },
+      {
+        "block_text": "( C ) cygnet",
+        "lines": [
+          "( C ) cygnet"
+        ],
+        "bounding_box": [
+          {
+            "x": 134,
+            "y": 77
+          },
+          {
+            "x": 262,
+            "y": 79
+          },
+          {
+            "x": 262,
+            "y": 101
+          },
+          {
+            "x": 134,
+            "y": 99
+          }
+        ],
+        "confidence": 0.9792157
+      }
+    ]
+  }
+}

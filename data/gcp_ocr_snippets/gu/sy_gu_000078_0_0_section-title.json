@@ -1,0 +1,107 @@
+{
+  "page_number": 78,
+  "ocr_output": {
+    "blocks": [
+      {
+        "block_text": "Syllabus of Preliminary Examination",
+        "lines": [
+          "Syllabus of Preliminary Examination"
+        ],
+        "bounding_box": [
+          {
+            "x": 39,
+            "y": 26
+          },
+          {
+            "x": 952,
+            "y": 22
+          },
+          {
+            "x": 952,
+            "y": 70
+          },
+          {
+            "x": 39,
+            "y": 74
+          }
+        ],
+        "confidence": 0.98413646
+      },
+      {
+        "block_text": "for Gujarat Administrative services ,",
+        "lines": [
+          "for Gujarat Administrative services ,"
+        ],
+        "bounding_box": [
+          {
+            "x": 47,
+            "y": 133
+          },
+          {
+            "x": 942,
+            "y": 133
+          },
+          {
+            "x": 942,
+            "y": 179
+          },
+          {
+            "x": 47,
+            "y": 179
+          }
+        ],
+        "confidence": 0.98832387
+      },
+      {
+        "block_text": "Class - I , Gujarat Civil Service , Class- I and Class - ll and Gujarat Municipal",
+        "lines": [
+          "Class - I , Gujarat Civil Service , Class- I and Class - ll and Gujarat Municipal"
+        ],
+        "bounding_box": [
+          {
+            "x": 33,
+            "y": 237
+          },
+          {
+            "x": 960,
+            "y": 241
+          },
+          {
+            "x": 959,
+            "y": 397
+          },
+          {
+            "x": 32,
+            "y": 393
+          }
+        ],
+        "confidence": 0.9565113
+      },
+      {
+        "block_text": "Chief Officer Service , Class - II",
+        "lines": [
+          "Chief Officer Service , Class - II"
+        ],
+        "bounding_box": [
+          {
+            "x": 119,
+            "y": 455
+          },
+          {
+            "x": 872,
+            "y": 455
+          },
+          {
+            "x": 872,
+            "y": 499
+          },
+          {
+            "x": 119,
+            "y": 499
+          }
+        ],
+        "confidence": 0.9516937
+      }
+    ]
+  }
+}

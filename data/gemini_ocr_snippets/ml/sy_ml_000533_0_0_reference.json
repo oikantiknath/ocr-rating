@@ -1,0 +1,79 @@
+{
+  "sdk_http_response": {
+    "headers": {
+      "content-type": "application/json; charset=UTF-8",
+      "vary": "Origin, X-Origin, Referer",
+      "content-encoding": "gzip",
+      "date": "Fri, 04 Jul 2025 05:12:45 GMT",
+      "server": "scaffolding on HTTPServer2",
+      "x-xss-protection": "0",
+      "x-frame-options": "SAMEORIGIN",
+      "x-content-type-options": "nosniff",
+      "server-timing": "gfet4t7; dur=68022",
+      "alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
+      "transfer-encoding": "chunked"
+    },
+    "body": null
+  },
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "ശശിധരൻ. എസ്., ടി. കൃഷ്ണൻ, (2013) ഗദ്യത്തിന്റെ സാന്തര്യശാസ്ത്രം,\nതിരുവനന്തപുരം, ചിന്ത പബ്ലിക്കേഷൻസ്.\nഅജിത്, ടി., 2012, പച്ചമനുഷ്യർ, കണ്ണൂർ, കൈരളി ബുക്സ്\nഅംബികാസുതൻ മാങ്ങാട് (എഡി.), 2010, വയനാട്ടുകഥകൾ പരിസ്ഥിതി\nസാഹിത്യ പഠനം, കറന്റ്ബുക്സ്: തൃശൂർ, കോട്ടയം\nഅശോകൻ, 2014, ഇക്കോളജി രാഷ്ട്രീയo നഗരം (വി.വ.മാധ്യമം.കെ),\nതൃശൂർ കേരളീയം.\nആനന്ദ്, 1992, ജൈവമനുഷ്യൻ, കോട്ടയം: ഡി.സി. ബുക്സ്\nഉണ്ണികൃഷ്ണൻ, ഇ., 2011, കേരളത്തിലെ നാട്ടറിവുകളും, കോട്ടയം: ഡി.സി. ബുക്സ്\nഒരു സംഘം ലേഖകർ, 2011 - നിലച്ചോടിയ പ്രവാഹങ്ങൾ, (മാതൃഭൂമി\nവാർഷികപ്പതിപ്പ്) കോഴിക്കോട്,\nകക്കട് കെ.സി, 1994, നിലനില്പിന്റെ സാക്ഷി വൃക്ഷങ്ങൾ, തൃശ്ശൂർ: ജീവരേഖ\nകൃഷ്ണകുമാർ. എസ്, 2013, ഫോറസ്റ്റ് സി. ജേക്കബ്ബ് ജീവിതം, തിരുവനന്തപുരം:\nകേരള ഭാഷാ ഇൻസ്റ്റിറ്റ്യൂട്ട്\nദിലീപ് സി ശേഖർ , മാധ്യമധർമ്മം തുടങ്ങിയവർ, 2013, പരിസ്ഥിതിയെ\nമനസ്സിലാക്കാം. കോട്ടയം: ഡി.സി. ബുക്സ്\nകേരള ശാസ്ത്ര സാഹിത്യ പരിഷത്ത്, ഭൂമി ഒരു പൊതുസ്വത്ത്, തൃശ്ശൂർ\nകേരള ശാസ്ത്ര സാഹിത്യപരിഷത്ത്, 1987, ഉഷ്ണ പവിത്രന്റെ കാലത്തെ\nഅനുഭവങ്ങൾ, കൊച്ചി.\nനിർമ്മല, ജി., 2010 പരിസ്ഥിതിയുടെ വർത്തമാനം, കോഴിക്കോട്: മാതൃഭൂമി\nബുക്സ്.\nപ്രകൃതി സംരക്ഷണ സമിതി : വയനാട്, തൃശ്ശൂർ: കേരള ശാസ്ത്ര സാഹിത്യ\nപഠനസമിതി. ടി.പി., (എഡി.), 2002, ഇടനാടൻ കുന്നുകൾ ഒരു\nപരിസ്ഥിതി പഠനം, എടപ്പാൾ, സീക്ക്\nപൗരൻ രാമചന്ദ്രൻ നായർ, 2013, മാധ്യമങ്ങൾ, കോട്ടയം: കറന്റ്\nബുക്സ്\nബാബു, പി.എം., (എഡി.), 2011, മുസ്ലീം നവതരംഗ ഭാവന, പയ്യന്നൂർ, നവാധ്വാനം.\nസജിത്. ടി.വി., 2002, ജീവൽശാസ്ത്രം, കോട്ടയം, ഡി.സി.ബുക്സ്\nശാന്തി എസ്., 2008, ശലഭങ്ങൾ മാത്രം, കാർബൺ കറുത്ത സത്യവാങ്മൂലം,\nഎടപ്പാൾ, സീക്ക്"
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": "STOP",
+      "safety_ratings": [
+        {
+          "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HATE_SPEECH",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HARASSMENT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+          "probability": "NEGLIGIBLE"
+        }
+      ],
+      "token_count": null
+    }
+  ],
+  "create_time": null,
+  "response_id": null,
+  "model_version": "gemini-2.5-pro",
+  "prompt_feedback": null,
+  "usage_metadata": {
+    "cache_tokens_details": null,
+    "cached_content_token_count": null,
+    "candidates_token_count": 702,
+    "candidates_tokens_details": null,
+    "prompt_token_count": 739,
+    "prompt_tokens_details": [
+      {
+        "modality": "TEXT",
+        "token_count": 481
+      },
+      {
+        "modality": "IMAGE",
+        "token_count": 258
+      }
+    ],
+    "thoughts_token_count": 5968,
+    "tool_use_prompt_token_count": null,
+    "tool_use_prompt_tokens_details": null,
+    "total_token_count": 7409,
+    "traffic_type": null
+  },
+  "automatic_function_calling_history": [],
+  "parsed": null,
+  "page_number": 338
+}

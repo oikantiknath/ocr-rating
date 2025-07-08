@@ -1,0 +1,79 @@
+{
+  "sdk_http_response": {
+    "headers": {
+      "content-type": "application/json; charset=UTF-8",
+      "vary": "Origin, X-Origin, Referer",
+      "content-encoding": "gzip",
+      "date": "Fri, 04 Jul 2025 04:49:38 GMT",
+      "server": "scaffolding on HTTPServer2",
+      "x-xss-protection": "0",
+      "x-frame-options": "SAMEORIGIN",
+      "x-content-type-options": "nosniff",
+      "server-timing": "gfet4t7; dur=40166",
+      "alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
+      "transfer-encoding": "chunked"
+    },
+    "body": null
+  },
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "(ಎ) ಈ ಅಧಿನಿಯಮದ ಮೇರೆಗೆ ಕೊಡಬೇಕಾದ ಅಥವಾ ಕೊಡಲು ಅಧಿಕೃತಗೊಂಡ\nಯಾವುದೇ ನೋಟೀಸಿನ ನಮೂನೆ ಮತ್ತು ಅದನ್ನು ಜಾರಿಗೊಳಿಸಬಹುದಾದಂಥ ರೀತಿ;\n(ಬಿ) ಈ ಅಧಿನಿಯಮದ ಮೇರೆಗೆ ವಿವರಣೆಗಳನ್ನು ನೀಡುವುದು;\n(ಸಿ) ಏಜೆಂಟ್ ಅಧಿಕಾರಿಗಳಿಗೆ ಕೆಲಸದ ವಿವರಣೆ ಮತ್ತು ಹಂಚಿಕೆ ಮತ್ತು ಒಬ್ಬ ಏಜೆಂಟ್\nಅಧಿಕಾರಿಯ ಬಳಿ ಇಷ್ಟಾರ್ಥದಲ್ಲಿರುವ ಯಾವುದೇ ವ್ಯವಹಾರವನ್ನು ಮತ್ತೊಬ್ಬ ಏಜೆಂಟ್ ಅಧಿಕಾರಿಗೆ\nವರ್ಗಾವಣೆ ಮಾಡುವುದು;\n(ಡಿ) ಸಾರ್ವಜನಿಕ ವಿವರಣೆಗಳನ್ನು ಸಾಧ್ಯವಿದ್ದಲ್ಲಿ ತೆಗೆದುಕೊಳ್ಳುವಲ್ಲಿ ಅನುಸರಿಸಬೇಕಾದ ವಿಧಾನ;\n(ಇ) ಅನಧಿಕೃತ ಅಧಿಭೋಗಕ್ಕೆ ಸಂಬಂಧಿಸಿದ ಹಾನಿ ಪರಿಹಾರವನ್ನು ನಿರ್ಧರಿಸಬಹುದಾದ\nರೀತಿ ಮತ್ತು ಅಂತಹ ಹಾನಿ ಪರಿಹಾರವನ್ನು ನಿರ್ಧರಿಸುವಾಗ ಗಣನೆಗೆ ತೆಗೆದುಕೊಳ್ಳಬೇಕಾದಂಥ\nತತ್ವಗಳು;\n(ಎಎ) 7ನೇ ಪ್ರಕರಣದ (1)ನೇ ಉಪಪ್ರಕರಣದ ಮೇರೆಗೆ ಮಾಡಲಾದ ಯಾವುದೇ\nಆದೇಶದಲ್ಲಿ ನಿರ್ದಿಷ್ಟಪಡಿಸಿದ ಬಾಡಿಗೆ ಅಥವಾ ಆ ಪ್ರಕರಣದ (2)ನೇ ಉಪಪ್ರಕರಣದ ಮೇರೆಗೆ\nನಿರ್ಧರಿಸಲಾದ ಹಾನಿ ಪರಿಹಾರ-ಬಾಕಿಗಳ ಬಾಕಿಗಳ ಮೇಲೆ ಸಂದಾಯವಾಗತಕ್ಕ ದರ;\n(ಬಿಬಿ) 5ಸಿ ಪ್ರಕರಣದ (1)ನೇ ಉಪಪ್ರಕರಣದ ಮೇರೆಗೆ ಯಾವುದೇ ನಿರ್ಮಿತಿಯನ್ನು ಅಥವಾ\nಕಾಮಗಾರಿಯನ್ನು ಅಥವಾ ಯಾವುದೇ ಸಾರ್ವಜನಿಕ ವಿವರಣೆಗಳನ್ನು ಸೀಲ್ ಮಾಡಬಹುದಾದ ರೀತಿ;\n(ಎಫ್) ಆಯೋಗಗಳನ್ನು ಸಲ್ಲಿಸಬಹುದಾದಂಥ ರೀತಿ ಮತ್ತು ಆಯೋಗಗಳಲ್ಲಿ ಅನುಸರಿಸಬೇಕಾದ\nಕಾರ್ಯವಿಧಾನ;\n(ಜಿ) ನಿಯಮಿಸಬೇಕಾದ ಅಥವಾ ನಿಯಮಿಸಬಹುದಾದ ಯಾವುದೇ ಇತರ ವಿಷಯ."
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": "STOP",
+      "safety_ratings": [
+        {
+          "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HATE_SPEECH",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HARASSMENT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+          "probability": "NEGLIGIBLE"
+        }
+      ],
+      "token_count": null
+    }
+  ],
+  "create_time": null,
+  "response_id": null,
+  "model_version": "gemini-2.5-pro",
+  "prompt_feedback": null,
+  "usage_metadata": {
+    "cache_tokens_details": null,
+    "cached_content_token_count": null,
+    "candidates_token_count": 384,
+    "candidates_tokens_details": null,
+    "prompt_token_count": 731,
+    "prompt_tokens_details": [
+      {
+        "modality": "TEXT",
+        "token_count": 473
+      },
+      {
+        "modality": "IMAGE",
+        "token_count": 258
+      }
+    ],
+    "thoughts_token_count": 3580,
+    "tool_use_prompt_token_count": null,
+    "tool_use_prompt_tokens_details": null,
+    "total_token_count": 4695,
+    "traffic_type": null
+  },
+  "automatic_function_calling_history": [],
+  "parsed": null,
+  "page_number": 141
+}

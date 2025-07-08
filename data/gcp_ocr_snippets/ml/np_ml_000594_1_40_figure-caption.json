@@ -1,0 +1,82 @@
+{
+  "page_number": 594,
+  "ocr_output": {
+    "blocks": [
+      {
+        "block_text": "laod al",
+        "lines": [
+          "laod al"
+        ],
+        "bounding_box": [
+          {
+            "x": 41,
+            "y": 33
+          },
+          {
+            "x": 73,
+            "y": 33
+          },
+          {
+            "x": 73,
+            "y": 40
+          },
+          {
+            "x": 41,
+            "y": 40
+          }
+        ],
+        "confidence": 0.40777016
+      },
+      {
+        "block_text": "( anag ) , angal ( man ) , ma and a cool",
+        "lines": [
+          "( anag ) , angal ( man ) , ma and a cool"
+        ],
+        "bounding_box": [
+          {
+            "x": 3,
+            "y": 42
+          },
+          {
+            "x": 74,
+            "y": 42
+          },
+          {
+            "x": 74,
+            "y": 65
+          },
+          {
+            "x": 3,
+            "y": 65
+          }
+        ],
+        "confidence": 0.49516615
+      },
+      {
+        "block_text": "alg , myal ma",
+        "lines": [
+          "alg , myal ma"
+        ],
+        "bounding_box": [
+          {
+            "x": 4,
+            "y": 66
+          },
+          {
+            "x": 63,
+            "y": 66
+          },
+          {
+            "x": 63,
+            "y": 73
+          },
+          {
+            "x": 4,
+            "y": 73
+          }
+        ],
+        "confidence": 0.51517373
+      }
+    ]
+  }
+}

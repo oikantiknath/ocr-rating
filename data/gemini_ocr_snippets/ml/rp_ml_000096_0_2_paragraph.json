@@ -1,0 +1,79 @@
+{
+  "sdk_http_response": {
+    "headers": {
+      "content-type": "application/json; charset=UTF-8",
+      "vary": "Origin, X-Origin, Referer",
+      "content-encoding": "gzip",
+      "date": "Fri, 04 Jul 2025 05:09:12 GMT",
+      "server": "scaffolding on HTTPServer2",
+      "x-xss-protection": "0",
+      "x-frame-options": "SAMEORIGIN",
+      "x-content-type-options": "nosniff",
+      "server-timing": "gfet4t7; dur=42119",
+      "alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
+      "transfer-encoding": "chunked"
+    },
+    "body": null
+  },
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "ചെറുചിത്രത്തിന്റെ വേദനയും വിരഹവും എഡിറ്റിങ്ങിനെ ആശ്രയിച്ചാ\nകുന്നു. കട്ടുകൾ കൂടിയ സിനിമയും കുറഞ്ഞ സിനിമയും കാഴ്ചാതലത്തിൽ\nവ്യത്യസ്ത അനുഭവങ്ങൾ പകരുന്നു. കുറേ കട്ടുകളുള്ള ചെറുചിത്രങ്ങളിൽ വേദന\nടുന്നത് അനുഭവപ്പെടാറുണ്ട്. കട്ടുകൾ കുറഞ്ഞവയിൽ പതിഞ്ഞ താളവും. എഡിറ്റ\nറുടെ ജോലി ഭദ്രതയും സൗന്ദര്യവും കല്പിക്കലാണ്. ദൃശ്യവിനങ്ങ\nളെയും ദൃശ്യഭാഷയായി എഡിറ്റിങ്ങിലൂടെ പുനരാവിഷ്കരിക്കുന്നു. തിരക്ക\nഥയ്ക്കും ചിത്രീകരിച്ച ദൃശ്യനിബദ്ധതയായി അർത്ഥോൽപ്പാദനത്തിൽ ക്രിയാത്മക\nത ഇടപെടൽ നടത്താൻ എഡിറ്റിങ്ങിന് സാധിക്കുന്നു. സ്ഥലകാലസങ്കൽപ്പങ്ങളെ\nഅട്ടിമറിക്കാനും കഥാതന്തുവിനെ പുനർവിന്യസിക്കാനും ഈ ഘട്ടത്തിൽ കഴിയും.\nചെറുചിത്രത്തിന്റെ വൈകാരികതയോടും സാങ്കേതികതയോടും അനുഭവപരത\nഎഡിറ്റിങ്ങിന്റെ ക്രിയാത്മകതയ്ക്കനുസരിച്ചാണ്. ചിത്രീകരിച്ച ഷോട്ടുകൾ\nഅർത്ഥോൽപ്പാദനത്തിനുതകുന്നതായും ചെറുചിത്രരൂപകമായും ഈ ഘട്ടത്തിൽ രൂപ"
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": "STOP",
+      "safety_ratings": [
+        {
+          "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HATE_SPEECH",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HARASSMENT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+          "probability": "NEGLIGIBLE"
+        }
+      ],
+      "token_count": null
+    }
+  ],
+  "create_time": null,
+  "response_id": null,
+  "model_version": "gemini-2.5-pro",
+  "prompt_feedback": null,
+  "usage_metadata": {
+    "cache_tokens_details": null,
+    "cached_content_token_count": null,
+    "candidates_token_count": 277,
+    "candidates_tokens_details": null,
+    "prompt_token_count": 740,
+    "prompt_tokens_details": [
+      {
+        "modality": "TEXT",
+        "token_count": 482
+      },
+      {
+        "modality": "IMAGE",
+        "token_count": 258
+      }
+    ],
+    "thoughts_token_count": 3657,
+    "tool_use_prompt_token_count": null,
+    "tool_use_prompt_tokens_details": null,
+    "total_token_count": 4674,
+    "traffic_type": null
+  },
+  "automatic_function_calling_history": [],
+  "parsed": null,
+  "page_number": 278
+}

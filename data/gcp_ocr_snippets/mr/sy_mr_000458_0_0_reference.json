@@ -1,0 +1,132 @@
+{
+  "page_number": 458,
+  "ocr_output": {
+    "blocks": [
+      {
+        "block_text": "11. Shivaji - Setu Madhav Pagadi",
+        "lines": [
+          "11. Shivaji - Setu Madhav Pagadi"
+        ],
+        "bounding_box": [
+          {
+            "x": 22,
+            "y": 27
+          },
+          {
+            "x": 524,
+            "y": 28
+          },
+          {
+            "x": 524,
+            "y": 57
+          },
+          {
+            "x": 22,
+            "y": 56
+          }
+        ],
+        "confidence": 0.96165895
+      },
+      {
+        "block_text": "12 .",
+        "lines": [
+          "12 ."
+        ],
+        "bounding_box": [
+          {
+            "x": 22,
+            "y": 71
+          },
+          {
+            "x": 61,
+            "y": 71
+          },
+          {
+            "x": 61,
+            "y": 95
+          },
+          {
+            "x": 22,
+            "y": 95
+          }
+        ],
+        "confidence": 0.9890161
+      },
+      {
+        "block_text": "Main Currents in Maratha History -G.S. Sardesai",
+        "lines": [
+          "Main Currents in Maratha History -G.S. Sardesai"
+        ],
+        "bounding_box": [
+          {
+            "x": 119,
+            "y": 71
+          },
+          {
+            "x": 776,
+            "y": 71
+          },
+          {
+            "x": 776,
+            "y": 100
+          },
+          {
+            "x": 119,
+            "y": 100
+          }
+        ],
+        "confidence": 0.9738038
+      },
+      {
+        "block_text": "13. History of the Maratha Navy and Merchantship- B.K. Apte",
+        "lines": [
+          "13. History of the Maratha Navy and Merchantship- B.K. Apte"
+        ],
+        "bounding_box": [
+          {
+            "x": 22,
+            "y": 114
+          },
+          {
+            "x": 909,
+            "y": 115
+          },
+          {
+            "x": 909,
+            "y": 146
+          },
+          {
+            "x": 22,
+            "y": 145
+          }
+        ],
+        "confidence": 0.97996926
+      },
+      {
+        "block_text": "14. Mughal Maratha Relations : Twenty Five Fateful Years ( 1682-1707 ) -G.T. Kulkarni",
+        "lines": [
+          "14. Mughal Maratha Relations : Twenty Five Fateful Years ( 1682-1707 ) -G.T. Kulkarni"
+        ],
+        "bounding_box": [
+          {
+            "x": 22,
+            "y": 159
+          },
+          {
+            "x": 1235,
+            "y": 159
+          },
+          {
+            "x": 1235,
+            "y": 188
+          },
+          {
+            "x": 22,
+            "y": 188
+          }
+        ],
+        "confidence": 0.98572683
+      }
+    ]
+  }
+}

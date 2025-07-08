@@ -1,0 +1,79 @@
+{
+  "sdk_http_response": {
+    "headers": {
+      "content-type": "application/json; charset=UTF-8",
+      "vary": "Origin, X-Origin, Referer",
+      "content-encoding": "gzip",
+      "date": "Fri, 04 Jul 2025 05:37:06 GMT",
+      "server": "scaffolding on HTTPServer2",
+      "x-xss-protection": "0",
+      "x-frame-options": "SAMEORIGIN",
+      "x-content-type-options": "nosniff",
+      "server-timing": "gfet4t7; dur=18153",
+      "alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
+      "transfer-encoding": "chunked"
+    },
+    "body": null
+  },
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "6.1. The Applicant shall be a company incorporated as per Indian Companies Act 1956 or\n2013 (Copy of Memorandum and Article of the association and certificate of\nincorporation of the Proposer should be submitted) Or Registered Partnership firm\n(Copy of Partnership Deed and registration certificate should be submitted) or a\nregistered proprietary firm (Copy of any registration certificate)\n\n6.2. The Applicant's average annual turnover in the last five financial years must be at least\nRs.10 crore from coaching activities (JEE & NEET only). A Certificate from statutory\nAuditor of the firm along with its stamp and UDIN specifying the turnover shall be\nsubmitted.\n\n6.3. Applicants blacklisted by any Government department, PSU or Government company\nare not eligible (Provide anti Blacklisting certificated as per the format attached\nannexure 3).\n\n6.4. The Applicant must have hands-on experience of coaching at least 10000 number of\nstudents per year for NEET + JEE in last five financial years on an average. The Applicants\nshall have to submit documentary evidences in terms of Letter from Auditor plus any\nother evidences to showcase relevant experience as required in this clause.\n\n6.5. At least 400 students coached by the Applicant firm must have cleared competitive\nexams in terms of NEET + JEE Advanced (ranking upto 10,000) on an average over the\nlast five financial years. The Applicants shall have to submit documentary evidences in\nterms of Letter from Auditor plus any other evidences to showcase relevant experience\nas required in this clause."
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": "STOP",
+      "safety_ratings": [
+        {
+          "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HATE_SPEECH",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HARASSMENT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+          "probability": "NEGLIGIBLE"
+        }
+      ],
+      "token_count": null
+    }
+  ],
+  "create_time": null,
+  "response_id": null,
+  "model_version": "gemini-2.5-pro",
+  "prompt_feedback": null,
+  "usage_metadata": {
+    "cache_tokens_details": null,
+    "cached_content_token_count": null,
+    "candidates_token_count": 336,
+    "candidates_tokens_details": null,
+    "prompt_token_count": 758,
+    "prompt_tokens_details": [
+      {
+        "modality": "TEXT",
+        "token_count": 500
+      },
+      {
+        "modality": "IMAGE",
+        "token_count": 258
+      }
+    ],
+    "thoughts_token_count": 1150,
+    "tool_use_prompt_token_count": null,
+    "tool_use_prompt_tokens_details": null,
+    "total_token_count": 2244,
+    "traffic_type": null
+  },
+  "automatic_function_calling_history": [],
+  "parsed": null,
+  "page_number": 156
+}

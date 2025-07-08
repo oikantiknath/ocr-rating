@@ -1,0 +1,79 @@
+{
+  "sdk_http_response": {
+    "headers": {
+      "content-type": "application/json; charset=UTF-8",
+      "vary": "Origin, X-Origin, Referer",
+      "content-encoding": "gzip",
+      "date": "Fri, 04 Jul 2025 05:23:09 GMT",
+      "server": "scaffolding on HTTPServer2",
+      "x-xss-protection": "0",
+      "x-frame-options": "SAMEORIGIN",
+      "x-content-type-options": "nosniff",
+      "server-timing": "gfet4t7; dur=42918",
+      "alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
+      "transfer-encoding": "chunked"
+    },
+    "body": null
+  },
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "तसेच प्रभातचा ‘अमरज्योती’ हा दर्यावर्दी चित्रपट\nम्हणून प्रभात त्याची जाहिरात करत असे. त्या चित्रपटांचे\nपरीक्षण करताना ओक लिहितात, ‘प्रभातच्या या\nचित्रपटात दर्या फक्त वर्दी लावण्यापुरता दिसतो.’\nमिष्कीलपणा हा त्यांच्या लेखणीचा गुण त्यांच्या\nपरीक्षणामधून सहजगत्या उमटून जातो. प्रतिभामध्ये\nत्यांनी प्रभातच्या ‘धर्मात्मा’ या चित्रपटाचे दीर्घ परीक्षण\nलिहिले होते. पॉप्युलर प्रकाशन संस्थेने ‘धर्मात्मा’\nचित्रपटाची कथा, पटकथा, संवाद आणि गाणी असणारे\nदर्जेदार पुस्तक काढले. प्रतिभामध्ये श्यामराव ओक यांनी\nलिहिलेल्या परीक्षणाचा संपूर्ण भाग त्या पुस्तकात घेतला\nआहे, हे आवर्जून नमूद केले पाहिजे. पुढे १९३९-४०\nसाली श्यामरावांनी जाहिराती आणि परीक्षण करण्याचे\nसोडून दिले व उत्तमोत्तम ग्रंथ लिहिण्यास सुरुवात केली.\n‘गलोल’, ‘बाभळवनात’, ‘मालगुडी’, ‘परिहास’,\n‘हवेवर’, ‘नवमिका’ हे त्यांचे काही ग्रंथ आजही\nआवर्जून वाचले जातात. ‘शामराई’ या त्यांच्या\nगाजलेल्या विनोदी संग्रहाला पु.ल. देशपांडे यांची\nप्रस्तावना आहे."
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": "STOP",
+      "safety_ratings": [
+        {
+          "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HATE_SPEECH",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HARASSMENT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+          "probability": "NEGLIGIBLE"
+        }
+      ],
+      "token_count": null
+    }
+  ],
+  "create_time": null,
+  "response_id": null,
+  "model_version": "gemini-2.5-pro",
+  "prompt_feedback": null,
+  "usage_metadata": {
+    "cache_tokens_details": null,
+    "cached_content_token_count": null,
+    "candidates_token_count": 289,
+    "candidates_tokens_details": null,
+    "prompt_token_count": 714,
+    "prompt_tokens_details": [
+      {
+        "modality": "TEXT",
+        "token_count": 456
+      },
+      {
+        "modality": "IMAGE",
+        "token_count": 258
+      }
+    ],
+    "thoughts_token_count": 3791,
+    "tool_use_prompt_token_count": null,
+    "tool_use_prompt_tokens_details": null,
+    "total_token_count": 4794,
+    "traffic_type": null
+  },
+  "automatic_function_calling_history": [],
+  "parsed": null,
+  "page_number": 8
+}

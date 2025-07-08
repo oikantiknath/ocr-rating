@@ -1,0 +1,79 @@
+{
+  "sdk_http_response": {
+    "headers": {
+      "content-type": "application/json; charset=UTF-8",
+      "vary": "Origin, X-Origin, Referer",
+      "content-encoding": "gzip",
+      "date": "Fri, 04 Jul 2025 05:36:19 GMT",
+      "server": "scaffolding on HTTPServer2",
+      "x-xss-protection": "0",
+      "x-frame-options": "SAMEORIGIN",
+      "x-content-type-options": "nosniff",
+      "server-timing": "gfet4t7; dur=40875",
+      "alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
+      "transfer-encoding": "chunked"
+    },
+    "body": null
+  },
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "૧. ૧-૨ ચમચી ફુદીનાનો રસ પીવો.\n૨. લીંબુ કાપી તેના ઉપર ખાંડ ભભરાવીને ચૂસવાથી અન્નવિકારથી\nથતી ઊલટી મટે છે.\n૩. તુલસી અને આદુનો રસ મધ સાથે લેવો.\n૪. મરી અને મીઠું વાટીને ફાકવાથી ઊલટીમાં રાહત મળે છે.\n૫. રાઈને ઝીણી વાટી પાણીમાં પલાળી થોડું ગરમ કરી પેટ ઉપર લેપ\nકરવો.\n૬. સૂંઠ અને ગંઠોડાનું ચૂર્ણ ૩ થી ૪ ગ્રામ મધમાં ભેળવીને ચાટવું.\n૭. મીઠા લીમડાના પાનનો ઉકાળો પીવો.\n૮. ૧૦-૧૦ ગ્રામ દ્રાક્ષ અને ધાણા વાટી તેમાં થોડી સાકર મેળવીને\nપાણીમાં એકરસ કરી પીવાથી પિત્તની ઊલટી મટે છે.\n૯. ૧૦ ગ્રામ પાકી આંબલીને ૧ કપ પાણીમાં પલાળી તેનું પાણી\nગાળીને પીવાથી પિત્તની ઊલટીમાં રાહત મળે છે.\n૧૦. અડધો કપ ગરમ પાણીમાં ૧ ગ્રામ ખાવાનો સોડા નાખીને પીવાથી\nકફજન્ય ઊલટી દૂર થાય છે."
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": "STOP",
+      "safety_ratings": [
+        {
+          "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+          "probability": "LOW"
+        },
+        {
+          "category": "HARM_CATEGORY_HATE_SPEECH",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HARASSMENT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+          "probability": "NEGLIGIBLE"
+        }
+      ],
+      "token_count": null
+    }
+  ],
+  "create_time": null,
+  "response_id": null,
+  "model_version": "gemini-2.5-pro",
+  "prompt_feedback": null,
+  "usage_metadata": {
+    "cache_tokens_details": null,
+    "cached_content_token_count": null,
+    "candidates_token_count": 302,
+    "candidates_tokens_details": null,
+    "prompt_token_count": 758,
+    "prompt_tokens_details": [
+      {
+        "modality": "TEXT",
+        "token_count": 500
+      },
+      {
+        "modality": "IMAGE",
+        "token_count": 258
+      }
+    ],
+    "thoughts_token_count": 3864,
+    "tool_use_prompt_token_count": null,
+    "tool_use_prompt_tokens_details": null,
+    "total_token_count": 4924,
+    "traffic_type": null
+  },
+  "automatic_function_calling_history": [],
+  "parsed": null,
+  "page_number": 52
+}

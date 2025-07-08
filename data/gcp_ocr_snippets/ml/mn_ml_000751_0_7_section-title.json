@@ -1,0 +1,32 @@
+{
+  "page_number": 751,
+  "ocr_output": {
+    "blocks": [
+      {
+        "block_text": "3.4.12 . Generate Pay Bill",
+        "lines": [
+          "3.4.12 . Generate Pay Bill"
+        ],
+        "bounding_box": [
+          {
+            "x": 13,
+            "y": 8
+          },
+          {
+            "x": 242,
+            "y": 6
+          },
+          {
+            "x": 242,
+            "y": 24
+          },
+          {
+            "x": 13,
+            "y": 26
+          }
+        ],
+        "confidence": 0.9792806
+      }
+    ]
+  }
+}

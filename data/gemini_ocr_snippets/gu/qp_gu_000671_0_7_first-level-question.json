@@ -1,0 +1,79 @@
+{
+  "sdk_http_response": {
+    "headers": {
+      "content-type": "application/json; charset=UTF-8",
+      "vary": "Origin, X-Origin, Referer",
+      "content-encoding": "gzip",
+      "date": "Fri, 04 Jul 2025 05:39:08 GMT",
+      "server": "scaffolding on HTTPServer2",
+      "x-xss-protection": "0",
+      "x-frame-options": "SAMEORIGIN",
+      "x-content-type-options": "nosniff",
+      "server-timing": "gfet4t7; dur=71383",
+      "alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
+      "transfer-encoding": "chunked"
+    },
+    "body": null
+  },
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "3.  નીચે તા. 31-3-2013 ના રોજના આકાશ લિમિટેડ અને કવન લિમિટેડના પાકા સરવૈયા આપેલ છે : 14\n    મિલકતો                               આકાશ લિ. (₹)   કવન લિ. (₹)\nસ્થિર મિલકતો                                  10,00,000         50,000\nપરચૂરણ દેવાદારો                                2,90,000       1,50,000\nસ્ટોક                                          4,80,000       2,10,000\nરોકાણો :\n  કવન લિમિટેડના 1,000 શૅર્સ                   1,50,000              –\n  આકાશ લિમિટેડના 3,000 શૅર્સ                        –       5,00,000\nરોકડ અને બૅંક                                  1,40,000         90,000\n                                              20,60,000      10,00,000\n                   જવાબદારીઓ\n₹ 100 ના એક એવા પૂર્ણ ભરપાઈ ઇક્વિટી શૅર મૂડી   15,00,000       5,00,000\nસામાન્ય અનામત                                  2,00,000       1,00,000\nનફા-નુકસાન ખાતું                               1,60,000         10,000\n12% ના ડિબેંચર્સ                                     –       3,00,000\nચાલુ જવાબદારીઓ                                2,00,000         90,000\n                                              20,60,000      10,00,000"
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": "STOP",
+      "safety_ratings": [
+        {
+          "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HATE_SPEECH",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HARASSMENT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+          "probability": "NEGLIGIBLE"
+        }
+      ],
+      "token_count": null
+    }
+  ],
+  "create_time": null,
+  "response_id": null,
+  "model_version": "gemini-2.5-pro",
+  "prompt_feedback": null,
+  "usage_metadata": {
+    "cache_tokens_details": null,
+    "cached_content_token_count": null,
+    "candidates_token_count": 428,
+    "candidates_tokens_details": null,
+    "prompt_token_count": 762,
+    "prompt_tokens_details": [
+      {
+        "modality": "TEXT",
+        "token_count": 504
+      },
+      {
+        "modality": "IMAGE",
+        "token_count": 258
+      }
+    ],
+    "thoughts_token_count": 6295,
+    "tool_use_prompt_token_count": null,
+    "tool_use_prompt_tokens_details": null,
+    "total_token_count": 7485,
+    "traffic_type": null
+  },
+  "automatic_function_calling_history": [],
+  "parsed": null,
+  "page_number": 256
+}

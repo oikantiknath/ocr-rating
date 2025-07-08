@@ -1,0 +1,330 @@
+{
+  "page_number": 490,
+  "ocr_output": {
+    "blocks": [
+      {
+        "block_text": "100,000 gue op",
+        "lines": [
+          "100,000 gue op"
+        ],
+        "bounding_box": [
+          {
+            "x": 328
+          },
+          {
+            "x": 407,
+            "y": 14
+          },
+          {
+            "x": 406,
+            "y": 24
+          },
+          {
+            "x": 326,
+            "y": 10
+          }
+        ],
+        "confidence": 0.7589884
+      },
+      {
+        "block_text": "10,75,000",
+        "lines": [
+          "10,75,000"
+        ],
+        "bounding_box": [
+          {
+            "x": 179,
+            "y": 2
+          },
+          {
+            "x": 227,
+            "y": 14
+          },
+          {
+            "x": 224,
+            "y": 25
+          },
+          {
+            "x": 176,
+            "y": 13
+          }
+        ],
+        "confidence": 0.9862412
+      },
+      {
+        "block_text": "ਹੋਵੇਗਾ |",
+        "lines": [
+          "ਹੋਵੇਗਾ |"
+        ],
+        "bounding_box": [
+          {
+            "x": 264,
+            "y": 2
+          },
+          {
+            "x": 291,
+            "y": 8
+          },
+          {
+            "x": 287,
+            "y": 26
+          },
+          {
+            "x": 260,
+            "y": 20
+          }
+        ],
+        "confidence": 0.78090036
+      },
+      {
+        "block_text": "A debenture holder is entitled to .",
+        "lines": [
+          "A debenture holder is entitled to ."
+        ],
+        "bounding_box": [
+          {
+            "x": 11,
+            "y": 7
+          },
+          {
+            "x": 202,
+            "y": 22
+          },
+          {
+            "x": 200,
+            "y": 52
+          },
+          {
+            "x": 9,
+            "y": 37
+          }
+        ],
+        "confidence": 0.9681027
+      },
+      {
+        "block_text": "- a debenture ਧਾਰਕ",
+        "lines": [
+          "- a debenture ਧਾਰਕ"
+        ],
+        "bounding_box": [
+          {
+            "y": 41
+          },
+          {
+            "x": 125,
+            "y": 34
+          },
+          {
+            "x": 126,
+            "y": 54
+          },
+          {
+            "x": 1,
+            "y": 61
+          }
+        ],
+        "confidence": 0.7889886
+      },
+      {
+        "block_text": "( c ) 9,75,000",
+        "lines": [
+          "( c ) 9,75,000"
+        ],
+        "bounding_box": [
+          {
+            "x": 268,
+            "y": 27
+          },
+          {
+            "x": 339,
+            "y": 41
+          },
+          {
+            "x": 336,
+            "y": 53
+          },
+          {
+            "x": 266,
+            "y": 40
+          }
+        ],
+        "confidence": 0.89136225
+      },
+      {
+        "block_text": "( d )",
+        "lines": [
+          "( d )"
+        ],
+        "bounding_box": [
+          {
+            "x": 384,
+            "y": 50
+          },
+          {
+            "x": 399,
+            "y": 51
+          },
+          {
+            "x": 398,
+            "y": 62
+          },
+          {
+            "x": 383,
+            "y": 61
+          }
+        ],
+        "confidence": 0.97750694
+      },
+      {
+        "block_text": "ਦਾ ਹੋਕਧਾਰ ਹੈ |",
+        "lines": [
+          "ਦਾ ਹੋਕਧਾਰ ਹੈ |"
+        ],
+        "bounding_box": [
+          {
+            "x": 198,
+            "y": 53
+          },
+          {
+            "x": 260,
+            "y": 69
+          },
+          {
+            "x": 256,
+            "y": 83
+          },
+          {
+            "x": 194,
+            "y": 68
+          }
+        ],
+        "confidence": 0.8201678
+      },
+      {
+        "block_text": "Dividend",
+        "lines": [
+          "Dividend"
+        ],
+        "bounding_box": [
+          {
+            "x": 38,
+            "y": 57
+          },
+          {
+            "x": 95,
+            "y": 57
+          },
+          {
+            "x": 95,
+            "y": 68
+          },
+          {
+            "x": 38,
+            "y": 68
+          }
+        ],
+        "confidence": 0.9898017
+      },
+      {
+        "block_text": "Profit share",
+        "lines": [
+          "Profit share"
+        ],
+        "bounding_box": [
+          {
+            "x": 38,
+            "y": 72
+          },
+          {
+            "x": 108,
+            "y": 74
+          },
+          {
+            "x": 108,
+            "y": 85
+          },
+          {
+            "x": 38,
+            "y": 83
+          }
+        ],
+        "confidence": 0.98766685
+      },
+      {
+        "block_text": "( b )",
+        "lines": [
+          "( b )"
+        ],
+        "bounding_box": [
+          {
+            "x": 8,
+            "y": 94
+          },
+          {
+            "x": 6,
+            "y": 81
+          },
+          {
+            "x": 23,
+            "y": 79
+          },
+          {
+            "x": 25,
+            "y": 91
+          }
+        ],
+        "confidence": 0.6240446
+      },
+      {
+        "block_text": "Interest as per fixed interest rate / ਨਿਸ਼ਚਿਤ ਵਿਆਜ ਦਰ",
+        "lines": [
+          "Interest as per fixed interest rate / ਨਿਸ਼ਚਿਤ ਵਿਆਜ ਦਰ"
+        ],
+        "bounding_box": [
+          {
+            "x": 38,
+            "y": 85
+          },
+          {
+            "x": 324,
+            "y": 126
+          },
+          {
+            "x": 321,
+            "y": 145
+          },
+          {
+            "x": 35,
+            "y": 108
+          }
+        ],
+        "confidence": 0.9689144
+      },
+      {
+        "block_text": "( d ) Voting rights in the compan",
+        "lines": [
+          "( d ) Voting rights in the compan"
+        ],
+        "bounding_box": [
+          {
+            "x": 4,
+            "y": 116
+          },
+          {
+            "x": 204,
+            "y": 134
+          },
+          {
+            "x": 202,
+            "y": 145
+          },
+          {
+            "x": 2,
+            "y": 142
+          }
+        ],
+        "confidence": 0.88429004
+      }
+    ]
+  }
+}

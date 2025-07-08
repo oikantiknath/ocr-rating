@@ -1,0 +1,79 @@
+{
+  "sdk_http_response": {
+    "headers": {
+      "content-type": "application/json; charset=UTF-8",
+      "vary": "Origin, X-Origin, Referer",
+      "content-encoding": "gzip",
+      "date": "Fri, 04 Jul 2025 04:30:35 GMT",
+      "server": "scaffolding on HTTPServer2",
+      "x-xss-protection": "0",
+      "x-frame-options": "SAMEORIGIN",
+      "x-content-type-options": "nosniff",
+      "server-timing": "gfet4t7; dur=55947",
+      "alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
+      "transfer-encoding": "chunked"
+    },
+    "body": null
+  },
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "“(1) కో ఆపరేటివ్ హౌసింగ్ సొసైటీ సభ్యుడికి ఫ్లాట్స్న వాటిళ్ళ కార్య కలాపాల నిమిత్తం\nఉపయోగించడానికి చట్ట పరమైన హక్కు గాని , లేక మారేతర విధమైన హక్కు గాని\nఉండదు.అది ఒక కోఆపరేటివ్ హౌసింగ్ సొసైటీ అయినట్టితే , నివాస గృహాలు మినహా\nవాణిజ్యప్రధానం కలిగిన నిర్మాణం ఏదీ ఉండకూడదు.\n(3) కో ఆపరేటివ్ హౌసింగ్ సొసైటీ సభ్యుడు నియమావళి (బైలాస్) మరియు సొసైటీకి\nసంబంధించిన ఇతర నిబంధనలు మరియు షరతులకు చట్టబద్ధంగా కట్టుబడి ఉండాలి.\n(3) సొసైటీ నిరభ్యంతర పత్రం (ఎన్ ఓ సి) జారీ చేయకుండా మున్సిపల్ కార్పొరేషన్ లేదా\nమున్సిపాలిటీ ప్లాను మంజూరు చేయటానికి ఎలాంటి అధికారం గాని పరిధి గాని పొందడానికి\nలేదు. సొసైటీ జారీ చేసే చెల్లదగ్గ నిరభ్యంతర పత్రం (ఎన్ ఓ సి) లేకుండా, కార్పొరేషన్ లేదా\nనగర పాలక , సందర్భాను సారంగా , ప్లాన్లు స్వీకరించడానికి గానీ , వాటిని పరిశీలించడానికి\nగానీ ఎలాంటి అధికారము లేదు.\n(4) ప్లాన్లు ఆమోదించే లోగా, సొసైటీ జారీ చేసిన నిరభ్యంతర పత్రం (ఎన్ ఓ సి) ఏదైనా ఉన్నా,\nకార్పొరేషన్ లేక నగర పాలక సమాచారానికై, సందర్భానుసారంగా, సొసైటీకి నోటీసు ఇవ్వాలన్న\nకర్తవ్యానికి కట్టు బడి ఉండాలి . అందువల్ల సొసైటీ ఈ విషయంలో ఇంకా ఏదైనా\nచెప్పదలుచుకుంటే, వాళ్లు తమ కేసును గాని అభ్యర్ధన గాని ప్రతిపాదించే అవకాశం ఉంటుంది.\n(5) సొసైటీ నియమావళికి (బైలాస్) విరుద్ధమైన కార్పొరేషన్ ఆమోదించిన ప్లాన్లు"
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": "STOP",
+      "safety_ratings": [
+        {
+          "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HATE_SPEECH",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HARASSMENT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+          "probability": "NEGLIGIBLE"
+        }
+      ],
+      "token_count": null
+    }
+  ],
+  "create_time": null,
+  "response_id": null,
+  "model_version": "gemini-2.5-pro",
+  "prompt_feedback": null,
+  "usage_metadata": {
+    "cache_tokens_details": null,
+    "cached_content_token_count": null,
+    "candidates_token_count": 463,
+    "candidates_tokens_details": null,
+    "prompt_token_count": 717,
+    "prompt_tokens_details": [
+      {
+        "modality": "TEXT",
+        "token_count": 459
+      },
+      {
+        "modality": "IMAGE",
+        "token_count": 258
+      }
+    ],
+    "thoughts_token_count": 5548,
+    "tool_use_prompt_token_count": null,
+    "tool_use_prompt_tokens_details": null,
+    "total_token_count": 6728,
+    "traffic_type": null
+  },
+  "automatic_function_calling_history": [],
+  "parsed": null,
+  "page_number": 149
+}

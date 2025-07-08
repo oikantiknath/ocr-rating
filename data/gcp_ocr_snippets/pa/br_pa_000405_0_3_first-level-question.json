@@ -1,0 +1,157 @@
+{
+  "page_number": 405,
+  "ocr_output": {
+    "blocks": [
+      {
+        "block_text": "20 .",
+        "lines": [
+          "20 ."
+        ],
+        "bounding_box": [
+          {
+            "x": 31,
+            "y": 11
+          },
+          {
+            "x": 78,
+            "y": 12
+          },
+          {
+            "x": 77,
+            "y": 39
+          },
+          {
+            "x": 30,
+            "y": 38
+          }
+        ],
+        "confidence": 0.99075097
+      },
+      {
+        "block_text": "Choose the incorrect statement .",
+        "lines": [
+          "Choose the incorrect statement ."
+        ],
+        "bounding_box": [
+          {
+            "x": 117,
+            "y": 12
+          },
+          {
+            "x": 620,
+            "y": 15
+          },
+          {
+            "x": 620,
+            "y": 40
+          },
+          {
+            "x": 117,
+            "y": 37
+          }
+        ],
+        "confidence": 0.97981334
+      },
+      {
+        "block_text": "a ) Sheena market is going to",
+        "lines": [
+          "a ) Sheena market is going to"
+        ],
+        "bounding_box": [
+          {
+            "x": 117,
+            "y": 85
+          },
+          {
+            "x": 526,
+            "y": 91
+          },
+          {
+            "x": 526,
+            "y": 121
+          },
+          {
+            "x": 117,
+            "y": 115
+          }
+        ],
+        "confidence": 0.986094
+      },
+      {
+        "block_text": "b ) Sheena going to is market .",
+        "lines": [
+          "b ) Sheena going to is market ."
+        ],
+        "bounding_box": [
+          {
+            "x": 896,
+            "y": 88
+          },
+          {
+            "x": 1312,
+            "y": 88
+          },
+          {
+            "x": 1312,
+            "y": 118
+          },
+          {
+            "x": 896,
+            "y": 118
+          }
+        ],
+        "confidence": 0.9782962
+      },
+      {
+        "block_text": "c ) Sheena market is to going .",
+        "lines": [
+          "c ) Sheena market is to going ."
+        ],
+        "bounding_box": [
+          {
+            "x": 117,
+            "y": 160
+          },
+          {
+            "x": 533,
+            "y": 164
+          },
+          {
+            "x": 533,
+            "y": 195
+          },
+          {
+            "x": 117,
+            "y": 191
+          }
+        ],
+        "confidence": 0.9825449
+      },
+      {
+        "block_text": "d ) Sheena is going to market .",
+        "lines": [
+          "d ) Sheena is going to market ."
+        ],
+        "bounding_box": [
+          {
+            "x": 897,
+            "y": 162
+          },
+          {
+            "x": 1312,
+            "y": 162
+          },
+          {
+            "x": 1312,
+            "y": 192
+          },
+          {
+            "x": 897,
+            "y": 192
+          }
+        ],
+        "confidence": 0.980346
+      }
+    ]
+  }
+}

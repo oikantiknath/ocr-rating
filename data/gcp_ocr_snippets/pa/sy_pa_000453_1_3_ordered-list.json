@@ -1,0 +1,432 @@
+{
+  "page_number": 453,
+  "ocr_output": {
+    "blocks": [
+      {
+        "block_text": "ਯੂਨਿਟ -111 : ਸਰਕਾਰ ਦੇ ਅੰਗ ( Organs of Government )",
+        "lines": [
+          "ਯੂਨਿਟ -111 : ਸਰਕਾਰ ਦੇ ਅੰਗ ( Organs of Government )"
+        ],
+        "bounding_box": [
+          {
+            "x": 36,
+            "y": 17
+          },
+          {
+            "x": 311,
+            "y": 13
+          },
+          {
+            "x": 311,
+            "y": 33
+          },
+          {
+            "x": 36,
+            "y": 37
+          }
+        ],
+        "confidence": 0.9091729
+      },
+      {
+        "block_text": "( ੳ ) : ਕਾਰਜਪਾਲਿਕਾ ; ਕਿਸਮਾਂ ਅਤੇ ਕਾਰਜ ( Executive ; Types and Functions ) ( ਅ ) : ਵਿਧਾਨਪਾਲਿਕਾ ; ਕਿਸਮਾਂ - ਇੱਕ ਸਦਨੀ , ਦੋ ਸਦਨੀ ਅਤੇ ਕਾਰਜ ( Legislature ; Types- Unicameral , Bicameral and Functions )",
+        "lines": [
+          "( ੳ ) : ਕਾਰਜਪਾਲਿਕਾ ; ਕਿਸਮਾਂ ਅਤੇ ਕਾਰਜ ( Executive ; Types and Functions ) ( ਅ ) : ਵਿਧਾਨਪਾਲਿਕਾ ; ਕਿਸਮਾਂ - ਇੱਕ ਸਦਨੀ , ਦੋ ਸਦਨੀ ਅਤੇ ਕਾਰਜ ( Legislature ; Types- Unicameral , Bicameral and Functions )"
+        ],
+        "bounding_box": [
+          {
+            "x": 71,
+            "y": 41
+          },
+          {
+            "x": 478,
+            "y": 40
+          },
+          {
+            "x": 478,
+            "y": 101
+          },
+          {
+            "x": 71,
+            "y": 102
+          }
+        ],
+        "confidence": 0.9656726
+      },
+      {
+        "block_text": "( ੲ ) : ਨਿਆਂਪਾਲਿਕਾ ; ਮਹੱਤਵ ਅਤੇ ਕਾਰਜ , ਨਿਆਂਪਾਲਕਾ ਦੀ ਸੁਤੰਤਰਤਾ ( Judiciary ; Importance and Functions , Independence of Judiciary )",
+        "lines": [
+          "( ੲ ) : ਨਿਆਂਪਾਲਿਕਾ ; ਮਹੱਤਵ ਅਤੇ ਕਾਰਜ , ਨਿਆਂਪਾਲਕਾ ਦੀ ਸੁਤੰਤਰਤਾ ( Judiciary ; Importance and Functions , Independence of Judiciary )"
+        ],
+        "bounding_box": [
+          {
+            "x": 72,
+            "y": 105
+          },
+          {
+            "x": 478,
+            "y": 103
+          },
+          {
+            "x": 478,
+            "y": 142
+          },
+          {
+            "x": 72,
+            "y": 144
+          }
+        ],
+        "confidence": 0.97011435
+      },
+      {
+        "block_text": "ਗਰੁੱਪ - ਬੀ : ਭਾਰਤ ਦਾ ਸੰਵਿਧਾਨ ਤੇ ਸਰਕਾਰ ( Indian Constitution and Government )",
+        "lines": [
+          "ਗਰੁੱਪ - ਬੀ : ਭਾਰਤ ਦਾ ਸੰਵਿਧਾਨ ਤੇ ਸਰਕਾਰ ( Indian Constitution and Government )"
+        ],
+        "bounding_box": [
+          {
+            "x": 37,
+            "y": 184
+          },
+          {
+            "x": 480,
+            "y": 183
+          },
+          {
+            "x": 480,
+            "y": 219
+          },
+          {
+            "x": 37,
+            "y": 220
+          }
+        ],
+        "confidence": 0.967116
+      },
+      {
+        "block_text": "ਯੂਨਿਟ- IV : ਭਾਰਤ ਦਾ ਸੰਵਿਧਾਨ ( Constitution of India )",
+        "lines": [
+          "ਯੂਨਿਟ- IV : ਭਾਰਤ ਦਾ ਸੰਵਿਧਾਨ ( Constitution of India )"
+        ],
+        "bounding_box": [
+          {
+            "x": 36,
+            "y": 243
+          },
+          {
+            "x": 325,
+            "y": 242
+          },
+          {
+            "x": 325,
+            "y": 260
+          },
+          {
+            "x": 36,
+            "y": 261
+          }
+        ],
+        "confidence": 0.93203866
+      },
+      {
+        "block_text": "( ੳ ) : ਪ੍ਰਸਤਾਵਨਾ ( Preamble )",
+        "lines": [
+          "( ੳ ) : ਪ੍ਰਸਤਾਵਨਾ ( Preamble )"
+        ],
+        "bounding_box": [
+          {
+            "x": 72,
+            "y": 267
+          },
+          {
+            "x": 215,
+            "y": 266
+          },
+          {
+            "x": 215,
+            "y": 283
+          },
+          {
+            "x": 72,
+            "y": 284
+          }
+        ],
+        "confidence": 0.94083023
+      },
+      {
+        "block_text": "( ਅ ) : ਭਾਰਤ ਦੇ ਸੰਵਿਧਾਨ ਦੀਆਂ ਮੁੱਖ ਵਿਸ਼ੇਸ਼ਤਾਵਾਂ ( Salient Features of Constitution",
+        "lines": [
+          "( ਅ ) : ਭਾਰਤ ਦੇ ਸੰਵਿਧਾਨ ਦੀਆਂ ਮੁੱਖ ਵਿਸ਼ੇਸ਼ਤਾਵਾਂ ( Salient Features of Constitution"
+        ],
+        "bounding_box": [
+          {
+            "x": 35,
+            "y": 292
+          },
+          {
+            "x": 485,
+            "y": 284
+          },
+          {
+            "x": 486,
+            "y": 318
+          },
+          {
+            "x": 36,
+            "y": 326
+          }
+        ],
+        "confidence": 0.964552
+      },
+      {
+        "block_text": "( ੲ ) : ਮੌਲਿਕ ਅਧਿਕਾਰ ਜਾਂ ਹੱਕ ( Fundamental Rights )",
+        "lines": [
+          "( ੲ ) : ਮੌਲਿਕ ਅਧਿਕਾਰ ਜਾਂ ਹੱਕ ( Fundamental Rights )"
+        ],
+        "bounding_box": [
+          {
+            "x": 71,
+            "y": 332
+          },
+          {
+            "x": 340,
+            "y": 332
+          },
+          {
+            "x": 340,
+            "y": 350
+          },
+          {
+            "x": 71,
+            "y": 350
+          }
+        ],
+        "confidence": 0.9630831
+      },
+      {
+        "block_text": "( ਸ ) : ਮੌਲਿਕ ਕਰਤਵ ਜਾਂ ਫ਼ਰਜ਼ ( Fundamental Duties )",
+        "lines": [
+          "( ਸ ) : ਮੌਲਿਕ ਕਰਤਵ ਜਾਂ ਫ਼ਰਜ਼ ( Fundamental Duties )"
+        ],
+        "bounding_box": [
+          {
+            "x": 71,
+            "y": 357
+          },
+          {
+            "x": 337,
+            "y": 356
+          },
+          {
+            "x": 337,
+            "y": 371
+          },
+          {
+            "x": 71,
+            "y": 372
+          }
+        ],
+        "confidence": 0.95903164
+      },
+      {
+        "block_text": "( ਹ ) : ਰਾਜ ਦੀ ਨੀਤੀ ਦੇ ਨਿਰਦੇਸ਼ਕ ਸਿਧਾਂਤ ( Directive Principles of State Policy ) ( ਕ ) : ਮੌਲਿਕ ਅਧਿਕਾਰਾਂ ਤੇ ਨਿਰਦੇਸ਼ਕ ਸਿਧਾਂਤਾਂ ਦੀ ਵਿਲੱਖਣਤਾ ਅਤੇ ਆਪਸੀ ਸਬੰਧ ( Distinction and relationship between Fundamental Rights )",
+        "lines": [
+          "( ਹ ) : ਰਾਜ ਦੀ ਨੀਤੀ ਦੇ ਨਿਰਦੇਸ਼ਕ ਸਿਧਾਂਤ ( Directive Principles of State Policy ) ( ਕ ) : ਮੌਲਿਕ ਅਧਿਕਾਰਾਂ ਤੇ ਨਿਰਦੇਸ਼ਕ ਸਿਧਾਂਤਾਂ ਦੀ ਵਿਲੱਖਣਤਾ ਅਤੇ ਆਪਸੀ ਸਬੰਧ ( Distinction and relationship between Fundamental Rights )"
+        ],
+        "bounding_box": [
+          {
+            "x": 69,
+            "y": 381
+          },
+          {
+            "x": 489,
+            "y": 377
+          },
+          {
+            "x": 490,
+            "y": 443
+          },
+          {
+            "x": 70,
+            "y": 447
+          }
+        ],
+        "confidence": 0.9709168
+      },
+      {
+        "block_text": "ਯੂਨਿਟ- V : ਭਾਰਤ ਦੀ ਸੰਘੀ ਪ੍ਰਨਾਲੀ ( Indian Fededral System )",
+        "lines": [
+          "ਯੂਨਿਟ- V : ਭਾਰਤ ਦੀ ਸੰਘੀ ਪ੍ਰਨਾਲੀ ( Indian Fededral System )"
+        ],
+        "bounding_box": [
+          {
+            "x": 33,
+            "y": 473
+          },
+          {
+            "x": 358,
+            "y": 468
+          },
+          {
+            "x": 358,
+            "y": 487
+          },
+          {
+            "x": 33,
+            "y": 492
+          }
+        ],
+        "confidence": 0.9545706
+      },
+      {
+        "block_text": "( ੳ ) : ਭਾਰਤੀ ਸੰਘ ਦੀ ਖਸਲਤ ਜਾਂ ਪ੍ਰਕਿਰਤੀ ( Nature of Indian Federation ) ( ਅ ) : ਕੇਂਦਰ - ਸੂਬਾਈ ਸਬੰਧ ; ਵਿਧਾਨਕਾਰੀ , ਪ੍ਰਸ਼ਾਸਕੀ ਅਤੇ ਵਿੱਤੀ ( Union - State relations ; Legislative , Administrative and Financial )",
+        "lines": [
+          "( ੳ ) : ਭਾਰਤੀ ਸੰਘ ਦੀ ਖਸਲਤ ਜਾਂ ਪ੍ਰਕਿਰਤੀ ( Nature of Indian Federation ) ( ਅ ) : ਕੇਂਦਰ - ਸੂਬਾਈ ਸਬੰਧ ; ਵਿਧਾਨਕਾਰੀ , ਪ੍ਰਸ਼ਾਸਕੀ ਅਤੇ ਵਿੱਤੀ ( Union - State relations ; Legislative , Administrative and Financial )"
+        ],
+        "bounding_box": [
+          {
+            "x": 32,
+            "y": 496
+          },
+          {
+            "x": 492,
+            "y": 491
+          },
+          {
+            "x": 493,
+            "y": 560
+          },
+          {
+            "x": 33,
+            "y": 565
+          }
+        ],
+        "confidence": 0.95950425
+      },
+      {
+        "block_text": "( ੲ ) : ਕੇਂਦਰ ਸਰਕਾਰ ( Union Government ) : -",
+        "lines": [
+          "( ੲ ) : ਕੇਂਦਰ ਸਰਕਾਰ ( Union Government ) : -"
+        ],
+        "bounding_box": [
+          {
+            "x": 70,
+            "y": 571
+          },
+          {
+            "x": 295,
+            "y": 567
+          },
+          {
+            "x": 295,
+            "y": 585
+          },
+          {
+            "x": 70,
+            "y": 589
+          }
+        ],
+        "confidence": 0.9675228
+      },
+      {
+        "block_text": "ਕੇਂਦਰੀ ਕਾਰਜ ਪਾਲਿਕਾ - ਰਾਸ਼ਟਰਪਤੀ , ਪ੍ਰਧਾਨ ਮੰਤਰੀ ਅਤੇ ਮੰਤਰੀ ਮੰਡਲ ( Union Executive - President , Prime Minister and Council of Ministers ) ਕੇਂਦਰੀ ਵਿਧਾਨ ਪਾਲਿਕਾ- ਲੋਕ ਸਭਾ , ਰਾਜ ਸਭਾ ( Union Legislature- Lok",
+        "lines": [
+          "ਕੇਂਦਰੀ ਕਾਰਜ ਪਾਲਿਕਾ - ਰਾਸ਼ਟਰਪਤੀ , ਪ੍ਰਧਾਨ ਮੰਤਰੀ ਅਤੇ ਮੰਤਰੀ ਮੰਡਲ ( Union Executive - President , Prime Minister and Council of Ministers ) ਕੇਂਦਰੀ ਵਿਧਾਨ ਪਾਲਿਕਾ- ਲੋਕ ਸਭਾ , ਰਾਜ ਸਭਾ ( Union Legislature- Lok"
+        ],
+        "bounding_box": [
+          {
+            "x": 101,
+            "y": 597
+          },
+          {
+            "x": 494,
+            "y": 593
+          },
+          {
+            "x": 495,
+            "y": 664
+          },
+          {
+            "x": 102,
+            "y": 668
+          }
+        ],
+        "confidence": 0.97016746
+      },
+      {
+        "block_text": "*",
+        "lines": [
+          "*"
+        ],
+        "bounding_box": [
+          {
+            "x": 71,
+            "y": 602
+          },
+          {
+            "x": 77,
+            "y": 602
+          },
+          {
+            "x": 77,
+            "y": 607
+          },
+          {
+            "x": 71,
+            "y": 607
+          }
+        ],
+        "confidence": 0.86186534
+      },
+      {
+        "block_text": "Rajya Sabha )",
+        "lines": [
+          "Rajya Sabha )"
+        ],
+        "bounding_box": [
+          {
+            "x": 137,
+            "y": 679
+          },
+          {
+            "x": 213,
+            "y": 677
+          },
+          {
+            "x": 213,
+            "y": 693
+          },
+          {
+            "x": 138,
+            "y": 695
+          }
+        ],
+        "confidence": 0.9926374
+      },
+      {
+        "block_text": "Sabha ,",
+        "lines": [
+          "Sabha ,"
+        ],
+        "bounding_box": [
+          {
+            "x": 35,
+            "y": 682
+          },
+          {
+            "x": 72,
+            "y": 682
+          },
+          {
+            "x": 72,
+            "y": 695
+          },
+          {
+            "x": 35,
+            "y": 695
+          }
+        ],
+        "confidence": 0.98932445
+      }
+    ]
+  }
+}

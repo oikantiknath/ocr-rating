@@ -1,0 +1,79 @@
+{
+  "sdk_http_response": {
+    "headers": {
+      "content-type": "application/json; charset=UTF-8",
+      "vary": "Origin, X-Origin, Referer",
+      "content-encoding": "gzip",
+      "date": "Fri, 04 Jul 2025 03:48:12 GMT",
+      "server": "scaffolding on HTTPServer2",
+      "x-xss-protection": "0",
+      "x-frame-options": "SAMEORIGIN",
+      "x-content-type-options": "nosniff",
+      "server-timing": "gfet4t7; dur=13259",
+      "alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
+      "transfer-encoding": "chunked"
+    },
+    "body": null
+  },
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "115. The Union Executive of India consists of ________.\nਭਾਰਤ ਦੀ ਕੇਂਦਰੀ ਕਾਰਜਕਾਰਨੀ ਵਿੱਚ ________ ਸ਼ਾਮਲ ਹੁੰਦੇ ਹਨ ।\n(a) President, Vice President and Council of Ministers\nਰਾਸ਼ਟਰਪਤੀ, ਉਪ ਰਾਸ਼ਟਰਪਤੀ ਅਤੇ ਮੰਤਰੀ ਮੰਡਲ\n(b) The President and The Council of Ministers only\nਸਿਰਫ ਰਾਸ਼ਟਰਪਤੀ ਅਤੇ ਮੰਤਰੀ ਮੰਡਲ\n(c) The President, The Vice President, the Council of Ministers and Lok Sabha speaker\nਰਾਸ਼ਟਰਪਤੀ, ਉਪ ਰਾਸ਼ਟਰਪਤੀ, ਮੰਤਰੀ ਮੰਡਲ ਅਤੇ ਲੋਕ ਸਭਾ ਸਪੀਕਰ\n(d) The President, The Prime Minister, Deputy Chairman of Rajya Sabha and Lok Sabha\nspeaker.\nਰਾਸ਼ਟਰਪਤੀ, ਪ੍ਰਧਾਨ ਮੰਤਰੀ, ਰਾਜ ਸਭਾ ਦੇ ਉਪ ਚੇਅਰਮੈਨ, ਅਤੇ ਲੋਕ ਸਭਾ ਸਪੀਕਰ"
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": "STOP",
+      "safety_ratings": [
+        {
+          "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HATE_SPEECH",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HARASSMENT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+          "probability": "NEGLIGIBLE"
+        }
+      ],
+      "token_count": null
+    }
+  ],
+  "create_time": null,
+  "response_id": null,
+  "model_version": "gemini-2.5-pro",
+  "prompt_feedback": null,
+  "usage_metadata": {
+    "cache_tokens_details": null,
+    "cached_content_token_count": null,
+    "candidates_token_count": 210,
+    "candidates_tokens_details": null,
+    "prompt_token_count": 491,
+    "prompt_tokens_details": [
+      {
+        "modality": "TEXT",
+        "token_count": 233
+      },
+      {
+        "modality": "IMAGE",
+        "token_count": 258
+      }
+    ],
+    "thoughts_token_count": 837,
+    "tool_use_prompt_token_count": null,
+    "tool_use_prompt_tokens_details": null,
+    "total_token_count": 1538,
+    "traffic_type": null
+  },
+  "automatic_function_calling_history": [],
+  "parsed": null,
+  "page_number": 228
+}

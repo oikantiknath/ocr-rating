@@ -1,0 +1,179 @@
+{
+  "page_number": 285,
+  "ocr_output": {
+    "blocks": [
+      {
+        "block_text": "51",
+        "lines": [
+          "51"
+        ],
+        "bounding_box": [
+          {
+            "x": 10
+          },
+          {
+            "x": 10,
+            "y": 9
+          },
+          {
+            "x": 3,
+            "y": 9
+          },
+          {
+            "x": 3
+          }
+        ],
+        "confidence": 0.5106009
+      },
+      {
+        "block_text": "( ੳ ) : ਰਾਜ ਤੇ ਉਸਦੀਆਂ ਵਿਸ਼ੇਸ਼ਤਾਵਾਂ , ਰਾਜ ਤੇ ਸਰਕਾਰ ਵਿੱਚ ਅੰਤਰ ( State and its Attributes , Difference between State and Government )",
+        "lines": [
+          "( ੳ ) : ਰਾਜ ਤੇ ਉਸਦੀਆਂ ਵਿਸ਼ੇਸ਼ਤਾਵਾਂ , ਰਾਜ ਤੇ ਸਰਕਾਰ ਵਿੱਚ ਅੰਤਰ ( State and its Attributes , Difference between State and Government )"
+        ],
+        "bounding_box": [
+          {
+            "x": 40,
+            "y": 13
+          },
+          {
+            "x": 467
+          },
+          {
+            "x": 468,
+            "y": 37
+          },
+          {
+            "x": 41,
+            "y": 52
+          }
+        ],
+        "confidence": 0.9710588
+      },
+      {
+        "block_text": "( ਅ ) ਸਰਕਾਰਾਂ ਦੇ ਰੂਪ ( Forms of Government ) ;",
+        "lines": [
+          "( ਅ ) ਸਰਕਾਰਾਂ ਦੇ ਰੂਪ ( Forms of Government ) ;"
+        ],
+        "bounding_box": [
+          {
+            "x": 40,
+            "y": 58
+          },
+          {
+            "x": 286,
+            "y": 48
+          },
+          {
+            "x": 287,
+            "y": 72
+          },
+          {
+            "x": 41,
+            "y": 82
+          }
+        ],
+        "confidence": 0.9774344
+      },
+      {
+        "block_text": "( i ) . ਲੋਕਤੰਤਰੀ ਅਤੇ ਸੱਤ੍ਹਾਵਾਦੀ ( Democratic and Authoritarian )",
+        "lines": [
+          "( i ) . ਲੋਕਤੰਤਰੀ ਅਤੇ ਸੱਤ੍ਹਾਵਾਦੀ ( Democratic and Authoritarian )"
+        ],
+        "bounding_box": [
+          {
+            "x": 41,
+            "y": 85
+          },
+          {
+            "x": 387,
+            "y": 73
+          },
+          {
+            "x": 387,
+            "y": 91
+          },
+          {
+            "x": 42,
+            "y": 103
+          }
+        ],
+        "confidence": 0.9579612
+      },
+      {
+        "block_text": "( ii ) . ਸੰਸਦੀ ਅਤੇ ਰਾਸ਼ਟਰਪਤੀ ਜਾਂ ਪ੍ਰਧਾਨਗੀ ਮੁਖੀ ( Parliamentary and",
+        "lines": [
+          "( ii ) . ਸੰਸਦੀ ਅਤੇ ਰਾਸ਼ਟਰਪਤੀ ਜਾਂ ਪ੍ਰਧਾਨਗੀ ਮੁਖੀ ( Parliamentary and"
+        ],
+        "bounding_box": [
+          {
+            "x": 41,
+            "y": 109
+          },
+          {
+            "x": 470,
+            "y": 95
+          },
+          {
+            "x": 470,
+            "y": 114
+          },
+          {
+            "x": 42,
+            "y": 128
+          }
+        ],
+        "confidence": 0.95974714
+      },
+      {
+        "block_text": "Presidential )",
+        "lines": [
+          "Presidential )"
+        ],
+        "bounding_box": [
+          {
+            "x": 5,
+            "y": 140
+          },
+          {
+            "x": 78,
+            "y": 138
+          },
+          {
+            "x": 78,
+            "y": 150
+          },
+          {
+            "x": 5,
+            "y": 152
+          }
+        ],
+        "confidence": 0.99179924
+      },
+      {
+        "block_text": "( iii ) . ਏਕਾਤਮਕ ਅਤੇ ਸੰਘਾਤਮਕ ( Unitary and Federal )",
+        "lines": [
+          "( iii ) . ਏਕਾਤਮਕ ਅਤੇ ਸੰਘਾਤਮਕ ( Unitary and Federal )"
+        ],
+        "bounding_box": [
+          {
+            "x": 43,
+            "y": 160
+          },
+          {
+            "x": 331,
+            "y": 151
+          },
+          {
+            "x": 331,
+            "y": 169
+          },
+          {
+            "x": 44,
+            "y": 178
+          }
+        ],
+        "confidence": 0.95389646
+      }
+    ]
+  }
+}

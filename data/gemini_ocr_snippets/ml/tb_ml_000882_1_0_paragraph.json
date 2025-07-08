@@ -1,0 +1,79 @@
+{
+  "sdk_http_response": {
+    "headers": {
+      "content-type": "application/json; charset=UTF-8",
+      "vary": "Origin, X-Origin, Referer",
+      "content-encoding": "gzip",
+      "date": "Fri, 04 Jul 2025 05:14:07 GMT",
+      "server": "scaffolding on HTTPServer2",
+      "x-xss-protection": "0",
+      "x-frame-options": "SAMEORIGIN",
+      "x-content-type-options": "nosniff",
+      "server-timing": "gfet4t7; dur=25229",
+      "alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
+      "transfer-encoding": "chunked"
+    },
+    "body": null
+  },
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "ലാഭേച്ഛയില്ലാത്ത സ്ഥാപനങ്ങൾ, ലാഭത്തിനായോ സാമൂഹ്യ ക്ഷേമത്തിനും പാവപ്പെട്ട\nവർക്ക് സഹായം നൽകുന്നതിനും അല്ലെങ്കിൽ കലാ-സാംസ്കാരിക പ്രവർത്തനങ്ങൾ\nപരിപോഷിപ്പിക്കുന്നതിനും വേണ്ടിയുള്ളവ ആയിരിക്കും. ഒരു പ്രത്യേക വിഭാഗത്തിനോ,\nപൊതുവായോ സേവനം നൽകുക എന്നതാണ് അവരുടെ പ്രധാന ലക്ഷ്യം.\nസാധാരണയായി അവർ ഉൽപ്പന്നങ്ങൾ നിർമ്മിക്കുകയോ വാങ്ങുകയോ, വിൽക്കുകയോ\nചെയ്യാറില്ല. കൂടാതെ കടമിടപാടുകൾ നടത്തുന്ന പതിവുമില്ല. സാധാരണ\nവ്യാപാരസ്ഥാപനങ്ങൾ തയാറാക്കുന്നത് പോലെ ഇത്തരം സ്ഥാപനങ്ങൾ വ്യാപാര ലാഭ\n-നഷ്ടക്കണക്ക് തയാറാക്കാറില്ല. ഇവർ ശേഖരിക്കുന്ന ഫണ്ടുകൾ മുഖേന ഫണ്ട്\nഅഥവാ പൊതു ഫണ്ടിലേക്ക് മാറ്റപ്പെടുന്നു. അവരുടെ വരുമാനത്തിന്റെ മുഖ്യ\nസ്രോതസ്സുകൾ സാധാരണയായി അംഗങ്ങളിൽ നിന്നുള്ള വരിസംഖ്യ, സംഭാവന,\nഗവൺമെന്റ് ധനസഹായം, നിക്ഷേപങ്ങളിൽ നിന്നുള്ള വരുമാനം തുടങ്ങിയവയാണ്.\nഓരോ അക്കൗണ്ടിംഗ് കാലയളവിന്റെയും അവസാനം (സാധാരണ ഒരു സാമ്പത്തിക\nവർഷം) ധനകാര്യ രേഖകൾ തയാറാക്കുകയും സ്ഥാപനത്തിന്റെ വരുമാനം, ചെലവ്,\nസാമ്പത്തിക സ്ഥിതി എന്നിവ നിർണ്ണയിക്കുകയും, അവ രജിസ്ട്രാർ ഓഫ് സൊസൈറ്റീസ്\nഎന്ന നിയമാധികാരിക്ക് സമർപ്പിക്കുകയും ചെയ്യണം."
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": "STOP",
+      "safety_ratings": [
+        {
+          "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HATE_SPEECH",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HARASSMENT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+          "probability": "NEGLIGIBLE"
+        }
+      ],
+      "token_count": null
+    }
+  ],
+  "create_time": null,
+  "response_id": null,
+  "model_version": "gemini-2.5-pro",
+  "prompt_feedback": null,
+  "usage_metadata": {
+    "cache_tokens_details": null,
+    "cached_content_token_count": null,
+    "candidates_token_count": 317,
+    "candidates_tokens_details": null,
+    "prompt_token_count": 738,
+    "prompt_tokens_details": [
+      {
+        "modality": "TEXT",
+        "token_count": 480
+      },
+      {
+        "modality": "IMAGE",
+        "token_count": 258
+      }
+    ],
+    "thoughts_token_count": 2007,
+    "tool_use_prompt_token_count": null,
+    "tool_use_prompt_tokens_details": null,
+    "total_token_count": 3062,
+    "traffic_type": null
+  },
+  "automatic_function_calling_history": [],
+  "parsed": null,
+  "page_number": 392
+}

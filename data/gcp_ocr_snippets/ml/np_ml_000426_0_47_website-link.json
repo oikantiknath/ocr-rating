@@ -1,0 +1,32 @@
+{
+  "page_number": 426,
+  "ocr_output": {
+    "blocks": [
+      {
+        "block_text": "www.facebook.com/ metrovaarthaofficial",
+        "lines": [
+          "www.facebook.com/ metrovaarthaofficial"
+        ],
+        "bounding_box": [
+          {
+            "x": 1,
+            "y": 5
+          },
+          {
+            "x": 152,
+            "y": 5
+          },
+          {
+            "x": 152,
+            "y": 35
+          },
+          {
+            "x": 1,
+            "y": 35
+          }
+        ],
+        "confidence": 0.98928577
+      }
+    ]
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "sdk_http_response": {
+    "headers": {
+      "content-type": "application/json; charset=UTF-8",
+      "vary": "Origin, X-Origin, Referer",
+      "content-encoding": "gzip",
+      "date": "Fri, 04 Jul 2025 05:07:49 GMT",
+      "server": "scaffolding on HTTPServer2",
+      "x-xss-protection": "0",
+      "x-frame-options": "SAMEORIGIN",
+      "x-content-type-options": "nosniff",
+      "server-timing": "gfet4t7; dur=41664",
+      "alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
+      "transfer-encoding": "chunked"
+    },
+    "body": null
+  },
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "ന്യായമായിത്തന്നെ പ്രത്യേകമായി അനുമോദിക്കുവാൻ കഴിയുന്നതാണു. ത\nത്തിന്റെ തത്വങ്ങളായ ഈശ്വരനും, ആത്മാവും നമ്മെപ്പറ്റിയുള്ളതിൽ വിശ്വസി\nക്കുകയെന്നതല്ലേ. ഈശ്വരനെ എനിക്കു എന്റെ കണ്ണുകളെക്കൊണ്ടു കാണാൻ\nകഴിയില്ല. എന്റെ കൈകൾ തൊടാനും കഴിയില്ല. ഇന്ദ്രിയങ്ങൾക്കു തങ്ങു\nന്നളവിലുള്ളതേ ഗ്രഹിക്കാനും കഴിയുകയുള്ളൂ എന്നതു അറിയാമല്ലോ. ഈശ്വ\nരവിഷയകമായ ഒരു സ്ഥാനത്തിൽ നാം വിട്ടുപിടിക്കുന്നു. നാം ഭിന്നനായ ഒരു\nവൻ ഉണ്ടാകാം; ഇല്ലാത്തവനും ആകാം. കാര്യങ്ങളായി ഈ ലോകം മുഴുവൻ ഗ്രഹി\nച്ചുകഴിഞ്ഞെന്നു ഇരിക്കട്ടെ. അതിന്റെ ഫലമായി നാം കാണുന്നതു ഒന്നിന്റെ\nന്റെ വസ്തതയെ സ്ഥാപിക്കാനോ ഖണ്ഡിക്കാനോ നാം യോഗ്യരാകുന്നതുള്ളൂ മാത്രമ\nല്ല. പ്രത്യേകകാരണങ്ങളിലൊന്നുമില്ലാതെ ന്യായവാദിയായി നാം രൂപീകരിക്കുന്ന\nതു്. അതുകൊണ്ടു ഈശ്വരനിൽ പ്രത്യേകത്തിന്റെ ആനുകൂല്യത്തെക്കാൾ സാമാന്യമാ\nയ എന്തുള്ളൂ എന്നതാണു്. അതിൽ ആകപ്പാടെ അല്പമെങ്കിലും പോരാൻ കഴിയില്ല.\nഅതുകൊണ്ടു സാമാന്യത്തിന്റെ മുഴുവൻ വ്യാപ്തിയും കിടക്കുന്നതു് ഇന്ദ്രിയപ്രത്യക്ഷ\nത്തിനപ്പുറത്താകുന്നു. അതുകൊണ്ടു തറവാട്ടിൽ ഇന്ദ്രിയപ്രത്യക്ഷങ്ങൾക്കും, ഈശ്വരത\nത്വം ശരിവെച്ചു പോവാൻ കഴിയാതെ ധൈഷണികർ പറയുന്നു. തന്റെ ബുദ്ധിയെ\nക്കൂടി ശരിവെച്ചു തീർച്ചപ്പെടുത്താനുള്ള ശക്തി മനുഷ്യനിൽ ഉണ്ട്. അതു എല്ലാ സത്വ\nങ്ങളിലും എല്ലാ പ്രാണികളിലും ഉണ്ട്. യാദൃശ്ചികവാദം കൊണ്ടു ആ ശക്തി ഉദിക്കു\nന്നതാകുന്നു. അപ്പോൾ മനുഷ്യൻ ഈശ്വരന്റെ സാക്ഷാത്ക്കാരത്തിന്റെ തനിപ്പകർ\nപ്പാകുന്നു. ഈശ്വരനിലും അവിഭാജ്യമായ വിഷയങ്ങളെ പ്രത്യേകമായി കാണിച്ചു\nചെയ്യുന്നു."
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": "STOP",
+      "safety_ratings": [
+        {
+          "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HATE_SPEECH",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HARASSMENT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+          "probability": "NEGLIGIBLE"
+        }
+      ],
+      "token_count": null
+    }
+  ],
+  "create_time": null,
+  "response_id": null,
+  "model_version": "gemini-2.5-pro",
+  "prompt_feedback": null,
+  "usage_metadata": {
+    "cache_tokens_details": null,
+    "cached_content_token_count": null,
+    "candidates_token_count": 446,
+    "candidates_tokens_details": null,
+    "prompt_token_count": 738,
+    "prompt_tokens_details": [
+      {
+        "modality": "TEXT",
+        "token_count": 480
+      },
+      {
+        "modality": "IMAGE",
+        "token_count": 258
+      }
+    ],
+    "thoughts_token_count": 3179,
+    "tool_use_prompt_token_count": null,
+    "tool_use_prompt_tokens_details": null,
+    "total_token_count": 4363,
+    "traffic_type": null
+  },
+  "automatic_function_calling_history": [],
+  "parsed": null,
+  "page_number": 231
+}

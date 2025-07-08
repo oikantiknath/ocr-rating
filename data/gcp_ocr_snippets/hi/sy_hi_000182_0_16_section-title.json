@@ -1,0 +1,32 @@
+{
+  "page_number": 182,
+  "ocr_output": {
+    "blocks": [
+      {
+        "block_text": "इकाई - III",
+        "lines": [
+          "इकाई - III"
+        ],
+        "bounding_box": [
+          {
+            "x": 31,
+            "y": 8
+          },
+          {
+            "x": 159,
+            "y": 11
+          },
+          {
+            "x": 158,
+            "y": 45
+          },
+          {
+            "x": 30,
+            "y": 42
+          }
+        ],
+        "confidence": 0.9308492
+      }
+    ]
+  }
+}

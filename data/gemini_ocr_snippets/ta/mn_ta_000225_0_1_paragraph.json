@@ -1,0 +1,79 @@
+{
+  "sdk_http_response": {
+    "headers": {
+      "content-type": "application/json; charset=UTF-8",
+      "vary": "Origin, X-Origin, Referer",
+      "content-encoding": "gzip",
+      "date": "Fri, 04 Jul 2025 04:16:01 GMT",
+      "server": "scaffolding on HTTPServer2",
+      "x-xss-protection": "0",
+      "x-frame-options": "SAMEORIGIN",
+      "x-content-type-options": "nosniff",
+      "server-timing": "gfet4t7; dur=39495",
+      "alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
+      "transfer-encoding": "chunked"
+    },
+    "body": null
+  },
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "கித்தாட்சத்தால் விழுந்தப்பட்டுச் சாயத்\nதினால் வழிதப்பித் திக்கத்திசைத்தில் மோசம்\nபோய் நயரந்திருக்கிறதில் இடறுகிறார்கள். போ\nசன பிடங்களெல்லாம் வந்தியினாலும் அசுத்தத்தி\nனாலும் நிறைந்திருக்கிறது; சுத்தமான இடமில்லை.\nஅவர்களெல்லாரும் குலைக்கமாட்டாத ஊமையான\nநாய்கள்; தூக்க மயக்கமாய்ப் புலம்புகிறவர்கள்,\nபடுத்துக்கொள்ளுகிறவர்கள், நித்திரைப் பிரியர்,\nதிருப்தி அடையாமலிருக்கும் பெரு வயிற்று நாய்\nகள், பகுத்தறிவில்லாத மேய்ப்பர்; அவர்களில்\nஒவ்வொருவனும் தன்தன் வழியையும் அவன\nவன் தன்தன் மூலையிலிருந்து தன்தன் பொழி\nவையும் நோக்கிக்கொண்டிருக்கிறான். வாருங்\nகள், தாட்சாரசத்தைக் கொண்டுவருவேன், மது\nவைக் குடிப்போம்; நாளையத்தினம் இன்றையத்தி\nனம்போலவும் இதற்கு அதிகமாகவும் இருக்கும்\nஎன்பார்கள் (எ. 28; 7, 8: 56; 10—12.). பெரிய பாத்\nதிரங்களில் மதுபானத்தைக் குடித்துச் சிறந்த பரி\nமளதைலங்களைப் பூசிக்கொள்ளுகிறார்கள்; ஆனா\nலும் யோசேப்புக்கு நேரிட்ட ஆபத்துக்குக் கவ\nலைப்படாமற்போகிறார்கள். ஆகையால் அவர்கள்\nசிறையிருப்புக்குப் போகிறவர்களின் முன்னணி\nயிலே போவார்கள்; இப்படியே செல்வமாய்ச்\nசயனித்தவர்களின் விருந்து கொண்டாட்டல் நின்று\nபோகும் (ஆமோ. 6; 6, 7.). பெல்ஷத்சார் என்னும்\nஇராசா தன் பிரபுக்களில் ஆயிரம்பேருக்கு ஒரு\nபெரிய விருந்து செய்து அந்த ஆயிரம்பேருக்கு"
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": "STOP",
+      "safety_ratings": [
+        {
+          "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HATE_SPEECH",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HARASSMENT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+          "probability": "NEGLIGIBLE"
+        }
+      ],
+      "token_count": null
+    }
+  ],
+  "create_time": null,
+  "response_id": null,
+  "model_version": "gemini-2.5-pro",
+  "prompt_feedback": null,
+  "usage_metadata": {
+    "cache_tokens_details": null,
+    "cached_content_token_count": null,
+    "candidates_token_count": 370,
+    "candidates_tokens_details": null,
+    "prompt_token_count": 754,
+    "prompt_tokens_details": [
+      {
+        "modality": "TEXT",
+        "token_count": 496
+      },
+      {
+        "modality": "IMAGE",
+        "token_count": 258
+      }
+    ],
+    "thoughts_token_count": 2516,
+    "tool_use_prompt_token_count": null,
+    "tool_use_prompt_tokens_details": null,
+    "total_token_count": 3640,
+    "traffic_type": null
+  },
+  "automatic_function_calling_history": [],
+  "parsed": null,
+  "page_number": 35
+}

@@ -1,0 +1,79 @@
+{
+  "sdk_http_response": {
+    "headers": {
+      "content-type": "application/json; charset=UTF-8",
+      "vary": "Origin, X-Origin, Referer",
+      "content-encoding": "gzip",
+      "date": "Fri, 04 Jul 2025 04:52:29 GMT",
+      "server": "scaffolding on HTTPServer2",
+      "x-xss-protection": "0",
+      "x-frame-options": "SAMEORIGIN",
+      "x-content-type-options": "nosniff",
+      "server-timing": "gfet4t7; dur=30913",
+      "alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
+      "transfer-encoding": "chunked"
+    },
+    "body": null
+  },
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "ಮುಕ್ತ ಅಭಿವ್ಯಕ್ತಿ ಎನ್ನುವ ಗೊಂದಲದಲ್ಲೂ ನಾವು ಸಿಕ್ಕಿ ಹಾಕಿಕೊಂಡಿದ್ದೇವೆ.¹⁰ ಲೈಂಗಿಕತೆಯ ಕುರಿತು\nಕವಯಿತ್ರಿಯರು ಉಲ್ಲೇಖಿಸಿದಾಗ ಸಮಾಜದ ಪ್ರತಿಕ್ರಿಯೆಗಳು ಕಾಲದಿಂದ ಕಾಲಕ್ಕೆ ಭಿನ್ನವಾಗಿರುವುದನ್ನು\nಪ್ರತಿಭಾ ನಂದಕುಮಾರ್ ಅವರು ಉಲ್ಲೇಖಿಸುತ್ತಾ ಮಹಿಳೆಯರು ಅಂದಾಗ ಸಮಾಜ ಬಂದಿರುವುದರಿಂದ\nಕಾರಣಕ್ಕೆ ಗೊಂದಲವನ್ನು ಸೃಷ್ಟಿಸಿಕೊಂಡೇ ಇರುತ್ತಾರೆ. ಅದ್ಯಾವುದರ ಬಗ್ಗೆ ತಲೆಕೆಡಿಸದ ಹೋರಾಟ ನಮ್ಮದೇ\nರಚನೆಗಳು ಪ್ರತಿನಿಧೀಕರಣಗೊಳ್ಳಲು ಸಾಧ್ಯ. ಆದರೆಲ್ಲಿ ತನ್ಮತವನ್ನು ಒಳಗೊಂಡಿರುತ್ತದೆ ಎನ್ನುತ್ತಾರೆ. ಇಂತಹ\nಅಭಿಪ್ರಾಯವನ್ನು ವ್ಯಕ್ತಪಡಿಸಿದಂದಂದಲೇ ಸಮಕಾಲೀನ ಮಹಿಳಾ ಕಾವ್ಯವನ್ನು ಭಿನ್ನಮಾದರಿಯೊಂದೇ\nಗುರುತಿಸಲು ಸಾಧ್ಯವಾಗುತ್ತದೆ."
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": "STOP",
+      "safety_ratings": [
+        {
+          "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HATE_SPEECH",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HARASSMENT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+          "probability": "NEGLIGIBLE"
+        }
+      ],
+      "token_count": null
+    }
+  ],
+  "create_time": null,
+  "response_id": null,
+  "model_version": "gemini-2.5-pro",
+  "prompt_feedback": null,
+  "usage_metadata": {
+    "cache_tokens_details": null,
+    "cached_content_token_count": null,
+    "candidates_token_count": 197,
+    "candidates_tokens_details": null,
+    "prompt_token_count": 730,
+    "prompt_tokens_details": [
+      {
+        "modality": "TEXT",
+        "token_count": 472
+      },
+      {
+        "modality": "IMAGE",
+        "token_count": 258
+      }
+    ],
+    "thoughts_token_count": 2653,
+    "tool_use_prompt_token_count": null,
+    "tool_use_prompt_tokens_details": null,
+    "total_token_count": 3580,
+    "traffic_type": null
+  },
+  "automatic_function_calling_history": [],
+  "parsed": null,
+  "page_number": 286
+}

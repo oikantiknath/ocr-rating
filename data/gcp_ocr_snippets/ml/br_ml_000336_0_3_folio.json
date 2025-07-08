@@ -1,0 +1,82 @@
+{
+  "page_number": 336,
+  "ocr_output": {
+    "blocks": [
+      {
+        "block_text": "KSBCDC",
+        "lines": [
+          "KSBCDC"
+        ],
+        "bounding_box": [
+          {
+            "x": 97,
+            "y": 14
+          },
+          {
+            "x": 277,
+            "y": 14
+          },
+          {
+            "x": 277,
+            "y": 45
+          },
+          {
+            "x": 97,
+            "y": 45
+          }
+        ],
+        "confidence": 0.9865433
+      },
+      {
+        "block_text": "KERALA STATE BACKWARD CLASSES DEVELOPMENT CORPORATION ( A Government of Kerala undertaking )",
+        "lines": [
+          "KERALA STATE BACKWARD CLASSES DEVELOPMENT CORPORATION ( A Government of Kerala undertaking )"
+        ],
+        "bounding_box": [
+          {
+            "x": 94,
+            "y": 51
+          },
+          {
+            "x": 497,
+            "y": 53
+          },
+          {
+            "x": 497,
+            "y": 92
+          },
+          {
+            "x": 94,
+            "y": 90
+          }
+        ],
+        "confidence": 0.98227113
+      },
+      {
+        "block_text": "KSBCDC",
+        "lines": [
+          "KSBCDC"
+        ],
+        "bounding_box": [
+          {
+            "x": 34,
+            "y": 87
+          },
+          {
+            "x": 72,
+            "y": 86
+          },
+          {
+            "x": 72,
+            "y": 95
+          },
+          {
+            "x": 34,
+            "y": 96
+          }
+        ],
+        "confidence": 0.92164993
+      }
+    ]
+  }
+}

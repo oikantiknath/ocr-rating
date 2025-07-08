@@ -1,0 +1,79 @@
+{
+  "sdk_http_response": {
+    "headers": {
+      "content-type": "application/json; charset=UTF-8",
+      "vary": "Origin, X-Origin, Referer",
+      "content-encoding": "gzip",
+      "date": "Fri, 04 Jul 2025 03:48:55 GMT",
+      "server": "scaffolding on HTTPServer2",
+      "x-xss-protection": "0",
+      "x-frame-options": "SAMEORIGIN",
+      "x-content-type-options": "nosniff",
+      "server-timing": "gfet4t7; dur=24397",
+      "alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
+      "transfer-encoding": "chunked"
+    },
+    "body": null
+  },
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "1. ਖਿੱਚ ਜਾਂ ਧੱਕੇਲ ਬੱਲ (FORCE: A PUSH OR A PULL): ਬਲ ਦੀ ਪਰਿਭਾਸ਼ਾ ਇਸ ਦਾ ਪ੍ਰਭਾਵ ਅਤੇ ਬਲ ਦੀਆਂ ਕਿਸਮਾਂ।\nਧਕੇਲ ਬਲ, ਖਿੱਚ ਬਲ, ਦਬਾਓ।\n2. ਆਪਸੀ ਪ੍ਰਭਾਵ ਕਾਰਣ ਬੱਲ ਹੁੰਦਾ ਹੈ। (FORCES ARE DUE TO AN INTER ACTION), ਖੇਡਣਾ, ਚੁੱਕਣਾ, ਧਕੇਲਣਾ,\nਖਿੱਚਣਾ, ਕਿਕਲੀ ਪਾਉਣਾ ਸਭ ਆਪਸੀ ਪ੍ਰਭਾਵ ਕਾਰਣ ਹੁੰਦੇ ਹਨ।\n3. ਬਲਾਂ ਬਾਰੇ ਜਾਨਣਾ (EXPLORING FORCES): ਸਾਰੇ ਬਲ ਇੱਕ ਦਿਸ਼ਾ ਵਿੱਚ ਹੋਣ ਤਾਂ ਪਰਿਣਾਮੀ ਬਲ ਵੱਧਦਾ ਹੈ। ਉਲਟ\nਦਿਸ਼ਾਵੀਂ ਬਲਾਂ ਦਾ ਪਰਿਣਾਮੀ ਬਲ, ਦਿਸ਼ਾ ਅਤੇ ਬਲ ਦੀ ਮਾਤਰਾ ਤੇ ਨਿਰਭਰ ਕਰਦਾ ਹੈ।\n4. ਬਲ ਗਤੀ ਦੀ ਦਿਸ਼ਾ ਬਦਲ ਸਕਦਾ ਹੈ। (A FORCE CAN CHANGE THE STATE OF MOTION), ਵਿਰਾਮ ਨੂੰ ਗਤੀ,\nਗਤੀ ਨੂੰ ਵਿਰਾਮ ਵਿੱਚ ਬਦਲਣਾ। ਗਤੀ ਦੀ ਦਿਸ਼ਾ ਬਦਲਣਾ ਬਲ ਨਾਲ ਹੀ ਸੰਭਵ ਹੁੰਦਾ ਹੈ।\n5. ਬਲ ਨਾਲ ਵਸਤੂ ਦਾ ਆਕਾਰ ਬਦਲ ਸਕਦਾ ਹੈ। (FORCES CAN CHANGE THE SHAPE OF OBJECT), ਸਪਰਿੰਗ\nਖਿੱਚਣਾ ਫੁਲ-ਵਰਕ ਚਬਾਉਣਾ, ਨਚੋੜਨਾ, ਸਪੰਜ ਨੂੰ ਦਬਾਉਣ ਨਾਲ ਆਕਾਰ ਬਦਲਦਾ ਹੈ।\n6. ਛੋਹ ਬਲ (CONTACT FORCES): ਮਨੁੱਖ ਸਮੇਤ ਸਾਰੇ ਜੰਤੂਆਂ ਦਾ ਮਾਸ ਪੇਸ਼ੀਆਂ ਦਾ ਬਲ ਛੋਹ ਨਾਲ ਹੀ ਕਿਰਿਆ ਕਰਦਾ\nਹੈ। ਰਗੜ ਬਲ ਵੀ ਛੋਹ ਨਾਲ ਹੀ ਹੁੰਦਾ ਹੈ।\n7. ਬਿਨਾਂ ਛੋਹ ਵਾਲੇ ਬਲ। (NON-CONTACT FORCES), ਚੁੰਬਕੀ ਬਲ, ਧਰਤੀ ਦੀ ਗੁਰਤਾ, ਬ੍ਰਹਿਮੰਡ ਦੀਆਂ ਵਸਤਾਂ ਦਾ\nਗੁਰਤਾਕਰਸ਼ਣ, ਬਿਜਲੀ ਚੁੰਬਕੀ ਬਲ ਬਿਨ੍ਹਾਂ ਛੋਹ ਵਾਲੇ ਹਨ। !\n8. ਦਬਾਓ। (PRESSURE): ਕੱਟਣਾ, ਚੀਰਨਾ, ਠਾਕਨਾ, ਭਾਰ ਚੁੱਕਣਾ ਆਦਿ।\n9. ਦਵਾਂ ਅਤੇ ਗੈਸਾਂ ਦਾ ਦਬਾਓ (PRESSURE EXERTED BY LIQUIDS AND GASES): ਦਵਾਂ ਨਾਲ ਭਰੇ ਭਾਂਡਿਆਂ ਦੇ ਤਲ\nਤੇ ਦਬਾਓ, ਭੇਮ ਦੀਆਂ ਕੰਧਾਂ ਤੇ ਦਬਾਓ, ਵਾਹਨਾਂ ਦੀਆਂ ਟਿਊਬਾਂ/ਟਾਇਰਾਂ ਵਿੱਚ ਦਬਾਓ।\n10. ਵਾਯੂਮੰਡਲੀ ਦਬਾਓ (ATMOSPHERIC PRESSURE): ਧਰਤੀ ਦੁਆਲੇ ਹਵਾ ਦੇ ਘੇਰੇ, ਵਾਯੂਮੰਡਲ ਕਾਰਣ ਦਬਾਓ।"
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": "STOP",
+      "safety_ratings": [
+        {
+          "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HATE_SPEECH",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HARASSMENT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+          "probability": "NEGLIGIBLE"
+        }
+      ],
+      "token_count": null
+    }
+  ],
+  "create_time": null,
+  "response_id": null,
+  "model_version": "gemini-2.5-pro",
+  "prompt_feedback": null,
+  "usage_metadata": {
+    "cache_tokens_details": null,
+    "cached_content_token_count": null,
+    "candidates_token_count": 698,
+    "candidates_tokens_details": null,
+    "prompt_token_count": 488,
+    "prompt_tokens_details": [
+      {
+        "modality": "TEXT",
+        "token_count": 230
+      },
+      {
+        "modality": "IMAGE",
+        "token_count": 258
+      }
+    ],
+    "thoughts_token_count": 1333,
+    "tool_use_prompt_token_count": null,
+    "tool_use_prompt_tokens_details": null,
+    "total_token_count": 2519,
+    "traffic_type": null
+  },
+  "automatic_function_calling_history": [],
+  "parsed": null,
+  "page_number": 266
+}

@@ -1,0 +1,32 @@
+{
+  "page_number": 41,
+  "ocr_output": {
+    "blocks": [
+      {
+        "block_text": "Page 41 of 49",
+        "lines": [
+          "Page 41 of 49"
+        ],
+        "bounding_box": [
+          {
+            "x": 13,
+            "y": 8
+          },
+          {
+            "x": 136,
+            "y": 5
+          },
+          {
+            "x": 136,
+            "y": 24
+          },
+          {
+            "x": 13,
+            "y": 27
+          }
+        ],
+        "confidence": 0.986596
+      }
+    ]
+  }
+}

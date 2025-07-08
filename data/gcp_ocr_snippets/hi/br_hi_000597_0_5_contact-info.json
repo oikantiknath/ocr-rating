@@ -1,0 +1,32 @@
+{
+  "page_number": 597,
+  "ocr_output": {
+    "blocks": [
+      {
+        "block_text": "CENTRAL INSTITUTE OF INDIAN LANGUAGES ( Ministry of Education , Department of Higher Education , Govt . of India ) Manasagangotri , Hunsur Road , Mysuru - 570 006",
+        "lines": [
+          "CENTRAL INSTITUTE OF INDIAN LANGUAGES ( Ministry of Education , Department of Higher Education , Govt . of India ) Manasagangotri , Hunsur Road , Mysuru - 570 006"
+        ],
+        "bounding_box": [
+          {
+            "x": 73,
+            "y": 26
+          },
+          {
+            "x": 1335,
+            "y": 30
+          },
+          {
+            "x": 1335,
+            "y": 185
+          },
+          {
+            "x": 73,
+            "y": 181
+          }
+        ],
+        "confidence": 0.98120517
+      }
+    ]
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "page_number": 119,
+  "ocr_output": {
+    "blocks": [
+      {
+        "block_text": "www.dantewada.gov.in",
+        "lines": [
+          "www.dantewada.gov.in"
+        ],
+        "bounding_box": [
+          {
+            "x": 10,
+            "y": 8
+          },
+          {
+            "x": 355,
+            "y": 11
+          },
+          {
+            "x": 355,
+            "y": 41
+          },
+          {
+            "x": 10,
+            "y": 38
+          }
+        ],
+        "confidence": 0.9850526
+      }
+    ]
+  }
+}

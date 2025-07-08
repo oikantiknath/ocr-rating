@@ -1,0 +1,79 @@
+{
+  "sdk_http_response": {
+    "headers": {
+      "content-type": "application/json; charset=UTF-8",
+      "vary": "Origin, X-Origin, Referer",
+      "content-encoding": "gzip",
+      "date": "Fri, 04 Jul 2025 04:53:59 GMT",
+      "server": "scaffolding on HTTPServer2",
+      "x-xss-protection": "0",
+      "x-frame-options": "SAMEORIGIN",
+      "x-content-type-options": "nosniff",
+      "server-timing": "gfet4t7; dur=40871",
+      "alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
+      "transfer-encoding": "chunked"
+    },
+    "body": null
+  },
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "ವ್ಯಸನಗಳ ಬಾಧ್ಯತೆಗಳು ಅಷ್ಟಿಲ್ಲಯಂತೆ ; ವೈನಿನಲ್ಲಿ ಹೆಚ್ಚು ಪ್ರಮಾಣದಲ್ಲಿ ಭಾಷ್ಪೀ\nಕರಿಸುವ ಅಷ್ಟೊಂದು ಅಂಶಗಳು ಸೇರಿದ್ದರೆ, ಹದಗೆಡುವಿಕೆ ಸರಿಯಾಗಿ ನಡೆದಿಲ್ಲ ಎಂದರ್ಥ.\nಅಮೇರಿಕಾದ ಸಂಯುಕ್ತ ಸಂಸ್ಥಾನಗಳ ಕಾನೂನು ನಿಯಮಿಸಿರುವ ಪ್ರಕಾರ ಭಾಷ್ಪೀ\nಕರಿಸುವ ಅವುಗಳ ಪರಮಾವಧಿಯ ಪ್ರಮಾಣ ಅಧಿಕರ್ ಅಪ್ಪುದರಲ್ಲದೆ\nತಿಳಿದಾಗಿ, ಕೆಂಪು ವೈನಿಗೆ ಪ್ರತಿ ನೂರು ಮಿಲಿಲೀಟರಿಗೂ 0.14 ಗ್ರಾಮ್ ಮತ್ತು\nಬಿಳಿಯ ವೈನಿಗೆ 0.12 ಗ್ರಾಮ್ ಇರುತ್ತದೆ."
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": "STOP",
+      "safety_ratings": [
+        {
+          "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HATE_SPEECH",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HARASSMENT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+          "probability": "NEGLIGIBLE"
+        }
+      ],
+      "token_count": null
+    }
+  ],
+  "create_time": null,
+  "response_id": null,
+  "model_version": "gemini-2.5-pro",
+  "prompt_feedback": null,
+  "usage_metadata": {
+    "cache_tokens_details": null,
+    "cached_content_token_count": null,
+    "candidates_token_count": 140,
+    "candidates_tokens_details": null,
+    "prompt_token_count": 728,
+    "prompt_tokens_details": [
+      {
+        "modality": "TEXT",
+        "token_count": 470
+      },
+      {
+        "modality": "IMAGE",
+        "token_count": 258
+      }
+    ],
+    "thoughts_token_count": 3898,
+    "tool_use_prompt_token_count": null,
+    "tool_use_prompt_tokens_details": null,
+    "total_token_count": 4766,
+    "traffic_type": null
+  },
+  "automatic_function_calling_history": [],
+  "parsed": null,
+  "page_number": 337
+}

@@ -1,0 +1,79 @@
+{
+  "sdk_http_response": {
+    "headers": {
+      "content-type": "application/json; charset=UTF-8",
+      "vary": "Origin, X-Origin, Referer",
+      "content-encoding": "gzip",
+      "date": "Fri, 04 Jul 2025 05:25:23 GMT",
+      "server": "scaffolding on HTTPServer2",
+      "x-xss-protection": "0",
+      "x-frame-options": "SAMEORIGIN",
+      "x-content-type-options": "nosniff",
+      "server-timing": "gfet4t7; dur=32402",
+      "alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
+      "transfer-encoding": "chunked"
+    },
+    "body": null
+  },
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "‘हॅपी बर्थ डे’, ‘खेड मांडियेला’, ‘बाप’, ‘मा’, ‘दिल्ली’ (तिहार) ह्या कथांमधील\nअनुक्रमे सौदामिनी, निवेदिता, अंजू सरनाईक, मंदा व सुहासिनी ही कथागत विश्वात आपापल्या\nउक्तिकृतीने स्वविशिष्टता व्यक्त करणारी स्त्रीपात्रे आहेत. उदाहरणार्थ, ‘मुलगा’च घराण्याचा\nवंश असतो, ही पारंपरिक संकल्पना सौदामिनी ह्या पात्राचे मानसिक पातळीवर शोषण\nकरते. ती पहिले अपत्य असूनही तिचे वडील, तिची आई-आजी आणि तिचे जवळचे नातेवाईक\nस्त्रीपुरुषांना घरात मुलगा जन्माला आल्यानंतर जितका आनंद होतो व तो जसा व्यक्त केला\nजातो त्यामुळे तिचे असणे सगळ्यांसाठी विशेष म्हणजे विविध नात्यातील स्त्रियांसाठीही न-\nगण्य ठरून जाते. भावाच्या जन्मानंतर सर्वार्थाने आनंद साजरा करणाऱ्या कुटुंबाची त्याच\nमुलाच्या विशिष्ट वागण्यामुळे सर्वस्तरीय वाताहत होते. सौदामिनीच्या आई-आप्पा-आजीचा\nनिरंजन एक पुरुष म्हणून वाढविला जातो. त्याच्या कळत्या, न-कळत्या वयात तो फक्त\nपुरुष होतो आणि त्यानंतर तो एक ‘पुरुष’ होऊनच जगतो. परिणामी त्याचे ‘घर’ विस्कटून,\nमोडून जाते आणि सौदामिनीच्या वाट्यालाही विवाहपूर्वी व विवाहानंतरही दुय्यमत्व तर\nयेतेच पण तिला एकाकी आयुष्यालाही सामोरे जावे लागते."
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": "STOP",
+      "safety_ratings": [
+        {
+          "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HATE_SPEECH",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HARASSMENT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+          "probability": "NEGLIGIBLE"
+        }
+      ],
+      "token_count": null
+    }
+  ],
+  "create_time": null,
+  "response_id": null,
+  "model_version": "gemini-2.5-pro",
+  "prompt_feedback": null,
+  "usage_metadata": {
+    "cache_tokens_details": null,
+    "cached_content_token_count": null,
+    "candidates_token_count": 336,
+    "candidates_tokens_details": null,
+    "prompt_token_count": 716,
+    "prompt_tokens_details": [
+      {
+        "modality": "TEXT",
+        "token_count": 458
+      },
+      {
+        "modality": "IMAGE",
+        "token_count": 258
+      }
+    ],
+    "thoughts_token_count": 2557,
+    "tool_use_prompt_token_count": null,
+    "tool_use_prompt_tokens_details": null,
+    "total_token_count": 3609,
+    "traffic_type": null
+  },
+  "automatic_function_calling_history": [],
+  "parsed": null,
+  "page_number": 251
+}

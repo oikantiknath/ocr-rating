@@ -1,0 +1,79 @@
+{
+  "sdk_http_response": {
+    "headers": {
+      "content-type": "application/json; charset=UTF-8",
+      "vary": "Origin, X-Origin, Referer",
+      "content-encoding": "gzip",
+      "date": "Fri, 04 Jul 2025 04:03:41 GMT",
+      "server": "scaffolding on HTTPServer2",
+      "x-xss-protection": "0",
+      "x-frame-options": "SAMEORIGIN",
+      "x-content-type-options": "nosniff",
+      "server-timing": "gfet4t7; dur=75243",
+      "alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
+      "transfer-encoding": "chunked"
+    },
+    "body": null
+  },
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "ପୁଅକୁ ଭଲ ପାଉଥିଲା ବୋଲି ସେ କେମିତି ।\nମାୟାଧରକୁ ଅନୁଚିନ୍ତା ହେଲା, - \"ଶିଶୁଟି ବଡେ ଅଭିମାନି ପକ୍ଷରୁ ଅତ୍ୟାଚାରୀ ହେଲେ\nହେଉ, ପ୍ରେମ କଥା କିଛି ନୁହେଁ, ଓଲଟି ଦେଖାଦେଖି କ୍ରମେକ୍ରମେ ଦୁଇପାଖରୁ\nକିଏ ଆଗେ କହି ପ୍ରେମ କରୁଥିଲେ ? କେଜାଣି କି କି ସୁନ୍ଦର ସ୍ଵପ୍ନ ସେ ଦେଖି\nମନେ ମନେ ବଡେ ଭଲ ପାଉଥିଲା ଅଥଚ ତାକୁ ନାୟକ ଜାଆଗାରେ ଦେଖି ନ\nପାରି ଭାବିଛି, ସେହି ମାତ୍ର ଆଦେଶ ଦେଇଥିବା ତାକୁ ନିଜେ ନୁହେଁ\nପକେଇଥାନ୍ତି । ତାଙ୍କ ଦେହରୁ ନାନା କଳ୍ପନା ଜଳ୍ପନା କରିଛି, ତାପରେ ଅନେକ\nଭବିଷ୍ୟତର ବାଟ ଖୋଲିଛି, ତା'ର ନିଜେର ନୁହେଁ । ମଧୁସୂଦନରେ ମଧ୍ୟ ସବୁ\nସମାଜ ପ୍ରତିଷ୍ଠାକରେ ଯେ ଶିଶୁଟିକୁ ଅଧିକାରୀ ହେବାକୁ ଦେଇ ନାହିଁ,\nପ୍ରତିଷ୍ଠାର ନିରୂପିତ କେଉଁଠି ଥିଲେ ବୋଲି ସେହି ଚିନ୍ତାନିହିତ ମାୟାଧର କହି-\nପାରେ । କଣ କରିବେ ସେ ? ତାଙ୍କ ପ୍ରେମ କରିଛି ବୋଲିତ କହିପାରିବେ ନାହିଁ,\nବଡେ ପକ୍ଷରୁ କିଛି ପ୍ରେମ କରିପାରେ, କଣ ତାହା ଦେଖାଇବେ ? କଣ/କେତେ\nକହିବେନାହିଁ କରୁନାହିଁ, କିଏ ଜଣେ କହିଦେଇଥିଲା ନାହିଁ (୧୮) । ଓଲଟି ମାୟାଧର\nଭିତରେ ସେ କେତେବେଳେ ମାୟାଧର କିଛି କହିପାରୁନାହିଁ ବରଂ ଭାବିଛି ପ୍ରଥମ\nଦିନରୁ ଆରମ୍ଭ ହୋଇଛି ।"
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": "STOP",
+      "safety_ratings": [
+        {
+          "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HATE_SPEECH",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HARASSMENT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+          "probability": "NEGLIGIBLE"
+        }
+      ],
+      "token_count": null
+    }
+  ],
+  "create_time": null,
+  "response_id": null,
+  "model_version": "gemini-2.5-pro",
+  "prompt_feedback": null,
+  "usage_metadata": {
+    "cache_tokens_details": null,
+    "cached_content_token_count": null,
+    "candidates_token_count": 592,
+    "candidates_tokens_details": null,
+    "prompt_token_count": 784,
+    "prompt_tokens_details": [
+      {
+        "modality": "TEXT",
+        "token_count": 526
+      },
+      {
+        "modality": "IMAGE",
+        "token_count": 258
+      }
+    ],
+    "thoughts_token_count": 6802,
+    "tool_use_prompt_token_count": null,
+    "tool_use_prompt_tokens_details": null,
+    "total_token_count": 8178,
+    "traffic_type": null
+  },
+  "automatic_function_calling_history": [],
+  "parsed": null,
+  "page_number": 264
+}

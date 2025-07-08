@@ -1,0 +1,32 @@
+{
+  "page_number": 1022,
+  "ocr_output": {
+    "blocks": [
+      {
+        "block_text": "https://www.ncertbooks.guru/",
+        "lines": [
+          "https://www.ncertbooks.guru/"
+        ],
+        "bounding_box": [
+          {
+            "x": 2,
+            "y": 5
+          },
+          {
+            "x": 132,
+            "y": 5
+          },
+          {
+            "x": 132,
+            "y": 14
+          },
+          {
+            "x": 2,
+            "y": 14
+          }
+        ],
+        "confidence": 0.9787847
+      }
+    ]
+  }
+}

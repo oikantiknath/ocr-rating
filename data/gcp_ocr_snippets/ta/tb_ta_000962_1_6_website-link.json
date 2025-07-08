@@ -1,0 +1,32 @@
+{
+  "page_number": 962,
+  "ocr_output": {
+    "blocks": [
+      {
+        "block_text": "www.tntextbooks.in",
+        "lines": [
+          "www.tntextbooks.in"
+        ],
+        "bounding_box": [
+          {
+            "x": 11,
+            "y": 6
+          },
+          {
+            "x": 106,
+            "y": 5
+          },
+          {
+            "x": 106,
+            "y": 15
+          },
+          {
+            "x": 11,
+            "y": 16
+          }
+        ],
+        "confidence": 0.9815447
+      }
+    ]
+  }
+}

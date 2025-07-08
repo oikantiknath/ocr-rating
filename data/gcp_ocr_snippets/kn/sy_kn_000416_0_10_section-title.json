@@ -1,0 +1,32 @@
+{
+  "page_number": 416,
+  "ocr_output": {
+    "blocks": [
+      {
+        "block_text": "B.H.M Degree Programme",
+        "lines": [
+          "B.H.M Degree Programme"
+        ],
+        "bounding_box": [
+          {
+            "x": 19,
+            "y": 11
+          },
+          {
+            "x": 380,
+            "y": 13
+          },
+          {
+            "x": 380,
+            "y": 38
+          },
+          {
+            "x": 19,
+            "y": 36
+          }
+        ],
+        "confidence": 0.9810381
+      }
+    ]
+  }
+}

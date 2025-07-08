@@ -1,0 +1,79 @@
+{
+  "sdk_http_response": {
+    "headers": {
+      "content-type": "application/json; charset=UTF-8",
+      "vary": "Origin, X-Origin, Referer",
+      "content-encoding": "gzip",
+      "date": "Fri, 04 Jul 2025 03:24:14 GMT",
+      "server": "scaffolding on HTTPServer2",
+      "x-xss-protection": "0",
+      "x-frame-options": "SAMEORIGIN",
+      "x-content-type-options": "nosniff",
+      "server-timing": "gfet4t7; dur=63852",
+      "alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
+      "transfer-encoding": "chunked"
+    },
+    "body": null
+  },
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "1. द्रष्टव्य—ब्रजभाषा और अवधी के अधुनातन कवि : डॉ. रामप्रसाद मिश्र, राकेश प्रकाशन, मधु-\nनिवास, बाराबंकी, प्रथम संस्करण-1990, पृ. 49\n2. देखिये—'पारिजात' : मृगेश, यथार्थता, राकेश शर्मा, राकेश प्रकाशन, बाराबंकी\n3. संदर्भ हेतु द्रष्टव्य—अवध-अवधी : विविध आयाम : संपादक डॉ. रामशंकर त्रिपाठी, ग्रंथ में प्रकाशित लेखक\nका ही आलेख 'बाराबंकी जनपद के प्रमुख अवधी रचनाकार', पृष्ठ 374\n4. पुष्टि हेतु देखिये—आधुनिक अवधी के पारिजात 'मृगेश' : डॉ. वेदप्रकाश आर्य\n5. पुष्टि हेतु द्रष्टव्य-भूमिका : डॉ. भगीरथ मिश्र, पारिजात-मृगेश, राकेश प्रकाशन, बाराबंकी, 1980\n6. यथार्थता : मृगेश, पारिजात, प्रथम संस्करण\n7. अवधी भाषा एवं साहित्य का इतिहास, प्रो. राजेन्द्रप्रसाद श्रीवास्तव, भवदीय प्रकाशन, श्रृंगारहाट, अयोध\nया-फैजाबाद, पृष्ठ 133"
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": "STOP",
+      "safety_ratings": [
+        {
+          "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HATE_SPEECH",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HARASSMENT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+          "probability": "NEGLIGIBLE"
+        }
+      ],
+      "token_count": null
+    }
+  ],
+  "create_time": null,
+  "response_id": null,
+  "model_version": "gemini-2.5-pro",
+  "prompt_feedback": null,
+  "usage_metadata": {
+    "cache_tokens_details": null,
+    "cached_content_token_count": null,
+    "candidates_token_count": 261,
+    "candidates_tokens_details": null,
+    "prompt_token_count": 760,
+    "prompt_tokens_details": [
+      {
+        "modality": "TEXT",
+        "token_count": 502
+      },
+      {
+        "modality": "IMAGE",
+        "token_count": 258
+      }
+    ],
+    "thoughts_token_count": 6107,
+    "tool_use_prompt_token_count": null,
+    "tool_use_prompt_tokens_details": null,
+    "total_token_count": 7128,
+    "traffic_type": null
+  },
+  "automatic_function_calling_history": [],
+  "parsed": null,
+  "page_number": 343
+}

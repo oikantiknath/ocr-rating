@@ -1,0 +1,79 @@
+{
+  "sdk_http_response": {
+    "headers": {
+      "content-type": "application/json; charset=UTF-8",
+      "vary": "Origin, X-Origin, Referer",
+      "content-encoding": "gzip",
+      "date": "Fri, 04 Jul 2025 05:14:42 GMT",
+      "server": "scaffolding on HTTPServer2",
+      "x-xss-protection": "0",
+      "x-frame-options": "SAMEORIGIN",
+      "x-content-type-options": "nosniff",
+      "server-timing": "gfet4t7; dur=72444",
+      "alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
+      "transfer-encoding": "chunked"
+    },
+    "body": null
+  },
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "20. വിജയകാണ്ഡിന് മാധവവർമ്മൻ 2 .വെന്നൂരം താലൂക്കിലെ താലേ\nലിനും. സം.സംസ്കൃതം. ആറാം. നൂറ്റാണ്ട്. കുബ്ജവിഷ്ണുവർമ്മഭേദത്തെ ഒരു\nരകഗ്രാമം രണ്ടു ബ്രാഹ്മണർക്ക് 3 നിർമ്മാണങ്ങളോടും. 3 വാടികകളോടും കൂടി\nദാനം ചെയ്തു. വൈശാഖത്തിലെ മഹാദ്വാദശിപൗർണ്ണമിനാളിൽ യജ്ഞ\nകർത്താവും ഇന്ദ്രഭട്ടാരകനും. ചന്ദ്രവർണ്ണാശ്രമധർമ്മപാലകനുമായ മഹാ\nരാജാവ് എന്ന് ദാനദിവസവും മഹാരാജാവിന്റെ വിശേഷണവും. (EI\nXXVII.No: 49. 312-18)\n21. വിജയകാണ്ഡിൻ മാധവവർമ്മൻ 3. ഇപ്പൂർ(ഗുണ്ടൂർ)താലൂക്കിലിനും. സം.സം\nസ്കൃതം. ആറാം.നൂറ്റാണ്ട്. അസിവർമ്മനെന്ന ബ്രാഹ്മണന്ന് ഉദയഡിവിഷ\nയത്തിലെ വിലംബെലിഗ്രാമം ദാനം ചെയ്തു. ഗോവിന്ദവർമ്മ പുത്രൻ മഹാ\nരാജമാധവവർമ്മന്ന് ശിവാർച്ചനസമാധിഭേദത്തിന്റെ വിജയസമാധാന\nദാനം നിർവ്വഹിക്കുന്നത് അദ്ദേഹത്തിന്റെ പുത്രനാണ്. (EI XVII, No: 20.\n234-7)\n22. വിജയകാണ്ഡിൻ ഇന്ദ്രവർമ്മൻ വിശാഖപട്ടണം.ജില്ലേ രാമതീർത്ഥം\nതാലൂക്കിലിനും.സം.സംസ്കൃതം. 4 ശ്ലോകമുണ്ട്. (മനു,വ്യാസനീതിവശ\nടെ).ആറാം.നൂറ്റാണ്ട്. മന്ദരഗോത്രബ്രാഹ്മണന്നഗ്നിശർമ്മപുത്രൻ ഗുണ്ടൂ\nരത്തിലെ പെരുവടകഗ്രാമം ദാനം. പുരണിസംഘത്തിലെ പടഭീരത്തി\nൽവെച്ച്,മഹാരാജാവിന്റെ അനുവാദസമ്പ്രകാരം മഹാരാജാ മാധവ\nവർമ്മന്റെ പേരക്കുട്ടിയും മഹാരാജാ വിക്രമേന്ദ്രന്റെ പുത്രനുമായ യജ്ഞ\nകർത്താവ് ഇന്ദ്രവർമ്മനെന്ന് വിശേഷണം. (EI XV1No:17. 133-6)\n23. വിജയകാണ്ഡിൻ വിക്രമേന്ദ്രവർമ്മൻ 1 കാലം. ചിക്കല്ലേ ഗോദാവരി\nജില്ല. സം.സംസ്കൃതം പ്രാഗ്രതവും .ആറാം.നൂറ്റാണ്ട്. ശിവക്ഷേത്രത്തിന്\nകുബ്ജവിഷ്ണുവർമ്മനെന്ന് രഘോണഗ്രാമം ഗ്രാമദാനം. ലെൻഡുലൂല വിജയസമാധാ\nനത്ത് വിക്രമേന്ദ്രപുത്രൻ മഹാരാജാ മാധവവർമ്മന്റെ പെരുമകന്റെ പുത്ര\nനാണ് ദാനം ചെയ്യുന്നത്. (EI 1VNo:25. 193-8)"
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": "STOP",
+      "safety_ratings": [
+        {
+          "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HATE_SPEECH",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HARASSMENT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+          "probability": "NEGLIGIBLE"
+        }
+      ],
+      "token_count": null
+    }
+  ],
+  "create_time": null,
+  "response_id": null,
+  "model_version": "gemini-2.5-pro",
+  "prompt_feedback": null,
+  "usage_metadata": {
+    "cache_tokens_details": null,
+    "cached_content_token_count": null,
+    "candidates_token_count": 669,
+    "candidates_tokens_details": null,
+    "prompt_token_count": 740,
+    "prompt_tokens_details": [
+      {
+        "modality": "TEXT",
+        "token_count": 482
+      },
+      {
+        "modality": "IMAGE",
+        "token_count": 258
+      }
+    ],
+    "thoughts_token_count": 5787,
+    "tool_use_prompt_token_count": null,
+    "tool_use_prompt_tokens_details": null,
+    "total_token_count": 7196,
+    "traffic_type": null
+  },
+  "automatic_function_calling_history": [],
+  "parsed": null,
+  "page_number": 386
+}

@@ -1,0 +1,79 @@
+{
+  "sdk_http_response": {
+    "headers": {
+      "content-type": "application/json; charset=UTF-8",
+      "vary": "Origin, X-Origin, Referer",
+      "content-encoding": "gzip",
+      "date": "Fri, 04 Jul 2025 04:54:19 GMT",
+      "server": "scaffolding on HTTPServer2",
+      "x-xss-protection": "0",
+      "x-frame-options": "SAMEORIGIN",
+      "x-content-type-options": "nosniff",
+      "server-timing": "gfet4t7; dur=144095",
+      "alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
+      "transfer-encoding": "chunked"
+    },
+    "body": null
+  },
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "ಪರಮಪದದಲ್ಲಿ ಭಾಗದಲ್ಲಿ ಆಕೆ ತನ್ನ ಸಖಿಯರೊಂದಿಗೆ ಕವಿಗಳಲ್ಲಿ ಕೆಲವನ್ನು\nಪರಿಗಣಿಸುತ್ತಾರೆ. ಅವರಲ್ಲಿ 'ಪರಮ ಪದ ಯಶೋಧರಚರಿತೆ'ಯನ್ನು ರಚಿಸಿದ ಜನ್ನನೂಬ್ಬ.\nಆತ ಆಕೆಯ ಗಂಡ; ಆತನನ್ನು ಕವಿಚಕ್ರವರ್ತಿ ಎಂದು ಕರೆಯುತ್ತಾರೆ. ಈ ಕಾವ್ಯದ ಚಾರಿತ್ರಿಕ ಮೂಲ\nವಿಷಯಗಳೂ ಬಹಳ ಸ್ವಲ್ಪ. ಅದರ ಮಹತ್ವವಿರುವುದು ಕಾವ್ಯ ಲಾವಣ್ಯದಲ್ಲಿಯೇ ವಿನಹ.\nಜಿನದತ್ತ ಎಂಬ ವರ್ತಕನೊಬ್ಬ ಬಲು ಭೋಗ ಪ್ರಿಯನಾಗಿ ಬದುಕಿದ್ದ. ಈ\nಭಾಗದಲ್ಲಿ ಕೂಡ ಅನೇಕ ಕವಿಗಳು ನಮ್ಮಲ್ಲಿ ಆಗಿದ್ದಾರೆ. ಇವರಲ್ಲಿನ ಈ ಕಾವ್ಯದ ಬಗ್ಗೆ\nಒಂದು ಮಾತಿನಲ್ಲಿ ಮಾತ್ರ ಹೇಳುವುದಾದರೆ ಎಂಬ ವಿಷಯವಾಗಿದೆ. ಹೀಗಾಗಿ ದೇವತೆ ಎಂಬ\nಪದದಿಂದ ವಿಶೇಷ ವೈಶಿಷ್ಟ್ಯಗಳಿರುವ ಪರಿಣಾಮಕಾರಿ ಕಥನ ಶೈಲಿಯಲ್ಲಿ ಸಂಯೋಜಿಸಿದ\n'ಯಶೋಧರಚರಿತ್ರೆಯ'ನ್ನು ಜನ್ನನೂಬ್ಬನು ರಚಿಸಿದನು. ಹೀಗಾಗಿ ದೇವತೆಯ ವ್ಯಾಖ್ಯಾನ\nಸಮರ್ಪಕವಾಗಿದೆ. ಅದು 'ಪರಮ ಪದ'ವೆಂಬ ಒಂದು ಪದವೇ ಕಾವ್ಯವನ್ನು ಬರೆದಿದ್ದಾರೆ.\nಇದು ಸಂಸ್ಕೃತ ಕೃತಿಗಳಲ್ಲಿನ 'ಪರಮ ಪದ'ವನ್ನು ಚಿತ್ರ ಕಾವ್ಯವನ್ನೂ ರಚಿಸಿದ್ದಾರೆ."
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": "STOP",
+      "safety_ratings": [
+        {
+          "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HATE_SPEECH",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HARASSMENT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+          "probability": "NEGLIGIBLE"
+        }
+      ],
+      "token_count": null
+    }
+  ],
+  "create_time": null,
+  "response_id": null,
+  "model_version": "gemini-2.5-pro",
+  "prompt_feedback": null,
+  "usage_metadata": {
+    "cache_tokens_details": null,
+    "cached_content_token_count": null,
+    "candidates_token_count": 292,
+    "candidates_tokens_details": null,
+    "prompt_token_count": 730,
+    "prompt_tokens_details": [
+      {
+        "modality": "TEXT",
+        "token_count": 472
+      },
+      {
+        "modality": "IMAGE",
+        "token_count": 258
+      }
+    ],
+    "thoughts_token_count": 15745,
+    "tool_use_prompt_token_count": null,
+    "tool_use_prompt_tokens_details": null,
+    "total_token_count": 16767,
+    "traffic_type": null
+  },
+  "automatic_function_calling_history": [],
+  "parsed": null,
+  "page_number": 283
+}

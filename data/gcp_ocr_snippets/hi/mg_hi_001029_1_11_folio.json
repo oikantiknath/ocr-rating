@@ -1,0 +1,32 @@
+{
+  "page_number": 1029,
+  "ocr_output": {
+    "blocks": [
+      {
+        "block_text": "coleable",
+        "lines": [
+          "coleable"
+        ],
+        "bounding_box": [
+          {
+            "x": 56,
+            "y": 16
+          },
+          {
+            "x": 5,
+            "y": 16
+          },
+          {
+            "x": 5,
+            "y": 2
+          },
+          {
+            "x": 56,
+            "y": 2
+          }
+        ],
+        "confidence": 0.58467746
+      }
+    ]
+  }
+}

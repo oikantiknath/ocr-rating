@@ -1,0 +1,79 @@
+{
+  "sdk_http_response": {
+    "headers": {
+      "content-type": "application/json; charset=UTF-8",
+      "vary": "Origin, X-Origin, Referer",
+      "content-encoding": "gzip",
+      "date": "Fri, 04 Jul 2025 04:47:58 GMT",
+      "server": "scaffolding on HTTPServer2",
+      "x-xss-protection": "0",
+      "x-frame-options": "SAMEORIGIN",
+      "x-content-type-options": "nosniff",
+      "server-timing": "gfet4t7; dur=34565",
+      "alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
+      "transfer-encoding": "chunked"
+    },
+    "body": null
+  },
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "ಭಾರತೀಯ ಸೇನೆ ಅಂದು ವಿಶ್ವದ ಅತ್ಯಂತ ಸಮರ್ಥ ಮತ್ತು ತತ್ಪರ ಸೇನೆಗಳಲ್ಲಿ ಒಂದಾಗಿದೆ. ಇದಕ್ಕೆ ಕಾರಣ,\nಕಳೆದ ಆರು ವರ್ಷಗಳಲ್ಲಿ ಸರ್ಕಾರವು ರಕ್ಷಣಾ ಕ್ಷೇತ್ರವನ್ನು ಪ್ರತ್ಯೇಕತೆಯಿಂದ ಹೊರಗೆ ತಂದಿದೆ. ಆದೇಶಗಳನ್ನು\nನಿವಾರಿಸುತ್ತದೆ ಮತ್ತು ಸಾವಿನಿಕತೆ ಹಾಗೂ ತಂತ್ರಜ್ಞಾನದ ಬಳಕೆ ಮತ್ತು ಬಲವಾದ ಮೂಲಸೌಕರ್ಯದೊಂದಿಗೆ\nಗಡಿಗಳನ್ನು ಭದ್ರಪಡಿಸಿದೆ. ರಕ್ಷಣಾ ಕ್ಷೇತ್ರದಲ್ಲಿ ಪ್ರಮುಖ ಆಮದುದಾರ ಎನಿಸಿದ್ದ ಭಾರತ, ಈಗ ರಕ್ಷಣಾ ಸಾಮಾಗ್ರಿಗಳ\nರಫ್ತಿನಲ್ಲಿ ವಿಶ್ವದ ಅಗ್ರ 25 ರಾಷ್ಟ್ರಗಳಲ್ಲಿ ಸ್ಥಾನ ಪಡೆದಿದೆ. ಗಡಿ ಪ್ರದೇಶಗಳನ್ನು ಅಭಿವೃದ್ಧಿಪಡಿಸುವ ಮತ್ತು ಅಲ್ಲಿ\nವಾಸಿಸುವ ನಿವಾಸಿಗಳನ್ನು ಸಬಲೀಕರಣಗೊಳಿಸಿ ಮಾಡಲು ಸರ್ಕಾರ ಸಮಗ್ರ ವಿಧಾನವನ್ನು ಅನುಸರಿಸುತ್ತಿದೆ.\nನ್ಯೂ ಇಂಡಿಯಾ ಸಮಾಚಾರದ ಸಲಹಾ ಸಂಪಾದಕ ಸಂತೋಷ್ ಕುಮಾರ್ ಅವರೊಂದಿಗೆ ರಕ್ಷಣಾ ಸಚಿವ\nರಾಜನಾಥ್ ಸಿಂಗ್ ತಮ್ಮ ಅಭಿಪ್ರಾಯಗಳನ್ನು ಹಂಚಿಕೊಂಡಿದ್ದಾರೆ."
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": "STOP",
+      "safety_ratings": [
+        {
+          "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HATE_SPEECH",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HARASSMENT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+          "probability": "NEGLIGIBLE"
+        }
+      ],
+      "token_count": null
+    }
+  ],
+  "create_time": null,
+  "response_id": null,
+  "model_version": "gemini-2.5-pro",
+  "prompt_feedback": null,
+  "usage_metadata": {
+    "cache_tokens_details": null,
+    "cached_content_token_count": null,
+    "candidates_token_count": 217,
+    "candidates_tokens_details": null,
+    "prompt_token_count": 728,
+    "prompt_tokens_details": [
+      {
+        "modality": "TEXT",
+        "token_count": 470
+      },
+      {
+        "modality": "IMAGE",
+        "token_count": 258
+      }
+    ],
+    "thoughts_token_count": 2962,
+    "tool_use_prompt_token_count": null,
+    "tool_use_prompt_tokens_details": null,
+    "total_token_count": 3907,
+    "traffic_type": null
+  },
+  "automatic_function_calling_history": [],
+  "parsed": null,
+  "page_number": 46
+}

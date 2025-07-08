@@ -1,0 +1,79 @@
+{
+  "sdk_http_response": {
+    "headers": {
+      "content-type": "application/json; charset=UTF-8",
+      "vary": "Origin, X-Origin, Referer",
+      "content-encoding": "gzip",
+      "date": "Fri, 04 Jul 2025 05:24:30 GMT",
+      "server": "scaffolding on HTTPServer2",
+      "x-xss-protection": "0",
+      "x-frame-options": "SAMEORIGIN",
+      "x-content-type-options": "nosniff",
+      "server-timing": "gfet4t7; dur=54961",
+      "alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
+      "transfer-encoding": "chunked"
+    },
+    "body": null
+  },
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "आणखी काही आठवड्यांनी सुरू होणाऱ्या\nनवीन वर्षाच्या प्रारंभ-काळात आपल्या\nपहिल्यावहिल्या 'दुर्मीळ मृदा मूलद्रव्य' (रेअर\nअर्थ्स ) खनिज खाण कंत्राटांचा लिलाव होईल.\nनरेंद्र मोदी सरकारच्या काळात जी काही\nमहत्त्वाची पावले उचलली गेली; त्यातील हे एक.\nया लिलावांतून केंद्र सरकारच्या तिजोरीत किमान\n४५ हजार कोटी रुपयांची भर पडेल. तंत्रक्षेत्रात\nभारताच्या प्रगतीसाठी या दुर्मीळ मृदा मूलद्रव्यांचा\nउपयोग अनन्यसाधारण आहे. पृष्ठभागाखाली\nखोल दगड-मातीत मिसळून असलेल्या लँथेनाइड\nगटातील मूलद्रव्ये दुर्मीळ मानली जातात.\nत्यामागील कारणे अनेक. आवश्यकतेच्या तुलनेत\nत्यांची उपलब्धता हे यांतील एक. मध्यंतरी जम्मू-\nकाश्मिरात लिथियमचे साठे आढळल्याचे वृत्त\nअनेकांस आठवेल. हे एक असे दुर्मीळ मूलद्रव्य.\nयाचाही या लिलायात समावेश असेल. हे\nलिथियम अलीकडे प्रचारात आलेल्या लिथियम\nबॅटऱ्यांमुळे तसे सर्वांस परिचित असते. तथापि\nलिथियमपेक्षा अधिक उपयुक्त असलेली पण तरी\nमोठ्या प्रमाणावर अपरिचित अनेक मूलद्रव्ये\nआहेत. निकेल, टायटॅनियम, मॉलिब्डेनम,\nग्राफाइट आदी मूलद्रव्ये अनेक आणि त्यांची\nघराणीही विविध. संगणकात वापरल्या जाणाऱ्या\n'इंटिग्रेटेड सर्किट्स' (आयसी) चिप्स,\nहार्डडिस्क, लॅपटॉप/टीव्ही आदींचे पडदे\nइत्यादींपासून ते रत्नजडित आभूषणांपर्यंत"
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": "STOP",
+      "safety_ratings": [
+        {
+          "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HATE_SPEECH",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HARASSMENT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+          "probability": "NEGLIGIBLE"
+        }
+      ],
+      "token_count": null
+    }
+  ],
+  "create_time": null,
+  "response_id": null,
+  "model_version": "gemini-2.5-pro",
+  "prompt_feedback": null,
+  "usage_metadata": {
+    "cache_tokens_details": null,
+    "cached_content_token_count": null,
+    "candidates_token_count": 387,
+    "candidates_tokens_details": null,
+    "prompt_token_count": 714,
+    "prompt_tokens_details": [
+      {
+        "modality": "TEXT",
+        "token_count": 456
+      },
+      {
+        "modality": "IMAGE",
+        "token_count": 258
+      }
+    ],
+    "thoughts_token_count": 4976,
+    "tool_use_prompt_token_count": null,
+    "tool_use_prompt_tokens_details": null,
+    "total_token_count": 6077,
+    "traffic_type": null
+  },
+  "automatic_function_calling_history": [],
+  "parsed": null,
+  "page_number": 135
+}

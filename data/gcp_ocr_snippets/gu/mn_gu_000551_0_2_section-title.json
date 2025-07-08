@@ -1,0 +1,31 @@
+{
+  "page_number": 551,
+  "ocr_output": {
+    "blocks": [
+      {
+        "block_text": "શરતો :",
+        "lines": [
+          "શરતો :"
+        ],
+        "bounding_box": [
+          {
+            "x": 12
+          },
+          {
+            "x": 69,
+            "y": 1
+          },
+          {
+            "x": 68,
+            "y": 34
+          },
+          {
+            "x": 11,
+            "y": 33
+          }
+        ],
+        "confidence": 1
+      }
+    ]
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "sdk_http_response": {
+    "headers": {
+      "content-type": "application/json; charset=UTF-8",
+      "vary": "Origin, X-Origin, Referer",
+      "content-encoding": "gzip",
+      "date": "Fri, 04 Jul 2025 05:40:04 GMT",
+      "server": "scaffolding on HTTPServer2",
+      "x-xss-protection": "0",
+      "x-frame-options": "SAMEORIGIN",
+      "x-content-type-options": "nosniff",
+      "server-timing": "gfet4t7; dur=40903",
+      "alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
+      "transfer-encoding": "chunked"
+    },
+    "body": null
+  },
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "પ્રશ્નમાં શું પૂછવાનું તે નોધમાં જણાવવાનું નથી. જો પ્રથમ શીખવે\nલા સાથે પાઠ સંબંધ ધરાવતો હોય, તો ગયે વખતે જે શીખવ્યું હોય,\nતેની મુખ્ય બાબતો વિષે થોડા પ્રશ્ન કરવા, તે એવી મતલબથી કે પાછળ\nશીખવેલું છોકરાંને યાદ રહ્યું છે, તેની ખાત્રી થાય, અને શીખવેલા સા-\nથે નવીન શીખવવાનું હોય, તેનો સંબંધ બેસય. જો પાઠ નવો કે સ્વ-\nતંત્ર હોય, તો તેના વિષય ઉપર નજર રાખી થોડા પ્રશ્ન કરવા જો પાઠ\nવાંચનનો હોય, તો તેમાં આપેલા વિષય સમયે થોડી વાત સરુઆ-\nતમાં કહેવી, જો લેખનનો હોય તો પાછલા પાઠમાં કરેલી સામાન્ય ભૂલો\nજણાવીને પાટીઆપર લખવી, જો ગણિતનો હોય, તો એના દાખલા\nએવી રીતે પૂછવા, કે જેથી સંશોધકકરણની રીતે શીખવવાના નિયમ, કે\nકૃતિ તરફ છોકરાંને દોરી જવાય, જો વ્યાકરણનો હોય, તો પાછલા પા-\nઠની મતલબ સારે, એવા વાક્ય પાટીઆપર લખી પ્રશ્ન કરવા, તથા આપ-\nવાના પાઠનું સૂચન થાય, એવા પ્રશ્ન કરવા, જો ઇતિહાસનો હોય, તો પા-\nછલા પાઠ વિષે પ્રશ્ન કરવા, અને એવી બાબતો કઢાવવી, કે જેથી આ-\nપવાના પાઠ ભણી છોકરાનું લક્ષ દોરાય, જો ભૂગોળનો હોય, તો વખતે\nવસ્તુઓ, નમુના, નકશા કે આકૃતિઓ બતાવવી પડે, કે પાછલા જ્ઞાનને\nઆપવાના પાઠ સાથે પ્રશ્ન વડોજ સંબંધ કરવો પડે, જો કથિત પાઠ\nહોય, તો વસ્તુ જાતે કે તેના નમુના, ચિત્ર, આકૃતિ વગેરે બતાડવું પડે,\nઅને એકજ વર્ગની વસ્તુઓ વિષે લાગટ પાઠ ચાલતા હોય, તો પાછ-\nલા પાઠ સાથે સંબંધ થાય, એવા પ્રશ્ન કરવા પડે. શરૂઆતમાં જે કૃતિ\nકરવાની હોય, તે વખતે પદ્ધતિના આસનમાં પણ લખાયછે. આરંભ પ્રત્યેક\nકે શરૂઆતની કૃતિમા ઘણો વખત ન ગાળવો, કેમકે તેમ કરવાથી જે\nનવું શીખવવાનું તેના વખતમાં તૂટ પડે છે. આરંભ પ્રશ્ન અથવા ચ-\nરચાત શબ્દ લખ્યા પછી શીખવવાની વસ્તુના મથાળાં અથવા તેના\nમુદ્દાઓ જુદા જુદા લખવા. જે મુદ્દાઓ વધારે અગત્યના કે ગુપ્ત હો-\nય, તે ગોટે અક્ષરે જણાવવા. પેટાના મુદ્દા પેટામાં ન્યાયના ખા-\nખ્યા, નિયમ, સલતા, કે એવું કઈ લખવાનું હોય. તે ટૂંકામાં પણ\nસ્પષ્ટ સમજાય એવી રીતે લખવું. તેનું વર્ણન કરવું નહિ. શરૂઆતમાં\nવસ્તુના ક્રમવાર મુદ્દાની, ગોઠવણુ શીખવનારે બનાવવી, અને તે ઉપરથી"
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": "STOP",
+      "safety_ratings": [
+        {
+          "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HATE_SPEECH",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HARASSMENT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+          "probability": "NEGLIGIBLE"
+        }
+      ],
+      "token_count": null
+    }
+  ],
+  "create_time": null,
+  "response_id": null,
+  "model_version": "gemini-2.5-pro",
+  "prompt_feedback": null,
+  "usage_metadata": {
+    "cache_tokens_details": null,
+    "cached_content_token_count": null,
+    "candidates_token_count": 718,
+    "candidates_tokens_details": null,
+    "prompt_token_count": 756,
+    "prompt_tokens_details": [
+      {
+        "modality": "TEXT",
+        "token_count": 498
+      },
+      {
+        "modality": "IMAGE",
+        "token_count": 258
+      }
+    ],
+    "thoughts_token_count": 2588,
+    "tool_use_prompt_token_count": null,
+    "tool_use_prompt_tokens_details": null,
+    "total_token_count": 4062,
+    "traffic_type": null
+  },
+  "automatic_function_calling_history": [],
+  "parsed": null,
+  "page_number": 347
+}

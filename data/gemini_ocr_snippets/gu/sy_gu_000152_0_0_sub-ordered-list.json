@@ -1,0 +1,79 @@
+{
+  "sdk_http_response": {
+    "headers": {
+      "content-type": "application/json; charset=UTF-8",
+      "vary": "Origin, X-Origin, Referer",
+      "content-encoding": "gzip",
+      "date": "Fri, 04 Jul 2025 05:39:20 GMT",
+      "server": "scaffolding on HTTPServer2",
+      "x-xss-protection": "0",
+      "x-frame-options": "SAMEORIGIN",
+      "x-content-type-options": "nosniff",
+      "server-timing": "gfet4t7; dur=26780",
+      "alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
+      "transfer-encoding": "chunked"
+    },
+    "body": null
+  },
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "1. સિંધુ ખીણની સભ્યતા: લાક્ષણિકતાઓ, સ્થળો, સમાજ, સાંસ્કૃતિક ઇતિહાસ, કળા અને ધર્મ,\nસિંધુ ખીણની સભ્યતા અને ગુજરાત.\n2. વૈદિક યુગ- જૈન ધર્મ અને બૌદ્ધ ધર્મ.\n3. ભારત પરના વિદેશી આક્રમણો અને તેની પ્રભાવ.\n4. મૌર્ય અને ગુપ્ત સામ્રાજ્ય: તેમનું વહીવટી તંત્ર સામાજિક, ધાર્મિક અને આર્થિક\nપરિસ્થિતીઓ, કલાઓ, સ્થાપત્ય, સાહિત્ય, વિજ્ઞાન અને ટેકનોલોજી.\n5. કનિષ્ક, હર્ષ અને દક્ષિણ ભારતીય રાજવંશો.\n6. દિલ્હી સલ્તનત, વિજયનગર સામ્રાજ્ય અને મુગલ સામ્રાજ્ય.\n7. ભક્તિ આંદોલન અને સૂફીવાદ\n8. ગુજરાતના મુખ્ય રાજવંશો- તેમના શાસકો વહીવટી તંત્ર, આર્થિક પરિસ્થિતી, સમાજ,\nધર્મ, સાહિત્ય, કલા અને સ્થાપત્ય.\n9. ગુજરાતનો સ્વતંત્ર સલ્તનત સુલતાન મહેમદશાહ પહેલો, મહમુદ બેગડો અને બહાદુર\nશાહ.\n10. મુગલ અને મરાઠાઓના શાસન દરમિયાન ગુજરાત, વડોદરામાં ગાયકવાડનું શાસન\nઅને વોકર કરાર.\n11. ભારતમાં યુરોપિયન વેપારી કંપની- સર્વોચ્ચતા માટેનો તેમનો સંઘર્ષ- બંગાળ, મૈસુર\nમરાઠાઓ અને હૈદરાબાદના વિશેષ સંદર્ભમાં.\n12. ગવર્નર જનરલ અને વાઇસરોય.\n13. ૧૮૫૭નો ભારતનો સ્વાતંત્ર્ય સંગ્રામ- ઉદભવ, સ્વરૂપ, કારણો, પરિણામો અને મહત્વ,\nગુજરાતના વિશેષ સંદર્ભમાં.\n14. ૧૯મી સદીમાં ભારત અને ગુજરાતમાં ધાર્મિક અને સામાજિક સુધારા આંદોલનો.\n15. ભારતની સ્વતંત્રતા માટેની ચળવળ, ભારત અને વિદેશમાં ભારતીય ક્રાંતિકારીઓ.\n16. સૌરાષ્ટ્ર, કચ્છ અને ગુજરાતના દેશી રાજ્યોના સુધારાવાદી પગલાઓ."
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": "STOP",
+      "safety_ratings": [
+        {
+          "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HATE_SPEECH",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HARASSMENT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+          "probability": "NEGLIGIBLE"
+        }
+      ],
+      "token_count": null
+    }
+  ],
+  "create_time": null,
+  "response_id": null,
+  "model_version": "gemini-2.5-pro",
+  "prompt_feedback": null,
+  "usage_metadata": {
+    "cache_tokens_details": null,
+    "cached_content_token_count": null,
+    "candidates_token_count": 572,
+    "candidates_tokens_details": null,
+    "prompt_token_count": 761,
+    "prompt_tokens_details": [
+      {
+        "modality": "TEXT",
+        "token_count": 503
+      },
+      {
+        "modality": "IMAGE",
+        "token_count": 258
+      }
+    ],
+    "thoughts_token_count": 1863,
+    "tool_use_prompt_token_count": null,
+    "tool_use_prompt_tokens_details": null,
+    "total_token_count": 3196,
+    "traffic_type": null
+  },
+  "automatic_function_calling_history": [],
+  "parsed": null,
+  "page_number": 308
+}

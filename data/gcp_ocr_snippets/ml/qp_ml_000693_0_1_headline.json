@@ -1,0 +1,57 @@
+{
+  "page_number": 693,
+  "ocr_output": {
+    "blocks": [
+      {
+        "block_text": "ഫോക്ലോർ ( Folklore )",
+        "lines": [
+          "ഫോക്ലോർ ( Folklore )"
+        ],
+        "bounding_box": [
+          {
+            "x": 42,
+            "y": 11
+          },
+          {
+            "x": 269,
+            "y": 10
+          },
+          {
+            "x": 270,
+            "y": 111
+          },
+          {
+            "x": 43,
+            "y": 112
+          }
+        ],
+        "confidence": 0.979704
+      },
+      {
+        "block_text": "cow : MAL4E16",
+        "lines": [
+          "cow : MAL4E16"
+        ],
+        "bounding_box": [
+          {
+            "x": 17,
+            "y": 128
+          },
+          {
+            "x": 295,
+            "y": 131
+          },
+          {
+            "x": 295,
+            "y": 160
+          },
+          {
+            "x": 17,
+            "y": 157
+          }
+        ],
+        "confidence": 0.73367786
+      }
+    ]
+  }
+}

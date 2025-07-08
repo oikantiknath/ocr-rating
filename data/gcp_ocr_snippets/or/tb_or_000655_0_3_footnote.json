@@ -1,0 +1,32 @@
+{
+  "page_number": 655,
+  "ocr_output": {
+    "blocks": [
+      {
+        "block_text": "digitized by NIT , RKI",
+        "lines": [
+          "digitized by NIT , RKI"
+        ],
+        "bounding_box": [
+          {
+            "x": 18,
+            "y": 4
+          },
+          {
+            "x": 184,
+            "y": 1
+          },
+          {
+            "x": 184,
+            "y": 20
+          },
+          {
+            "x": 18,
+            "y": 23
+          }
+        ],
+        "confidence": 0.92688775
+      }
+    ]
+  }
+}

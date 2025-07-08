@@ -1,0 +1,157 @@
+{
+  "page_number": 117,
+  "ocr_output": {
+    "blocks": [
+      {
+        "block_text": "( A ) A way of conducting research",
+        "lines": [
+          "( A ) A way of conducting research"
+        ],
+        "bounding_box": [
+          {
+            "x": 42,
+            "y": 18
+          },
+          {
+            "x": 594,
+            "y": 15
+          },
+          {
+            "x": 594,
+            "y": 49
+          },
+          {
+            "x": 42,
+            "y": 52
+          }
+        ],
+        "confidence": 0.98663586
+      },
+      {
+        "block_text": "that is not grounded in theory",
+        "lines": [
+          "that is not grounded in theory"
+        ],
+        "bounding_box": [
+          {
+            "x": 111,
+            "y": 73
+          },
+          {
+            "x": 598,
+            "y": 77
+          },
+          {
+            "x": 598,
+            "y": 110
+          },
+          {
+            "x": 111,
+            "y": 106
+          }
+        ],
+        "confidence": 0.9850062
+      },
+      {
+        "block_text": "( B ) The choice between using",
+        "lines": [
+          "( B ) The choice between using"
+        ],
+        "bounding_box": [
+          {
+            "x": 42,
+            "y": 147
+          },
+          {
+            "x": 596,
+            "y": 150
+          },
+          {
+            "x": 596,
+            "y": 181
+          },
+          {
+            "x": 42,
+            "y": 178
+          }
+        ],
+        "confidence": 0.9810853
+      },
+      {
+        "block_text": "qualitative and quantitative methods",
+        "lines": [
+          "qualitative and quantitative methods"
+        ],
+        "bounding_box": [
+          {
+            "x": 111,
+            "y": 209
+          },
+          {
+            "x": 594,
+            "y": 209
+          },
+          {
+            "x": 594,
+            "y": 293
+          },
+          {
+            "x": 111,
+            "y": 293
+          }
+        ],
+        "confidence": 0.9905424
+      },
+      {
+        "block_text": "( C ) The study in which you present research findings",
+        "lines": [
+          "( C ) The study in which you present research findings"
+        ],
+        "bounding_box": [
+          {
+            "x": 42,
+            "y": 335
+          },
+          {
+            "x": 595,
+            "y": 342
+          },
+          {
+            "x": 594,
+            "y": 431
+          },
+          {
+            "x": 41,
+            "y": 424
+          }
+        ],
+        "confidence": 0.9847012
+      },
+      {
+        "block_text": "( D ) A framework for every stage of collection and analysis of data",
+        "lines": [
+          "( D ) A framework for every stage of collection and analysis of data"
+        ],
+        "bounding_box": [
+          {
+            "x": 42,
+            "y": 468
+          },
+          {
+            "x": 598,
+            "y": 471
+          },
+          {
+            "x": 597,
+            "y": 565
+          },
+          {
+            "x": 41,
+            "y": 562
+          }
+        ],
+        "confidence": 0.98986673
+      }
+    ]
+  }
+}

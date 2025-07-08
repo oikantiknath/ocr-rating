@@ -1,0 +1,79 @@
+{
+  "sdk_http_response": {
+    "headers": {
+      "content-type": "application/json; charset=UTF-8",
+      "vary": "Origin, X-Origin, Referer",
+      "content-encoding": "gzip",
+      "date": "Fri, 04 Jul 2025 04:03:39 GMT",
+      "server": "scaffolding on HTTPServer2",
+      "x-xss-protection": "0",
+      "x-frame-options": "SAMEORIGIN",
+      "x-content-type-options": "nosniff",
+      "server-timing": "gfet4t7; dur=41523",
+      "alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
+      "transfer-encoding": "chunked"
+    },
+    "body": null
+  },
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "ତରୁଣ ଥିଲା ସମୟର ଆଉ ଜଣେ ପ୍ରତିଷ୍ଠିତ ନାଟ୍ୟକାର କିନ୍ତୁ ସମାଜ ଶତପଥୀଙ୍କ ଭଳି\nକେତୋଟି ଉଚ୍ଚ ମାର୍ଗର ମଞ୍ଚସଜ୍ଜା ଉପରେ ନଜର ପକାଇବା । ୧୯୮୦ ମସିହାରେ ଉଚ୍ଚ\n୧୯୮୧ ମସିହାରେ ରକ୍ତନଦୀର ପ୍ରକାଶନ ପରେ ମଞ୍ଚସ୍ଥ ହୋଇଥିଲା ତାଙ୍କ ନାଟକ ‘ତିମିର\nତୃତୀୟ ସ୍ତବକ’ । ଏହାର ମଞ୍ଚସଜ୍ଜା ଅତ୍ୟନ୍ତ ସରଳ ଥିବା ନାଟ୍ୟକାର ପ୍ରକାଶକୀୟରେ ସୂଚନା\nଦେଇଛନ୍ତି । -“ମଞ୍ଚ ପରିକଳ୍ପନା ବେଶ୍ ସିଧାସାଧା । ପଛରେ ଗୋଟିଏ ମାତ୍ର କଳା ପରଦା ।\nସମ୍ମୁଖ ମଞ୍ଚ ଦୁଇଭାଗରେ ବିଭକ୍ତ କରାଯିବ । ପୁଣି ସେମାନେ ଆଲୋକ ବିଚ୍ଛିନ୍ନ\nଭାବେ ଅର୍ଥାତ୍ ଦୃଶ୍ୟ ଗୋଟିଏ ଆଲୋକିତ ହେଲେ ଏବଂ ସେଠାରେ ଅଭିନୟ ଚାଲିବ\nକରାଯିବ ।”(୫୬) ନାଟ୍ୟକାର ଶତପଥୀଙ୍କ ଅଧିକାଂଶ ନାଟକରେ ସରଳ ମଞ୍ଚସଜ୍ଜାକୁ ଗୁରୁତ୍ଵ\nଦେଇଛନ୍ତି । ପୁଣି ସେମାନେ ମଞ୍ଚ ବିଷୟକୁ ନେଇ ଆଲୋକ ପ୍ରୟୋଗ ମାଧ୍ୟମରେ ମଞ୍ଚକୁ\nନୂତନ ଭାବରେ ସଂପୂର୍ଣ୍ଣ କରିପାରିଛନ୍ତି । ତାଙ୍କ ନାଟକ ‘ଏକ ଯେ ଦୁର୍ଘଟ ଘଟଣା’ରେ ମଧ୍ୟ ମଞ୍ଚଟିକୁ\nଦୁଇଟି ଭାଗରେ ବିଭକ୍ତ କରାଯାଇଛି ।"
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": "STOP",
+      "safety_ratings": [
+        {
+          "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HATE_SPEECH",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HARASSMENT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+          "probability": "NEGLIGIBLE"
+        }
+      ],
+      "token_count": null
+    }
+  ],
+  "create_time": null,
+  "response_id": null,
+  "model_version": "gemini-2.5-pro",
+  "prompt_feedback": null,
+  "usage_metadata": {
+    "cache_tokens_details": null,
+    "cached_content_token_count": null,
+    "candidates_token_count": 516,
+    "candidates_tokens_details": null,
+    "prompt_token_count": 784,
+    "prompt_tokens_details": [
+      {
+        "modality": "TEXT",
+        "token_count": 526
+      },
+      {
+        "modality": "IMAGE",
+        "token_count": 258
+      }
+    ],
+    "thoughts_token_count": 3305,
+    "tool_use_prompt_token_count": null,
+    "tool_use_prompt_tokens_details": null,
+    "total_token_count": 4605,
+    "traffic_type": null
+  },
+  "automatic_function_calling_history": [],
+  "parsed": null,
+  "page_number": 285
+}

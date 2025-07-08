@@ -1,0 +1,79 @@
+{
+  "sdk_http_response": {
+    "headers": {
+      "content-type": "application/json; charset=UTF-8",
+      "vary": "Origin, X-Origin, Referer",
+      "content-encoding": "gzip",
+      "date": "Fri, 04 Jul 2025 04:01:10 GMT",
+      "server": "scaffolding on HTTPServer2",
+      "x-xss-protection": "0",
+      "x-frame-options": "SAMEORIGIN",
+      "x-content-type-options": "nosniff",
+      "server-timing": "gfet4t7; dur=63939",
+      "alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
+      "transfer-encoding": "chunked"
+    },
+    "body": null
+  },
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "ଅପର ପଟରେ ଭବନେଶ୍ଵର ପଟଟି ଭଳି\nଖେଳିଥିବାରୁ ସଦାସର୍ବଦା ମଧ୍ୟ\nଏହାପ୍ରତି ରକ୍ଷା କରିପାରି ନ ଥିଲେ।\nସେ ୩ ଗୋଲ ଓ ୧ ଗୋଲ ପରାଜୟରେ\nମାତ ଦେଇ ଇଣ୍ଡିଆନେସ ଦଳମାନଙ୍କ\nଦିନର ଶକ୍ତି ପ୍ରତିଦ୍ବନ୍ଦ୍ବିତା ଦେଖାଇବାରେ ଗ୍ରସ୍ତ\nହୋଇଯାଇଥିଲେ। ତେବେ ନିଜର\nଅର୍ଦ୍ଧରେ କାର୍ବନ କ୍ଲିୟାର, ପୋଲିସ\nଗୋଦାମ ଓ ଅଫିସେସ ଦାବରେ ଦୁଇ\nଗୋଟିଏ ଦେଇ ସମ୍ମାନଜନକ ଭାବେ\nଆଗକୁ ନେଇ ଯାଇଥିଲା। କାର୍ବନ କ୍ଲିୟାର\nପକ୍ଷରୁ ଦଳ ପ୍ରତିରକ୍ଷା ଗୋଲରକ୍ଷକୁ\nଭୁଲକଲା କରି ପରିବର୍ତ୍ତନ ସାଧନ\nକରିଥିଲେ। ସେ ୬ ଗୋଲ ପରାଜୟରେ\nପର୍ଯ୍ୟାୟ ୬ଟି ଦଳ ଭାଗ ନେଇଥିଲେ।\nଗୋଦାମ ୩ଟି (୨ ଗୋଲ, ୧ ଜଣା)\nଦଳବଦଳି ଆରମ୍ଭ ହୋଇଥିବାବେଳେ\nଅଫିସେସ ୩୭ ରହୁ ୩୫ (୨"
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": "STOP",
+      "safety_ratings": [
+        {
+          "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HATE_SPEECH",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HARASSMENT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+          "probability": "NEGLIGIBLE"
+        }
+      ],
+      "token_count": null
+    }
+  ],
+  "create_time": null,
+  "response_id": null,
+  "model_version": "gemini-2.5-pro",
+  "prompt_feedback": null,
+  "usage_metadata": {
+    "cache_tokens_details": null,
+    "cached_content_token_count": null,
+    "candidates_token_count": 369,
+    "candidates_tokens_details": null,
+    "prompt_token_count": 782,
+    "prompt_tokens_details": [
+      {
+        "modality": "TEXT",
+        "token_count": 524
+      },
+      {
+        "modality": "IMAGE",
+        "token_count": 258
+      }
+    ],
+    "thoughts_token_count": 5919,
+    "tool_use_prompt_token_count": null,
+    "tool_use_prompt_tokens_details": null,
+    "total_token_count": 7070,
+    "traffic_type": null
+  },
+  "automatic_function_calling_history": [],
+  "parsed": null,
+  "page_number": 142
+}

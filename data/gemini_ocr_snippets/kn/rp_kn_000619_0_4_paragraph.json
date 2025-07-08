@@ -1,0 +1,79 @@
+{
+  "sdk_http_response": {
+    "headers": {
+      "content-type": "application/json; charset=UTF-8",
+      "vary": "Origin, X-Origin, Referer",
+      "content-encoding": "gzip",
+      "date": "Fri, 04 Jul 2025 04:52:13 GMT",
+      "server": "scaffolding on HTTPServer2",
+      "x-xss-protection": "0",
+      "x-frame-options": "SAMEORIGIN",
+      "x-content-type-options": "nosniff",
+      "server-timing": "gfet4t7; dur=36286",
+      "alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
+      "transfer-encoding": "chunked"
+    },
+    "body": null
+  },
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "ಇತ್ತೀಚೆಗಿನ ಕಾವ್ಯದಲ್ಲಿ ತಮ್ಮನ್ನು ಅಭಿವ್ಯಕ್ತಿಸುತ್ತಿರುವವರ ವಾತಾವರಣದಲ್ಲಿನ ಈ\nಪ್ರಬುದ್ಧತೆಯ ಅಂಶಗಳ ಸೆಳೆ ಹಿಡಿದು ಬರಹಗಳಿಗೆ ಇಳಿಸತೊಡಗುವುದು ಕಹಳೆಊದುವ\nಸಂಗತಿಯಾಗಿದೆ. ಚರಿತ್ರೆಯಲ್ಲಿ ಶ್ರೀಯಿಂದಾದ ಅನ್ಯಾಯ, ಅಸಮಾನತೆ, ಸಂಕಟ, ಶೋಷಣೆ\nಅರಿವಿದ್ದರೂ ಮರುಕವನ್ನೇ ಸಂಭೋಧಿಸುತ್ತ ಇಲ್ಲವೆ ಮರುಕ ಪ್ರಧಾನ ವಸ್ತುವನ್ನಾಗಿಸಿ\nಕೊಳ್ಳುವ ಚಿಂತನಾ ವಿಧಾನದಿಂದ ಹೆಚ್ಚು ಕಡಿಮೆ ಮುಕ್ತ ಎನ್ನುವ ರೀತಿಯಲ್ಲಿ\nಕವನಗಳು ಮೂಡಿ ಬಂದಿವೆ. ಪ್ರಸ್ತುತ ಸಂದರ್ಭಕ್ಕೆ ಅನುಗುಣವಾಗುವಂತೆ ಕವನಗಳು ಇಲ್ಲಿವೆ.\nಬದುಕಿನ ವಿವಿಧ ಸ್ತರಗಳ ನಡುವಿನ ತಾರತಮ್ಯ, ಮತ್ಸರ, ಅನ್ಯಾಯ, ಸಂಕಟಗಳ ಅರಿವಿದ್ದರೂ ತನ್ನ\nಅನುಭವಕ್ಕೆ ದಕ್ಕಿದುದ ಅಲ್ಲವನ್ನು ಬಹಿರಂಗವಾಗಿ ಆಕ್ಷೇಪ ವ್ಯಕ್ತಪಡಿಸದೆ ಪ್ರದರ್ಶಿಕೆಯ\nನೆಲೆಯಲ್ಲಿ ಮೂಡಿಬಂದಿವೆ."
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": "STOP",
+      "safety_ratings": [
+        {
+          "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HATE_SPEECH",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HARASSMENT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+          "probability": "NEGLIGIBLE"
+        }
+      ],
+      "token_count": null
+    }
+  ],
+  "create_time": null,
+  "response_id": null,
+  "model_version": "gemini-2.5-pro",
+  "prompt_feedback": null,
+  "usage_metadata": {
+    "cache_tokens_details": null,
+    "cached_content_token_count": null,
+    "candidates_token_count": 236,
+    "candidates_tokens_details": null,
+    "prompt_token_count": 730,
+    "prompt_tokens_details": [
+      {
+        "modality": "TEXT",
+        "token_count": 472
+      },
+      {
+        "modality": "IMAGE",
+        "token_count": 258
+      }
+    ],
+    "thoughts_token_count": 3081,
+    "tool_use_prompt_token_count": null,
+    "tool_use_prompt_tokens_details": null,
+    "total_token_count": 4047,
+    "traffic_type": null
+  },
+  "automatic_function_calling_history": [],
+  "parsed": null,
+  "page_number": 273
+}

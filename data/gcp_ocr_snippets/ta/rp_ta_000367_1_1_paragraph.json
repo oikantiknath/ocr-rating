@@ -1,0 +1,32 @@
+{
+  "page_number": 367,
+  "ocr_output": {
+    "blocks": [
+      {
+        "block_text": "the independence of the nation , in the development of the Tamil language and literature . in two parts , the former explains the contributions of the male teachers while the latter relates to the contributions of the female teachers .",
+        "lines": [
+          "the independence of the nation , in the development of the Tamil language and literature . in two parts , the former explains the contributions of the male teachers while the latter relates to the contributions of the female teachers ."
+        ],
+        "bounding_box": [
+          {
+            "x": 12,
+            "y": 14
+          },
+          {
+            "x": 451,
+            "y": 14
+          },
+          {
+            "x": 451,
+            "y": 49
+          },
+          {
+            "x": 12,
+            "y": 49
+          }
+        ],
+        "confidence": 0.9830758
+      }
+    ]
+  }
+}

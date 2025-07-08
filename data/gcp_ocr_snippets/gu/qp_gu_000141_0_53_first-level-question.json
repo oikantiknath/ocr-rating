@@ -1,0 +1,55 @@
+{
+  "page_number": 141,
+  "ocr_output": {
+    "blocks": [
+      {
+        "block_text": "50",
+        "lines": [
+          "50"
+        ],
+        "bounding_box": [
+          {
+            "x": 12,
+            "y": 24
+          },
+          {
+            "x": 12
+          },
+          {
+            "x": 32
+          },
+          {
+            "x": 32,
+            "y": 24
+          }
+        ],
+        "confidence": 0.96781
+      },
+      {
+        "block_text": "Pumonary Tuberculosis a",
+        "lines": [
+          "Pumonary Tuberculosis a"
+        ],
+        "bounding_box": [
+          {
+            "x": 87,
+            "y": 13
+          },
+          {
+            "x": 314,
+            "y": 9
+          },
+          {
+            "x": 314,
+            "y": 26
+          },
+          {
+            "x": 87,
+            "y": 30
+          }
+        ],
+        "confidence": 0.9579795
+      }
+    ]
+  }
+}

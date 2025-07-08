@@ -1,0 +1,79 @@
+{
+  "sdk_http_response": {
+    "headers": {
+      "content-type": "application/json; charset=UTF-8",
+      "vary": "Origin, X-Origin, Referer",
+      "content-encoding": "gzip",
+      "date": "Fri, 04 Jul 2025 03:21:41 GMT",
+      "server": "scaffolding on HTTPServer2",
+      "x-xss-protection": "0",
+      "x-frame-options": "SAMEORIGIN",
+      "x-content-type-options": "nosniff",
+      "server-timing": "gfet4t7; dur=45412",
+      "alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
+      "transfer-encoding": "chunked"
+    },
+    "body": null
+  },
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "तहसीलदार साहब ने कहा कि इस बनजरिया के नम्बर पर पहले\nदेवनन्दन का नाम था, सो ठीक है। मैंने ही उसी संबंध में रेहन\nकरके फिर इसी माफी को देवनन्दन के नाम बेच दिया। अब\nमेरे मन में गाँव से घोर घृणा हो गयी थी। मैं भ्रमण के लिए\nनिकला। गाँव पर मेरे लिए कोई बन्धन नहीं रह गया। तीर्थों,\nनगरों और पहाड़ों में मैं घूमता था और गली, चौमुहानी, कुओं पर,\nतालाबों और घाटों के किनारे, मैं व्याख्यान देने लगा। मेरा विषय\nथा - हिन्दू-जाति का उद्बोधन। मैं प्रायः उनकी धन-लिप्सा, गृह-प्रेम\nऔर छोटे-से-छोटे हिन्दू गृहस्थ की राजमनोवृत्ति की निन्दा किया\nकरता! आप देखते नहीं कि हिन्दू की छोटी-सी गृहस्थी में कूड़ा-\nकरकट तक जुटा रखने की चाल है, और उन पर प्राण से बढ़कर\nमोह! दस-पाँच गहने, दो-चार बर्तन, उनको बीसों बार बन्धक करना\nऔर घर में कलह करना, यही हिन्दू घरों में आये दिन के दृश्य\nहै। जीवन का जैसे कोई लक्ष्य नहीं! पद-दलित रहते-रहते उनकी\nसामूहिक चेतना जैसे नष्ट हो गयी है। अन्य जाति के लोग मिट्टी\nया चीनी के बरतन में उत्तम स्निग्ध भोजन करते है। हिन्दू चाँदी\nकी थाली में भी सत्तू घोलकर पीता है। मेरी कटुता उत्तेजित हो\nजाती, तो और भी इसी तरह की बातें बकता। कभी तो पैसे\nमिलते और कहीं-कहीं धक्के भी। पर मेरे लिए दूसरा काम नहीं।\nइसी धुन में मैं कितने बरसों तक घूमता रहा। नर्मदा के तट से"
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": "STOP",
+      "safety_ratings": [
+        {
+          "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HATE_SPEECH",
+          "probability": "LOW"
+        },
+        {
+          "category": "HARM_CATEGORY_HARASSMENT",
+          "probability": "LOW"
+        },
+        {
+          "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+          "probability": "NEGLIGIBLE"
+        }
+      ],
+      "token_count": null
+    }
+  ],
+  "create_time": null,
+  "response_id": null,
+  "model_version": "gemini-2.5-pro",
+  "prompt_feedback": null,
+  "usage_metadata": {
+    "cache_tokens_details": null,
+    "cached_content_token_count": null,
+    "candidates_token_count": 375,
+    "candidates_tokens_details": null,
+    "prompt_token_count": 758,
+    "prompt_tokens_details": [
+      {
+        "modality": "TEXT",
+        "token_count": 500
+      },
+      {
+        "modality": "IMAGE",
+        "token_count": 258
+      }
+    ],
+    "thoughts_token_count": 4231,
+    "tool_use_prompt_token_count": null,
+    "tool_use_prompt_tokens_details": null,
+    "total_token_count": 5364,
+    "traffic_type": null
+  },
+  "automatic_function_calling_history": [],
+  "parsed": null,
+  "page_number": 181
+}

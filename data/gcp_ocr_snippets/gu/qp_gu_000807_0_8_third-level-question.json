@@ -1,0 +1,56 @@
+{
+  "page_number": 807,
+  "ocr_output": {
+    "blocks": [
+      {
+        "block_text": "( 4. ) what aspects will be included in the Research Methodology Component of Marketing Research . Report ?",
+        "lines": [
+          "( 4. ) what aspects will be included in the Research Methodology Component of Marketing Research . Report ?"
+        ],
+        "bounding_box": [
+          {
+            "x": 3,
+            "y": 52
+          },
+          {
+            "x": 874
+          },
+          {
+            "x": 886,
+            "y": 127
+          },
+          {
+            "x": 14,
+            "y": 197
+          }
+        ],
+        "confidence": 0.94798565
+      },
+      {
+        "block_text": "મો",
+        "lines": [
+          "મો"
+        ],
+        "bounding_box": [
+          {
+            "x": 985,
+            "y": 162
+          },
+          {
+            "x": 973,
+            "y": 162
+          },
+          {
+            "x": 973,
+            "y": 157
+          },
+          {
+            "x": 985,
+            "y": 157
+          }
+        ],
+        "confidence": 1
+      }
+    ]
+  }
+}

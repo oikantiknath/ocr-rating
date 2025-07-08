@@ -1,0 +1,32 @@
+{
+  "page_number": 560,
+  "ocr_output": {
+    "blocks": [
+      {
+        "block_text": "Business",
+        "lines": [
+          "Business"
+        ],
+        "bounding_box": [
+          {
+            "x": 2,
+            "y": 5
+          },
+          {
+            "x": 87,
+            "y": 5
+          },
+          {
+            "x": 87,
+            "y": 22
+          },
+          {
+            "x": 2,
+            "y": 22
+          }
+        ],
+        "confidence": 0.9850803
+      }
+    ]
+  }
+}

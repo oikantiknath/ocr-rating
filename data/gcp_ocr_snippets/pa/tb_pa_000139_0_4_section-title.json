@@ -1,0 +1,32 @@
+{
+  "page_number": 139,
+  "ocr_output": {
+    "blocks": [
+      {
+        "block_text": "9.9 Find the nouns in the lesson .",
+        "lines": [
+          "9.9 Find the nouns in the lesson ."
+        ],
+        "bounding_box": [
+          {
+            "x": 20,
+            "y": 20
+          },
+          {
+            "x": 601,
+            "y": 20
+          },
+          {
+            "x": 601,
+            "y": 49
+          },
+          {
+            "x": 20,
+            "y": 49
+          }
+        ],
+        "confidence": 0.97090924
+      }
+    ]
+  }
+}

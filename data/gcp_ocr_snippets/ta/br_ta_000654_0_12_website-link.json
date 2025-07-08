@@ -1,0 +1,30 @@
+{
+  "page_number": 654,
+  "ocr_output": {
+    "blocks": [
+      {
+        "block_text": "consumer@tn.gov.in",
+        "lines": [
+          "consumer@tn.gov.in"
+        ],
+        "bounding_box": [
+          {
+            "y": 6
+          },
+          {
+            "x": 179,
+            "y": 6
+          },
+          {
+            "x": 179,
+            "y": 28
+          },
+          {
+            "y": 28
+          }
+        ],
+        "confidence": 0.9359438
+      }
+    ]
+  }
+}

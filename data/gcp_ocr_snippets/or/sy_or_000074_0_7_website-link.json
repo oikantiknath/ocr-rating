@@ -1,0 +1,32 @@
+{
+  "page_number": 74,
+  "ocr_output": {
+    "blocks": [
+      {
+        "block_text": "Source : http://cganga.org/gangapedia/",
+        "lines": [
+          "Source : http://cganga.org/gangapedia/"
+        ],
+        "bounding_box": [
+          {
+            "x": 3,
+            "y": 6
+          },
+          {
+            "x": 289,
+            "y": 6
+          },
+          {
+            "x": 289,
+            "y": 23
+          },
+          {
+            "x": 3,
+            "y": 23
+          }
+        ],
+        "confidence": 0.9789681
+      }
+    ]
+  }
+}

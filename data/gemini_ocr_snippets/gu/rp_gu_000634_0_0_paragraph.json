@@ -1,0 +1,79 @@
+{
+  "sdk_http_response": {
+    "headers": {
+      "content-type": "application/json; charset=UTF-8",
+      "vary": "Origin, X-Origin, Referer",
+      "content-encoding": "gzip",
+      "date": "Fri, 04 Jul 2025 05:38:53 GMT",
+      "server": "scaffolding on HTTPServer2",
+      "x-xss-protection": "0",
+      "x-frame-options": "SAMEORIGIN",
+      "x-content-type-options": "nosniff",
+      "server-timing": "gfet4t7; dur=33170",
+      "alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
+      "transfer-encoding": "chunked"
+    },
+    "body": null
+  },
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "દરેક માનવી આ નવલકથાના નાયક ‘હું’ જેવો હું માટે હું ને પુષ્ટ કરવા – સાબિત\nકરવા ભૂતકાળની ગાંઠડીને પોતાની પીઠ પર ઊંચકીને – અથડાતો–લથડાતો સતત આગળ\nવધવાની વેલછા સાથે ક્યારેક નિષ્ફળ કે મરણિયા પણ છેવટે સફળ પ્રયાસો કરતો રહે છે,\nપણ હોય છે એકલો. ઓછાં પાત્રો, આછીપાતળી ઘટનાઓ દ્વારા લેખકે સમગ્ર માનવજાતની\nઆજના કહેવાતા આધુનિક સમયની એક ભૂખાળવી સમસ્યાને વાચા આપી છે. આ સતત\nદોડતી જિંદગીમાં દરેક માનવી સતત વ્યસ્તતાને કારણે એકલો પડતો જાય છે જેનું પ્રતિબિંબ\n‘એકાંતદ્વીપ’ના શીર્ષકમાં આલેખેલ પોકારે છે. તે પણ દ્વીપ પર. જ્યાં દરેકે એના હું માં\nપડવું પડે છે. તૃષા નામે દરેક માણસની લાગણીનો પડઘો પડે છે, કેમ કે જીવવા માટે બચેલી\nકે હજી સુધી અબોટ રહેલી ક્ષણોનો સરવાળો એ લાગણી છે."
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": "STOP",
+      "safety_ratings": [
+        {
+          "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+          "probability": "LOW"
+        },
+        {
+          "category": "HARM_CATEGORY_HATE_SPEECH",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HARASSMENT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+          "probability": "NEGLIGIBLE"
+        }
+      ],
+      "token_count": null
+    }
+  ],
+  "create_time": null,
+  "response_id": null,
+  "model_version": "gemini-2.5-pro",
+  "prompt_feedback": null,
+  "usage_metadata": {
+    "cache_tokens_details": null,
+    "cached_content_token_count": null,
+    "candidates_token_count": 272,
+    "candidates_tokens_details": null,
+    "prompt_token_count": 758,
+    "prompt_tokens_details": [
+      {
+        "modality": "TEXT",
+        "token_count": 500
+      },
+      {
+        "modality": "IMAGE",
+        "token_count": 258
+      }
+    ],
+    "thoughts_token_count": 2719,
+    "tool_use_prompt_token_count": null,
+    "tool_use_prompt_tokens_details": null,
+    "total_token_count": 3749,
+    "traffic_type": null
+  },
+  "automatic_function_calling_history": [],
+  "parsed": null,
+  "page_number": 287
+}

@@ -1,0 +1,32 @@
+{
+  "page_number": 77,
+  "ocr_output": {
+    "blocks": [
+      {
+        "block_text": "Page 80",
+        "lines": [
+          "Page 80"
+        ],
+        "bounding_box": [
+          {
+            "x": 12,
+            "y": 6
+          },
+          {
+            "x": 120,
+            "y": 4
+          },
+          {
+            "x": 121,
+            "y": 36
+          },
+          {
+            "x": 13,
+            "y": 38
+          }
+        ],
+        "confidence": 0.9888153
+      }
+    ]
+  }
+}

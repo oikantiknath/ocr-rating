@@ -1,0 +1,157 @@
+{
+  "page_number": 493,
+  "ocr_output": {
+    "blocks": [
+      {
+        "block_text": "23",
+        "lines": [
+          "23"
+        ],
+        "bounding_box": [
+          {
+            "x": 15,
+            "y": 2
+          },
+          {
+            "x": 42,
+            "y": 2
+          },
+          {
+            "x": 41,
+            "y": 73
+          },
+          {
+            "x": 14,
+            "y": 73
+          }
+        ],
+        "confidence": 0.5522361
+      },
+      {
+        "block_text": "Adhunik Bharatka Arthik Itihas- Shreedhar Pandey Bharat KaArthik Itihas -Agnes Thakur",
+        "lines": [
+          "Adhunik Bharatka Arthik Itihas- Shreedhar Pandey Bharat KaArthik Itihas -Agnes Thakur"
+        ],
+        "bounding_box": [
+          {
+            "x": 109,
+            "y": 5
+          },
+          {
+            "x": 794,
+            "y": 6
+          },
+          {
+            "x": 794,
+            "y": 82
+          },
+          {
+            "x": 109,
+            "y": 81
+          }
+        ],
+        "confidence": 0.9833453
+      },
+      {
+        "block_text": "12 .",
+        "lines": [
+          "12 ."
+        ],
+        "bounding_box": [
+          {
+            "x": 10,
+            "y": 9
+          },
+          {
+            "x": 50,
+            "y": 9
+          },
+          {
+            "x": 50,
+            "y": 32
+          },
+          {
+            "x": 10,
+            "y": 32
+          }
+        ],
+        "confidence": 0.9862115
+      },
+      {
+        "block_text": "13 .",
+        "lines": [
+          "13 ."
+        ],
+        "bounding_box": [
+          {
+            "x": 10,
+            "y": 53
+          },
+          {
+            "x": 50,
+            "y": 54
+          },
+          {
+            "x": 50,
+            "y": 77
+          },
+          {
+            "x": 10,
+            "y": 76
+          }
+        ],
+        "confidence": 0.979884
+      },
+      {
+        "block_text": "14 .",
+        "lines": [
+          "14 ."
+        ],
+        "bounding_box": [
+          {
+            "x": 9,
+            "y": 96
+          },
+          {
+            "x": 49,
+            "y": 96
+          },
+          {
+            "x": 49,
+            "y": 119
+          },
+          {
+            "x": 9,
+            "y": 119
+          }
+        ],
+        "confidence": 0.98153096
+      },
+      {
+        "block_text": "Adhunik Bharat kaArthikItihas -Girish Mishra",
+        "lines": [
+          "Adhunik Bharat kaArthikItihas -Girish Mishra"
+        ],
+        "bounding_box": [
+          {
+            "x": 109,
+            "y": 96
+          },
+          {
+            "x": 730,
+            "y": 96
+          },
+          {
+            "x": 730,
+            "y": 120
+          },
+          {
+            "x": 109,
+            "y": 120
+          }
+        ],
+        "confidence": 0.98439807
+      }
+    ]
+  }
+}

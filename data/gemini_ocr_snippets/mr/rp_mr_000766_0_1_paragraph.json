@@ -1,0 +1,79 @@
+{
+  "sdk_http_response": {
+    "headers": {
+      "content-type": "application/json; charset=UTF-8",
+      "vary": "Origin, X-Origin, Referer",
+      "content-encoding": "gzip",
+      "date": "Fri, 04 Jul 2025 05:25:35 GMT",
+      "server": "scaffolding on HTTPServer2",
+      "x-xss-protection": "0",
+      "x-frame-options": "SAMEORIGIN",
+      "x-content-type-options": "nosniff",
+      "server-timing": "gfet4t7; dur=26816",
+      "alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
+      "transfer-encoding": "chunked"
+    },
+    "body": null
+  },
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "शिवाने बेबीला बेघर केले आहे. त्यामुळे वरवर पाहता हा शेवट शोकात्म वाटतो पण\nतो तसा नाही असेही वाटत राहते. बेबीच्या पुढील वाक्यावरून त्याची कल्पना येते. ती म्हणते,\n“नाही राघव आता झोपायचं नाही. इथून लवकर सकाळी जायचं. दिवस उजाडण्याच्या आत\nजायचं. कुठे जायचं. देवाला चांगल्या माणसांची काळजी असते राघव. जगी ज्यास कोणी नाही,\nत्यास देव आहे. मी वाईट आहे. मला देव क्षमा करणार नाही. राघव मला सर्व भोगलंच पाहिजे.\nउजाडण्याआत इथून जायला हवं किती वाजले राघव ? रात्र किती उरली? आता झोप नाही.\nउजाडायच्या आत लौकर जाऊ या.”८९ या संवादात शिवापाचे घर लवकरात लवकर सोडण्याची\nबेबीची घाई. रात्र संपते हे तिचे उद्गार तिला शिवापाच्या तडाख्यातून सुटण्याच्या मिळालेल्या\nसंधीचा ती फायदा घेत आहे. याचे सूचन करतात. इथे बेबीच्या पुढील आयुष्याबद्दलची\nअनिश्चितता आहे हे खरे पण इथून पुढे वेगळे काही घडेल याची आशाही पल्लवित होते. त्यामुळे\nनाटककाराने नाटक शोकान्त आणि सुखान्त यांच्या सीमारेषेवर ठेवले आहे."
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": "STOP",
+      "safety_ratings": [
+        {
+          "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HATE_SPEECH",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HARASSMENT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+          "probability": "NEGLIGIBLE"
+        }
+      ],
+      "token_count": null
+    }
+  ],
+  "create_time": null,
+  "response_id": null,
+  "model_version": "gemini-2.5-pro",
+  "prompt_feedback": null,
+  "usage_metadata": {
+    "cache_tokens_details": null,
+    "cached_content_token_count": null,
+    "candidates_token_count": 279,
+    "candidates_tokens_details": null,
+    "prompt_token_count": 716,
+    "prompt_tokens_details": [
+      {
+        "modality": "TEXT",
+        "token_count": 458
+      },
+      {
+        "modality": "IMAGE",
+        "token_count": 258
+      }
+    ],
+    "thoughts_token_count": 1950,
+    "tool_use_prompt_token_count": null,
+    "tool_use_prompt_tokens_details": null,
+    "total_token_count": 2945,
+    "traffic_type": null
+  },
+  "automatic_function_calling_history": [],
+  "parsed": null,
+  "page_number": 268
+}

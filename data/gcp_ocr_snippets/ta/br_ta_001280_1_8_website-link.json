@@ -1,0 +1,32 @@
+{
+  "page_number": 1280,
+  "ocr_output": {
+    "blocks": [
+      {
+        "block_text": "www.amway.in",
+        "lines": [
+          "www.amway.in"
+        ],
+        "bounding_box": [
+          {
+            "x": 2,
+            "y": 1
+          },
+          {
+            "x": 53,
+            "y": 1
+          },
+          {
+            "x": 53,
+            "y": 10
+          },
+          {
+            "x": 2,
+            "y": 10
+          }
+        ],
+        "confidence": 0.7983994
+      }
+    ]
+  }
+}

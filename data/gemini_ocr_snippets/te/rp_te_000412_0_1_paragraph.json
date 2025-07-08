@@ -1,0 +1,79 @@
+{
+  "sdk_http_response": {
+    "headers": {
+      "content-type": "application/json; charset=UTF-8",
+      "vary": "Origin, X-Origin, Referer",
+      "content-encoding": "gzip",
+      "date": "Fri, 04 Jul 2025 04:34:15 GMT",
+      "server": "scaffolding on HTTPServer2",
+      "x-xss-protection": "0",
+      "x-frame-options": "SAMEORIGIN",
+      "x-content-type-options": "nosniff",
+      "server-timing": "gfet4t7; dur=45549",
+      "alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
+      "transfer-encoding": "chunked"
+    },
+    "body": null
+  },
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "కార్యార్థమై వెడలిన ప్రియుని గూర్చి చింతింపక\nచేయని తన ప్రియగృహీ ఇటుల నుడువు\nచున్నది. “ఇతరులను యాచింపకుండ ధర్మ\nబద్ధమైన జీవితమును సాగించుటకు ధనమావశ్యక\nమని యెంచి నా ప్రియుడు ధనార్జనమునకై\nవెడలినాఁడు. ప్రోవునప్పుడు నన్నెంతయో\nయసనయించి యతడు వెడసి నాఁడు. కాని\nఅతడు పోయిన మార్గమంత మంచిది కాదు,\nఆ త్రోవలో జలశూన్యారణ్యమై యేనుగులు\nబయలుదేరినవి. వాని వెనుక పులు లున్నవి.\nధృతరాష్ట్రు చెలియండ్రి మద్దెల నడిమిభాగమున\nనున్న తెల్లనిభాగమువలె, ఆ పర్వతప్రాంతమున\nనిర్మలమగు ప్రదేశము మీదుగా నా ప్రియుడు\nవెడలినాఁడు.” మన కథానాయకులసుఖ\nచింత విరహవేదన యెంత మృదులముగ\nనుండెను ! అగ్రసమాజంలోని ప్రేమ గీతాదు\nలందలి భావము లీ తెరవనే యుండుననుట\nగమనింపదగిన విషయము."
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": "STOP",
+      "safety_ratings": [
+        {
+          "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HATE_SPEECH",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HARASSMENT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+          "probability": "NEGLIGIBLE"
+        }
+      ],
+      "token_count": null
+    }
+  ],
+  "create_time": null,
+  "response_id": null,
+  "model_version": "gemini-2.5-pro",
+  "prompt_feedback": null,
+  "usage_metadata": {
+    "cache_tokens_details": null,
+    "cached_content_token_count": null,
+    "candidates_token_count": 312,
+    "candidates_tokens_details": null,
+    "prompt_token_count": 715,
+    "prompt_tokens_details": [
+      {
+        "modality": "TEXT",
+        "token_count": 457
+      },
+      {
+        "modality": "IMAGE",
+        "token_count": 258
+      }
+    ],
+    "thoughts_token_count": 3905,
+    "tool_use_prompt_token_count": null,
+    "tool_use_prompt_tokens_details": null,
+    "total_token_count": 4932,
+    "traffic_type": null
+  },
+  "automatic_function_calling_history": [],
+  "parsed": null,
+  "page_number": 263
+}

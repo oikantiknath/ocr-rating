@@ -1,0 +1,79 @@
+{
+  "sdk_http_response": {
+    "headers": {
+      "content-type": "application/json; charset=UTF-8",
+      "vary": "Origin, X-Origin, Referer",
+      "content-encoding": "gzip",
+      "date": "Fri, 04 Jul 2025 04:50:14 GMT",
+      "server": "scaffolding on HTTPServer2",
+      "x-xss-protection": "0",
+      "x-frame-options": "SAMEORIGIN",
+      "x-content-type-options": "nosniff",
+      "server-timing": "gfet4t7; dur=62406",
+      "alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
+      "transfer-encoding": "chunked"
+    },
+    "body": null
+  },
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "(1) 134ನೇ ಪ್ರಕರಣದಲ್ಲಿ ಉಲ್ಲೇಖಿಸಲಾದ ಅತಿಕ್ರಮಣಕ್ಕೆ ಅಥವಾ ಸರಕುಗಳನ್ನು ವಶಪಡಿಸಿದ ಮಾದರದಲ್ಲಿ\nಸಂಬಂಧಿಸಿದ ಯಾವುದೇ ದಾವೆಗಳಲ್ಲಿ ಒಂದು ನ್ಯಾಯಾಲಯವು, ಮಂಜೂರು ಮಾಡಿದ ಪರವಾನಗಿಯಲ್ಲಿ,\nನಿರ್ಬಂಧನೆಯನ್ನು (ನ್ಯಾಯಾಲಯವು ಸೂಕ್ತವೆಂದು ಭಾವಿಸಿದಂಥ ನಿರ್ಬಂಧಗಳು, ಯಾವುದಾದರೂ ಇದ್ದರೆ,\nಅವುಗಳಿಗೊಳಪಟ್ಟು) ಮತ್ತು ವಾದಿಯ ಆಯ್ಕೆಯಂತೆ, ನಷ್ಟ ಮಾಡುವುದಕ್ಕಾಗಿ ಅಥವಾ ಅಳಿಸಿ ಹಾಕುವುದಕ್ಕಾಗಿ\nಅತಿಕ್ರಮಣದ ಗುರುತು ಚಿಹ್ನೆಗಳ ಮತ್ತು ಚಿಹ್ನೆಗಳನ್ನು ಒಒಸುವಂತಹ ಯಾವುದೇ ಆದೇಶದೊಂದಿಗೆ ಅಥವಾ\nಆದೇಶವಿಲ್ಲದೆ, ಕಾನೂನುಬಾಹಿರವಾಗಿ ಅಥವಾ ಲಾಭಗಳಿಕೆ ಉದ್ದೇಶಗಳಿಗಾಗಿ, ಒಳಗೊಂಡಿರುತ್ತದೆ.\n\n(2) (1)ನೇ ಉಪಪ್ರಕರಣದ ಅಡಿಯಲ್ಲಿ ನಿರ್ಬಂಧಕಾಜ್ಞೆಯ ಆದೇಶವು, ಈ ಮುಂದಿನ ಯಾವುದೇ\nವಿಷಯಗಳಿಗೆ ವಿಶೇಷತೆಯ ನಿರ್ಬಂಧಕಾಜ್ಞೆ ಅಥವಾ ಯಾವುದೇ ವಾದಿಗಳಿಗೆ ಆದೇಶವನ್ನು\nಒಳಗೊಂಡಿರಬಹುದು, ಎಂದರೆ:-\n\n(ಎ) ದಸ್ತಾವೇಜುಗಳನ್ನು ಕಂಡುಹಿಡಿಯುವುದು;\n\n(ಬಿ) ವಾದಿಯ ಹಕ್ಕದಾರಿಕೆಗೆ ಸಂಬಂಧಿಸಿದ ಅತಿಕ್ರಮಣದ ಸರಕುಗಳನ್ನು, ದಸ್ತಾವೇಜುಗಳನ್ನು\nಅಥವಾ ಇತರ ವಸ್ತುಗಳನ್ನು ಸಂರಕ್ಷಿಸುವುದು;\n\n(ಸಿ) ವಾದಿಗೆ ಅಂತಿಮವಾಗಿ ಕೊಡಲು ತೀರ್ಮಾನ ಮಾಡಬಹುದಾದ ನಷ್ಟಗಳು, ವೆಚ್ಚಗಳು\nಅಥವಾ ಇತರ ಆರ್ಥಿಕ ಪರಿಹಾರಗಳನ್ನು ವಸೂಲಿ ಮಾಡುವುದಕ್ಕೆ ಖಾತರಿ ಪಡಿಸಲು\nಪರವಾಗಿ ನೀಡಬಹುದಾದ ರೀತಿಯಲ್ಲಿ ತನ್ನ ಸ್ವತ್ತುಗಳನ್ನು ಬೇರೆ ಮಾಡುವುದನ್ನು ಅಥವಾ\nವ್ಯವಹಾರವನ್ನು ಪ್ರತಿವಾದಿಯಿಂದ ನಿರ್ಬಂಧಿಸುವುದು."
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": "STOP",
+      "safety_ratings": [
+        {
+          "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HATE_SPEECH",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HARASSMENT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+          "probability": "NEGLIGIBLE"
+        }
+      ],
+      "token_count": null
+    }
+  ],
+  "create_time": null,
+  "response_id": null,
+  "model_version": "gemini-2.5-pro",
+  "prompt_feedback": null,
+  "usage_metadata": {
+    "cache_tokens_details": null,
+    "cached_content_token_count": null,
+    "candidates_token_count": 377,
+    "candidates_tokens_details": null,
+    "prompt_token_count": 732,
+    "prompt_tokens_details": [
+      {
+        "modality": "TEXT",
+        "token_count": 474
+      },
+      {
+        "modality": "IMAGE",
+        "token_count": 258
+      }
+    ],
+    "thoughts_token_count": 5603,
+    "tool_use_prompt_token_count": null,
+    "tool_use_prompt_tokens_details": null,
+    "total_token_count": 6712,
+    "traffic_type": null
+  },
+  "automatic_function_calling_history": [],
+  "parsed": null,
+  "page_number": 153
+}

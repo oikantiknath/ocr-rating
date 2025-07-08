@@ -1,0 +1,79 @@
+{
+  "sdk_http_response": {
+    "headers": {
+      "content-type": "application/json; charset=UTF-8",
+      "vary": "Origin, X-Origin, Referer",
+      "content-encoding": "gzip",
+      "date": "Fri, 04 Jul 2025 04:30:11 GMT",
+      "server": "scaffolding on HTTPServer2",
+      "x-xss-protection": "0",
+      "x-frame-options": "SAMEORIGIN",
+      "x-content-type-options": "nosniff",
+      "server-timing": "gfet4t7; dur=26929",
+      "alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
+      "transfer-encoding": "chunked"
+    },
+    "body": null
+  },
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "22.03.2006 నాటి నిబంధనల ప్రకారం. మెస్సర్స్ ఇందు ప్రాజెక్ట్స్ లిమిటెడ్. వారు అట్టి పనిని\n(కాంట్రాక్టు) అఫిడెంట్ కు అప్పగించగా, అట్టి కాంట్రాక్టు ను అమలు చేయడానికి ప్రత్యేక\nఉద్యమము కొరకు నియోగించబడిన సాధనముగా రూపొందించబడెను, మరియు ప్రతివాది-\nట్రిపాడ్ డి, పవర్ పట్టాను (జిపిఎ) ను అఫిడెంట్ పేరున 26.02.2008 నాడు దానిని రిజిస్టర్డ్\nడాక్యుమెంట్ నెంబర్ 23/2008 గా చేయించెను."
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": "STOP",
+      "safety_ratings": [
+        {
+          "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HATE_SPEECH",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HARASSMENT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+          "probability": "NEGLIGIBLE"
+        }
+      ],
+      "token_count": null
+    }
+  ],
+  "create_time": null,
+  "response_id": null,
+  "model_version": "gemini-2.5-pro",
+  "prompt_feedback": null,
+  "usage_metadata": {
+    "cache_tokens_details": null,
+    "cached_content_token_count": null,
+    "candidates_token_count": 164,
+    "candidates_tokens_details": null,
+    "prompt_token_count": 713,
+    "prompt_tokens_details": [
+      {
+        "modality": "TEXT",
+        "token_count": 455
+      },
+      {
+        "modality": "IMAGE",
+        "token_count": 258
+      }
+    ],
+    "thoughts_token_count": 2135,
+    "tool_use_prompt_token_count": null,
+    "tool_use_prompt_tokens_details": null,
+    "total_token_count": 3012,
+    "traffic_type": null
+  },
+  "automatic_function_calling_history": [],
+  "parsed": null,
+  "page_number": 154
+}

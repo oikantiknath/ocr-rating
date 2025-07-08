@@ -1,0 +1,79 @@
+{
+  "sdk_http_response": {
+    "headers": {
+      "content-type": "application/json; charset=UTF-8",
+      "vary": "Origin, X-Origin, Referer",
+      "content-encoding": "gzip",
+      "date": "Fri, 04 Jul 2025 04:00:01 GMT",
+      "server": "scaffolding on HTTPServer2",
+      "x-xss-protection": "0",
+      "x-frame-options": "SAMEORIGIN",
+      "x-content-type-options": "nosniff",
+      "server-timing": "gfet4t7; dur=42445",
+      "alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
+      "transfer-encoding": "chunked"
+    },
+    "body": null
+  },
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "ଗଠନର ରୂପରେଖ ଆଦର୍ଶ ନମୁନା ଭଳିରେ\nଆବର୍ଷାର ଗଠନ ପ୍ରତ୍ୟେକ ସୃଷ୍ଟି କରିବାକୁ ହେବ । ତାହା ସତେଜ\nଓ ସଜୀବ ହେବା ଆବଶ୍ୟକ । ଆପଣ ସଜୀବ ପଦାର୍ଥ ନ ହେଲେ\nମଧ୍ୟ ଶୈଶବସ୍ଥାରୁ କୋମଳ ଗଠନର ସଫଳ ରୂପରେଖ । ଏହି ସବୁ\nକଥା ଗ୍ରହଣ କରିଲେ, ତାହାକୁ ଅନୁସରଣରେ ଆଦର୍ଶ ନମୁନା\nକରିବା ଆବଶ୍ୟକ ହେବ ନାହିଁ । ପ୍ରାକୃତ ପଦାର୍ଥରୁ ପ୍ରସ୍ତୁତ\nଆଦର୍ଶ । ତାହା ସମସ୍ତେ ଗ୍ରହଣ କରନ୍ତି । ଉକ୍ତ ପ୍ରାକୃତ\nପଦାର୍ଥ ବ୍ୟବହାର କଲେ, ସମାଜରୁ ସୁଖ ଶାନ୍ତି\nଶିକ୍ଷା ହେବା ପ୍ରୟୋଜନ ହେବ । କାରଣ, ଏହାକୁ ବର୍ଜନ କରି\nଗଢିବା ପାଇଁ କିଛି ନାହିଁ । ପ୍ରତ୍ୟେକ ଶିଶୁ ଆଦର୍ଶରେ\nଶ୍ରେଷ୍ଠ ପଦାର୍ଥ ହେଲେ ପ୍ରତ୍ୟେକଟିକୁ ସୁନ୍ଦରଭାବରେ ଦୃଶ୍ୟମାନ\nପ୍ରୟୋଜନ ହେବ । ସାଧାରଣତଃ ଶବ୍ଦ, ରୂପ, ରସ ରୂପ ଗନ୍ଧ, ରସ\nଓ ସ୍ପର୍ଶ * ପ୍ରଭୃତି ଆଦର୍ଶରେ ବ୍ୟବହୃତ ହେବାର ସମ୍ଭାବନା\nରହେ । ସେହିପରି ପ୍ରତ୍ୟେକ ପଦାର୍ଥକୁ, କାରଣ ସେଗୁଡ଼ିକ ସୁନ୍ଦର\nଭାବେ ସଜ୍ଜିତକରାଯାଇଛି ।"
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": "STOP",
+      "safety_ratings": [
+        {
+          "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HATE_SPEECH",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HARASSMENT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+          "probability": "NEGLIGIBLE"
+        }
+      ],
+      "token_count": null
+    }
+  ],
+  "create_time": null,
+  "response_id": null,
+  "model_version": "gemini-2.5-pro",
+  "prompt_feedback": null,
+  "usage_metadata": {
+    "cache_tokens_details": null,
+    "cached_content_token_count": null,
+    "candidates_token_count": 458,
+    "candidates_tokens_details": null,
+    "prompt_token_count": 782,
+    "prompt_tokens_details": [
+      {
+        "modality": "TEXT",
+        "token_count": 524
+      },
+      {
+        "modality": "IMAGE",
+        "token_count": 258
+      }
+    ],
+    "thoughts_token_count": 3491,
+    "tool_use_prompt_token_count": null,
+    "tool_use_prompt_tokens_details": null,
+    "total_token_count": 4731,
+    "traffic_type": null
+  },
+  "automatic_function_calling_history": [],
+  "parsed": null,
+  "page_number": 106
+}

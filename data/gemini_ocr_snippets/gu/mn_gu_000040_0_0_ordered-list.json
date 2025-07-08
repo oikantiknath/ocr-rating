@@ -1,0 +1,79 @@
+{
+  "sdk_http_response": {
+    "headers": {
+      "content-type": "application/json; charset=UTF-8",
+      "vary": "Origin, X-Origin, Referer",
+      "content-encoding": "gzip",
+      "date": "Fri, 04 Jul 2025 05:36:50 GMT",
+      "server": "scaffolding on HTTPServer2",
+      "x-xss-protection": "0",
+      "x-frame-options": "SAMEORIGIN",
+      "x-content-type-options": "nosniff",
+      "server-timing": "gfet4t7; dur=60634",
+      "alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
+      "transfer-encoding": "chunked"
+    },
+    "body": null
+  },
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "૪. ટોચક્ષેત્ર મુજબ કેટલી જમીન રાખવાપાત્ર થાય છે તે નક્કી કર્યા પછી ખાતેદાર કઈ જમીન\nસરકારને સુપરત કરવા માંગે છે તે અંગેની પસંદગીની તક લેખિત રીતે આપવી. આ મુદ્દા ઉપર\nઉપલી કોર્ટો કેસો રીમાન્ડ કરતી હોય છે. ફાજલ પાડવા માટે પસંદગી આપેલ જમીન ચોખ્ખી, અન્ય\nઈસમના કબજા હેઠળ નથી તેની ખાતરી કલમ–૧૫ મુજબ કરવી.\n૫. કેસના નિકાલ પછી જમીનનો કબજો લેવા માટે પણ જમીનધારકને જાણ કરી, શકય હોય તો તેની\nહાજરીમાં પંચો રૂબરૂ કબજો સંભાળવો. લેખિત જાણ કરવા છતાં જમીનધારક હાજર ન રહે તો\nજાણ કર્યાની લેખિત પહોંચ રેકર્ડ ઉપર રાખી કબજો એકતરફી પંચો રૂબરૂ સંભાળેલ છે તેની નોંધ\nકરવી. આ તમામ કાર્યવાહી રીવીઝન/અપીલનો સમય પુરો થાય કે તરત કબજો સંભાળવા\nકાર્યવાહી હાથ ધરવી.\n૬. કબજો સંભાળ્યા પછી વળતર ચુકવવામાં અને જમીનનો નિકાલ કરવાની કાર્યવાહીમાં ઘણો વિલંબ\nથાય છે તે પરિસ્થિતિ ટાળવી. જમીનની ફાળવણી કરવામાં આવે તે અંગેનું સ્થળ સ્થિતિનું પંચનામું\nપંચો રૂબરૂ તથા લાભાર્થીના રૂબરૂમાં કરવું. તે અંગે ગામે એન્ટ્રી પડાવવી, મુળ જમીનમાલીકને પણ\nતેની જાણ કરવી."
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": "STOP",
+      "safety_ratings": [
+        {
+          "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HATE_SPEECH",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HARASSMENT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+          "probability": "NEGLIGIBLE"
+        }
+      ],
+      "token_count": null
+    }
+  ],
+  "create_time": null,
+  "response_id": null,
+  "model_version": "gemini-2.5-pro",
+  "prompt_feedback": null,
+  "usage_metadata": {
+    "cache_tokens_details": null,
+    "cached_content_token_count": null,
+    "candidates_token_count": 365,
+    "candidates_tokens_details": null,
+    "prompt_token_count": 758,
+    "prompt_tokens_details": [
+      {
+        "modality": "TEXT",
+        "token_count": 500
+      },
+      {
+        "modality": "IMAGE",
+        "token_count": 258
+      }
+    ],
+    "thoughts_token_count": 5804,
+    "tool_use_prompt_token_count": null,
+    "tool_use_prompt_tokens_details": null,
+    "total_token_count": 6927,
+    "traffic_type": null
+  },
+  "automatic_function_calling_history": [],
+  "parsed": null,
+  "page_number": 75
+}

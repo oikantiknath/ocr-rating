@@ -1,0 +1,207 @@
+{
+  "page_number": 359,
+  "ocr_output": {
+    "blocks": [
+      {
+        "block_text": "Describe the major theme of “ Kinder Garten \" .",
+        "lines": [
+          "Describe the major theme of “ Kinder Garten \" ."
+        ],
+        "bounding_box": [
+          {
+            "x": 113,
+            "y": 33
+          },
+          {
+            "x": 606,
+            "y": 33
+          },
+          {
+            "x": 606,
+            "y": 57
+          },
+          {
+            "x": 113,
+            "y": 57
+          }
+        ],
+        "confidence": 0.95499974
+      },
+      {
+        "block_text": "How Indian sentimentality reflected through the character of",
+        "lines": [
+          "How Indian sentimentality reflected through the character of"
+        ],
+        "bounding_box": [
+          {
+            "x": 115,
+            "y": 69
+          },
+          {
+            "x": 762,
+            "y": 69
+          },
+          {
+            "x": 762,
+            "y": 93
+          },
+          {
+            "x": 115,
+            "y": 93
+          }
+        ],
+        "confidence": 0.98497665
+      },
+      {
+        "block_text": "' Mother ' in the poem \" The Night of the scorpion \" ?",
+        "lines": [
+          "' Mother ' in the poem \" The Night of the scorpion \" ?"
+        ],
+        "bounding_box": [
+          {
+            "x": 116,
+            "y": 104
+          },
+          {
+            "x": 654,
+            "y": 104
+          },
+          {
+            "x": 654,
+            "y": 129
+          },
+          {
+            "x": 116,
+            "y": 129
+          }
+        ],
+        "confidence": 0.9572875
+      },
+      {
+        "block_text": "21. According to author which time is olden time of life in Indian",
+        "lines": [
+          "21. According to author which time is olden time of life in Indian"
+        ],
+        "bounding_box": [
+          {
+            "x": 54,
+            "y": 138
+          },
+          {
+            "x": 766,
+            "y": 138
+          },
+          {
+            "x": 766,
+            "y": 162
+          },
+          {
+            "x": 54,
+            "y": 162
+          }
+        ],
+        "confidence": 0.98564625
+      },
+      {
+        "block_text": "weavers ?",
+        "lines": [
+          "weavers ?"
+        ],
+        "bounding_box": [
+          {
+            "x": 114,
+            "y": 174
+          },
+          {
+            "x": 210,
+            "y": 176
+          },
+          {
+            "x": 210,
+            "y": 196
+          },
+          {
+            "x": 114,
+            "y": 194
+          }
+        ],
+        "confidence": 0.9290784
+      },
+      {
+        "block_text": "22. Write an essay on Radhakrishnan's prose style .",
+        "lines": [
+          "22. Write an essay on Radhakrishnan's prose style ."
+        ],
+        "bounding_box": [
+          {
+            "x": 54,
+            "y": 208
+          },
+          {
+            "x": 607,
+            "y": 211
+          },
+          {
+            "x": 607,
+            "y": 236
+          },
+          {
+            "x": 54,
+            "y": 233
+          }
+        ],
+        "confidence": 0.9794853
+      },
+      {
+        "block_text": "23. What is the role of nature in \" The Postmaster \" by Tagore . 24. Write an essay on the life of the clerk in \" The Resignation \" . 25. Explain the final judgement of the play \" Silence ! the court is in session \" by Vijay Tendulkar .",
+        "lines": [
+          "23. What is the role of nature in \" The Postmaster \" by Tagore . 24. Write an essay on the life of the clerk in \" The Resignation \" . 25. Explain the final judgement of the play \" Silence ! the court is in session \" by Vijay Tendulkar ."
+        ],
+        "bounding_box": [
+          {
+            "x": 54,
+            "y": 243
+          },
+          {
+            "x": 755,
+            "y": 244
+          },
+          {
+            "x": 755,
+            "y": 376
+          },
+          {
+            "x": 54,
+            "y": 375
+          }
+        ],
+        "confidence": 0.9771124
+      },
+      {
+        "block_text": "26. The merits and demerits of Muhammad - bin - Tugluq - explain .",
+        "lines": [
+          "26. The merits and demerits of Muhammad - bin - Tugluq - explain ."
+        ],
+        "bounding_box": [
+          {
+            "x": 55,
+            "y": 382
+          },
+          {
+            "x": 743,
+            "y": 387
+          },
+          {
+            "x": 743,
+            "y": 414
+          },
+          {
+            "x": 55,
+            "y": 409
+          }
+        ],
+        "confidence": 0.98051685
+      }
+    ]
+  }
+}

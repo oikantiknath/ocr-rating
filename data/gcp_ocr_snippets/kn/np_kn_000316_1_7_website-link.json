@@ -1,0 +1,31 @@
+{
+  "page_number": 316,
+  "ocr_output": {
+    "blocks": [
+      {
+        "block_text": "https://www.careerswave.in",
+        "lines": [
+          "https://www.careerswave.in"
+        ],
+        "bounding_box": [
+          {
+            "x": 5
+          },
+          {
+            "x": 149,
+            "y": 1
+          },
+          {
+            "x": 149,
+            "y": 10
+          },
+          {
+            "x": 5,
+            "y": 10
+          }
+        ],
+        "confidence": 0.98270565
+      }
+    ]
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "page_number": 747,
+  "ocr_output": {
+    "blocks": [
+      {
+        "block_text": "www.ncerthelp.com",
+        "lines": [
+          "www.ncerthelp.com"
+        ],
+        "bounding_box": [
+          {
+            "x": 17,
+            "y": 1
+          },
+          {
+            "x": 122,
+            "y": 2
+          },
+          {
+            "x": 122,
+            "y": 11
+          },
+          {
+            "x": 17,
+            "y": 11
+          }
+        ],
+        "confidence": 0.8747958
+      }
+    ]
+  }
+}

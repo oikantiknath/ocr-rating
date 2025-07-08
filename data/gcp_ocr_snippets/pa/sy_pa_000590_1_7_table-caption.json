@@ -1,0 +1,30 @@
+{
+  "page_number": 590,
+  "ocr_output": {
+    "blocks": [
+      {
+        "block_text": "GROUP - B",
+        "lines": [
+          "GROUP - B"
+        ],
+        "bounding_box": [
+          {
+            "y": 2
+          },
+          {
+            "x": 38,
+            "y": 2
+          },
+          {
+            "x": 38,
+            "y": 9
+          },
+          {
+            "y": 9
+          }
+        ],
+        "confidence": 0.9618829
+      }
+    ]
+  }
+}

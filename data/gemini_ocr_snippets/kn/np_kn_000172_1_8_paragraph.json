@@ -1,0 +1,79 @@
+{
+  "sdk_http_response": {
+    "headers": {
+      "content-type": "application/json; charset=UTF-8",
+      "vary": "Origin, X-Origin, Referer",
+      "content-encoding": "gzip",
+      "date": "Fri, 04 Jul 2025 04:48:52 GMT",
+      "server": "scaffolding on HTTPServer2",
+      "x-xss-protection": "0",
+      "x-frame-options": "SAMEORIGIN",
+      "x-content-type-options": "nosniff",
+      "server-timing": "gfet4t7; dur=33975",
+      "alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
+      "transfer-encoding": "chunked"
+    },
+    "body": null
+  },
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "ಈ ಮಾತು ಕನ್ನಡದ ಅಕ್ಷರಗಳೂ ಅಹುದು. ಬಟಾಟೇ\nಮಾರಾಟಕ್ಕೂ ಕಲ್ಲಂಗಡಿ ಕನ್ನಡ ಭಾಷೆಗೂ ಸಾಂಗತ್ಯವಿದೆ. ಕೆಲವು\nಅಕ್ಷರಗಳು ಅಥವಾ ಅಕ್ಷರಸಮೂಹಗಳು ಈ ವ್ಯಾಪಾರ ಅರಿ\nಯದೇ ದಿನನಿತ್ಯದ ವ್ಯವಹಾರದ ಅಕ್ಷರಗಳು ಬಳಕೆಗೆ,\nಅತೀ ಸಲೀಸಾಗಿ ಬಂದಿವೆ. ಆ ಮಾತಿನ ಸಾಧ್ಯತೆಯನ್ನೂ ಈ\nಯಲ್ಲೂ, ಅಂಥ ಸಣ್ಣ ಯೋಚನೆಯನ್ನು ಮಾಡಿದೆ. ಈ ಭಾಷೆ\nಗಿಂತ ಎಷ್ಟು ಪ್ರಮುಖ ಅಂದ್ರೆ, ಕೆಲವು ಬಹುಮುಖ್ಯವಾದ\nಕಂಪನಿಗಳು ಅಕ್ಷರಗಳನ್ನೇ ಲೋಗೋಗಳನ್ನಾಗಿಟ್ಟುಕೊಂಡಿವೆ.\nಉದಾಹರಣೆಗೆ ಮ್ಯಾಕ್‌ಡೊನಾಲ್ಡ್ಸ್. ಮ್ಯಾಕ್‌ಡೊನಾಲ್ಡ್ಸ್\nಲಾಂಛನ ಮ್ಯಾಕ್‌ಡೊನಾಲ್ಡ್ಸ್ ಎಂದು ಬರೆದರೆ ಅದು ಮ್ಯಾಕ್‌ಡೊನಾಲ್ಡ್ಸ್\nಆಗಲು ಸಾಧ್ಯವಿಲ್ಲ. ಹಾಗೇ ಯೋಚಿಸಿದರೆ ಹಿಂದಿನ ಭಾಷೆ\nಬಳಸಿದರೆ, ನನ್ನ ಸಂತತಿ ಅದನ್ನರಿಯಲು, ಆ ಕೀಲಿ\nಯಿಂದ ಅಕ್ಷರ ಅಚ್ಚಲು ಅದೆಷ್ಟು ಬೇಕು? ಕೆಲವು ಸಲ ನಾನು\nಮುಂದೆ ಓದದೇ, ಆ ನಿಂತ ಅಕ್ಷರಗಳನ್ನೇ ದಿಟ್ಟಿಸುವೆ.\nಅದಕ್ಕೂ ಮಿಗಿಲಾದವನಾದರೆ ಕಲ್ಲಂಗಡಿ ತಲೆಗೊರಗಿ, ಆ\nಅಕ್ಷರಗಳ ಮಹಾಮನೆಯೊಳಗೆ ಚಿತ್ತರಂಗದಲ್ಲಿ ಮಲಗುವ\nಸಾಧ್ಯತೆಯೂ ಇರಬಹುದೇನೋ."
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": "STOP",
+      "safety_ratings": [
+        {
+          "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HATE_SPEECH",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HARASSMENT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+          "probability": "NEGLIGIBLE"
+        }
+      ],
+      "token_count": null
+    }
+  ],
+  "create_time": null,
+  "response_id": null,
+  "model_version": "gemini-2.5-pro",
+  "prompt_feedback": null,
+  "usage_metadata": {
+    "cache_tokens_details": null,
+    "cached_content_token_count": null,
+    "candidates_token_count": 339,
+    "candidates_tokens_details": null,
+    "prompt_token_count": 728,
+    "prompt_tokens_details": [
+      {
+        "modality": "TEXT",
+        "token_count": 470
+      },
+      {
+        "modality": "IMAGE",
+        "token_count": 258
+      }
+    ],
+    "thoughts_token_count": 2917,
+    "tool_use_prompt_token_count": null,
+    "tool_use_prompt_tokens_details": null,
+    "total_token_count": 3984,
+    "traffic_type": null
+  },
+  "automatic_function_calling_history": [],
+  "parsed": null,
+  "page_number": 103
+}

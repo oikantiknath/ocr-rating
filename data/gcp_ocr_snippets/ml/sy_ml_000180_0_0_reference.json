@@ -1,0 +1,282 @@
+{
+  "page_number": 180,
+  "ocr_output": {
+    "blocks": [
+      {
+        "block_text": "41.Selling a screenplay , Field Syd . , Dell Publishing , Newyork , 1989 .",
+        "lines": [
+          "41.Selling a screenplay , Field Syd . , Dell Publishing , Newyork , 1989 ."
+        ],
+        "bounding_box": [
+          {
+            "x": 27,
+            "y": 32
+          },
+          {
+            "x": 814,
+            "y": 32
+          },
+          {
+            "x": 814,
+            "y": 58
+          },
+          {
+            "x": 27,
+            "y": 58
+          }
+        ],
+        "confidence": 0.9782753
+      },
+      {
+        "block_text": "42. Writing screenplays that sell , Hauge Michel , Elm Tree Books , London ,",
+        "lines": [
+          "42. Writing screenplays that sell , Hauge Michel , Elm Tree Books , London ,"
+        ],
+        "bounding_box": [
+          {
+            "x": 28,
+            "y": 109
+          },
+          {
+            "x": 903,
+            "y": 109
+          },
+          {
+            "x": 903,
+            "y": 136
+          },
+          {
+            "x": 28,
+            "y": 136
+          }
+        ],
+        "confidence": 0.9791524
+      },
+      {
+        "block_text": "1988 .",
+        "lines": [
+          "1988 ."
+        ],
+        "bounding_box": [
+          {
+            "x": 30,
+            "y": 153
+          },
+          {
+            "x": 81,
+            "y": 154
+          },
+          {
+            "x": 81,
+            "y": 169
+          },
+          {
+            "x": 30,
+            "y": 168
+          }
+        ],
+        "confidence": 0.9657372
+      },
+      {
+        "block_text": "43.Cinema Studies , Key Concepts , Routledge , Heywood Susas , London and Newyork , 2000 .",
+        "lines": [
+          "43.Cinema Studies , Key Concepts , Routledge , Heywood Susas , London and Newyork , 2000 ."
+        ],
+        "bounding_box": [
+          {
+            "x": 29,
+            "y": 227
+          },
+          {
+            "x": 906,
+            "y": 224
+          },
+          {
+            "x": 906,
+            "y": 287
+          },
+          {
+            "x": 29,
+            "y": 290
+          }
+        ],
+        "confidence": 0.97324365
+      },
+      {
+        "block_text": "44.Secrets of Film Writing , Lazarus Tom , St. Martin Griffi , Newyork , 2001 .",
+        "lines": [
+          "44.Secrets of Film Writing , Lazarus Tom , St. Martin Griffi , Newyork , 2001 ."
+        ],
+        "bounding_box": [
+          {
+            "x": 28,
+            "y": 344
+          },
+          {
+            "x": 917,
+            "y": 344
+          },
+          {
+            "x": 917,
+            "y": 368
+          },
+          {
+            "x": 28,
+            "y": 368
+          }
+        ],
+        "confidence": 0.97897565
+      },
+      {
+        "block_text": "45.Film Language A Semitotics of Cinema , Mets Chirstian , Trans , Mickel Taylor , Oxford University Press , Newyork , 1993 .",
+        "lines": [
+          "45.Film Language A Semitotics of Cinema , Mets Chirstian , Trans , Mickel Taylor , Oxford University Press , Newyork , 1993 ."
+        ],
+        "bounding_box": [
+          {
+            "x": 28,
+            "y": 422
+          },
+          {
+            "x": 897,
+            "y": 422
+          },
+          {
+            "x": 897,
+            "y": 486
+          },
+          {
+            "x": 28,
+            "y": 486
+          }
+        ],
+        "confidence": 0.9809651
+      },
+      {
+        "block_text": "46.Film Theory Vol.II , Neale Steve , Philip Simpson ( Ed . ) Routledge , London ,",
+        "lines": [
+          "46.Film Theory Vol.II , Neale Steve , Philip Simpson ( Ed . ) Routledge , London ,"
+        ],
+        "bounding_box": [
+          {
+            "x": 28,
+            "y": 539
+          },
+          {
+            "x": 923,
+            "y": 539
+          },
+          {
+            "x": 923,
+            "y": 564
+          },
+          {
+            "x": 28,
+            "y": 564
+          }
+        ],
+        "confidence": 0.972967
+      },
+      {
+        "block_text": "1996 .",
+        "lines": [
+          "1996 ."
+        ],
+        "bounding_box": [
+          {
+            "x": 30,
+            "y": 583
+          },
+          {
+            "x": 82,
+            "y": 583
+          },
+          {
+            "x": 82,
+            "y": 597
+          },
+          {
+            "x": 30,
+            "y": 597
+          }
+        ],
+        "confidence": 0.9680245
+      },
+      {
+        "block_text": "47.History of Indian Cinema , Renu Saran , Diammond Rocket Books ( Pvt )",
+        "lines": [
+          "47.History of Indian Cinema , Renu Saran , Diammond Rocket Books ( Pvt )"
+        ],
+        "bounding_box": [
+          {
+            "x": 27,
+            "y": 655
+          },
+          {
+            "x": 897,
+            "y": 655
+          },
+          {
+            "x": 897,
+            "y": 679
+          },
+          {
+            "x": 27,
+            "y": 679
+          }
+        ],
+        "confidence": 0.9793199
+      },
+      {
+        "block_text": "2013 .",
+        "lines": [
+          "2013 ."
+        ],
+        "bounding_box": [
+          {
+            "x": 29,
+            "y": 698
+          },
+          {
+            "x": 82,
+            "y": 699
+          },
+          {
+            "x": 82,
+            "y": 714
+          },
+          {
+            "x": 29,
+            "y": 713
+          }
+        ],
+        "confidence": 0.9754279
+      },
+      {
+        "block_text": "48.Literature and Film - A guide of the Theory and Psacrifice of filim Adaptation , Stam Robert , Alles Sandra Rengeo ( Ed . ) , Black well Publishing 49. Mainstreet , Maklen . USA 2005 .",
+        "lines": [
+          "48.Literature and Film - A guide of the Theory and Psacrifice of filim Adaptation , Stam Robert , Alles Sandra Rengeo ( Ed . ) , Black well Publishing 49. Mainstreet , Maklen . USA 2005 ."
+        ],
+        "bounding_box": [
+          {
+            "x": 28,
+            "y": 733
+          },
+          {
+            "x": 926,
+            "y": 733
+          },
+          {
+            "x": 926,
+            "y": 834
+          },
+          {
+            "x": 28,
+            "y": 834
+          }
+        ],
+        "confidence": 0.982375
+      }
+    ]
+  }
+}

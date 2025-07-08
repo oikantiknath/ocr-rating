@@ -1,0 +1,27 @@
+{
+  "page_number": 1032,
+  "ocr_output": {
+    "blocks": [
+      {
+        "block_text": "http://aksharnaad.com",
+        "lines": [
+          "http://aksharnaad.com"
+        ],
+        "bounding_box": [
+          {},
+          {
+            "x": 92
+          },
+          {
+            "x": 92,
+            "y": 8
+          },
+          {
+            "y": 8
+          }
+        ],
+        "confidence": 0.98407847
+      }
+    ]
+  }
+}

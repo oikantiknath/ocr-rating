@@ -1,0 +1,31 @@
+{
+  "page_number": 137,
+  "ocr_output": {
+    "blocks": [
+      {
+        "block_text": "- પાચાર",
+        "lines": [
+          "- પાચાર"
+        ],
+        "bounding_box": [
+          {
+            "x": 34,
+            "y": 39
+          },
+          {
+            "x": 39,
+            "y": 245
+          },
+          {
+            "x": 3,
+            "y": 246
+          },
+          {
+            "y": 40
+          }
+        ],
+        "confidence": 1
+      }
+    ]
+  }
+}

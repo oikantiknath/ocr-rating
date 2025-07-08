@@ -1,0 +1,157 @@
+{
+  "page_number": 58,
+  "ocr_output": {
+    "blocks": [
+      {
+        "block_text": "78. I",
+        "lines": [
+          "78. I"
+        ],
+        "bounding_box": [
+          {
+            "x": 25,
+            "y": 11
+          },
+          {
+            "x": 93,
+            "y": 11
+          },
+          {
+            "x": 93,
+            "y": 26
+          },
+          {
+            "x": 25,
+            "y": 26
+          }
+        ],
+        "confidence": 0.969144
+      },
+      {
+        "block_text": "the examination , but my brother failed .",
+        "lines": [
+          "the examination , but my brother failed ."
+        ],
+        "bounding_box": [
+          {
+            "x": 224,
+            "y": 11
+          },
+          {
+            "x": 640,
+            "y": 11
+          },
+          {
+            "x": 640,
+            "y": 34
+          },
+          {
+            "x": 224,
+            "y": 34
+          }
+        ],
+        "confidence": 0.9879672
+      },
+      {
+        "block_text": "( A ) hold on",
+        "lines": [
+          "( A ) hold on"
+        ],
+        "bounding_box": [
+          {
+            "x": 84,
+            "y": 46
+          },
+          {
+            "x": 222,
+            "y": 44
+          },
+          {
+            "x": 222,
+            "y": 66
+          },
+          {
+            "x": 84,
+            "y": 68
+          }
+        ],
+        "confidence": 0.9758075
+      },
+      {
+        "block_text": "( C ) went off",
+        "lines": [
+          "( C ) went off"
+        ],
+        "bounding_box": [
+          {
+            "x": 559,
+            "y": 48
+          },
+          {
+            "x": 710,
+            "y": 45
+          },
+          {
+            "x": 710,
+            "y": 66
+          },
+          {
+            "x": 559,
+            "y": 69
+          }
+        ],
+        "confidence": 0.9666805
+      },
+      {
+        "block_text": "( B ) got through",
+        "lines": [
+          "( B ) got through"
+        ],
+        "bounding_box": [
+          {
+            "x": 322,
+            "y": 48
+          },
+          {
+            "x": 508,
+            "y": 48
+          },
+          {
+            "x": 508,
+            "y": 70
+          },
+          {
+            "x": 322,
+            "y": 70
+          }
+        ],
+        "confidence": 0.9797899
+      },
+      {
+        "block_text": "( D ) gave up",
+        "lines": [
+          "( D ) gave up"
+        ],
+        "bounding_box": [
+          {
+            "x": 799,
+            "y": 49
+          },
+          {
+            "x": 942,
+            "y": 53
+          },
+          {
+            "x": 941,
+            "y": 76
+          },
+          {
+            "x": 798,
+            "y": 72
+          }
+        ],
+        "confidence": 0.98715144
+      }
+    ]
+  }
+}

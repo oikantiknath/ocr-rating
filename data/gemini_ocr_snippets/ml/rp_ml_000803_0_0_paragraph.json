@@ -1,0 +1,79 @@
+{
+  "sdk_http_response": {
+    "headers": {
+      "content-type": "application/json; charset=UTF-8",
+      "vary": "Origin, X-Origin, Referer",
+      "content-encoding": "gzip",
+      "date": "Fri, 04 Jul 2025 05:11:03 GMT",
+      "server": "scaffolding on HTTPServer2",
+      "x-xss-protection": "0",
+      "x-frame-options": "SAMEORIGIN",
+      "x-content-type-options": "nosniff",
+      "server-timing": "gfet4t7; dur=92118",
+      "alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
+      "transfer-encoding": "chunked"
+    },
+    "body": null
+  },
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "വിദ്യ എന്ന ജ്ഞാനത്തെയും അവിദ്യ എന്ന കർമ്മത്തെയും ഒന്നിച്ച് അനുഷ്ഠിക്കാൻ\nകർമ്മാനുഷ്ഠാനങ്ങളിൽ കൂടി മരണത്തെ തരണം ചെയ്ത് അമരത്വം പ്രാപിക്കുന്നു\nവെന്ന് ഈശാവാസ്യോപനിഷത്ത് പറയുന്നു. രാമവർമ്മയാൽ പരിഷ്കതമായ\nഭാഷാ നൂതനമാർഗ്ഗമാലികേയോ പോയി. വിവേകിയും ഇന്ദ്രിയനിഗ്രഹം\nകഴിഞ്ഞവളുമാണ് ഭാഷ. ഫലമൂലങ്ങൾ ഭോജിച്ചുവച്ച് രാമന്റെ വരവിനായി\nകാത്തിരിക്കുന്ന ശബരിയുടെ നിഷ്കാമഭക്തിയാണ് ശ്രീരാമനിലേക്കെത്തിച്ചത്. ഭക്തി\nകൊണ്ട് ഈശ്വരസാക്ഷാത്കാരം പ്രാപിക്കാൻ കഴിയുന്നതാണ് എന്ന് അധ്യാത്മരാമായണം\nകിളിപ്പാട്ടിന്റെ രചനാശൈലി വ്യക്തമാക്കുന്നുണ്ട്. ഭരതനെപ്പോലെയായി\nത്തീരുമെന്നും ബ്രഹ്മസാക്ഷാത്കാരത്തിന് അധ്യാത്മരാമായണം കിളിപ്പാട്ടിന്റെ\nരചനാശൈലി വ്യക്തമാക്കുന്നുണ്ട്. ഭരതനെപ്പോലെയായിത്തീരുമെന്നും\nബ്രഹ്മസാക്ഷാത്കാരത്തിന് അധ്യാത്മരാമായണം കിളിപ്പാട്ടിന്റെ രചനാശൈലി\nവ്യക്തമാക്കുന്നുണ്ട്. ഭരതനെപ്പോലെയായിത്തീരുമെന്നും ബ്രഹ്മസാക്ഷാത്കാരത്തിന്\nഅധ്യാത്മരാമായണം കിളിപ്പാട്ടിന്റെ രചനാശൈലി വ്യക്തമാക്കുന്നുണ്ട്."
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": "STOP",
+      "safety_ratings": [
+        {
+          "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HATE_SPEECH",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HARASSMENT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+          "probability": "NEGLIGIBLE"
+        }
+      ],
+      "token_count": null
+    }
+  ],
+  "create_time": null,
+  "response_id": null,
+  "model_version": "gemini-2.5-pro",
+  "prompt_feedback": null,
+  "usage_metadata": {
+    "cache_tokens_details": null,
+    "cached_content_token_count": null,
+    "candidates_token_count": 326,
+    "candidates_tokens_details": null,
+    "prompt_token_count": 740,
+    "prompt_tokens_details": [
+      {
+        "modality": "TEXT",
+        "token_count": 482
+      },
+      {
+        "modality": "IMAGE",
+        "token_count": 258
+      }
+    ],
+    "thoughts_token_count": 8864,
+    "tool_use_prompt_token_count": null,
+    "tool_use_prompt_tokens_details": null,
+    "total_token_count": 9930,
+    "traffic_type": null
+  },
+  "automatic_function_calling_history": [],
+  "parsed": null,
+  "page_number": 307
+}

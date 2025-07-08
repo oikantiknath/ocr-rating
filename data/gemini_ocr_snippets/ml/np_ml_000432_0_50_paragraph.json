@@ -1,0 +1,79 @@
+{
+  "sdk_http_response": {
+    "headers": {
+      "content-type": "application/json; charset=UTF-8",
+      "vary": "Origin, X-Origin, Referer",
+      "content-encoding": "gzip",
+      "date": "Fri, 04 Jul 2025 05:05:40 GMT",
+      "server": "scaffolding on HTTPServer2",
+      "x-xss-protection": "0",
+      "x-frame-options": "SAMEORIGIN",
+      "x-content-type-options": "nosniff",
+      "server-timing": "gfet4t7; dur=41823",
+      "alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
+      "transfer-encoding": "chunked"
+    },
+    "body": null
+  },
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "ത്തിരക്കുനുസരണം പിന്തിരിപ്പിക്കുന്നതും ആ\nൾക്കാർ ഒത്തുകൂടുന്നത് തടയുന്നതും ഉൾ\nപ്പെടെ ശ്രമകരമായ ജോലിയാണ് പൊലീസ്\nഅഭിമുഖീകരിക്കുന്നത്. ഇതോടൊപ്പമാണ്\nസാമൂഹിക സേവനം. ഇതിനിടെ രോഗം സ്വ\nയം ബാധിക്കാതെ നോക്കേണ്ട ബാധ്യതയു\nമുണ്ട്. ഇതിനുസൃതമായി കൊവിഡ് കാല\nയളവിൽ സംസ്ഥാന വ്യാപകമായി പൊലീ\nസുകാരുടെ ജോലി സമയം മൂന്നായി ക്രമീക\nരിച്ചു. രാവിലെ ആറു മുതൽ പകൽ ഒന്നു വ\nരെ, ഒന്നു മുതൽ രാത്രി ഒൻപതു വരെ. വൈ\nകിട്ട് ആറു മുതൽ രാവിലെ രാവിലെ ആറുവ\nരെ നൈറ്റ് പെട്രോളിങ്. എല്ലാ പ്രായ നിര\nയിലുള്ളവരെയും രോഗികളെയും പൊലീസ്\nസാന്നിധ്യം ഉറപ്പാക്കിയിട്ടുണ്ട്."
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": "STOP",
+      "safety_ratings": [
+        {
+          "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HATE_SPEECH",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HARASSMENT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+          "probability": "NEGLIGIBLE"
+        }
+      ],
+      "token_count": null
+    }
+  ],
+  "create_time": null,
+  "response_id": null,
+  "model_version": "gemini-2.5-pro",
+  "prompt_feedback": null,
+  "usage_metadata": {
+    "cache_tokens_details": null,
+    "cached_content_token_count": null,
+    "candidates_token_count": 179,
+    "candidates_tokens_details": null,
+    "prompt_token_count": 738,
+    "prompt_tokens_details": [
+      {
+        "modality": "TEXT",
+        "token_count": 480
+      },
+      {
+        "modality": "IMAGE",
+        "token_count": 258
+      }
+    ],
+    "thoughts_token_count": 4009,
+    "tool_use_prompt_token_count": null,
+    "tool_use_prompt_tokens_details": null,
+    "total_token_count": 4926,
+    "traffic_type": null
+  },
+  "automatic_function_calling_history": [],
+  "parsed": null,
+  "page_number": 130
+}

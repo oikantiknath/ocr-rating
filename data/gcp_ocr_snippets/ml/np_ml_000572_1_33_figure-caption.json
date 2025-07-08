@@ -1,0 +1,82 @@
+{
+  "page_number": 572,
+  "ocr_output": {
+    "blocks": [
+      {
+        "block_text": "കോവളം : പച്ച പ alg mellemod sandal udlagaa ani na mend",
+        "lines": [
+          "കോവളം : പച്ച പ alg mellemod sandal udlagaa ani na mend"
+        ],
+        "bounding_box": [
+          {
+            "x": 5,
+            "y": 7
+          },
+          {
+            "x": 76,
+            "y": 7
+          },
+          {
+            "x": 76,
+            "y": 39
+          },
+          {
+            "x": 5,
+            "y": 39
+          }
+        ],
+        "confidence": 0.4215197
+      },
+      {
+        "block_text": "( കണ്ണൻ -14 ) അന്തരിച്ചു .",
+        "lines": [
+          "( കണ്ണൻ -14 ) അന്തരിച്ചു ."
+        ],
+        "bounding_box": [
+          {
+            "x": 4,
+            "y": 39
+          },
+          {
+            "x": 75,
+            "y": 39
+          },
+          {
+            "x": 75,
+            "y": 50
+          },
+          {
+            "x": 4,
+            "y": 50
+          }
+        ],
+        "confidence": 0.34038028
+      },
+      {
+        "block_text": "ലീക്കായിരുന്നു .",
+        "lines": [
+          "ലീക്കായിരുന്നു ."
+        ],
+        "bounding_box": [
+          {
+            "x": 6,
+            "y": 62
+          },
+          {
+            "x": 43,
+            "y": 63
+          },
+          {
+            "x": 43,
+            "y": 72
+          },
+          {
+            "x": 6,
+            "y": 72
+          }
+        ],
+        "confidence": 0.6347867
+      }
+    ]
+  }
+}

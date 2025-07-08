@@ -1,0 +1,79 @@
+{
+  "sdk_http_response": {
+    "headers": {
+      "content-type": "application/json; charset=UTF-8",
+      "vary": "Origin, X-Origin, Referer",
+      "content-encoding": "gzip",
+      "date": "Fri, 04 Jul 2025 05:04:38 GMT",
+      "server": "scaffolding on HTTPServer2",
+      "x-xss-protection": "0",
+      "x-frame-options": "SAMEORIGIN",
+      "x-content-type-options": "nosniff",
+      "server-timing": "gfet4t7; dur=21875",
+      "alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
+      "transfer-encoding": "chunked"
+    },
+    "body": null
+  },
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "* ചിത്രം.26 ശ്രദ്ധിക്കുക, ലൊക്കേഷൻ എന്ന സ്ഥാനത്ത് ബന്ധപ്പെട്ട പ്രവർത്തനം നടക്കുന്ന\nസ്ഥലമാണ് രേഖപ്പെടുത്തേണ്ടത്. പ്രസ്തുത അസ്തി ഏത് ഭൂമിയിലാണ്\nസ്ഥിതിചെയ്യുന്നതെന്ന് മനസ്സിലാക്കുന്നതിനായി ലാന്റ് ഡിറ്റയിൽസ് എന്ന ബട്ടൺ\nഉപയോഗിച്ച് തെരഞ്ഞെടുക്കുക. ഏത് റോഡിൽ വന്നതാണെന്ന് മനസ്സിലാക്കുന്നതിനായി\nറോഡ് ഡിറ്റയിൽസ് എന്ന ഓപ്ഷനും ഉപയോഗിക്കാവുന്നതാണ്.\n* Type of Construction, Purpose of line extension എന്നിവ കോംബോ ബോക്സിൽ നിന്നും\nതെരഞ്ഞെടുക്കുക.\n* തുടർന്ന് കോളത്തിൽ നിർദ്ദേശിച്ചിരിക്കുന്നതനുസരിച്ചുള്ള എല്ലാ വിവരങ്ങളും രേഖപ്പെടുത്തുക."
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": "STOP",
+      "safety_ratings": [
+        {
+          "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HATE_SPEECH",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HARASSMENT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+          "probability": "NEGLIGIBLE"
+        }
+      ],
+      "token_count": null
+    }
+  ],
+  "create_time": null,
+  "response_id": null,
+  "model_version": "gemini-2.5-pro",
+  "prompt_feedback": null,
+  "usage_metadata": {
+    "cache_tokens_details": null,
+    "cached_content_token_count": null,
+    "candidates_token_count": 152,
+    "candidates_tokens_details": null,
+    "prompt_token_count": 740,
+    "prompt_tokens_details": [
+      {
+        "modality": "TEXT",
+        "token_count": 482
+      },
+      {
+        "modality": "IMAGE",
+        "token_count": 258
+      }
+    ],
+    "thoughts_token_count": 1625,
+    "tool_use_prompt_token_count": null,
+    "tool_use_prompt_tokens_details": null,
+    "total_token_count": 2517,
+    "traffic_type": null
+  },
+  "automatic_function_calling_history": [],
+  "parsed": null,
+  "page_number": 89
+}

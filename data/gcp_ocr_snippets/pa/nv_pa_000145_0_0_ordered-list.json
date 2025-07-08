@@ -1,0 +1,382 @@
+{
+  "page_number": 145,
+  "ocr_output": {
+    "blocks": [
+      {
+        "block_text": "mysticism would have arisen within it , for the seeds were already there . \"",
+        "lines": [
+          "mysticism would have arisen within it , for the seeds were already there . \""
+        ],
+        "bounding_box": [
+          {
+            "x": 168,
+            "y": 17
+          },
+          {
+            "x": 915,
+            "y": 7
+          },
+          {
+            "x": 916,
+            "y": 86
+          },
+          {
+            "x": 169,
+            "y": 96
+          }
+        ],
+        "confidence": 0.9934113
+      },
+      {
+        "block_text": "ਰੂਪ ਇਸ ' ਪ੍ਰਕਾਰ ਹੈ—",
+        "lines": [
+          "ਰੂਪ ਇਸ ' ਪ੍ਰਕਾਰ ਹੈ—"
+        ],
+        "bounding_box": [
+          {
+            "x": 265,
+            "y": 104
+          },
+          {
+            "x": 498,
+            "y": 90
+          },
+          {
+            "x": 500,
+            "y": 138
+          },
+          {
+            "x": 268,
+            "y": 152
+          }
+        ],
+        "confidence": 0.8666621
+      },
+      {
+        "block_text": "ਇਸ ਦਾ ਪੰਜਾਬੀ",
+        "lines": [
+          "ਇਸ ਦਾ ਪੰਜਾਬੀ"
+        ],
+        "bounding_box": [
+          {
+            "x": 76,
+            "y": 100
+          },
+          {
+            "x": 254,
+            "y": 98
+          },
+          {
+            "x": 254,
+            "y": 131
+          },
+          {
+            "x": 76,
+            "y": 133
+          }
+        ],
+        "confidence": 0.9663936
+      },
+      {
+        "block_text": "“ ਜੇ ਇਸਲਾਮ ਤੇ ਕਿਸੇ ਕਿਸਮ ਦਾ ਕੋਈ ਬਾਹਰੀ ਪ੍ਰਭਾਵ ਨਾ ਵੀ ਪੈਂਦਾ ਤਾਂ ਵੀ ਰਹੱਸਵਾਦ ਦਾ ਕੋਈ ਨਾ ਕੋਈ ਸਰੂਪ ਜ਼ਰੂਰ ਪ੍ਰਗਟ ਹੋ ਜਾਣਾ ਸੀ ਕਿਉਂਕਿ ਕੁਰਾਨ ਵਿਚ ਰਹੱਸਵਾਦੀ ਤੱਤ ਲੁਪਤ ਰੂਪ ਵਿਚ ਕਾਇਮ ਹਨ । ”",
+        "lines": [
+          "“ ਜੇ ਇਸਲਾਮ ਤੇ ਕਿਸੇ ਕਿਸਮ ਦਾ ਕੋਈ ਬਾਹਰੀ ਪ੍ਰਭਾਵ ਨਾ ਵੀ ਪੈਂਦਾ ਤਾਂ ਵੀ ਰਹੱਸਵਾਦ ਦਾ ਕੋਈ ਨਾ ਕੋਈ ਸਰੂਪ ਜ਼ਰੂਰ ਪ੍ਰਗਟ ਹੋ ਜਾਣਾ ਸੀ ਕਿਉਂਕਿ ਕੁਰਾਨ ਵਿਚ ਰਹੱਸਵਾਦੀ ਤੱਤ ਲੁਪਤ ਰੂਪ ਵਿਚ ਕਾਇਮ ਹਨ । ”"
+        ],
+        "bounding_box": [
+          {
+            "x": 167,
+            "y": 142
+          },
+          {
+            "x": 916,
+            "y": 136
+          },
+          {
+            "x": 917,
+            "y": 308
+          },
+          {
+            "x": 168,
+            "y": 314
+          }
+        ],
+        "confidence": 0.9461123
+      },
+      {
+        "block_text": "( 6 ) ਜੈਕੁਅਸ ਡੀ ਮਾਰਕੁਆਟੀ Jaques De Marquette ਸੂਫੀ ਮੱਤ ਬਾਰੇ ਇਸ ਕਾਰ ਲਿਖਦਾ ਹੈ—",
+        "lines": [
+          "( 6 ) ਜੈਕੁਅਸ ਡੀ ਮਾਰਕੁਆਟੀ Jaques De Marquette ਸੂਫੀ ਮੱਤ ਬਾਰੇ ਇਸ ਕਾਰ ਲਿਖਦਾ ਹੈ—"
+        ],
+        "bounding_box": [
+          {
+            "x": 11,
+            "y": 327
+          },
+          {
+            "x": 917,
+            "y": 323
+          },
+          {
+            "x": 917,
+            "y": 401
+          },
+          {
+            "x": 11,
+            "y": 405
+          }
+        ],
+        "confidence": 0.9265181
+      },
+      {
+        "block_text": "\" The esoteric truth of the Karam to his nephew Ali who became Mohammad is reported to have imparted a knowledge of the Patron of Sufies . \"",
+        "lines": [
+          "\" The esoteric truth of the Karam to his nephew Ali who became Mohammad is reported to have imparted a knowledge of the Patron of Sufies . \""
+        ],
+        "bounding_box": [
+          {
+            "x": 170,
+            "y": 421
+          },
+          {
+            "x": 914,
+            "y": 421
+          },
+          {
+            "x": 914,
+            "y": 549
+          },
+          {
+            "x": 170,
+            "y": 549
+          }
+        ],
+        "confidence": 0.9892849
+      },
+      {
+        "block_text": "( 7 ) ਸੂਫ਼ੀ ਮੱਤ ਦੀ ਉਤਪੱਤੀ ਬਾਰੇ Sidney Spenseer ਆਪਣੀ ਪ੍ਰਸਿੱਧ ਪੁਸਤਕ \" Mysticism in World Religion \" ਦੇ ਪੰਨਾ 299 ਉੱਤੇ ਅਤੇ Aziz Ahmad ਆਪਣੀ ਪ੍ਰਸਿੱਧ ਪੁਸਤਕ Studies in Islamic Culture in the Indian Environment \" ( Oxford ) , Clarendon Press 1964 ( P. 120 ) ਉੱਪਰ ਲਿਖਦੇ",
+        "lines": [
+          "( 7 ) ਸੂਫ਼ੀ ਮੱਤ ਦੀ ਉਤਪੱਤੀ ਬਾਰੇ Sidney Spenseer ਆਪਣੀ ਪ੍ਰਸਿੱਧ ਪੁਸਤਕ \" Mysticism in World Religion \" ਦੇ ਪੰਨਾ 299 ਉੱਤੇ ਅਤੇ Aziz Ahmad ਆਪਣੀ ਪ੍ਰਸਿੱਧ ਪੁਸਤਕ Studies in Islamic Culture in the Indian Environment \" ( Oxford ) , Clarendon Press 1964 ( P. 120 ) ਉੱਪਰ ਲਿਖਦੇ"
+        ],
+        "bounding_box": [
+          {
+            "x": 11,
+            "y": 557
+          },
+          {
+            "x": 916,
+            "y": 556
+          },
+          {
+            "x": 916,
+            "y": 730
+          },
+          {
+            "x": 11,
+            "y": 731
+          }
+        ],
+        "confidence": 0.97315705
+      },
+      {
+        "block_text": "ਹਨ-",
+        "lines": [
+          "ਹਨ-"
+        ],
+        "bounding_box": [
+          {
+            "x": 76,
+            "y": 747
+          },
+          {
+            "x": 133,
+            "y": 747
+          },
+          {
+            "x": 133,
+            "y": 768
+          },
+          {
+            "x": 76,
+            "y": 768
+          }
+        ],
+        "confidence": 0.8491105
+      },
+      {
+        "block_text": "\" The origional source of Sufism is the Quran and the life of Mohammad . \"",
+        "lines": [
+          "\" The origional source of Sufism is the Quran and the life of Mohammad . \""
+        ],
+        "bounding_box": [
+          {
+            "x": 170,
+            "y": 790
+          },
+          {
+            "x": 917,
+            "y": 787
+          },
+          {
+            "x": 917,
+            "y": 858
+          },
+          {
+            "x": 170,
+            "y": 861
+          }
+        ],
+        "confidence": 0.9896302
+      },
+      {
+        "block_text": "( 8 ) ਮੌਲਾਨਾ ਜਲਾਲ - ਉ - ਦੀਨ ਮੁਹੰਮਦ ਰੂਮੀ ਜੋ ਇਕ ਸੂਫ਼ੀ ਅਤੇ ਪ੍ਰਸਿੱਧ ਚਿੰਤਕ ਸੀ ਨੇ ਆਪਣੇ ਵਿਚਾਰ ਇਸ ਪ੍ਰਕਾਰ ਪ੍ਰਗਟ ਕੀਤੇ ਹਨ— “ ਮਨ ਜ ਕੁਰਾਨ ਬਰਗੁਜੀਦਮ ਮਗਜ ਰਾ",
+        "lines": [
+          "( 8 ) ਮੌਲਾਨਾ ਜਲਾਲ - ਉ - ਦੀਨ ਮੁਹੰਮਦ ਰੂਮੀ ਜੋ ਇਕ ਸੂਫ਼ੀ ਅਤੇ ਪ੍ਰਸਿੱਧ ਚਿੰਤਕ ਸੀ ਨੇ ਆਪਣੇ ਵਿਚਾਰ ਇਸ ਪ੍ਰਕਾਰ ਪ੍ਰਗਟ ਕੀਤੇ ਹਨ— “ ਮਨ ਜ ਕੁਰਾਨ ਬਰਗੁਜੀਦਮ ਮਗਜ ਰਾ"
+        ],
+        "bounding_box": [
+          {
+            "x": 13,
+            "y": 870
+          },
+          {
+            "x": 915,
+            "y": 875
+          },
+          {
+            "x": 914,
+            "y": 1006
+          },
+          {
+            "x": 12,
+            "y": 1001
+          }
+        ],
+        "confidence": 0.91363984
+      },
+      {
+        "block_text": "ਉਸਤਖਾਂ ਪੇਸ਼ੇ ਸਗਾਂ ਅੰਦਾ ਖਤਮ । ”",
+        "lines": [
+          "ਉਸਤਖਾਂ ਪੇਸ਼ੇ ਸਗਾਂ ਅੰਦਾ ਖਤਮ । ”"
+        ],
+        "bounding_box": [
+          {
+            "x": 169,
+            "y": 1012
+          },
+          {
+            "x": 548,
+            "y": 1012
+          },
+          {
+            "x": 548,
+            "y": 1046
+          },
+          {
+            "x": 169,
+            "y": 1046
+          }
+        ],
+        "confidence": 0.8199283
+      },
+      {
+        "block_text": "ਇਸ ਦਾ ਭਾਵ ਇਹ ਹੋਇਆ ਕਿ–",
+        "lines": [
+          "ਇਸ ਦਾ ਭਾਵ ਇਹ ਹੋਇਆ ਕਿ–"
+        ],
+        "bounding_box": [
+          {
+            "x": 171,
+            "y": 1057
+          },
+          {
+            "x": 537,
+            "y": 1055
+          },
+          {
+            "x": 537,
+            "y": 1087
+          },
+          {
+            "x": 171,
+            "y": 1089
+          }
+        ],
+        "confidence": 0.9458185
+      },
+      {
+        "block_text": "“ ਕੁਰਾਨ ਵਿਚ ਜੋ ਅਸਲੀ ਤੱਤ ਹਨ ਉਹ ਸੂਫ਼ੀ ਮੱਤ ਵਿਚ ਦਰਜ ਕਰ ਲਏ ਹਨ । ”",
+        "lines": [
+          "“ ਕੁਰਾਨ ਵਿਚ ਜੋ ਅਸਲੀ ਤੱਤ ਹਨ ਉਹ ਸੂਫ਼ੀ ਮੱਤ ਵਿਚ ਦਰਜ ਕਰ ਲਏ ਹਨ । ”"
+        ],
+        "bounding_box": [
+          {
+            "x": 171,
+            "y": 1097
+          },
+          {
+            "x": 913,
+            "y": 1103
+          },
+          {
+            "x": 912,
+            "y": 1188
+          },
+          {
+            "x": 170,
+            "y": 1182
+          }
+        ],
+        "confidence": 0.9411444
+      },
+      {
+        "block_text": "( 9 ) ਮੀਰ ਵਲੀ - ਉਦ - ਦੀਨ Mir Valiuddin ਨੇ ਆਪਣੇ ਪ੍ਰਸਿੱਧ ਖੋਜ ਪਤ੍ਰ \" The Quaranic Sufism \" ( Hydrabad , the Academy of Islamic studies 1959 , page 5 ) ਉੱਪਰ ਸੂਫ਼ੀ ਮੱਤ ਦੀ ਇਸ ਪ੍ਰਕਾਰ ਵਿਆਖਿਆ ਕੀਤੀ ਹੈ—",
+        "lines": [
+          "( 9 ) ਮੀਰ ਵਲੀ - ਉਦ - ਦੀਨ Mir Valiuddin ਨੇ ਆਪਣੇ ਪ੍ਰਸਿੱਧ ਖੋਜ ਪਤ੍ਰ \" The Quaranic Sufism \" ( Hydrabad , the Academy of Islamic studies 1959 , page 5 ) ਉੱਪਰ ਸੂਫ਼ੀ ਮੱਤ ਦੀ ਇਸ ਪ੍ਰਕਾਰ ਵਿਆਖਿਆ ਕੀਤੀ ਹੈ—"
+        ],
+        "bounding_box": [
+          {
+            "x": 13,
+            "y": 1193
+          },
+          {
+            "x": 913,
+            "y": 1189
+          },
+          {
+            "x": 914,
+            "y": 1327
+          },
+          {
+            "x": 14,
+            "y": 1331
+          }
+        ],
+        "confidence": 0.9448542
+      },
+      {
+        "block_text": "\" It ( Sufism ) is in a word self discipline , the avoidance of what is forbidden and the performance of what is ordained . \" ਸੂਫ਼ੀਵਾਦ ਵਿਚ ਆਤਮ ਨਿਯੰਤ੍ਰਣ ਹੈ , ਜਿਸ ਵਿਚ ਜੋ ਵਰਜਿਤ ਹੈ ਉਹ ਨਹੀਂ ਕਰਨਾ ਅਤੇ ਜਿਸ ਦੀ ਆਗਿਆ ਹੈ ਉਸ ਨੂੰ ਕਰਨਾ ਹੀ ਸੂਫ਼ੀਵਾਦ ਹੈ—",
+        "lines": [
+          "\" It ( Sufism ) is in a word self discipline , the avoidance of what is forbidden and the performance of what is ordained . \" ਸੂਫ਼ੀਵਾਦ ਵਿਚ ਆਤਮ ਨਿਯੰਤ੍ਰਣ ਹੈ , ਜਿਸ ਵਿਚ ਜੋ ਵਰਜਿਤ ਹੈ ਉਹ ਨਹੀਂ ਕਰਨਾ ਅਤੇ ਜਿਸ ਦੀ ਆਗਿਆ ਹੈ ਉਸ ਨੂੰ ਕਰਨਾ ਹੀ ਸੂਫ਼ੀਵਾਦ ਹੈ—"
+        ],
+        "bounding_box": [
+          {
+            "x": 78,
+            "y": 1339
+          },
+          {
+            "x": 918,
+            "y": 1338
+          },
+          {
+            "x": 918,
+            "y": 1509
+          },
+          {
+            "x": 78,
+            "y": 1510
+          }
+        ],
+        "confidence": 0.97345155
+      }
+    ]
+  }
+}

@@ -1,0 +1,1107 @@
+{
+  "page_number": 499,
+  "ocr_output": {
+    "blocks": [
+      {
+        "block_text": "Manifestation of Cold War : The Korean Crisis , end of French Colonial rule in IndoChina and the Vietnam War , Cuban Missile Crisis",
+        "lines": [
+          "Manifestation of Cold War : The Korean Crisis , end of French Colonial rule in IndoChina and the Vietnam War , Cuban Missile Crisis"
+        ],
+        "bounding_box": [
+          {
+            "x": 139,
+            "y": 9
+          },
+          {
+            "x": 1182,
+            "y": 9
+          },
+          {
+            "x": 1182,
+            "y": 79
+          },
+          {
+            "x": 139,
+            "y": 79
+          }
+        ],
+        "confidence": 0.98130745
+      },
+      {
+        "block_text": "Emergence of the Third World World and Non - Aligned Movement",
+        "lines": [
+          "Emergence of the Third World World and Non - Aligned Movement"
+        ],
+        "bounding_box": [
+          {
+            "x": 139,
+            "y": 96
+          },
+          {
+            "x": 1055,
+            "y": 96
+          },
+          {
+            "x": 1055,
+            "y": 125
+          },
+          {
+            "x": 139,
+            "y": 125
+          }
+        ],
+        "confidence": 0.9744965
+      },
+      {
+        "block_text": "De - Stalinisation and its aftermath in the East European Countries , Détente - Thaw in Cold War .",
+        "lines": [
+          "De - Stalinisation and its aftermath in the East European Countries , Détente - Thaw in Cold War ."
+        ],
+        "bounding_box": [
+          {
+            "x": 140,
+            "y": 139
+          },
+          {
+            "x": 1255,
+            "y": 141
+          },
+          {
+            "x": 1255,
+            "y": 209
+          },
+          {
+            "x": 140,
+            "y": 207
+          }
+        ],
+        "confidence": 0.9728649
+      },
+      {
+        "block_text": "Impact of the emergence of Peoples ' Republic of China on World Politics : Sino- Soviet and Sino - USA relations ( 1950's - 1970's )",
+        "lines": [
+          "Impact of the emergence of Peoples ' Republic of China on World Politics : Sino- Soviet and Sino - USA relations ( 1950's - 1970's )"
+        ],
+        "bounding_box": [
+          {
+            "x": 139,
+            "y": 224
+          },
+          {
+            "x": 1215,
+            "y": 223
+          },
+          {
+            "x": 1215,
+            "y": 300
+          },
+          {
+            "x": 139,
+            "y": 301
+          }
+        ],
+        "confidence": 0.9791762
+      },
+      {
+        "block_text": "Emergence of Independent Nations in Asia and Africa : Algeria , Kenya Bangladesh . West Asian Crisis : Birth of Israel , Arab - Israel conflict ( 1948-1973 ) Camp David Accord ( 1978 ) .",
+        "lines": [
+          "Emergence of Independent Nations in Asia and Africa : Algeria , Kenya Bangladesh . West Asian Crisis : Birth of Israel , Arab - Israel conflict ( 1948-1973 ) Camp David Accord ( 1978 ) ."
+        ],
+        "bounding_box": [
+          {
+            "x": 138,
+            "y": 317
+          },
+          {
+            "x": 1257,
+            "y": 317
+          },
+          {
+            "x": 1257,
+            "y": 432
+          },
+          {
+            "x": 138,
+            "y": 432
+          }
+        ],
+        "confidence": 0.98305535
+      },
+      {
+        "block_text": "Disintegration and Decline of the Soviet Union : Glasnost , Perestroika , Crisis of Socialist Regimes in other socialist countries ( Reunification of Germany , Velvet Revolution in Czechoslovakia ) , End of Cold War and the Rise of a Unipolar World System , Globalization since 1990s .",
+        "lines": [
+          "Disintegration and Decline of the Soviet Union : Glasnost , Perestroika , Crisis of Socialist Regimes in other socialist countries ( Reunification of Germany , Velvet Revolution in Czechoslovakia ) , End of Cold War and the Rise of a Unipolar World System , Globalization since 1990s ."
+        ],
+        "bounding_box": [
+          {
+            "x": 139,
+            "y": 449
+          },
+          {
+            "x": 1251,
+            "y": 447
+          },
+          {
+            "x": 1251,
+            "y": 609
+          },
+          {
+            "x": 139,
+            "y": 611
+          }
+        ],
+        "confidence": 0.9822326
+      },
+      {
+        "block_text": "Protest Politics : Civil Rights Movement and Second Wave Feminist Movement in the USA , End of Anti - Apartheid Movement in South Africa ( 1994 ) .",
+        "lines": [
+          "Protest Politics : Civil Rights Movement and Second Wave Feminist Movement in the USA , End of Anti - Apartheid Movement in South Africa ( 1994 ) ."
+        ],
+        "bounding_box": [
+          {
+            "x": 140,
+            "y": 626
+          },
+          {
+            "x": 1285,
+            "y": 626
+          },
+          {
+            "x": 1285,
+            "y": 700
+          },
+          {
+            "x": 140,
+            "y": 700
+          }
+        ],
+        "confidence": 0.9799924
+      },
+      {
+        "block_text": "Asa Briggs and Patricia Clavin , Modern Europe 1789 – Present , Delhi , 2009 . Andreas Wenger and Doron Zimmermann , International Relations From the Cold War to the Globalized World , New Delhi , 2010 .",
+        "lines": [
+          "Asa Briggs and Patricia Clavin , Modern Europe 1789 – Present , Delhi , 2009 . Andreas Wenger and Doron Zimmermann , International Relations From the Cold War to the Globalized World , New Delhi , 2010 ."
+        ],
+        "bounding_box": [
+          {
+            "x": 139,
+            "y": 714
+          },
+          {
+            "x": 1296,
+            "y": 714
+          },
+          {
+            "x": 1296,
+            "y": 828
+          },
+          {
+            "x": 139,
+            "y": 828
+          }
+        ],
+        "confidence": 0.9779855
+      },
+      {
+        "block_text": "David Raynolds , One world divisible : A global history since 1945. New York , 2000 Edward Crankshaw , The New Cold War : Moscow vs. Peking , Penguin Books , 1963 . Issac Dentscher , Russia , China , and the West , Penguin Books , 1949 .",
+        "lines": [
+          "David Raynolds , One world divisible : A global history since 1945. New York , 2000 Edward Crankshaw , The New Cold War : Moscow vs. Peking , Penguin Books , 1963 . Issac Dentscher , Russia , China , and the West , Penguin Books , 1949 ."
+        ],
+        "bounding_box": [
+          {
+            "x": 139,
+            "y": 847
+          },
+          {
+            "x": 1279,
+            "y": 847
+          },
+          {
+            "x": 1279,
+            "y": 964
+          },
+          {
+            "x": 139,
+            "y": 964
+          }
+        ],
+        "confidence": 0.97533566
+      },
+      {
+        "block_text": "Eric Hobsbawm , The Age of Extremes : The Short Twentieth Century , London , 1994 . Eric Hobsbawm , Globalisation , Democracy and Terrorism , London , 2007 .",
+        "lines": [
+          "Eric Hobsbawm , The Age of Extremes : The Short Twentieth Century , London , 1994 . Eric Hobsbawm , Globalisation , Democracy and Terrorism , London , 2007 ."
+        ],
+        "bounding_box": [
+          {
+            "x": 140,
+            "y": 979
+          },
+          {
+            "x": 1286,
+            "y": 979
+          },
+          {
+            "x": 1286,
+            "y": 1053
+          },
+          {
+            "x": 140,
+            "y": 1053
+          }
+        ],
+        "confidence": 0.9773294
+      },
+      {
+        "block_text": "4 .",
+        "lines": [
+          "4 ."
+        ],
+        "bounding_box": [
+          {
+            "x": 38,
+            "y": 11
+          },
+          {
+            "x": 63,
+            "y": 11
+          },
+          {
+            "x": 63,
+            "y": 30
+          },
+          {
+            "x": 38,
+            "y": 30
+          }
+        ],
+        "confidence": 0.94169724
+      },
+      {
+        "block_text": "5 .",
+        "lines": [
+          "5 ."
+        ],
+        "bounding_box": [
+          {
+            "x": 37,
+            "y": 97
+          },
+          {
+            "x": 62,
+            "y": 97
+          },
+          {
+            "x": 62,
+            "y": 119
+          },
+          {
+            "x": 37,
+            "y": 119
+          }
+        ],
+        "confidence": 0.97732556
+      },
+      {
+        "block_text": "6 .",
+        "lines": [
+          "6 ."
+        ],
+        "bounding_box": [
+          {
+            "x": 39,
+            "y": 142
+          },
+          {
+            "x": 64,
+            "y": 142
+          },
+          {
+            "x": 64,
+            "y": 163
+          },
+          {
+            "x": 39,
+            "y": 163
+          }
+        ],
+        "confidence": 0.9741292
+      },
+      {
+        "block_text": "7 .",
+        "lines": [
+          "7 ."
+        ],
+        "bounding_box": [
+          {
+            "x": 40,
+            "y": 229
+          },
+          {
+            "x": 63,
+            "y": 230
+          },
+          {
+            "x": 62,
+            "y": 252
+          },
+          {
+            "x": 39,
+            "y": 251
+          }
+        ],
+        "confidence": 0.944805
+      },
+      {
+        "block_text": "8 .",
+        "lines": [
+          "8 ."
+        ],
+        "bounding_box": [
+          {
+            "x": 41,
+            "y": 320
+          },
+          {
+            "x": 63,
+            "y": 320
+          },
+          {
+            "x": 63,
+            "y": 340
+          },
+          {
+            "x": 41,
+            "y": 340
+          }
+        ],
+        "confidence": 0.9494425
+      },
+      {
+        "block_text": "9 .",
+        "lines": [
+          "9 ."
+        ],
+        "bounding_box": [
+          {
+            "x": 35,
+            "y": 363
+          },
+          {
+            "x": 62,
+            "y": 363
+          },
+          {
+            "x": 62,
+            "y": 386
+          },
+          {
+            "x": 35,
+            "y": 386
+          }
+        ],
+        "confidence": 0.97521704
+      },
+      {
+        "block_text": "10 .",
+        "lines": [
+          "10 ."
+        ],
+        "bounding_box": [
+          {
+            "x": 41,
+            "y": 451
+          },
+          {
+            "x": 80,
+            "y": 451
+          },
+          {
+            "x": 80,
+            "y": 474
+          },
+          {
+            "x": 41,
+            "y": 474
+          }
+        ],
+        "confidence": 0.96017957
+      },
+      {
+        "block_text": "11 .",
+        "lines": [
+          "11 ."
+        ],
+        "bounding_box": [
+          {
+            "x": 41,
+            "y": 628
+          },
+          {
+            "x": 81,
+            "y": 628
+          },
+          {
+            "x": 81,
+            "y": 650
+          },
+          {
+            "x": 41,
+            "y": 650
+          }
+        ],
+        "confidence": 0.9864725
+      },
+      {
+        "block_text": "12 .",
+        "lines": [
+          "12 ."
+        ],
+        "bounding_box": [
+          {
+            "x": 41,
+            "y": 715
+          },
+          {
+            "x": 80,
+            "y": 715
+          },
+          {
+            "x": 80,
+            "y": 738
+          },
+          {
+            "x": 41,
+            "y": 738
+          }
+        ],
+        "confidence": 0.9881169
+      },
+      {
+        "block_text": "13 .",
+        "lines": [
+          "13 ."
+        ],
+        "bounding_box": [
+          {
+            "x": 40,
+            "y": 760
+          },
+          {
+            "x": 80,
+            "y": 760
+          },
+          {
+            "x": 80,
+            "y": 782
+          },
+          {
+            "x": 40,
+            "y": 782
+          }
+        ],
+        "confidence": 0.96447724
+      },
+      {
+        "block_text": "14 .",
+        "lines": [
+          "14 ."
+        ],
+        "bounding_box": [
+          {
+            "x": 41,
+            "y": 847
+          },
+          {
+            "x": 80,
+            "y": 847
+          },
+          {
+            "x": 80,
+            "y": 870
+          },
+          {
+            "x": 41,
+            "y": 870
+          }
+        ],
+        "confidence": 0.98620474
+      },
+      {
+        "block_text": "15 .",
+        "lines": [
+          "15 ."
+        ],
+        "bounding_box": [
+          {
+            "x": 40,
+            "y": 892
+          },
+          {
+            "x": 80,
+            "y": 892
+          },
+          {
+            "x": 80,
+            "y": 914
+          },
+          {
+            "x": 40,
+            "y": 914
+          }
+        ],
+        "confidence": 0.97069216
+      },
+      {
+        "block_text": "16 .",
+        "lines": [
+          "16 ."
+        ],
+        "bounding_box": [
+          {
+            "x": 40,
+            "y": 936
+          },
+          {
+            "x": 80,
+            "y": 936
+          },
+          {
+            "x": 80,
+            "y": 959
+          },
+          {
+            "x": 40,
+            "y": 959
+          }
+        ],
+        "confidence": 0.98359644
+      },
+      {
+        "block_text": "17 .",
+        "lines": [
+          "17 ."
+        ],
+        "bounding_box": [
+          {
+            "x": 40,
+            "y": 979
+          },
+          {
+            "x": 81,
+            "y": 979
+          },
+          {
+            "x": 81,
+            "y": 1002
+          },
+          {
+            "x": 40,
+            "y": 1002
+          }
+        ],
+        "confidence": 0.9897097
+      },
+      {
+        "block_text": "18 .",
+        "lines": [
+          "18 ."
+        ],
+        "bounding_box": [
+          {
+            "x": 40,
+            "y": 1023
+          },
+          {
+            "x": 80,
+            "y": 1023
+          },
+          {
+            "x": 80,
+            "y": 1047
+          },
+          {
+            "x": 40,
+            "y": 1047
+          }
+        ],
+        "confidence": 0.96791863
+      },
+      {
+        "block_text": "Gail Collins , When Everything Changed : the Amazing Journey of American Women from 1960 to the Present , New York : Little , Brown and Co. , 2009 .",
+        "lines": [
+          "Gail Collins , When Everything Changed : the Amazing Journey of American Women from 1960 to the Present , New York : Little , Brown and Co. , 2009 ."
+        ],
+        "bounding_box": [
+          {
+            "x": 139,
+            "y": 1067
+          },
+          {
+            "x": 1274,
+            "y": 1067
+          },
+          {
+            "x": 1274,
+            "y": 1137
+          },
+          {
+            "x": 139,
+            "y": 1137
+          }
+        ],
+        "confidence": 0.9726691
+      },
+      {
+        "block_text": "19 .",
+        "lines": [
+          "19 ."
+        ],
+        "bounding_box": [
+          {
+            "x": 40,
+            "y": 1068
+          },
+          {
+            "x": 80,
+            "y": 1068
+          },
+          {
+            "x": 80,
+            "y": 1091
+          },
+          {
+            "x": 40,
+            "y": 1091
+          }
+        ],
+        "confidence": 0.98960274
+      },
+      {
+        "block_text": "20 .",
+        "lines": [
+          "20 ."
+        ],
+        "bounding_box": [
+          {
+            "x": 39,
+            "y": 1155
+          },
+          {
+            "x": 79,
+            "y": 1155
+          },
+          {
+            "x": 79,
+            "y": 1178
+          },
+          {
+            "x": 39,
+            "y": 1178
+          }
+        ],
+        "confidence": 0.97791946
+      },
+      {
+        "block_text": "Henry Heller , The Cold War and the New Imperialism , New York , 2007 .",
+        "lines": [
+          "Henry Heller , The Cold War and the New Imperialism , New York , 2007 ."
+        ],
+        "bounding_box": [
+          {
+            "x": 140,
+            "y": 1155
+          },
+          {
+            "x": 1115,
+            "y": 1155
+          },
+          {
+            "x": 1115,
+            "y": 1185
+          },
+          {
+            "x": 140,
+            "y": 1185
+          }
+        ],
+        "confidence": 0.98384786
+      },
+      {
+        "block_text": "John Merriman , A History of Modern Europe From Renaissance to the Present , London , 1996 .",
+        "lines": [
+          "John Merriman , A History of Modern Europe From Renaissance to the Present , London , 1996 ."
+        ],
+        "bounding_box": [
+          {
+            "x": 139,
+            "y": 1199
+          },
+          {
+            "x": 1198,
+            "y": 1193
+          },
+          {
+            "x": 1198,
+            "y": 1263
+          },
+          {
+            "x": 139,
+            "y": 1269
+          }
+        ],
+        "confidence": 0.9738159
+      },
+      {
+        "block_text": "Joseph E. Stiglitz , Globalization and its discontents . Penguin 2002",
+        "lines": [
+          "Joseph E. Stiglitz , Globalization and its discontents . Penguin 2002"
+        ],
+        "bounding_box": [
+          {
+            "x": 139,
+            "y": 1286
+          },
+          {
+            "x": 1025,
+            "y": 1286
+          },
+          {
+            "x": 1025,
+            "y": 1316
+          },
+          {
+            "x": 139,
+            "y": 1316
+          }
+        ],
+        "confidence": 0.9781545
+      },
+      {
+        "block_text": "Kathleen A. Laughlin and Jacqueline L. Castledine , Breaking the wave : women , their organizations , and feminism , 1945-1985 New York : Routledge , 2011 .",
+        "lines": [
+          "Kathleen A. Laughlin and Jacqueline L. Castledine , Breaking the wave : women , their organizations , and feminism , 1945-1985 New York : Routledge , 2011 ."
+        ],
+        "bounding_box": [
+          {
+            "x": 139,
+            "y": 1331
+          },
+          {
+            "x": 1291,
+            "y": 1331
+          },
+          {
+            "x": 1291,
+            "y": 1404
+          },
+          {
+            "x": 139,
+            "y": 1404
+          }
+        ],
+        "confidence": 0.9803054
+      },
+      {
+        "block_text": "Mark Newman , The Civil Rights Movement , Edinburgh University Press , 2004 Norman Lowe , Mastering Modern World History , Hampshire , Palgrave Macmillan 2013 .",
+        "lines": [
+          "Mark Newman , The Civil Rights Movement , Edinburgh University Press , 2004 Norman Lowe , Mastering Modern World History , Hampshire , Palgrave Macmillan 2013 ."
+        ],
+        "bounding_box": [
+          {
+            "x": 139,
+            "y": 1418
+          },
+          {
+            "x": 1249,
+            "y": 1420
+          },
+          {
+            "x": 1249,
+            "y": 1535
+          },
+          {
+            "x": 139,
+            "y": 1533
+          }
+        ],
+        "confidence": 0.9787651
+      },
+      {
+        "block_text": "26. Peter Calvocoressi , World Politics 1945 - 2000 , New Delhi , 2006 .",
+        "lines": [
+          "26. Peter Calvocoressi , World Politics 1945 - 2000 , New Delhi , 2006 ."
+        ],
+        "bounding_box": [
+          {
+            "x": 38,
+            "y": 1552
+          },
+          {
+            "x": 1027,
+            "y": 1552
+          },
+          {
+            "x": 1027,
+            "y": 1577
+          },
+          {
+            "x": 38,
+            "y": 1577
+          }
+        ],
+        "confidence": 0.97499806
+      },
+      {
+        "block_text": "22 .",
+        "lines": [
+          "22 ."
+        ],
+        "bounding_box": [
+          {
+            "x": 37,
+            "y": 1287
+          },
+          {
+            "x": 79,
+            "y": 1287
+          },
+          {
+            "x": 79,
+            "y": 1310
+          },
+          {
+            "x": 37,
+            "y": 1310
+          }
+        ],
+        "confidence": 0.98059577
+      },
+      {
+        "block_text": "24 .",
+        "lines": [
+          "24 ."
+        ],
+        "bounding_box": [
+          {
+            "x": 37,
+            "y": 1420
+          },
+          {
+            "x": 83,
+            "y": 1420
+          },
+          {
+            "x": 83,
+            "y": 1443
+          },
+          {
+            "x": 37,
+            "y": 1443
+          }
+        ],
+        "confidence": 0.96902686
+      },
+      {
+        "block_text": "25 .",
+        "lines": [
+          "25 ."
+        ],
+        "bounding_box": [
+          {
+            "x": 36,
+            "y": 1464
+          },
+          {
+            "x": 80,
+            "y": 1464
+          },
+          {
+            "x": 80,
+            "y": 1487
+          },
+          {
+            "x": 36,
+            "y": 1487
+          }
+        ],
+        "confidence": 0.97922236
+      },
+      {
+        "block_text": "27 .",
+        "lines": [
+          "27 ."
+        ],
+        "bounding_box": [
+          {
+            "x": 36,
+            "y": 1595
+          },
+          {
+            "x": 79,
+            "y": 1595
+          },
+          {
+            "x": 79,
+            "y": 1619
+          },
+          {
+            "x": 36,
+            "y": 1619
+          }
+        ],
+        "confidence": 0.9882536
+      },
+      {
+        "block_text": "P. Eric Louw , The Rise , Fall , and Legacy of Apartheid , Praeger , 2004",
+        "lines": [
+          "P. Eric Louw , The Rise , Fall , and Legacy of Apartheid , Praeger , 2004"
+        ],
+        "bounding_box": [
+          {
+            "x": 139,
+            "y": 1596
+          },
+          {
+            "x": 1073,
+            "y": 1596
+          },
+          {
+            "x": 1073,
+            "y": 1627
+          },
+          {
+            "x": 139,
+            "y": 1627
+          }
+        ],
+        "confidence": 0.9800552
+      },
+      {
+        "block_text": "Ryan M. Irwin Gordian Knot : Apartheid and the Unmaking of the Liberal World Order , Oxford University Press , 2012",
+        "lines": [
+          "Ryan M. Irwin Gordian Knot : Apartheid and the Unmaking of the Liberal World Order , Oxford University Press , 2012"
+        ],
+        "bounding_box": [
+          {
+            "x": 139,
+            "y": 1640
+          },
+          {
+            "x": 1218,
+            "y": 1640
+          },
+          {
+            "x": 1218,
+            "y": 1713
+          },
+          {
+            "x": 139,
+            "y": 1713
+          }
+        ],
+        "confidence": 0.9824657
+      },
+      {
+        "block_text": "29. Wayne C. Mcwilliam and Harry Piotrowsky , The World since 1945 : A History of International Relations , New Delhi , 2018 .",
+        "lines": [
+          "29. Wayne C. Mcwilliam and Harry Piotrowsky , The World since 1945 : A History of International Relations , New Delhi , 2018 ."
+        ],
+        "bounding_box": [
+          {
+            "x": 39,
+            "y": 1728
+          },
+          {
+            "x": 1232,
+            "y": 1728
+          },
+          {
+            "x": 1232,
+            "y": 1799
+          },
+          {
+            "x": 39,
+            "y": 1799
+          }
+        ],
+        "confidence": 0.9769317
+      },
+      {
+        "block_text": "00",
+        "lines": [
+          "00"
+        ],
+        "bounding_box": [
+          {
+            "x": 77,
+            "y": 1808
+          },
+          {
+            "x": 77,
+            "y": 1858
+          },
+          {
+            "x": 46,
+            "y": 1858
+          },
+          {
+            "x": 46,
+            "y": 1808
+          }
+        ],
+        "confidence": 0.57897514
+      },
+      {
+        "block_text": "Wini Breines , Trouble Between Us : an Uneasy History of White and Black Women in the Feminist Movement New York : Oxford University Press , 2006 .",
+        "lines": [
+          "Wini Breines , Trouble Between Us : an Uneasy History of White and Black Women in the Feminist Movement New York : Oxford University Press , 2006 ."
+        ],
+        "bounding_box": [
+          {
+            "x": 139,
+            "y": 1817
+          },
+          {
+            "x": 1290,
+            "y": 1817
+          },
+          {
+            "x": 1290,
+            "y": 1889
+          },
+          {
+            "x": 139,
+            "y": 1889
+          }
+        ],
+        "confidence": 0.9777664
+      },
+      {
+        "block_text": "30 .",
+        "lines": [
+          "30 ."
+        ],
+        "bounding_box": [
+          {
+            "x": 37,
+            "y": 1818
+          },
+          {
+            "x": 79,
+            "y": 1818
+          },
+          {
+            "x": 79,
+            "y": 1842
+          },
+          {
+            "x": 37,
+            "y": 1842
+          }
+        ],
+        "confidence": 0.9668074
+      }
+    ]
+  }
+}

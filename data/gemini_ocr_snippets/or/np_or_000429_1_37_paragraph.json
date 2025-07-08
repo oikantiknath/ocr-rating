@@ -1,0 +1,79 @@
+{
+  "sdk_http_response": {
+    "headers": {
+      "content-type": "application/json; charset=UTF-8",
+      "vary": "Origin, X-Origin, Referer",
+      "content-encoding": "gzip",
+      "date": "Fri, 04 Jul 2025 04:01:19 GMT",
+      "server": "scaffolding on HTTPServer2",
+      "x-xss-protection": "0",
+      "x-frame-options": "SAMEORIGIN",
+      "x-content-type-options": "nosniff",
+      "server-timing": "gfet4t7; dur=76427",
+      "alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
+      "transfer-encoding": "chunked"
+    },
+    "body": null
+  },
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "କରାଯାଇଥିଲା । ସେତେବେଳେ\nପ୍ରାୟ ୩ ଲକ୍ଷ ୮୦ ହଜାର ଟଙ୍କା\nବୋଲିଂକୁ ଚୋର ଡାକିନେଇ\nପଳାଇ ଯାଇଥିଲା ।\n୨ ଲକ୍ଷ ୮୦ ହଜାର ଟଙ୍କା\nଡାକିନେଇ ଥିବା ସ୍ଵୀକରୋକ୍ତି\nକରାଯାଇଥିଲା । ସେହି\nଚୋରକୁ ଧରିବାକୁ ପୋଲିସ\nପକ୍ଷରୁ ଯୋଜନା ପ୍ରସ୍ତୁତ କରାଯାଇ\nଥିବା ବୋଲି ମୁଖ୍ୟ ନିର୍ବାଚନ\nଅଧିକାରୀ ସୂଚନା ଦେଇଛନ୍ତି ।\nଏହି କାର୍ଯ୍ୟରେ\nନିୟୋଜିତ ଥିବା ସମସ୍ତ\nଓ ଅନ୍ୟାନ୍ୟ ଅଧିକାରୀଙ୍କ କାର୍ଯ୍ୟକୁ\nମୁଖ୍ୟ ନିର୍ବାଚନ ଅଧିକାରୀ\nପ୍ରଶଂସା କରିବା ସହ ଆଗାମୀ\nନିର୍ବାଚନ ବେଳାକୁ ଥିବା\nସବୁ ଅଭିଯାନ ନିରପେକ୍ଷ\nଭାବେ ହେବ ବୋଲି ଆଶା\nପ୍ରକାଶ କରିଛନ୍ତି ।"
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": "STOP",
+      "safety_ratings": [
+        {
+          "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HATE_SPEECH",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HARASSMENT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+          "probability": "NEGLIGIBLE"
+        }
+      ],
+      "token_count": null
+    }
+  ],
+  "create_time": null,
+  "response_id": null,
+  "model_version": "gemini-2.5-pro",
+  "prompt_feedback": null,
+  "usage_metadata": {
+    "cache_tokens_details": null,
+    "cached_content_token_count": null,
+    "candidates_token_count": 309,
+    "candidates_tokens_details": null,
+    "prompt_token_count": 782,
+    "prompt_tokens_details": [
+      {
+        "modality": "TEXT",
+        "token_count": 524
+      },
+      {
+        "modality": "IMAGE",
+        "token_count": 258
+      }
+    ],
+    "thoughts_token_count": 7478,
+    "tool_use_prompt_token_count": null,
+    "tool_use_prompt_tokens_details": null,
+    "total_token_count": 8569,
+    "traffic_type": null
+  },
+  "automatic_function_calling_history": [],
+  "parsed": null,
+  "page_number": 141
+}

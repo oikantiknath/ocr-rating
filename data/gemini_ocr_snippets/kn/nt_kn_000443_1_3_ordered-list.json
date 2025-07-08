@@ -1,0 +1,79 @@
+{
+  "sdk_http_response": {
+    "headers": {
+      "content-type": "application/json; charset=UTF-8",
+      "vary": "Origin, X-Origin, Referer",
+      "content-encoding": "gzip",
+      "date": "Fri, 04 Jul 2025 04:50:07 GMT",
+      "server": "scaffolding on HTTPServer2",
+      "x-xss-protection": "0",
+      "x-frame-options": "SAMEORIGIN",
+      "x-content-type-options": "nosniff",
+      "server-timing": "gfet4t7; dur=34751",
+      "alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
+      "transfer-encoding": "chunked"
+    },
+    "body": null
+  },
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "30. ಸೇರ ಮುಗಣೆ.- ರಾಷ್ಟ್ರೀಯ ಬ್ಯಾಂಕ್, ಮಂಡಲಿಯು ವಿಶೇಷ ಸಂದರ್ಭಗಳನ್ನು ಲಿಖಿತದಲ್ಲಿ\nದಾಖಲು ಅದೇ ಪ್ರತಿ: ಅಥವಾ ಇತರ ಖಾಸಗಿ ಸಂಸ್ಥೆಗಳೊಂದಿಗೆ ಅಥವಾ ಅನುಮೋದಿತ\nಬ್ಯಾಂಕುಗಳೊಂದಿಗೆ ಜೊತೆಗೂಡಿ, ಯಾರೇ ವ್ಯಕ್ತಿಗೆ ಅಥವಾ ವ್ಯಕ್ತಿಗಳ ವರ್ಗಕ್ಕೆ ಅಥವಾ ನಿಗಮಿತ ನಿಕಾಯಕ್ಕೆ\nಪುನರ್‌ಪಾವತಿಯ ರೂಪದಲ್ಲಿಲ್ಲದ ಅಥವಾ ರಾಷ್ಟ್ರೀಯ ಬ್ಯಾಂಕ್ ತಾನು ಸೂಕ್ತವೆಂದು ಭಾವಿಸಬಹುದಾದಂಥ\nಷರತ್ತಿನ ಪತ್ರವೂ ಸೇರಿ ಅಂಥ ನಿಬಂಧನೆಗಳ ಮತ್ತು ಷರತ್ತುಗಳ ಮೇಲೆ ಮತ್ತು ವ್ಯತ್ಯಸ್ತರು ವರ್ಗಗಳನ್ನು\nಮೀರದಂಥ ಅವಧಿಯೊಳಗೆ ಮರು ಸಂದಾಯ ಮಾಡಬೇಕಾದ ಸಾಲಗಳನ್ನು ಮತ್ತು ಮುಂಗಡಗಳನ್ನು\nನೀಡಬಹುದು.\n\n30ಎ. ವಿನಿಯಮ ಪತ್ರಗಳ ಮೇಲೆ ಮರುಪಾವತಿ.- ಅನುಸೂಚಿತ ಬ್ಯಾಂಕ್, ರಾಜ್ಯ ಸಹಕಾರ ಬ್ಯಾಂಕ್,\nರಾಜ್ಯ ಭೂ ಅಭಿವೃದ್ಧಿ ಬ್ಯಾಂಕ್, ಪ್ರಾದೇಶಿಕ ಗ್ರಾಮೀಣ ಬ್ಯಾಂಕ್ ಅಥವಾ ಮಂಡಲಿಯು ಅನುಮೋದಿಸಿದ\nಯಾವುದೇ ಇತರ ಸಂಸ್ಥೆಯು ಅಥವಾ ಸಂಸ್ಥೆಗಳ ವರ್ಗವು ಸಲ್ಲಿಸಿದ ಕೃಷಿ ಮತ್ತು ಗ್ರಾಮೀಣ ಅಭಿವೃದ್ಧಿಗೆ\nಸಂಬಂಧಿಸಿದ ಯಾವುದೇ ಕೆಲಸವಿದೆಯ ಅಥವಾ ನಿಗಮಿತ ನಿಕಾಯವು ಮಾಡಿದ, ಬರೆದ, ಅಂಗೀಕರಿಸಿದ\nಅಥವಾ ಹಿಂಬರಹ ಮಾಡಿದ ವಿನಿಯಮ ಪತ್ರಗಳಿಗೆ ಮತ್ತು ಪ್ರಾಮಿಸರಿ ನೋಟುಗಳಿಗೆ ರಾಷ್ಟ್ರೀಯ ಬ್ಯಾಂಕ್\nಮರುಪಾವತಿ ನೀಡಬಹುದು.\n\n31. ಕಮೀಷನ್.- ರಾಷ್ಟ್ರೀಯ ಬ್ಯಾಂಕ್, ಈ ಅಧ್ಯಾಯದಲ್ಲಿ ಅಥವಾ ಅಧ್ಯಾಯ VII ರಲ್ಲಿ\nನಮೂದಿಸಲಾದ ಸೇವೆಗಳ ಪೈಕಿ ಯಾವುದೇ ಸೇವೆ ಸಲ್ಲಿಸಲು ಒಪ್ಪಬಹುದಾದ ಕಮೀಷನ್ ಅಥವಾ ಇತರ\nಪ್ರತಿಫಲವನ್ನು ಸ್ವೀಕರಿಸಬಹುದು.\n\n32. ಖಾತರಿಗಳನ್ನು ನೀಡುವುದು.- ಮಂಡಲಿಯು ಕಾಲಕಾಲಕ್ಕೆ ನೀಡಬಹುದಾದಂಥ ನಿರ್ದೇಶನಗಳಿಗೆ\nಒಳಪಟ್ಟು, ಯಾರೇ ವ್ಯಕ್ತಿಯಿಂದ ಅಥವಾ ನಿಗಮಿತವಾದ ಅಥವಾ ನಿಗಮವಲ್ಲದ ವ್ಯಕ್ತಿಗಳ ವರ್ಗದಿಂದ\nಬರಬೇಕಾದ ಬಾಕಿಯನ್ನೂ ಈ ಅಧಿನಿಯಮದ ಉಪಬಂಧಗಳನ್ನು ಜಾರಿಗೆ ತರುವುದಕ್ಕಾಗಿ ಬಂದಿರುವ\nಸಾಲಗಳೂ ಖರೀದಿಗೆ ಅಥವಾ ಯಾವುದೇ ಇತರ ಉದ್ದೇಶಕ್ಕೆ ಸಂಬಂಧಿಸಿದಂತೆ ಮುಂಗಡದ\nಸಂದಾಯಗಳಿಗೆ ರಾಷ್ಟ್ರೀಯ ಬ್ಯಾಂಕ್ ಖಾತರಿ ಕೊಡಬಹುದು.\n\n33. ಸಾಲ ಸೌಲಭ್ಯಕ್ಕಾಗಿ ಪತ್ರಗಳನ್ನು ವಿಧಿಸಲು ಅಧಿಕಾರ.- ರಾಷ್ಟ್ರೀಯ ಬ್ಯಾಂಕ್, ಸಾಲ\nಪಡೆಯುವವನೊಂದಿಗೆ ಈ ಅಧಿನಿಯಮದ ಮೇರೆಗೆ ಯಾವುದೇ ವ್ಯವಹಾರವನ್ನು ಮಾಡಿಕೊಳ್ಳುವಲ್ಲಿ\nರಾಷ್ಟ್ರೀಯ ಬ್ಯಾಂಕಿನ ಹಿತಾಸಕ್ತಿಯ ರಕ್ಷಣೆಗಾಗಿ ತಾನು ಅವಶ್ಯವೆಂದು ಅಥವಾ ವಿಹಿತವೆಂದು\nಅಲೋಚಿಸಬಹುದಾದಂಥ ಪತ್ರಗಳನ್ನು ಅದು ವಿಧಿಸಬಹುದು.\n\n34. ಬಡ್ಡಿಯಿಂದ ಅಧಿಭೆಗೆ ಮೊದಲೇ ಮರುಸಂದಾಯ ಮಾಡುವಂತೆ ಕೇಳಲು ಅಧಿಕಾರ.- ಯಾವುದೇ\nಒಪ್ಪಂದದಲ್ಲಿ ಅಥವಾ ವ್ಯವಸ್ಥೆಯಲ್ಲಿ ಏನೇ ಒಳಗೊಂಡಿದ್ದರೂ,-"
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": "STOP",
+      "safety_ratings": [
+        {
+          "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HATE_SPEECH",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HARASSMENT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+          "probability": "NEGLIGIBLE"
+        }
+      ],
+      "token_count": null
+    }
+  ],
+  "create_time": null,
+  "response_id": null,
+  "model_version": "gemini-2.5-pro",
+  "prompt_feedback": null,
+  "usage_metadata": {
+    "cache_tokens_details": null,
+    "cached_content_token_count": null,
+    "candidates_token_count": 648,
+    "candidates_tokens_details": null,
+    "prompt_token_count": 730,
+    "prompt_tokens_details": [
+      {
+        "modality": "TEXT",
+        "token_count": 472
+      },
+      {
+        "modality": "IMAGE",
+        "token_count": 258
+      }
+    ],
+    "thoughts_token_count": 2216,
+    "tool_use_prompt_token_count": null,
+    "tool_use_prompt_tokens_details": null,
+    "total_token_count": 3594,
+    "traffic_type": null
+  },
+  "automatic_function_calling_history": [],
+  "parsed": null,
+  "page_number": 169
+}

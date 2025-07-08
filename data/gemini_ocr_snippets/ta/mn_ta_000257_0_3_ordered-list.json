@@ -1,0 +1,79 @@
+{
+  "sdk_http_response": {
+    "headers": {
+      "content-type": "application/json; charset=UTF-8",
+      "vary": "Origin, X-Origin, Referer",
+      "content-encoding": "gzip",
+      "date": "Fri, 04 Jul 2025 04:16:02 GMT",
+      "server": "scaffolding on HTTPServer2",
+      "x-xss-protection": "0",
+      "x-frame-options": "SAMEORIGIN",
+      "x-content-type-options": "nosniff",
+      "server-timing": "gfet4t7; dur=38769",
+      "alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
+      "transfer-encoding": "chunked"
+    },
+    "body": null
+  },
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "1. மாப்பிள்ளையும் பெண்ணும் போதகருக்கு\nமுன்பாக வந்து மாப்பிள்ளை பெண்ணுக்கு வலது\nபுறமாக இருக்க, போதகர் ஏற்ற வேத வாக்கியங்\nகளை வாசித்தல்.\n2. செபம்:—\nகர்த்தராகிய இயேசு கிறிஸ்துவே, மாம்சத்தில்\nவெளிப்பட்ட தேவனே, எங்கள் ஆதித்தாய்தகப்\nபன்மாரைச் சிருஷ்டித்தவரும் எல்லா மனிதருக்\nகும் பிதாவாகிய ஆண்டவரே, விவாகம் நடக்\nகிற இவ்வேளையில் எங்களோடிருந்து அநுக்கிரகம்\nசெய்து இங்கே கூடியிருக்கிறவர்களையும் முகம்\nமலர்ந்து நோக்கியருளும். இப்போது பரிசுத்த\nவிவாகத்தினால் ஐக்கியப்படப்போகிற இவ்விரு\nவர்பேரிலும் உமது ஆசீர்வாதம் இறங்க உம்மை\nமன்றாடுகிறோம். உமக்கும் இங்கே கூடியிருக்\nகிறவர்களுக்கும் முன்பாக இவ்விருவரும் ஒரு\nவருக்கொருவர் செய்யப்போகிற வாக்குத்தத்தங்\nகளைக் கேட்டு மனமுவந்து வாக்கும் நற்சொற்படி\nயும் வார்த்தைப்பாடுகளுக்கும்படி தயவுசெய்தரு\nளும். அவ்வாக்குத்தத்தங்களின்படி செய்வதற்கு\nஇவர்கள் தங்கள் பெலனையே நம்பியிராமல் தாழ்"
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": "STOP",
+      "safety_ratings": [
+        {
+          "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HATE_SPEECH",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HARASSMENT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+          "probability": "NEGLIGIBLE"
+        }
+      ],
+      "token_count": null
+    }
+  ],
+  "create_time": null,
+  "response_id": null,
+  "model_version": "gemini-2.5-pro",
+  "prompt_feedback": null,
+  "usage_metadata": {
+    "cache_tokens_details": null,
+    "cached_content_token_count": null,
+    "candidates_token_count": 263,
+    "candidates_tokens_details": null,
+    "prompt_token_count": 756,
+    "prompt_tokens_details": [
+      {
+        "modality": "TEXT",
+        "token_count": 498
+      },
+      {
+        "modality": "IMAGE",
+        "token_count": 258
+      }
+    ],
+    "thoughts_token_count": 3071,
+    "tool_use_prompt_token_count": null,
+    "tool_use_prompt_tokens_details": null,
+    "total_token_count": 4090,
+    "traffic_type": null
+  },
+  "automatic_function_calling_history": [],
+  "parsed": null,
+  "page_number": 38
+}

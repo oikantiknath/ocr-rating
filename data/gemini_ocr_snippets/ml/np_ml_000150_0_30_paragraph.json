@@ -1,0 +1,79 @@
+{
+  "sdk_http_response": {
+    "headers": {
+      "content-type": "application/json; charset=UTF-8",
+      "vary": "Origin, X-Origin, Referer",
+      "content-encoding": "gzip",
+      "date": "Fri, 04 Jul 2025 05:06:32 GMT",
+      "server": "scaffolding on HTTPServer2",
+      "x-xss-protection": "0",
+      "x-frame-options": "SAMEORIGIN",
+      "x-content-type-options": "nosniff",
+      "server-timing": "gfet4t7; dur=108531",
+      "alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
+      "transfer-encoding": "chunked"
+    },
+    "body": null
+  },
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "ദാസ് നായകനായി എത്തുന്ന ഏറ്റവും പുതിയ ചിത്രം രായപ്പൂമാരിന്റെ ചിത്രീകരണം സെ\nപ്തംബറിൽ ആരംഭിക്കും. കെ.കെ രാധാകൃഷ്ണകുമാർ ആണ് ചിത്രം സംവിധാനം ചെയ്യു\nന്നത്. 2015-ൽ പുറത്തിറങ്ങിയ ജിൻ ആണ് രാധാകൃഷ്ണകുമാർ സംവിധാനം ചെയ്ത ആദ്യ ചി\nത്രം. പ്രശാന്തിന്റെ ഇരുപതാമത് ചിത്രമാണിത്. സച്ചിൻ, ഭദ്രശ്രീ, മുരളി ശർമ്മ, സാഗര, കുനാൽ, സത്യ\nൻ തുടങ്ങിയവരാണ് ചിത്രത്തിലെ മറ്റ് താരങ്ങൾ. പൂജ ഹെഡ്ഗെ ആണ് ചിത്രത്തിലെ നായിക. നേ\nരത്തെ തന്നെ പ്രശാന്തിന്റെ പുതിയ ചിത്രം റൊമാന്റിക്ക് ചിത്രമെന്ന വാർത്തകൾ പുറത്തുവന്നിരുന്നു.\nജൂലായ് 9നാണ് ചിത്രത്തിന്റെ ഫസ്റ്റ് ലുക്ക് പോസ്റ്റർ അണിയറപ്രവർത്തകർ പുറത്തുവിട്ടത്. മലയാ\nളം ഉൾപ്പെടെ നിരവധി ഭാഷയിലുള്ള ഫസ്റ്റ്ലുക്ക് പോസ്റ്ററാണ് അണിയറപ്രവർത്തകർ റിലീസ് ചെയ്ത\nത്. തെലുങ്ക്, ഹിന്ദി, തമിഴ്, മലയാളം എന്നീ നാല് ഭാഷകളിലാണ് ചിത്രം നിർമ്മിക്കുന്നത്. സെപ്തംബറി\nലെ രണ്ടാമത്തെ ആഴ്ച്ച ചിത്രീകരണം ആരംഭിക്കും. കൂടാതെ, മറ്റുഭാഷകളിലേക്ക് മൊഴിമാറ്റവും ഉ\nണ്ടാകുമെന്ന് അണിയറപ്രവർത്തകർ നേരത്തെ വ്യക്തമാക്കിയിരുന്നു. തെലുങ്ക് സിനിമാ രംഗത്തെ പ്ര\nമുഖ നിർമ്മാണ കമ്പനിയായ ഗോപി കൃഷ്ണ മൂവീസും യുവി ക്രിയേഷൻസും ചേർന്നാണ് ചിത്രം നിർമ്മി\nക്കുന്നത്. ശ്രീകാന്ത് പ്രസാദാണ് ചിത്രത്തിന്റെ എഡിറ്റിംഗ് നിർവ്വഹിക്കുന്നത്. പ്രൊഡക്ഷൻ ഡിസൈന\nർ- രവീന്ദ്ര, ഡി.ഒ.പി- മനോജ് പരമഹംസ."
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": "STOP",
+      "safety_ratings": [
+        {
+          "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HATE_SPEECH",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HARASSMENT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+          "probability": "NEGLIGIBLE"
+        }
+      ],
+      "token_count": null
+    }
+  ],
+  "create_time": null,
+  "response_id": null,
+  "model_version": "gemini-2.5-pro",
+  "prompt_feedback": null,
+  "usage_metadata": {
+    "cache_tokens_details": null,
+    "cached_content_token_count": null,
+    "candidates_token_count": 391,
+    "candidates_tokens_details": null,
+    "prompt_token_count": 738,
+    "prompt_tokens_details": [
+      {
+        "modality": "TEXT",
+        "token_count": 480
+      },
+      {
+        "modality": "IMAGE",
+        "token_count": 258
+      }
+    ],
+    "thoughts_token_count": 9634,
+    "tool_use_prompt_token_count": null,
+    "tool_use_prompt_tokens_details": null,
+    "total_token_count": 10763,
+    "traffic_type": null
+  },
+  "automatic_function_calling_history": [],
+  "parsed": null,
+  "page_number": 115
+}

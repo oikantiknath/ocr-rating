@@ -1,0 +1,57 @@
+{
+  "page_number": 258,
+  "ocr_output": {
+    "blocks": [
+      {
+        "block_text": "प्रश्नपत्रिकेचे स्वरुप",
+        "lines": [
+          "प्रश्नपत्रिकेचे स्वरुप"
+        ],
+        "bounding_box": [
+          {
+            "x": 71,
+            "y": 6
+          },
+          {
+            "x": 357,
+            "y": 13
+          },
+          {
+            "x": 356,
+            "y": 55
+          },
+          {
+            "x": 70,
+            "y": 48
+          }
+        ],
+        "confidence": 0.96693647
+      },
+      {
+        "block_text": "Pattern of Question Paper",
+        "lines": [
+          "Pattern of Question Paper"
+        ],
+        "bounding_box": [
+          {
+            "x": 12,
+            "y": 71
+          },
+          {
+            "x": 414,
+            "y": 76
+          },
+          {
+            "x": 414,
+            "y": 113
+          },
+          {
+            "x": 12,
+            "y": 108
+          }
+        ],
+        "confidence": 0.9915786
+      }
+    ]
+  }
+}

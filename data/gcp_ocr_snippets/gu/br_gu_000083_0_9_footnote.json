@@ -1,0 +1,57 @@
+{
+  "page_number": 83,
+  "ocr_output": {
+    "blocks": [
+      {
+        "block_text": "Archived by : www.realpatidar.com/library",
+        "lines": [
+          "Archived by : www.realpatidar.com/library"
+        ],
+        "bounding_box": [
+          {
+            "x": 7,
+            "y": 7
+          },
+          {
+            "x": 310,
+            "y": 7
+          },
+          {
+            "x": 310,
+            "y": 22
+          },
+          {
+            "x": 7,
+            "y": 22
+          }
+        ],
+        "confidence": 0.98291135
+      },
+      {
+        "block_text": "The list mentioning the names of Sadhus and Saints mentioned , as well wishers , is false and misleading . Many Sadhus and Saints were not present in the function and many were not aware of their names being used .",
+        "lines": [
+          "The list mentioning the names of Sadhus and Saints mentioned , as well wishers , is false and misleading . Many Sadhus and Saints were not present in the function and many were not aware of their names being used ."
+        ],
+        "bounding_box": [
+          {
+            "x": 7,
+            "y": 26
+          },
+          {
+            "x": 608,
+            "y": 25
+          },
+          {
+            "x": 608,
+            "y": 83
+          },
+          {
+            "x": 7,
+            "y": 84
+          }
+        ],
+        "confidence": 0.9849528
+      }
+    ]
+  }
+}

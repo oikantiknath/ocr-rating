@@ -1,0 +1,32 @@
+{
+  "page_number": 587,
+  "ocr_output": {
+    "blocks": [
+      {
+        "block_text": "G : नागरीसनद जाहिरनामा admin1.docx",
+        "lines": [
+          "G : नागरीसनद जाहिरनामा admin1.docx"
+        ],
+        "bounding_box": [
+          {
+            "x": 1,
+            "y": 1
+          },
+          {
+            "x": 171,
+            "y": 3
+          },
+          {
+            "x": 171,
+            "y": 14
+          },
+          {
+            "x": 1,
+            "y": 14
+          }
+        ],
+        "confidence": 0.87387043
+      }
+    ]
+  }
+}

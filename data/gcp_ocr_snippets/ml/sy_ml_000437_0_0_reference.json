@@ -1,0 +1,207 @@
+{
+  "page_number": 437,
+  "ocr_output": {
+    "blocks": [
+      {
+        "block_text": "Robert Phillipson , ( 1992 ) Linguistic Imperialism , Oxford University Press .",
+        "lines": [
+          "Robert Phillipson , ( 1992 ) Linguistic Imperialism , Oxford University Press ."
+        ],
+        "bounding_box": [
+          {
+            "x": 56,
+            "y": 6
+          },
+          {
+            "x": 801,
+            "y": 10
+          },
+          {
+            "x": 801,
+            "y": 59
+          },
+          {
+            "x": 56,
+            "y": 55
+          }
+        ],
+        "confidence": 0.9814775
+      },
+      {
+        "block_text": "Asha Surangi , ( 2009 ) Language and Politics in India , Oxford Univesity Press .",
+        "lines": [
+          "Asha Surangi , ( 2009 ) Language and Politics in India , Oxford Univesity Press ."
+        ],
+        "bounding_box": [
+          {
+            "x": 55,
+            "y": 75
+          },
+          {
+            "x": 800,
+            "y": 69
+          },
+          {
+            "x": 800,
+            "y": 120
+          },
+          {
+            "x": 55,
+            "y": 126
+          }
+        ],
+        "confidence": 0.9775955
+      },
+      {
+        "block_text": "Satyendranath Bose , ( 2009 ) ' The Mother Tongue ' , Satyendra Nath Bose His Life and Times selected works , Ed . Kamseshwar C. Wali , World Scientific .",
+        "lines": [
+          "Satyendranath Bose , ( 2009 ) ' The Mother Tongue ' , Satyendra Nath Bose His Life and Times selected works , Ed . Kamseshwar C. Wali , World Scientific ."
+        ],
+        "bounding_box": [
+          {
+            "x": 55,
+            "y": 141
+          },
+          {
+            "x": 800,
+            "y": 141
+          },
+          {
+            "x": 800,
+            "y": 214
+          },
+          {
+            "x": 55,
+            "y": 214
+          }
+        ],
+        "confidence": 0.98109215
+      },
+      {
+        "block_text": "John E. Joseph , ( 2004 ) Language and Identity , Palgrave , Macmillan .",
+        "lines": [
+          "John E. Joseph , ( 2004 ) Language and Identity , Palgrave , Macmillan ."
+        ],
+        "bounding_box": [
+          {
+            "x": 55,
+            "y": 234
+          },
+          {
+            "x": 800,
+            "y": 234
+          },
+          {
+            "x": 800,
+            "y": 278
+          },
+          {
+            "x": 55,
+            "y": 278
+          }
+        ],
+        "confidence": 0.97848177
+      },
+      {
+        "block_text": "\"",
+        "lines": [
+          "\""
+        ],
+        "bounding_box": [
+          {
+            "x": 20,
+            "y": 15
+          },
+          {
+            "x": 28,
+            "y": 15
+          },
+          {
+            "x": 28,
+            "y": 22
+          },
+          {
+            "x": 20,
+            "y": 22
+          }
+        ],
+        "confidence": 0.5336068
+      },
+      {
+        "block_text": "\"",
+        "lines": [
+          "\""
+        ],
+        "bounding_box": [
+          {
+            "x": 20,
+            "y": 80
+          },
+          {
+            "x": 28,
+            "y": 80
+          },
+          {
+            "x": 28,
+            "y": 87
+          },
+          {
+            "x": 20,
+            "y": 87
+          }
+        ],
+        "confidence": 0.5226393
+      },
+      {
+        "block_text": "ശാസ്ത്ര സാങ്കേതിക ശബ്ദകോശം ഭരണഭാഷാ ശബ്ദാവലി",
+        "lines": [
+          "ശാസ്ത്ര സാങ്കേതിക ശബ്ദകോശം ഭരണഭാഷാ ശബ്ദാവലി"
+        ],
+        "bounding_box": [
+          {
+            "x": 57,
+            "y": 295
+          },
+          {
+            "x": 400,
+            "y": 298
+          },
+          {
+            "x": 399,
+            "y": 365
+          },
+          {
+            "x": 56,
+            "y": 362
+          }
+        ],
+        "confidence": 0.94279754
+      },
+      {
+        "block_text": "വിവിധ പദകോശങ്ങൾ",
+        "lines": [
+          "വിവിധ പദകോശങ്ങൾ"
+        ],
+        "bounding_box": [
+          {
+            "x": 57,
+            "y": 375
+          },
+          {
+            "x": 296,
+            "y": 375
+          },
+          {
+            "x": 296,
+            "y": 393
+          },
+          {
+            "x": 57,
+            "y": 393
+          }
+        ],
+        "confidence": 0.96658725
+      }
+    ]
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "page_number": 107,
+  "ocr_output": {
+    "blocks": [
+      {
+        "block_text": "G & G",
+        "lines": [
+          "G & G"
+        ],
+        "bounding_box": [
+          {
+            "x": 33,
+            "y": 23
+          },
+          {
+            "x": 1,
+            "y": 24
+          },
+          {
+            "x": 1,
+            "y": 4
+          },
+          {
+            "x": 33,
+            "y": 3
+          }
+        ],
+        "confidence": 0.49945807
+      }
+    ]
+  }
+}

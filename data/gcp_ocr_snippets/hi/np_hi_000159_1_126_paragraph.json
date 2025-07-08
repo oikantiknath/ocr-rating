@@ -1,0 +1,107 @@
+{
+  "page_number": 159,
+  "ocr_output": {
+    "blocks": [
+      {
+        "block_text": "I , Pawan Kumar Garg s / o Sh Ramavtar Garg , R / o 25 - A , Pocket - J , Sheikh Sarai , Phase- 2 , New Delhi - 17 , have",
+        "lines": [
+          "I , Pawan Kumar Garg s / o Sh Ramavtar Garg , R / o 25 - A , Pocket - J , Sheikh Sarai , Phase- 2 , New Delhi - 17 , have"
+        ],
+        "bounding_box": [
+          {
+            "x": 1,
+            "y": 4
+          },
+          {
+            "x": 166,
+            "y": 4
+          },
+          {
+            "x": 166,
+            "y": 52
+          },
+          {
+            "x": 1,
+            "y": 52
+          }
+        ],
+        "confidence": 0.9648836
+      },
+      {
+        "block_text": "changed my names to Pawan Kumar Garg for all future",
+        "lines": [
+          "changed my names to Pawan Kumar Garg for all future"
+        ],
+        "bounding_box": [
+          {
+            "x": 5,
+            "y": 55
+          },
+          {
+            "x": 168,
+            "y": 55
+          },
+          {
+            "x": 168,
+            "y": 78
+          },
+          {
+            "x": 5,
+            "y": 78
+          }
+        ],
+        "confidence": 0.9900099
+      },
+      {
+        "block_text": "purposes .",
+        "lines": [
+          "purposes ."
+        ],
+        "bounding_box": [
+          {
+            "x": 5,
+            "y": 82
+          },
+          {
+            "x": 58,
+            "y": 81
+          },
+          {
+            "x": 58,
+            "y": 90
+          },
+          {
+            "x": 5,
+            "y": 91
+          }
+        ],
+        "confidence": 0.9845417
+      },
+      {
+        "block_text": "0040694309-1",
+        "lines": [
+          "0040694309-1"
+        ],
+        "bounding_box": [
+          {
+            "x": 100,
+            "y": 82
+          },
+          {
+            "x": 166,
+            "y": 82
+          },
+          {
+            "x": 166,
+            "y": 89
+          },
+          {
+            "x": 100,
+            "y": 89
+          }
+        ],
+        "confidence": 0.98038024
+      }
+    ]
+  }
+}

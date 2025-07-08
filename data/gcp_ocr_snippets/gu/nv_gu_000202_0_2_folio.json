@@ -1,0 +1,32 @@
+{
+  "page_number": 202,
+  "ocr_output": {
+    "blocks": [
+      {
+        "block_text": "haile",
+        "lines": [
+          "haile"
+        ],
+        "bounding_box": [
+          {
+            "x": 82,
+            "y": 31
+          },
+          {
+            "x": 33,
+            "y": 33
+          },
+          {
+            "x": 32,
+            "y": 12
+          },
+          {
+            "x": 81,
+            "y": 10
+          }
+        ],
+        "confidence": 1
+      }
+    ]
+  }
+}

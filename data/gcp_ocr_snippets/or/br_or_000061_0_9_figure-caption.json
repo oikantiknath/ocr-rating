@@ -1,0 +1,57 @@
+{
+  "page_number": 61,
+  "ocr_output": {
+    "blocks": [
+      {
+        "block_text": "କର୍ମପ୍ସରୀ ରାଜ୍ୟ ବୀମା ନିଗମ",
+        "lines": [
+          "କର୍ମପ୍ସରୀ ରାଜ୍ୟ ବୀମା ନିଗମ"
+        ],
+        "bounding_box": [
+          {
+            "x": 2,
+            "y": 1
+          },
+          {
+            "x": 337,
+            "y": 3
+          },
+          {
+            "x": 337,
+            "y": 40
+          },
+          {
+            "x": 2,
+            "y": 38
+          }
+        ],
+        "confidence": 0.9304955
+      },
+      {
+        "block_text": "Employees ' State Insurance Corporation",
+        "lines": [
+          "Employees ' State Insurance Corporation"
+        ],
+        "bounding_box": [
+          {
+            "x": 6,
+            "y": 41
+          },
+          {
+            "x": 387,
+            "y": 41
+          },
+          {
+            "x": 387,
+            "y": 62
+          },
+          {
+            "x": 6,
+            "y": 62
+          }
+        ],
+        "confidence": 0.9998464
+      }
+    ]
+  }
+}

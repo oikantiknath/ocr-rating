@@ -1,0 +1,79 @@
+{
+  "sdk_http_response": {
+    "headers": {
+      "content-type": "application/json; charset=UTF-8",
+      "vary": "Origin, X-Origin, Referer",
+      "content-encoding": "gzip",
+      "date": "Fri, 04 Jul 2025 04:00:44 GMT",
+      "server": "scaffolding on HTTPServer2",
+      "x-xss-protection": "0",
+      "x-frame-options": "SAMEORIGIN",
+      "x-content-type-options": "nosniff",
+      "server-timing": "gfet4t7; dur=136261",
+      "alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
+      "transfer-encoding": "chunked"
+    },
+    "body": null
+  },
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "କାର୍ଯ୍ୟ ଓ ସମାଜ ସେବକ ଗଢ଼ିବା । ଏହି\nଉଦ୍ଦେଶ୍ୟରେ ନବଜୀବନ ମଣ୍ଡଳ ପକ୍ଷରୁ ପ୍ରତିବର୍ଷ ଭାର-\nତବର୍ଷର ସମାଜସେବୀମାନଙ୍କ ଜୀବନ-\nଚରିତକୁ କାର୍ଯ୍ୟକ୍ରମ ଅନ୍ତର୍ଗତରେ କରାଯାଇଛି । ସମାଜସେବୀ\nମୁଖ୍ୟତଃ, ସମାଜସେବୀର କାର୍ଯ୍ୟ କଳାପ, କର୍ମ\nଓ ତ୍ୟାଗ ପ୍ରକାଶିତ । ତହିଁରେ କେତେକ କାର୍ଯ୍ୟ\nକାର୍ଯ୍ୟକ୍ରମରେ ନିର୍ଦ୍ଦିଷ୍ଟ—ମାର୍ଗରେ\nନିର୍ଦ୍ଦେଶ, ସମାଜସେବୀର କାର୍ଯ୍ୟ ଓ ତ୍ୟାଗ ସମ୍ବନ୍ଧ\nସୂଚନା—ଆଦି ସୂଚନା ପ୍ରଦତ୍ତ ହୁଏ । ତେଣୁ ଜୀବନ-ପ୍ରତି ଓ\nଅନୁରାଗ ହୋଇ ଅନୁପ୍ରାଣିତ କାର୍ଯ୍ୟରେ ଅଗ୍ରସର ହୁଅ ଓ\nସମାଜ ଗଠନ କରେ । ପ୍ରତି ମାନବଜାତିର\nଜୀବନର ପୂର୍ଣ୍ଣାଙ୍ଗ ଆଲେଖ୍ୟ । ଅନ୍ୟାନ୍ୟଙ୍କ\nରଚନାରେ ସଫଳ ଜୀବନଚରିତ ପ୍ରକାଶ ।\nରଚନାରେ ସଫଳ ଜୀବନଚରିତ ପ୍ରକାଶ"
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": "STOP",
+      "safety_ratings": [
+        {
+          "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HATE_SPEECH",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HARASSMENT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+          "probability": "NEGLIGIBLE"
+        }
+      ],
+      "token_count": null
+    }
+  ],
+  "create_time": null,
+  "response_id": null,
+  "model_version": "gemini-2.5-pro",
+  "prompt_feedback": null,
+  "usage_metadata": {
+    "cache_tokens_details": null,
+    "cached_content_token_count": null,
+    "candidates_token_count": 384,
+    "candidates_tokens_details": null,
+    "prompt_token_count": 782,
+    "prompt_tokens_details": [
+      {
+        "modality": "TEXT",
+        "token_count": 524
+      },
+      {
+        "modality": "IMAGE",
+        "token_count": 258
+      }
+    ],
+    "thoughts_token_count": 14703,
+    "tool_use_prompt_token_count": null,
+    "tool_use_prompt_tokens_details": null,
+    "total_token_count": 15869,
+    "traffic_type": null
+  },
+  "automatic_function_calling_history": [],
+  "parsed": null,
+  "page_number": 62
+}

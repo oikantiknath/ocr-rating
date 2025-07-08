@@ -1,0 +1,79 @@
+{
+  "sdk_http_response": {
+    "headers": {
+      "content-type": "application/json; charset=UTF-8",
+      "vary": "Origin, X-Origin, Referer",
+      "content-encoding": "gzip",
+      "date": "Fri, 04 Jul 2025 05:10:32 GMT",
+      "server": "scaffolding on HTTPServer2",
+      "x-xss-protection": "0",
+      "x-frame-options": "SAMEORIGIN",
+      "x-content-type-options": "nosniff",
+      "server-timing": "gfet4t7; dur=39214",
+      "alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
+      "transfer-encoding": "chunked"
+    },
+    "body": null
+  },
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "അദ്ധ്വാനത്തിന്റെ ഭൂരിഭാഗവും ഈ പ്രധാന കഥാപാത്രങ്ങളിൽ നിക്ഷിപ്ത\nമാണെങ്കിലും ഇവരുടെയെല്ലാം കഥകളെ ഉൾക്കൊള്ളുന്നതും സജീവമായ\nവിഭാഗങ്ങളോടുകൂടി ചിത്രത്തിൽ പ്രത്യക്ഷപ്പെടുന്നുണ്ട്. ജൻമി തമ്പുരാൻ\nപുലയ പാവമണി എന്ന പേരിന് ഓർമ്മ വന്നു കഥകളിലും തന്നിൽത്തന്നെ\nയുണ്ട്. സ്വർണ്ണവേലിയും മരയ്ക്കാന്റെയും കഥയിലെ ലക്ഷ്മി തൻ (തേ\nവിളി), നാച്ചിയമ്മ (സുധീർ കരമന), പരിമളം തുടങ്ങിയവരും ജോസിലി\nലിന്റെയും സേവകയുടെയും ഭൂമികയുള്ള ബേബിച്ചനും ((ശിവാനി), സൂര്യപ്രഭയുടെ\nഭർത്താവ് ബാലചന്ദ്രൻ (ക്ലെയർ സത്യ) ലിജോ പുന്നൂസിന്റെ കഥയിലെ ചാക്കോ\n(അലൻ സിയർ), പാപ്പിയോടി സേവകൻ (അനിൽ മുരളി) തുടങ്ങിയവരും\nഅന്നത്തെ സാമൂഹ്യവ്യവസ്ഥിതിയുടെ ഭാഗങ്ങളുമാണ്."
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": "STOP",
+      "safety_ratings": [
+        {
+          "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HATE_SPEECH",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HARASSMENT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+          "probability": "NEGLIGIBLE"
+        }
+      ],
+      "token_count": null
+    }
+  ],
+  "create_time": null,
+  "response_id": null,
+  "model_version": "gemini-2.5-pro",
+  "prompt_feedback": null,
+  "usage_metadata": {
+    "cache_tokens_details": null,
+    "cached_content_token_count": null,
+    "candidates_token_count": 229,
+    "candidates_tokens_details": null,
+    "prompt_token_count": 740,
+    "prompt_tokens_details": [
+      {
+        "modality": "TEXT",
+        "token_count": 482
+      },
+      {
+        "modality": "IMAGE",
+        "token_count": 258
+      }
+    ],
+    "thoughts_token_count": 3261,
+    "tool_use_prompt_token_count": null,
+    "tool_use_prompt_tokens_details": null,
+    "total_token_count": 4230,
+    "traffic_type": null
+  },
+  "automatic_function_calling_history": [],
+  "parsed": null,
+  "page_number": 311
+}

@@ -1,0 +1,55 @@
+{
+  "page_number": 339,
+  "ocr_output": {
+    "blocks": [
+      {
+        "block_text": "Corporate Identity Number : U65990KL2016PLC045669",
+        "lines": [
+          "Corporate Identity Number : U65990KL2016PLC045669"
+        ],
+        "bounding_box": [
+          {
+            "x": 550
+          },
+          {
+            "x": 816
+          },
+          {
+            "x": 816,
+            "y": 11
+          },
+          {
+            "x": 550,
+            "y": 13
+          }
+        ],
+        "confidence": 0.98744726
+      },
+      {
+        "block_text": "Registered and Corporate Office : Building No. VII / 83 / 8 , ESAF Bhavan , Thrissur - Palakkad National Highway , Mannuthy , Thrissur 680 651 , Kerala , India ; Tel : +91 487 7123 907 ; Website : www.esafbank.com ; Contact Person : Ranjith Raj P , Company Secretary and Compliance Officer ; E - mail : investor.relations@esafbank.com ;",
+        "lines": [
+          "Registered and Corporate Office : Building No. VII / 83 / 8 , ESAF Bhavan , Thrissur - Palakkad National Highway , Mannuthy , Thrissur 680 651 , Kerala , India ; Tel : +91 487 7123 907 ; Website : www.esafbank.com ; Contact Person : Ranjith Raj P , Company Secretary and Compliance Officer ; E - mail : investor.relations@esafbank.com ;"
+        ],
+        "bounding_box": [
+          {
+            "x": 22,
+            "y": 10
+          },
+          {
+            "x": 1347,
+            "y": 14
+          },
+          {
+            "x": 1347,
+            "y": 40
+          },
+          {
+            "x": 22,
+            "y": 39
+          }
+        ],
+        "confidence": 0.9657019
+      }
+    ]
+  }
+}

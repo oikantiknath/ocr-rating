@@ -1,0 +1,32 @@
+{
+  "page_number": 651,
+  "ocr_output": {
+    "blocks": [
+      {
+        "block_text": "2023 November 9 Thursday",
+        "lines": [
+          "2023 November 9 Thursday"
+        ],
+        "bounding_box": [
+          {
+            "x": 10,
+            "y": 8
+          },
+          {
+            "x": 195,
+            "y": 9
+          },
+          {
+            "x": 195,
+            "y": 22
+          },
+          {
+            "x": 10,
+            "y": 21
+          }
+        ],
+        "confidence": 0.98068553
+      }
+    ]
+  }
+}

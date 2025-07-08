@@ -1,0 +1,79 @@
+{
+  "sdk_http_response": {
+    "headers": {
+      "content-type": "application/json; charset=UTF-8",
+      "vary": "Origin, X-Origin, Referer",
+      "content-encoding": "gzip",
+      "date": "Fri, 04 Jul 2025 03:20:05 GMT",
+      "server": "scaffolding on HTTPServer2",
+      "x-xss-protection": "0",
+      "x-frame-options": "SAMEORIGIN",
+      "x-content-type-options": "nosniff",
+      "server-timing": "gfet4t7; dur=27136",
+      "alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
+      "transfer-encoding": "chunked"
+    },
+    "body": null
+  },
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "उसकी मातृभूमि है। जिन दिनों अली भाई मेरे साथ थे, उनकी हर\nबातचीत और चर्चा में यह धारणा निहित रहती थी कि भारत जितना\nहिंदुओं का है, उतना मुसलमानों का भी है। मैं इस बात का गवाह हूँ\nकि यह उनका सच्चा विश्वास था, ढोंग नहीं था। मैं कई वर्षों तक\nउनके साथ रहा। मैं दिन-रात उनके साथ रहता था और मैं छाती पर हाथ\nरखकर कह सकता हूँ कि वे जो बात मानते थे, वही मुँह से भी कहते थे।\nमैं जानता हूँ कि कई ऐसे लोग हैं, जो कहते हैं कि मैं हर चीज के प्रकट\nरूप पर आसानी से विश्वास कर लेता हूँ और मैं आसानी से धोखा खा\nजानेवाला आदमी हूँ। मैं नहीं समझता कि मैं ऐसा बुद्धू हूँ और न मैं इतनी\nआसानी से धोखा खानेवाला हूँ, जैसा कि वे दोस्त समझते हैं, लेकिन\nउनकी आलोचना से मुझे दुःख नहीं होता। मेरे खयाल में यह बेहतर है\nकि कोई मुझे धोखा देनेवाला समझने के बजाय धोखा खानेवाला समझे।"
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": "STOP",
+      "safety_ratings": [
+        {
+          "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HATE_SPEECH",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HARASSMENT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+          "probability": "NEGLIGIBLE"
+        }
+      ],
+      "token_count": null
+    }
+  ],
+  "create_time": null,
+  "response_id": null,
+  "model_version": "gemini-2.5-pro",
+  "prompt_feedback": null,
+  "usage_metadata": {
+    "cache_tokens_details": null,
+    "cached_content_token_count": null,
+    "candidates_token_count": 211,
+    "candidates_tokens_details": null,
+    "prompt_token_count": 758,
+    "prompt_tokens_details": [
+      {
+        "modality": "TEXT",
+        "token_count": 500
+      },
+      {
+        "modality": "IMAGE",
+        "token_count": 258
+      }
+    ],
+    "thoughts_token_count": 2376,
+    "tool_use_prompt_token_count": null,
+    "tool_use_prompt_tokens_details": null,
+    "total_token_count": 3345,
+    "traffic_type": null
+  },
+  "automatic_function_calling_history": [],
+  "parsed": null,
+  "page_number": 57
+}

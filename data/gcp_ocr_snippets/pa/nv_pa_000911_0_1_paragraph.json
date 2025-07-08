@@ -1,0 +1,32 @@
+{
+  "page_number": 911,
+  "ocr_output": {
+    "blocks": [
+      {
+        "block_text": "Ikk Akh da Daan",
+        "lines": [
+          "Ikk Akh da Daan"
+        ],
+        "bounding_box": [
+          {
+            "x": 9,
+            "y": 14
+          },
+          {
+            "x": 345,
+            "y": 14
+          },
+          {
+            "x": 345,
+            "y": 47
+          },
+          {
+            "x": 9,
+            "y": 47
+          }
+        ],
+        "confidence": 0.9419407
+      }
+    ]
+  }
+}

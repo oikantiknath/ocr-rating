@@ -1,0 +1,79 @@
+{
+  "sdk_http_response": {
+    "headers": {
+      "content-type": "application/json; charset=UTF-8",
+      "vary": "Origin, X-Origin, Referer",
+      "content-encoding": "gzip",
+      "date": "Fri, 04 Jul 2025 03:21:32 GMT",
+      "server": "scaffolding on HTTPServer2",
+      "x-xss-protection": "0",
+      "x-frame-options": "SAMEORIGIN",
+      "x-content-type-options": "nosniff",
+      "server-timing": "gfet4t7; dur=46207",
+      "alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
+      "transfer-encoding": "chunked"
+    },
+    "body": null
+  },
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "4. पर्यावरण इंजीनियरी:\n4.1 जल पूर्ति:\nजल मांग की प्रागुक्ति, जल की अशुद्धता तथा उसका महत्व, भौतिक रासायनिक तथा\nजीवाणु विज्ञान संबंधी विश्लेषण, जल से होने वाली बीमारियाँ, पेय जल के लिए मानक।\n4.2 जल का अंतर्ग्रहण:\nजल उपचार : स्कंदन के सिद्धांत, ऊर्णन तथा सादन, मंद-, द्रुत-, दाब फिल्टर,\nक्लोरीनीकरण, मृदूकरण, स्वाद, गंध तथा लवणता को दूर करना।\n4.3 वाहित मल व्यवस्था :\nघरेलू तथा औद्योगिक अपशिष्ट, झंझावात वाहित मल-पृथक और संयुक्त प्रणालियां,\nसीवरों द्वारा बहाव, सीवरों का डिजाइन।\n4.4 सीवेज लक्षण :\nBOD. COD. ठोस पदार्थ, विलीन ऑक्सीजन, नाइट्रोजन और TOC सामान्य जल मार्ग\nतथा भूमि पर निष्कासन के मानक।\n4.5 सीवेज उपचार :\nकार्यकारी नियम, इकाइयां, कोष्ठ, आवसादन टैंक, च्छापी फिल्टर, आक्सीकरण पोखर,\nउत्प्रेरित अवपंक प्रक्रिया, सैप्टिक टैंक, अवपंक निस्तारण, अवशिष्ट जल का पुनः चालन।\n4.6 ठोस अपशिष्ट :\nगांवों और शहरों में संग्रहण एवं विस्तारण, दीर्घकालीन कुप्रभावों का प्रबंध।\n5. पर्यावरणीय प्रदूषण :\nअवलंबित विकास, रेडियोऐक्टिव अपशिष्ट एवं निष्कासन, उष्मीय शक्ति संयंत्रों खानों,\nनदी घाटी परियोजनाओं के लिए पर्यावरण संबंधी प्रभाव मूल्यांकन, वायु प्रदूषण नियंत्रण\nअधिनियम।"
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": "STOP",
+      "safety_ratings": [
+        {
+          "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HATE_SPEECH",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HARASSMENT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+          "probability": "NEGLIGIBLE"
+        }
+      ],
+      "token_count": null
+    }
+  ],
+  "create_time": null,
+  "response_id": null,
+  "model_version": "gemini-2.5-pro",
+  "prompt_feedback": null,
+  "usage_metadata": {
+    "cache_tokens_details": null,
+    "cached_content_token_count": null,
+    "candidates_token_count": 339,
+    "candidates_tokens_details": null,
+    "prompt_token_count": 760,
+    "prompt_tokens_details": [
+      {
+        "modality": "TEXT",
+        "token_count": 502
+      },
+      {
+        "modality": "IMAGE",
+        "token_count": 258
+      }
+    ],
+    "thoughts_token_count": 3943,
+    "tool_use_prompt_token_count": null,
+    "tool_use_prompt_tokens_details": null,
+    "total_token_count": 5042,
+    "traffic_type": null
+  },
+  "automatic_function_calling_history": [],
+  "parsed": null,
+  "page_number": 170
+}

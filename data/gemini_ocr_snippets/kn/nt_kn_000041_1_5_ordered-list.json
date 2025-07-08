@@ -1,0 +1,79 @@
+{
+  "sdk_http_response": {
+    "headers": {
+      "content-type": "application/json; charset=UTF-8",
+      "vary": "Origin, X-Origin, Referer",
+      "content-encoding": "gzip",
+      "date": "Fri, 04 Jul 2025 04:49:28 GMT",
+      "server": "scaffolding on HTTPServer2",
+      "x-xss-protection": "0",
+      "x-frame-options": "SAMEORIGIN",
+      "x-content-type-options": "nosniff",
+      "server-timing": "gfet4t7; dur=33417",
+      "alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
+      "transfer-encoding": "chunked"
+    },
+    "body": null
+  },
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "25. ನಿರ್ದೇಶನಗಳನ್ನು ನೀಡಲು ಕೇಂದ್ರ ಸರ್ಕಾರದ ಅಧಿಕಾರ\n26. ಪ್ರಾಧಿಕಾರಕ್ಕಾಗಿ ಭೂಮಿಯ ಕಡ್ಡಾಯ ಆರ್ಜನೆ\n27. ಕೆಲವು ಕಾನೂನುಗಳ ಅನ್ವಯ, ಇತ್ಯಾದಿ\n28. ಪರಿಣಾಮಕಾರ\n29. ಅಧಿಕಾರಗಳ ಪ್ರತ್ಯಾಯೋಜನೆ\n30. ಪ್ರಾಧಿಕಾರದ ಆದೇಶಗಳ ಮತ್ತು ಇತರ ಲಿಖಿತಗಳ ಅಧಿಪ್ರಮಾಣನ\n31. ಪ್ರಾಧಿಕಾರದ ಸದಸ್ಯರು, ಅಧಿಕಾರಿಗಳು ಮತ್ತು ನೌಕರರು ಲೋಕ ನೌಕರರಾಗಿರುವುದು\n32. ಸದ್ಭಾವನೆಯಿಂದ ಕೈಗೊಂಡ ಕ್ರಮಕ್ಕೆ ರಕ್ಷಣೆ\n33. ಪ್ರಾಧಿಕಾರವನ್ನು ರದ್ದುಗೊಳಿಸಲು ಕೇಂದ್ರ ಸರ್ಕಾರದ ಅಧಿಕಾರ\n34. ನಿಯಮಗಳ ರಚನಾಧಿಕಾರ\n35. ವಿನಿಯಮ ರಚನಾಧಿಕಾರ\n36. ನಿಯಮಗಳು ಮತ್ತು ವಿನಿಯಮಗಳನ್ನು ಸಂಸತ್ತಿನ ಮುಂದಿಡುವುದು\n37. ತೊಂದರೆಗಳನ್ನು ನಿವಾರಿಸುವ ಅಧಿಕಾರ\n38. 1982ರ 49ನೇ ಅಧಿನಿಯಮದ ತಿದ್ದುಪಡಿ"
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": "STOP",
+      "safety_ratings": [
+        {
+          "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HATE_SPEECH",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HARASSMENT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+          "probability": "NEGLIGIBLE"
+        }
+      ],
+      "token_count": null
+    }
+  ],
+  "create_time": null,
+  "response_id": null,
+  "model_version": "gemini-2.5-pro",
+  "prompt_feedback": null,
+  "usage_metadata": {
+    "cache_tokens_details": null,
+    "cached_content_token_count": null,
+    "candidates_token_count": 226,
+    "candidates_tokens_details": null,
+    "prompt_token_count": 730,
+    "prompt_tokens_details": [
+      {
+        "modality": "TEXT",
+        "token_count": 472
+      },
+      {
+        "modality": "IMAGE",
+        "token_count": 258
+      }
+    ],
+    "thoughts_token_count": 3126,
+    "tool_use_prompt_token_count": null,
+    "tool_use_prompt_tokens_details": null,
+    "total_token_count": 4082,
+    "traffic_type": null
+  },
+  "automatic_function_calling_history": [],
+  "parsed": null,
+  "page_number": 136
+}

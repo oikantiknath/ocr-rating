@@ -1,0 +1,32 @@
+{
+  "page_number": 179,
+  "ocr_output": {
+    "blocks": [
+      {
+        "block_text": "APS 12",
+        "lines": [
+          "APS 12"
+        ],
+        "bounding_box": [
+          {
+            "x": 27,
+            "y": 38
+          },
+          {
+            "x": 379,
+            "y": 35
+          },
+          {
+            "x": 380,
+            "y": 112
+          },
+          {
+            "x": 28,
+            "y": 115
+          }
+        ],
+        "confidence": 0.98917294
+      }
+    ]
+  }
+}

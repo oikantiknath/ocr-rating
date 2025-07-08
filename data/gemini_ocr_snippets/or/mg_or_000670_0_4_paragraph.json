@@ -1,0 +1,79 @@
+{
+  "sdk_http_response": {
+    "headers": {
+      "content-type": "application/json; charset=UTF-8",
+      "vary": "Origin, X-Origin, Referer",
+      "content-encoding": "gzip",
+      "date": "Fri, 04 Jul 2025 03:59:27 GMT",
+      "server": "scaffolding on HTTPServer2",
+      "x-xss-protection": "0",
+      "x-frame-options": "SAMEORIGIN",
+      "x-content-type-options": "nosniff",
+      "server-timing": "gfet4t7; dur=66546",
+      "alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
+      "transfer-encoding": "chunked"
+    },
+    "body": null
+  },
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "ସେ ଯେଉଁ ଭଗବାନଙ୍କରେ ଅଟଳାଚଞ୍ଚଳ\nଅଶ୍ରୁମତୀ ଥିଲା ଆଉ ନାହିଁ—ପରିବର୍ତ୍ତେ\nଜଣେ ସବୁଜିମ ଭଗବାନଙ୍କର ଅପରୂପ, ସେ\nପ୍ରକାଶ କେବଳ ଭାବପ୍ରବଣ, ଉଦ୍‌ବେଗମୟ\nଓ ଭାବ୍ୟାବେଗଭର୍ତ୍ତି ଅଶ୍ରୁ । କବିତା ଓ ଗାନ\nସମ୍ବଳିତ ଅଶ୍ରୁମତୀଠାରେ ସେହି ଦେବଙ୍କ\nଦୀପ୍ତି ଦେଖିବାକୁ ପାଏ ନାହିଁ । ତେବେ ସେ କ’ଣ\nଓ କୃପାବଳର ପରିଚୟ ପାଇ ଅଶ୍ରୁମତୀକୁ, ଏଥର\nସମ୍ପୂର୍ଣ୍ଣ ଓ ଶାଶ୍ଵତ ପ୍ରେମର ପ୍ରତୀକ ରୂପେ\nଗଢ଼ିବେ ସେ ଯେଉଁ ଭଗବାନଙ୍କ ପାଦ ସନ୍ନିଧି\nଲାଭକରିବାର ସାଧନାରୂପେ ମନେକରି ସେ\nପ୍ରଥମେ ତ୍ୟାଗକଲେ, ଏବେ ତାକୁ ପୁଣି\nଫେରାଇ ନେବେ କିପରି ? ତେଣୁ ସେ ଏହି\nଦ୍ଵନ୍ଦ୍ଵର ସମାଧାନରେ ଆଗତ ହୁଏ,\nସେ ସର୍ବସ୍ଵ ଦେଇ ତ୍ୟାଗର ଅନୁପମ\nଆଦର୍ଶ ସ୍ଥାପନ କରିଛନ୍ତି ସିନା, ସେହି\nତ୍ୟାଗର ପରିଣାମ କ’ଣ ହେବ ତାଙ୍କୁ\nଜଣା ନାହିଁ । ତେଣୁ ତାଙ୍କରେ ସେ\nଓ ଦେବଙ୍କର ଶକ୍ତିମୟ ରୂପ ଅଙ୍କନ\nକରିବାକୁ ପ୍ରୟାସୀ ହୁଏ, ତେଣୁ ସେଇ\nତ୍ୟାଗର ମହତ୍ତ୍ଵ ବୁଝାଇବାକୁ ଉଦ୍‌ଗ୍ରୀବ\nହୋଇଛି । ସେହି ତ୍ୟାଗର ମୂଲ୍ୟ\nବୁଝାଇବାକୁ ଯାଇ, ସେ ତ୍ୟାଗର ମୂଲ୍ୟ\nଶୂନ୍ୟତା ପ୍ରମାଣ ଓ ସମର୍ଥନ କରିବା\nପାଇଁ ଭାବରାଜ୍ୟରେ ହୁଏ, ନିର୍ଝର ଓ\nଝରଣାର ସମ୍ମିଶ୍ରଣ ଘଟାଏ । ଏହି\nସମ୍ମିଶ୍ରଣରେ ହୁଏ, ନିର୍ଝର ଓ ଝରଣାର\nସ୍ଵତନ୍ତ୍ର ସତ୍ତା ଓ ସ୍ଵତନ୍ତ୍ର ମହତ୍ତ୍ଵ\nଉଭୟେ ବିଲୁପ୍ତ ହୁଏ । କାବ୍ୟ ଇତିହାସ\nସେ ଐତିହାସିକ ସତ୍ୟକୁ ବ୍ୟାଖ୍ୟା\nକରିବାକୁ ଲେଖନୀ ଧରି ନାହାନ୍ତି ? କବି ନା"
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": "STOP",
+      "safety_ratings": [
+        {
+          "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HATE_SPEECH",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HARASSMENT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+          "probability": "NEGLIGIBLE"
+        }
+      ],
+      "token_count": null
+    }
+  ],
+  "create_time": null,
+  "response_id": null,
+  "model_version": "gemini-2.5-pro",
+  "prompt_feedback": null,
+  "usage_metadata": {
+    "cache_tokens_details": null,
+    "cached_content_token_count": null,
+    "candidates_token_count": 710,
+    "candidates_tokens_details": null,
+    "prompt_token_count": 782,
+    "prompt_tokens_details": [
+      {
+        "modality": "TEXT",
+        "token_count": 524
+      },
+      {
+        "modality": "IMAGE",
+        "token_count": 258
+      }
+    ],
+    "thoughts_token_count": 6034,
+    "tool_use_prompt_token_count": null,
+    "tool_use_prompt_tokens_details": null,
+    "total_token_count": 7526,
+    "traffic_type": null
+  },
+  "automatic_function_calling_history": [],
+  "parsed": null,
+  "page_number": 58
+}

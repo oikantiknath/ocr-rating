@@ -1,0 +1,57 @@
+{
+  "page_number": 265,
+  "ocr_output": {
+    "blocks": [
+      {
+        "block_text": "LOAN SCHEMES",
+        "lines": [
+          "LOAN SCHEMES"
+        ],
+        "bounding_box": [
+          {
+            "x": 24,
+            "y": 20
+          },
+          {
+            "x": 98,
+            "y": 20
+          },
+          {
+            "x": 98,
+            "y": 28
+          },
+          {
+            "x": 24,
+            "y": 28
+          }
+        ],
+        "confidence": 0.99249274
+      },
+      {
+        "block_text": "Scan the QR Code",
+        "lines": [
+          "Scan the QR Code"
+        ],
+        "bounding_box": [
+          {
+            "x": 19,
+            "y": 110
+          },
+          {
+            "x": 101,
+            "y": 110
+          },
+          {
+            "x": 101,
+            "y": 119
+          },
+          {
+            "x": 19,
+            "y": 119
+          }
+        ],
+        "confidence": 0.9768612
+      }
+    ]
+  }
+}

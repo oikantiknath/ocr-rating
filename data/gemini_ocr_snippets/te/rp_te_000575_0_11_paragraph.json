@@ -1,0 +1,79 @@
+{
+  "sdk_http_response": {
+    "headers": {
+      "content-type": "application/json; charset=UTF-8",
+      "vary": "Origin, X-Origin, Referer",
+      "content-encoding": "gzip",
+      "date": "Fri, 04 Jul 2025 04:35:22 GMT",
+      "server": "scaffolding on HTTPServer2",
+      "x-xss-protection": "0",
+      "x-frame-options": "SAMEORIGIN",
+      "x-content-type-options": "nosniff",
+      "server-timing": "gfet4t7; dur=66509",
+      "alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
+      "transfer-encoding": "chunked"
+    },
+    "body": null
+  },
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "ఇట్టి యమూల్యములైన రచనల ప్రాస\nయతులు పెట్టి గచించినా డన్న నెపముతో\nనాటి పండితులు నిరదరించి నిందించిరట.\nఈ కారణముననే ఆ రచనలకు పండితుల\nదృష్టిలో ప్రామాణికత గల్గించు నుద్దేశ్యముతో\nశ్రీనాథుడు కొంతవఱకు బసవపురాణ కథలకు\nకావ్యత్యాగారమగున కల్పించినాడు. ఈ దృష్టి\nతోడనే సోమనాథుని కారతబరముల తరువాతి\nవాడైన పిడుపర్తి బసవపురాణమును\nపద్యకృతిగా నొనర్చి, మతభిమానము,\nగురుభక్తి యున్నను, పండితుల తలలూగ జేసి\nవారి యాదరమునుగూడ బడయుటయే పై\nరచనకు ప్రధాన కారణమగునని యూహింప\nవచ్చును. ఈ పద్యబసవపురాణము ద్విపదకు\nస్వచ్ఛమైన యనువాదము. ద్విపదలకు ద్విపద\nలను సాగుగా తీతులుగా, నీసులుగా\nమలచుకొనినాడు. మూలమునందలి జాతీయ\nమునుగాని, పలుకుబడినిగాని, సామెతనుగాని,\nభావమునుగాని, విషయమునుగాని, దేనినిగాని"
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": "STOP",
+      "safety_ratings": [
+        {
+          "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HATE_SPEECH",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HARASSMENT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+          "probability": "NEGLIGIBLE"
+        }
+      ],
+      "token_count": null
+    }
+  ],
+  "create_time": null,
+  "response_id": null,
+  "model_version": "gemini-2.5-pro",
+  "prompt_feedback": null,
+  "usage_metadata": {
+    "cache_tokens_details": null,
+    "cached_content_token_count": null,
+    "candidates_token_count": 320,
+    "candidates_tokens_details": null,
+    "prompt_token_count": 715,
+    "prompt_tokens_details": [
+      {
+        "modality": "TEXT",
+        "token_count": 457
+      },
+      {
+        "modality": "IMAGE",
+        "token_count": 258
+      }
+    ],
+    "thoughts_token_count": 6432,
+    "tool_use_prompt_token_count": null,
+    "tool_use_prompt_tokens_details": null,
+    "total_token_count": 7467,
+    "traffic_type": null
+  },
+  "automatic_function_calling_history": [],
+  "parsed": null,
+  "page_number": 271
+}

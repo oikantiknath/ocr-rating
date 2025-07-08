@@ -1,0 +1,79 @@
+{
+  "sdk_http_response": {
+    "headers": {
+      "content-type": "application/json; charset=UTF-8",
+      "vary": "Origin, X-Origin, Referer",
+      "content-encoding": "gzip",
+      "date": "Fri, 04 Jul 2025 05:26:47 GMT",
+      "server": "scaffolding on HTTPServer2",
+      "x-xss-protection": "0",
+      "x-frame-options": "SAMEORIGIN",
+      "x-content-type-options": "nosniff",
+      "server-timing": "gfet4t7; dur=26914",
+      "alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
+      "transfer-encoding": "chunked"
+    },
+    "body": null
+  },
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "शेवटी 1993 साली त्यांच्या परिश्रमास यश आले. जनुक सापडले. त्याचा क्रम\nवाचला जनुकाच्या उत्परिवर्तनाने होणारा आजार समजला. उत्परिवर्तित जनुकामुळे\nहोणाऱ्या आजाराचे कारण मिळाले. आधी जनुक सापडले त्यामुळे प्रथिनाचे नाव हंटिंग्टन.\nजनुकाच्या मध्यभागी असलेल्या ' CAG' अक्षराच्या पुन्हा पुन्हा येण्यामुळे एक लांब\nग्लुटामिन- ग्लुटामिन - ग्लुटामिन .... बहुपेप्टाइड तयार होत असे. (जनुकाच्या डिक्शनरीत\n'CAG' म्हणजे ग्लुटामिन). जेवढी ग्लुटामिनची साखळी लांब तेवढी आयुष्याची दोरी आखूड\nव तरुण वयात हंटिंग्टन आजाराची लक्षणे दिसायला लागत. ही माहिती आजार होण्यास\nपुरेशी नव्हती. जर हंटिंग्टन जनुकामध्ये उत्परिवर्तन झालेले असेल तर पहिल्या तीस\nवर्षांमध्ये जनुकाच्या उत्परिवर्तनाचा प्रभाव का दिसून येत नाही हा कळीचा मुद्दा होता.\nयाचे उत्तर म्हणावे तेवढे सरळ नाही. उत्परिवर्तित हंटिंग्टन प्रथिन हळूहळू गुठळ्यांच्या\nस्वरूपात साठत राहते. नेमका हाच प्रकार अल्झायमर व बोव्हाइन स्पॉजिफॉर्म डिसीज\nमध्ये होतो. बोव्हाइन स्पॉजिफॉर्म डिसीज ' मॅड काउ डिसीज' या नावाने अधिक ओळखला"
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": "STOP",
+      "safety_ratings": [
+        {
+          "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HATE_SPEECH",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HARASSMENT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+          "probability": "NEGLIGIBLE"
+        }
+      ],
+      "token_count": null
+    }
+  ],
+  "create_time": null,
+  "response_id": null,
+  "model_version": "gemini-2.5-pro",
+  "prompt_feedback": null,
+  "usage_metadata": {
+    "cache_tokens_details": null,
+    "cached_content_token_count": null,
+    "candidates_token_count": 328,
+    "candidates_tokens_details": null,
+    "prompt_token_count": 714,
+    "prompt_tokens_details": [
+      {
+        "modality": "TEXT",
+        "token_count": 456
+      },
+      {
+        "modality": "IMAGE",
+        "token_count": 258
+      }
+    ],
+    "thoughts_token_count": 1845,
+    "tool_use_prompt_token_count": null,
+    "tool_use_prompt_tokens_details": null,
+    "total_token_count": 2887,
+    "traffic_type": null
+  },
+  "automatic_function_calling_history": [],
+  "parsed": null,
+  "page_number": 350
+}

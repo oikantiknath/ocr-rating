@@ -1,0 +1,32 @@
+{
+  "page_number": 143,
+  "ocr_output": {
+    "blocks": [
+      {
+        "block_text": "Link : http://www.realpatidar.com/library email : mail@realpatidar.com",
+        "lines": [
+          "Link : http://www.realpatidar.com/library email : mail@realpatidar.com"
+        ],
+        "bounding_box": [
+          {
+            "x": 4,
+            "y": 5
+          },
+          {
+            "x": 292,
+            "y": 6
+          },
+          {
+            "x": 292,
+            "y": 42
+          },
+          {
+            "x": 4,
+            "y": 42
+          }
+        ],
+        "confidence": 0.9826598
+      }
+    ]
+  }
+}

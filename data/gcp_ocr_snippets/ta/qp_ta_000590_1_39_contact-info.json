@@ -1,0 +1,32 @@
+{
+  "page_number": 590,
+  "ocr_output": {
+    "blocks": [
+      {
+        "block_text": "Thoothukudi 0461-4000970 , Tirunelveli 0462-2560123 , Ramanathapuram 75503 52916 , Madurai 9843110566",
+        "lines": [
+          "Thoothukudi 0461-4000970 , Tirunelveli 0462-2560123 , Ramanathapuram 75503 52916 , Madurai 9843110566"
+        ],
+        "bounding_box": [
+          {
+            "x": 3,
+            "y": 4
+          },
+          {
+            "x": 450,
+            "y": 4
+          },
+          {
+            "x": 450,
+            "y": 12
+          },
+          {
+            "x": 3,
+            "y": 12
+          }
+        ],
+        "confidence": 0.98353
+      }
+    ]
+  }
+}

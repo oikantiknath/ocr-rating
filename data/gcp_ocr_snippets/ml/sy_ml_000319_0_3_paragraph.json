@@ -1,0 +1,32 @@
+{
+  "page_number": 319,
+  "ocr_output": {
+    "blocks": [
+      {
+        "block_text": "Radio News- news room operation - news format - news writing - news presentation- structure of news bulletins .",
+        "lines": [
+          "Radio News- news room operation - news format - news writing - news presentation- structure of news bulletins ."
+        ],
+        "bounding_box": [
+          {
+            "x": 7,
+            "y": 13
+          },
+          {
+            "x": 900,
+            "y": 8
+          },
+          {
+            "x": 900,
+            "y": 62
+          },
+          {
+            "x": 7,
+            "y": 67
+          }
+        ],
+        "confidence": 0.97832096
+      }
+    ]
+  }
+}

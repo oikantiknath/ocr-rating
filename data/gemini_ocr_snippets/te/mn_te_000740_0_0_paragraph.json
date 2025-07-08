@@ -1,0 +1,79 @@
+{
+  "sdk_http_response": {
+    "headers": {
+      "content-type": "application/json; charset=UTF-8",
+      "vary": "Origin, X-Origin, Referer",
+      "content-encoding": "gzip",
+      "date": "Fri, 04 Jul 2025 04:28:22 GMT",
+      "server": "scaffolding on HTTPServer2",
+      "x-xss-protection": "0",
+      "x-frame-options": "SAMEORIGIN",
+      "x-content-type-options": "nosniff",
+      "server-timing": "gfet4t7; dur=35515",
+      "alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
+      "transfer-encoding": "chunked"
+    },
+    "body": null
+  },
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "నేను చేసిన ప్రయత్నం అదే. ఉప్పు పూర్తిగా మానిస్తే\n10, 15 రోజులలో మాత్రను మానేటట్లుగా బి.పి.\nనార్మల్ కి వస్తున్నది. అసలు జబ్బు పోయినప్పుడు\nమాత్రతో పనివుంది. ప్రతి రుచిని మానితే ఎన్నో\nవందల జబ్బులు పూర్తిగా తగ్గుతున్నాయి. ఏ\nవైద్యుడూ రుచులను బాగా తిను, నా మందులు\nవేసుకో అని అనడం లేదు. అందరూ మందులిచ్చి\nతగ్గించమంటున్నారు. నేను పూర్తిగా\nమానమంటున్నాను. తగ్గించినదాని నుండి\nమానడానికి కొంచెం మార్పే కదా! ఇక్కడ రుచులను\nపూర్తిగా మానడమే మందు అని బాధించింది. ఏ\nస్పెషలిస్టు డాక్టర్నన్నా ఆయన చూసే భాగానికి\nసంబంధించి మిమ్మల్ని ఒక రుచి తగ్గించమనే\nచెబుతారు. కానీ ఇక్కడ నేను ఏడు రుచులు సొంతం\nచేసుకుంటున్నానంటే, ఆరోగ్యము అనేది\nశరీరంలో అన్ని భాగాలు బాగుంటే వస్తుంది. అన్ని\nభాగాలు బాగుపడాలంటే అన్ని రుచులు మానాలి.\nమనిషి మేల్కొని, ఇతర జబ్బులు లేకపోయినా ఒక"
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": "STOP",
+      "safety_ratings": [
+        {
+          "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HATE_SPEECH",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HARASSMENT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+          "probability": "NEGLIGIBLE"
+        }
+      ],
+      "token_count": null
+    }
+  ],
+  "create_time": null,
+  "response_id": null,
+  "model_version": "gemini-2.5-pro",
+  "prompt_feedback": null,
+  "usage_metadata": {
+    "cache_tokens_details": null,
+    "cached_content_token_count": null,
+    "candidates_token_count": 270,
+    "candidates_tokens_details": null,
+    "prompt_token_count": 713,
+    "prompt_tokens_details": [
+      {
+        "modality": "TEXT",
+        "token_count": 455
+      },
+      {
+        "modality": "IMAGE",
+        "token_count": 258
+      }
+    ],
+    "thoughts_token_count": 3080,
+    "tool_use_prompt_token_count": null,
+    "tool_use_prompt_tokens_details": null,
+    "total_token_count": 4063,
+    "traffic_type": null
+  },
+  "automatic_function_calling_history": [],
+  "parsed": null,
+  "page_number": 63
+}

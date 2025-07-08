@@ -1,0 +1,79 @@
+{
+  "sdk_http_response": {
+    "headers": {
+      "content-type": "application/json; charset=UTF-8",
+      "vary": "Origin, X-Origin, Referer",
+      "content-encoding": "gzip",
+      "date": "Fri, 04 Jul 2025 04:50:07 GMT",
+      "server": "scaffolding on HTTPServer2",
+      "x-xss-protection": "0",
+      "x-frame-options": "SAMEORIGIN",
+      "x-content-type-options": "nosniff",
+      "server-timing": "gfet4t7; dur=32753",
+      "alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
+      "transfer-encoding": "chunked"
+    },
+    "body": null
+  },
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "ಪರಂತು, ನೇಮಕಗೊಂಡಿರುವುದಾಗಿ ಹಾಗೆ ಭಾವಿಸಲಾದ ಮತ್ತು ಕೃಷಿ ಪುನರ್‌ವಿತೀಯ ಮತ್ತು\nಅಭಿವೃದ್ಧಿ ನಿಗಮದಲ್ಲಿ ಉಪಯೋಗಕ್ಕಾಗಿ ನಿರ್ದಿಷ್ಟವಾಗಿ ನೇಮಕವಾಗಲ್ಲದ ರಿಸರ್ವ್ ಬ್ಯಾಂಕಿನ ಸಿಬ್ಬಂದಿಯ\nಪ್ರತಿಯೊಬ್ಬ ಸದಸ್ಯನು ಗೊತ್ತುಪಡಿಸಿದ ದಿನಾಂಕದಿಂದ ಆರು ತಿಂಗಳ ಅವಧಿಯು ಮುಕ್ತಾಯವಾಗುವುದಕ್ಕೆ\nಮುಂಚೆ, ಅಥವಾ 16ನೇ ಪ್ರಕರಣದ (1)ನೇ ಉಪಪ್ರಕರಣದ ಮೇರೆಗೆ ಗೊತ್ತುಪಡಿಸಿದ ದಿನಾಂಕದಿಂದ\nಮೂವತ್ತು ದಿವಸಗಳ ಅವಧಿಯ ಬಗ್ಗೆ - ಈ ಅವಧಿಗಳಲ್ಲಿ ಯಾವುದು ನಂತರ ಮುಕ್ತಾಯವಾಗುವುದೋ ಆ\nಅವಧಿಗೆ ಮುಂಚೆ ತಾನು ರಿಸರ್ವ್ ಬ್ಯಾಂಕಿಗೆ ಮರಳಿ ಹೋಗುವ ಆಯ್ಕೆ ಮಾಡಿಕೊಳ್ಳಬಹುದು ಮತ್ತು ತಾನು\nರಿಸರ್ವ್ ಬ್ಯಾಂಕಿಗೆ ಮರಳಿ ಹೋಗುವ ಬಗ್ಗೆ ಲಿಖಿತದಲ್ಲಿ ತನ್ನ ಆಯ್ಕೆಯ ಅವಕಾಶವನ್ನು ತಿಳಿಯಪಡಿಸುವ\nಮೂಲಕ ಹಾಗೆ ಮರಳಿ ಹೋಗುವ ಆಯ್ಕೆ ಮಾಡಿಕೊಳ್ಳಬಹುದು ಮತ್ತು ಹಾಗೆ ಒಮ್ಮೆ ಮಾಡಿಕೊಂಡ\nಆಯ್ಕೆಯು ಅಂತಿಮವಾಗಿರುತ್ತದೆ ಮತ್ತು ಅಂಥ ಆಯ್ಕೆಯನ್ನು ತಿಳಿಯಪಡಿಸಿದ ಮೇಲೆ, ಗೊತ್ತುಪಡಿಸಿದ\nದಿನಾಂಕದಿಂದ ಹದಿನೆಂಟು ತಿಂಗಳ ಅವಧಿಯು ಮುಕ್ತಾಯವಾಗುವುದಕ್ಕೆ ಮುಂಚೆ ಸಿಬ್ಬಂದಿ ವರ್ಗದ ಅಂಥ\nಸದಸ್ಯನನ್ನು ರಿಸರ್ವ್ ಬ್ಯಾಂಕ್ ಹಿಂದಕ್ಕೆ ಕರೆಸಿಕೊಳ್ಳತಕ್ಕದ್ದು ಮತ್ತು ಅವನು ರಾಷ್ಟ್ರೀಯ ಬ್ಯಾಂಕಿನ ಸಿಬ್ಬಂದಿ\nವರ್ಗದ ಒಬ್ಬ ಸದಸ್ಯನಾಗಿದ್ದು ಅವಧಿಯಲ್ಲಿ ರಾಷ್ಟ್ರೀಯ ಬ್ಯಾಂಕಿನಲ್ಲಿ ಪ್ರತಿನಿಯೋಜನೆಯಲ್ಲಿರುವುದಾಗಿ\nಭಾವಿಸತಕ್ಕದ್ದು."
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": "STOP",
+      "safety_ratings": [
+        {
+          "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HATE_SPEECH",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HARASSMENT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+          "probability": "NEGLIGIBLE"
+        }
+      ],
+      "token_count": null
+    }
+  ],
+  "create_time": null,
+  "response_id": null,
+  "model_version": "gemini-2.5-pro",
+  "prompt_feedback": null,
+  "usage_metadata": {
+    "cache_tokens_details": null,
+    "cached_content_token_count": null,
+    "candidates_token_count": 348,
+    "candidates_tokens_details": null,
+    "prompt_token_count": 728,
+    "prompt_tokens_details": [
+      {
+        "modality": "TEXT",
+        "token_count": 470
+      },
+      {
+        "modality": "IMAGE",
+        "token_count": 258
+      }
+    ],
+    "thoughts_token_count": 2877,
+    "tool_use_prompt_token_count": null,
+    "tool_use_prompt_tokens_details": null,
+    "total_token_count": 3953,
+    "traffic_type": null
+  },
+  "automatic_function_calling_history": [],
+  "parsed": null,
+  "page_number": 170
+}

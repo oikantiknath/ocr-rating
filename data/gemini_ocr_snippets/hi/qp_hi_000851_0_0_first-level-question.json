@@ -1,0 +1,79 @@
+{
+  "sdk_http_response": {
+    "headers": {
+      "content-type": "application/json; charset=UTF-8",
+      "vary": "Origin, X-Origin, Referer",
+      "content-encoding": "gzip",
+      "date": "Fri, 04 Jul 2025 03:22:31 GMT",
+      "server": "scaffolding on HTTPServer2",
+      "x-xss-protection": "0",
+      "x-frame-options": "SAMEORIGIN",
+      "x-content-type-options": "nosniff",
+      "server-timing": "gfet4t7; dur=36903",
+      "alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
+      "transfer-encoding": "chunked"
+    },
+    "body": null
+  },
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "प्रश्न 11. विद्यालय की शैक्षिक यात्रा का वर्णन करते हुए माताजी को पत्र 5\nलिखें।\n102, राजहंस छात्रावास\nलाजपत नगर\nनई दिल्ली\nदिनाँक - 25.10.200\nआदरणीय माताजी,\nसादर प्रणाम।\nआशा करता हूँ आप सभी स्वस्थ होंगे। मैं भी यहाँ छात्रावास में\nसकुशल हूँ। जैसा कि आपको पता ही है विद्यालय की तरफ से हम\nशैक्षिक यात्रा के लिए इस बार लखनऊ गए थे। उसी यात्रा के बारे में\nबताने के लिए मैंने यह पत्र आपको लिखा है। दिनाँक 12 अक्टूबर\nको हम ट्रेन द्वारा लखनऊ रवाना हुए। ट्रेन में भी हमें खूब मौज-\nमस्ती की। लखनऊ पहुँचने के बाद एक बंगले में हमें ठहराया गया\nथा। प्रातःकाल हमें लखनऊ की प्रसिद्ध जगहों पर ले जाया गया।\nमाताजी वैसे तो मुझे वहाँ कि सभी जगहें अच्छी लगी परन्तु वहाँ के\nभूलभुलैया किले को मैं कभी भी नहीं भूल पाऊँगा, कारीगरी तथा\nयोजना बद्ध तरीके का ऐसा अनुपम उदाहरण कहीं भी देखने को नहीं\nमिलेगा। वहाँ की काफी सारी मीठी यादों के साथ हम सभी लौटे।\nपिताजी और भाईसाहब को मेरा सादर प्रणाम तथा छोटी बहन को\nप्यार।\nआपका प्रिय पुत्र\nसुशील"
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": "STOP",
+      "safety_ratings": [
+        {
+          "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HATE_SPEECH",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HARASSMENT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+          "probability": "NEGLIGIBLE"
+        }
+      ],
+      "token_count": null
+    }
+  ],
+  "create_time": null,
+  "response_id": null,
+  "model_version": "gemini-2.5-pro",
+  "prompt_feedback": null,
+  "usage_metadata": {
+    "cache_tokens_details": null,
+    "cached_content_token_count": null,
+    "candidates_token_count": 284,
+    "candidates_tokens_details": null,
+    "prompt_token_count": 764,
+    "prompt_tokens_details": [
+      {
+        "modality": "TEXT",
+        "token_count": 506
+      },
+      {
+        "modality": "IMAGE",
+        "token_count": 258
+      }
+    ],
+    "thoughts_token_count": 3363,
+    "tool_use_prompt_token_count": null,
+    "tool_use_prompt_tokens_details": null,
+    "total_token_count": 4411,
+    "traffic_type": null
+  },
+  "automatic_function_calling_history": [],
+  "parsed": null,
+  "page_number": 256
+}

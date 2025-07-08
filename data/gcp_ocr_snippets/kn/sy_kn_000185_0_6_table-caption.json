@@ -1,0 +1,32 @@
+{
+  "page_number": 185,
+  "ocr_output": {
+    "blocks": [
+      {
+        "block_text": "Conduct of Seminar , Case study / Assignment , etc. can be either in C1 or in C2 component at the convenience of the concerned teacher .",
+        "lines": [
+          "Conduct of Seminar , Case study / Assignment , etc. can be either in C1 or in C2 component at the convenience of the concerned teacher ."
+        ],
+        "bounding_box": [
+          {
+            "x": 8,
+            "y": 12
+          },
+          {
+            "x": 1074,
+            "y": 10
+          },
+          {
+            "x": 1074,
+            "y": 54
+          },
+          {
+            "x": 8,
+            "y": 56
+          }
+        ],
+        "confidence": 0.98072886
+      }
+    ]
+  }
+}

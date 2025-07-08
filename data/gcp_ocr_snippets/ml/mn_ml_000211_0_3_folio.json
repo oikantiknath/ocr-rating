@@ -1,0 +1,32 @@
+{
+  "page_number": 211,
+  "ocr_output": {
+    "blocks": [
+      {
+        "block_text": "GOVERNMENT OF KERALA",
+        "lines": [
+          "GOVERNMENT OF KERALA"
+        ],
+        "bounding_box": [
+          {
+            "x": 13,
+            "y": 15
+          },
+          {
+            "x": 259,
+            "y": 15
+          },
+          {
+            "x": 259,
+            "y": 30
+          },
+          {
+            "x": 13,
+            "y": 30
+          }
+        ],
+        "confidence": 0.9922969
+      }
+    ]
+  }
+}

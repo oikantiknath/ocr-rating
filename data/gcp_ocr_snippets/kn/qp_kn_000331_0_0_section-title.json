@@ -1,0 +1,32 @@
+{
+  "page_number": 331,
+  "ocr_output": {
+    "blocks": [
+      {
+        "block_text": "SPECIMEN",
+        "lines": [
+          "SPECIMEN"
+        ],
+        "bounding_box": [
+          {
+            "x": 38,
+            "y": 1
+          },
+          {
+            "x": 435,
+            "y": 9
+          },
+          {
+            "x": 434,
+            "y": 58
+          },
+          {
+            "x": 37,
+            "y": 50
+          }
+        ],
+        "confidence": 0.9875916
+      }
+    ]
+  }
+}

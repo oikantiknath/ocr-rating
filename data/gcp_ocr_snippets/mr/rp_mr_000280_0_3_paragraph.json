@@ -1,0 +1,82 @@
+{
+  "page_number": 280,
+  "ocr_output": {
+    "blocks": [
+      {
+        "block_text": "\" Most of all , like a good race - horse , to hold the reader's attention the short story must get off to a good start . It's the start and the finish that count , and the beginning , the right beginning is usually the harder for the creater to obtain , in the hands of the amateurs here is where the catastrophe usually",
+        "lines": [
+          "\" Most of all , like a good race - horse , to hold the reader's attention the short story must get off to a good start . It's the start and the finish that count , and the beginning , the right beginning is usually the harder for the creater to obtain , in the hands of the amateurs here is where the catastrophe usually"
+        ],
+        "bounding_box": [
+          {
+            "x": 9,
+            "y": 9
+          },
+          {
+            "x": 1065,
+            "y": 9
+          },
+          {
+            "x": 1065,
+            "y": 210
+          },
+          {
+            "x": 9,
+            "y": 210
+          }
+        ],
+        "confidence": 0.9816814
+      },
+      {
+        "block_text": ",, १०",
+        "lines": [
+          ",, १०"
+        ],
+        "bounding_box": [
+          {
+            "x": 140,
+            "y": 232
+          },
+          {
+            "x": 174,
+            "y": 231
+          },
+          {
+            "x": 174,
+            "y": 246
+          },
+          {
+            "x": 140,
+            "y": 247
+          }
+        ],
+        "confidence": 0.73999935
+      },
+      {
+        "block_text": "occurs ... '",
+        "lines": [
+          "occurs ... '"
+        ],
+        "bounding_box": [
+          {
+            "x": 9,
+            "y": 242
+          },
+          {
+            "x": 143,
+            "y": 243
+          },
+          {
+            "x": 143,
+            "y": 262
+          },
+          {
+            "x": 9,
+            "y": 261
+          }
+        ],
+        "confidence": 0.9020347
+      }
+    ]
+  }
+}

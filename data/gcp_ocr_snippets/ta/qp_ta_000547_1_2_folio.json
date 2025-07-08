@@ -1,0 +1,32 @@
+{
+  "page_number": 547,
+  "ocr_output": {
+    "blocks": [
+      {
+        "block_text": "PSGS / 17",
+        "lines": [
+          "PSGS / 17"
+        ],
+        "bounding_box": [
+          {
+            "x": 3,
+            "y": 4
+          },
+          {
+            "x": 54,
+            "y": 4
+          },
+          {
+            "x": 54,
+            "y": 15
+          },
+          {
+            "x": 3,
+            "y": 15
+          }
+        ],
+        "confidence": 0.98206496
+      }
+    ]
+  }
+}

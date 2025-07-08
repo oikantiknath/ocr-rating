@@ -1,0 +1,32 @@
+{
+  "page_number": 546,
+  "ocr_output": {
+    "blocks": [
+      {
+        "block_text": "H14",
+        "lines": [
+          "H14"
+        ],
+        "bounding_box": [
+          {
+            "x": 6,
+            "y": 11
+          },
+          {
+            "x": 32,
+            "y": 11
+          },
+          {
+            "x": 32,
+            "y": 20
+          },
+          {
+            "x": 6,
+            "y": 20
+          }
+        ],
+        "confidence": 0.98217857
+      }
+    ]
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "sdk_http_response": {
+    "headers": {
+      "content-type": "application/json; charset=UTF-8",
+      "vary": "Origin, X-Origin, Referer",
+      "content-encoding": "gzip",
+      "date": "Fri, 04 Jul 2025 05:05:21 GMT",
+      "server": "scaffolding on HTTPServer2",
+      "x-xss-protection": "0",
+      "x-frame-options": "SAMEORIGIN",
+      "x-content-type-options": "nosniff",
+      "server-timing": "gfet4t7; dur=25952",
+      "alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
+      "transfer-encoding": "chunked"
+    },
+    "body": null
+  },
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "പാലക്കാട് : ജില്ലയിൽ ആകെയാണു ള്ള\nന്നലെ 202 പേർക്ക് രോഗം സ്ഥിരീകരി\nച്ചു. ആദ്യമായാണ് ഒരു ദിവസം തന്നെ\nരോഗികളുടെ എണ്ണം 200 കടക്കുന്നത്.\n136 പേർക്ക് സമ്പർക്കത്തിലൂടെയും 23\nപേർ ഉറവിടം അറിയാത്ത രോഗബാധി\nതരുമാണ്. പട്ടാമ്പിയിലും സമീപ പ്രദേ\nശങ്ങളിലുമുള്ള 82 പേരും സമ്പർക്ക\nരോഗികളിൽ ഉൾപ്പെടും. ആരോഗ്യപ്ര\nവർത്തകരും തമിഴ് നാട്ടിൽനിന്നും രോ\nഗം ബാധിച്ചിട്ടുണ്ട്. രോഗികളിൽ ഇതര\nസംസ്ഥാനങ്ങളിൽ നിന്നും 22 പേർ,\nവിവിധ രാജ്യങ്ങളിൽ നിന്നും 21 പേ"
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": "STOP",
+      "safety_ratings": [
+        {
+          "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HATE_SPEECH",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HARASSMENT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+          "probability": "NEGLIGIBLE"
+        }
+      ],
+      "token_count": null
+    }
+  ],
+  "create_time": null,
+  "response_id": null,
+  "model_version": "gemini-2.5-pro",
+  "prompt_feedback": null,
+  "usage_metadata": {
+    "cache_tokens_details": null,
+    "cached_content_token_count": null,
+    "candidates_token_count": 159,
+    "candidates_tokens_details": null,
+    "prompt_token_count": 738,
+    "prompt_tokens_details": [
+      {
+        "modality": "TEXT",
+        "token_count": 480
+      },
+      {
+        "modality": "IMAGE",
+        "token_count": 258
+      }
+    ],
+    "thoughts_token_count": 2181,
+    "tool_use_prompt_token_count": null,
+    "tool_use_prompt_tokens_details": null,
+    "total_token_count": 3078,
+    "traffic_type": null
+  },
+  "automatic_function_calling_history": [],
+  "parsed": null,
+  "page_number": 127
+}

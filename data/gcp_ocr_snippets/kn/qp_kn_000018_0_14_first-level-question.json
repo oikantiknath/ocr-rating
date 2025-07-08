@@ -1,0 +1,207 @@
+{
+  "page_number": 18,
+  "ocr_output": {
+    "blocks": [
+      {
+        "block_text": "77. You can telephone me",
+        "lines": [
+          "77. You can telephone me"
+        ],
+        "bounding_box": [
+          {
+            "x": 13,
+            "y": 4
+          },
+          {
+            "x": 304,
+            "y": 8
+          },
+          {
+            "x": 304,
+            "y": 30
+          },
+          {
+            "x": 13,
+            "y": 26
+          }
+        ],
+        "confidence": 0.98750377
+      },
+      {
+        "block_text": "you like .",
+        "lines": [
+          "you like ."
+        ],
+        "bounding_box": [
+          {
+            "x": 483,
+            "y": 12
+          },
+          {
+            "x": 575,
+            "y": 4
+          },
+          {
+            "x": 576,
+            "y": 22
+          },
+          {
+            "x": 485,
+            "y": 30
+          }
+        ],
+        "confidence": 0.94947505
+      },
+      {
+        "block_text": "( B ) whatever",
+        "lines": [
+          "( B ) whatever"
+        ],
+        "bounding_box": [
+          {
+            "x": 605,
+            "y": 43
+          },
+          {
+            "x": 763,
+            "y": 42
+          },
+          {
+            "x": 763,
+            "y": 63
+          },
+          {
+            "x": 605,
+            "y": 64
+          }
+        ],
+        "confidence": 0.9861353
+      },
+      {
+        "block_text": "( A )",
+        "lines": [
+          "( A )"
+        ],
+        "bounding_box": [
+          {
+            "x": 130,
+            "y": 43
+          },
+          {
+            "x": 162,
+            "y": 43
+          },
+          {
+            "x": 162,
+            "y": 63
+          },
+          {
+            "x": 130,
+            "y": 63
+          }
+        ],
+        "confidence": 0.9460407
+      },
+      {
+        "block_text": "however",
+        "lines": [
+          "however"
+        ],
+        "bounding_box": [
+          {
+            "x": 188,
+            "y": 43
+          },
+          {
+            "x": 279,
+            "y": 43
+          },
+          {
+            "x": 279,
+            "y": 62
+          },
+          {
+            "x": 188,
+            "y": 62
+          }
+        ],
+        "confidence": 0.99142075
+      },
+      {
+        "block_text": "( C ) whenever",
+        "lines": [
+          "( C ) whenever"
+        ],
+        "bounding_box": [
+          {
+            "x": 130,
+            "y": 78
+          },
+          {
+            "x": 292,
+            "y": 77
+          },
+          {
+            "x": 292,
+            "y": 99
+          },
+          {
+            "x": 130,
+            "y": 100
+          }
+        ],
+        "confidence": 0.9774105
+      },
+      {
+        "block_text": "whichever",
+        "lines": [
+          "whichever"
+        ],
+        "bounding_box": [
+          {
+            "x": 663,
+            "y": 78
+          },
+          {
+            "x": 774,
+            "y": 77
+          },
+          {
+            "x": 774,
+            "y": 98
+          },
+          {
+            "x": 663,
+            "y": 99
+          }
+        ],
+        "confidence": 0.9939553
+      },
+      {
+        "block_text": "( D )",
+        "lines": [
+          "( D )"
+        ],
+        "bounding_box": [
+          {
+            "x": 605,
+            "y": 78
+          },
+          {
+            "x": 637,
+            "y": 78
+          },
+          {
+            "x": 637,
+            "y": 100
+          },
+          {
+            "x": 605,
+            "y": 100
+          }
+        ],
+        "confidence": 0.9822179
+      }
+    ]
+  }
+}

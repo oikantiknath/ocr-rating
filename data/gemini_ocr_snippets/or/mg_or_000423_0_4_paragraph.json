@@ -1,0 +1,79 @@
+{
+  "sdk_http_response": {
+    "headers": {
+      "content-type": "application/json; charset=UTF-8",
+      "vary": "Origin, X-Origin, Referer",
+      "content-encoding": "gzip",
+      "date": "Fri, 04 Jul 2025 03:58:50 GMT",
+      "server": "scaffolding on HTTPServer2",
+      "x-xss-protection": "0",
+      "x-frame-options": "SAMEORIGIN",
+      "x-content-type-options": "nosniff",
+      "server-timing": "gfet4t7; dur=38627",
+      "alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
+      "transfer-encoding": "chunked"
+    },
+    "body": null
+  },
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "ସେମାନଙ୍କ ମତରେ ଶ୍ରୀଯୁକ୍ତ ଗାନ୍ଧୀ\nପ୍ରକୃତ ନେତା ପଦରୁ ଅର୍ଥାତ୍\nସଭାପତି ପଦରୁ ଇସ୍ତଫା ପ୍ରଦାନ\nକରଥିଲେ । ତାଙ୍କୁ ବହିଷ୍କାର\nକୁ ଅଣାଗଲେ ବେଳେ ତାଙ୍କର ନାମ\nକିମ୍ବା ନଥିଲା ତ ସେ ନଥିଲେ ।\nକିନ୍ତୁ ତାଙ୍କ ମନ୍ତ୍ରୀ ଓ ଦଳରୁ ବହୁ\nସ୍ଥଳ ଏବଂ ବହୁ ଲୋକ ବେଆଇନ\nପ୍ରବେଶ୍ କ୍ଲା । ପ୍ରମାଣ ନଥିଲା । ସେହି\nବେଳେବେଳକୁ ଶ୍ରୀଯୁକ୍ତ କୃଷ୍ଣ-\nଚନ୍ଦ୍ର ଦେବ୍ ହୋଇଯାଇଥିଲେ ମଧ୍ୟ\n‘ନେସନାଲ୍ ଦଳ’ ଗଠନ ପରେ ୨୫।\nରେ ହେଲା । ଏହି ଦଳରୁ ଉତ୍କଳ\nକାଉନସିଲ୍ ତାଙ୍କ ସପକ୍ଷରେ ଥିବା\nସଭ୍ୟଙ୍କୁ ବାହାର କରିଥିଲେ ଏବଂ ତାଙ୍କ\nବଦଳରେ ନୂତନ ସଭ୍ୟଙ୍କୁ ଗ୍ରହଣ\nକରିବାର ଆଦେଶ ଦେଇଥିବାରୁ\nହୋଇଥିଲା ।"
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": "STOP",
+      "safety_ratings": [
+        {
+          "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HATE_SPEECH",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HARASSMENT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+          "probability": "NEGLIGIBLE"
+        }
+      ],
+      "token_count": null
+    }
+  ],
+  "create_time": null,
+  "response_id": null,
+  "model_version": "gemini-2.5-pro",
+  "prompt_feedback": null,
+  "usage_metadata": {
+    "cache_tokens_details": null,
+    "cached_content_token_count": null,
+    "candidates_token_count": 323,
+    "candidates_tokens_details": null,
+    "prompt_token_count": 782,
+    "prompt_tokens_details": [
+      {
+        "modality": "TEXT",
+        "token_count": 524
+      },
+      {
+        "modality": "IMAGE",
+        "token_count": 258
+      }
+    ],
+    "thoughts_token_count": 3194,
+    "tool_use_prompt_token_count": null,
+    "tool_use_prompt_tokens_details": null,
+    "total_token_count": 4299,
+    "traffic_type": null
+  },
+  "automatic_function_calling_history": [],
+  "parsed": null,
+  "page_number": 49
+}

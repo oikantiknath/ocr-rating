@@ -1,0 +1,32 @@
+{
+  "page_number": 295,
+  "ocr_output": {
+    "blocks": [
+      {
+        "block_text": "Page 74",
+        "lines": [
+          "Page 74"
+        ],
+        "bounding_box": [
+          {
+            "x": 10,
+            "y": 25
+          },
+          {
+            "x": 119,
+            "y": 21
+          },
+          {
+            "x": 120,
+            "y": 48
+          },
+          {
+            "x": 11,
+            "y": 52
+          }
+        ],
+        "confidence": 0.9530917
+      }
+    ]
+  }
+}

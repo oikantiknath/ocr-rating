@@ -1,0 +1,79 @@
+{
+  "sdk_http_response": {
+    "headers": {
+      "content-type": "application/json; charset=UTF-8",
+      "vary": "Origin, X-Origin, Referer",
+      "content-encoding": "gzip",
+      "date": "Fri, 04 Jul 2025 04:48:06 GMT",
+      "server": "scaffolding on HTTPServer2",
+      "x-xss-protection": "0",
+      "x-frame-options": "SAMEORIGIN",
+      "x-content-type-options": "nosniff",
+      "server-timing": "gfet4t7; dur=48351",
+      "alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
+      "transfer-encoding": "chunked"
+    },
+    "body": null
+  },
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "ಇಷ್ಟಕ್ಕೂ ಇಷ್ಟಾದರೂ ತನ್ನ ವಾಯೋಮಾನದ ತೀವ್ರಗತಿಗೆ ತಡೆವೊಡ್ಡದಿಂದ\nನೋಡುತ್ತಾ ಭಾರತಿ ಯೋಚಿಸಿದಳು. 'ನಾವೆಲ್ಲ ವಿದ್ಯಾರ್ಥಿ ಜೀವನದಲ್ಲಿ ಎಷ್ಟೊಂದು\nಉಲವಿಕೆಯಿಂದ ಹಾಗೂ ಕ್ರಿಯಾಶೀಲತೆಯಿಂದ ಇದ್ದೀವಿ. ತೇಜಸ್ ಅತ್ಯಂತ\nಶಾಂತಚಿತ್ತದವನಾಗಿದ್ದರೂ ತಬಲಾ ಮುಂದೆ ಕುಳಿತೆಂದರೆ ಬೆರಳುಗಳ ಚಲನೆಯ\nವೇಗವು ಸಂಗೀತದ ನಾದವನ್ನು ಲಯಬದ್ಧವಾಗಿ ಹೊರಡಿಸುತ್ತಿತ್ತು. ಆದರೆ, ಮಕ್ಕಳ\nಗೇಯನ ಸಾಧನೆ ತೀರಿಗೆ ವಾಯಲಿನ್ ಪಕ್ಕದ ನಾಟಕಗಳ ಪಾತ್ರಗಳಿಗಷ್ಟೇ ಸೀಮಿತನಾದ.\nಮತ್ತು ಗೌರಿ, ಅವಳಲ್ಲಿದ್ದದ್ದು ನಾಟ್ಯ. ನಟನೆ ಹಾಗೂ ಆಂಗಿಕ ಅಭಿನಯಗಳಿಗೆ ಸರಿಗಾಟಿ\nಧಾರವಾಡದಲ್ಲಿ ಯಾರೂ ಇರಲಿಲ್ಲ. ಮೊದ ಮೊದಲಿಗೆ ಅವಳ ಜೊತೆ ಸ್ಪರ್ಧೆಗೆ\nಇಳಿದವನಾದರೂ ಆಕೆಯ ಎದುರಿಗೆ ಮುಂದೆ ನಾನು ಸೋಲನ್ನು ಒಪ್ಪಿಕೊಳ್ಳಬೇಕಾಯಿತು.\nರೂಪದಲ್ಲಿ ಗೌರಿ ನಮ್ಮ ಬೆನ್ನಿಗಿಲ್ಲದಿದ್ದರೂ ಪ್ರತಿಯೊಂದರಲ್ಲಿ ಮುಂಚೂಣಿಯಲ್ಲಿದ್ದಳು.\nದಕ್ಕಿಸಿಕೊಳ್ಳುತ್ತಿದ್ದಳು. ಹೈಸ್ಕೂಲಿನಲ್ಲಿರುವಾಗ ಕೆಲನಾಟಕಗಳಲ್ಲಿ ನಾವು ನಾಲೈದು ಪರುಷರಷ್ಟೇ\nಮಂಗನ ಹಾಗೂ ಮಕ್ಕಳ ಪಾತ್ರಗಳನ್ನು ಮಾಡಿ ಸಂತೋಷ ಪಡುತ್ತಿದ್ದೆವು. ನಾವು ಬೆಳೆದಂತೆ\nಕಾಲೇಜಿನಲ್ಲಿ ಬೀರಿಸಿದಾಗ, ತೇಜಸ್, ಯಯಾತಿ, ಚಿರಬಂದವಾದ, ವಿರಬೋರ\nಸಂಗ್ಯಾಬಾಳ್ಯಾ ಮುಂತಾದ ನಾಟಕಗಳನ್ನು ಪ್ರದರ್ಶಿಸುವಾಗ ಯಾವುದೇ ಊರುಗಳಿಗೂ\nತಿರುಗಲಿಲ್ಲ' ಅವಳ ಮನಸ್ಸು ರೈಲು ಬಂಡಿಯ ನಿದ್ದಿನ ತಾಳಕ್ಕೆ ತೂಗುತ್ತ ನಾನೆಂದೆ."
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": "STOP",
+      "safety_ratings": [
+        {
+          "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HATE_SPEECH",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HARASSMENT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+          "probability": "NEGLIGIBLE"
+        }
+      ],
+      "token_count": null
+    }
+  ],
+  "create_time": null,
+  "response_id": null,
+  "model_version": "gemini-2.5-pro",
+  "prompt_feedback": null,
+  "usage_metadata": {
+    "cache_tokens_details": null,
+    "cached_content_token_count": null,
+    "candidates_token_count": 393,
+    "candidates_tokens_details": null,
+    "prompt_token_count": 728,
+    "prompt_tokens_details": [
+      {
+        "modality": "TEXT",
+        "token_count": 470
+      },
+      {
+        "modality": "IMAGE",
+        "token_count": 258
+      }
+    ],
+    "thoughts_token_count": 4172,
+    "tool_use_prompt_token_count": null,
+    "tool_use_prompt_tokens_details": null,
+    "total_token_count": 5293,
+    "traffic_type": null
+  },
+  "automatic_function_calling_history": [],
+  "parsed": null,
+  "page_number": 34
+}

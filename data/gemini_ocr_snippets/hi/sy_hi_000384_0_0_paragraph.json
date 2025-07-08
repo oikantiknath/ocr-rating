@@ -1,0 +1,79 @@
+{
+  "sdk_http_response": {
+    "headers": {
+      "content-type": "application/json; charset=UTF-8",
+      "vary": "Origin, X-Origin, Referer",
+      "content-encoding": "gzip",
+      "date": "Fri, 04 Jul 2025 03:23:36 GMT",
+      "server": "scaffolding on HTTPServer2",
+      "x-xss-protection": "0",
+      "x-frame-options": "SAMEORIGIN",
+      "x-content-type-options": "nosniff",
+      "server-timing": "gfet4t7; dur=37319",
+      "alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
+      "transfer-encoding": "chunked"
+    },
+    "body": null
+  },
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "भारत की जनसंख्या का संघटन : जनसंख्या के आयु और लैंगिक ढांचे पर प्रतिकूल प्रभाव डालने वाले\nजनसांख्यिकीय, सामाजिक, आर्थिक और सांस्कृतिक, कारक और जनसंख्या के परिवर्तन : वैश्विक और भारतीय\nपरिप्रेक्ष्य में उसकी प्रासंगिकता, जनसंख्या का क्षेत्रीय वितरण : जनसंख्या के सकेंद्रीयकरण का परिमाप :\nघनत्व, वितरण, असमानता सूचकांक, शहरीकरण की रफ्तार, प्रास्थिति-आकार नियम, गिनी का सकेंद्रण\nअनुपात, लोरेंज का वक्र आदि; जनसंख्या के क्षेत्रीय वितरण, घनत्व और सकेंद्रण पर प्रतिकूल प्रभाव डालने\nवाले कारक – वैश्विक, राष्ट्रीय, क्षेत्रीय प्रतिमान।"
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": "STOP",
+      "safety_ratings": [
+        {
+          "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HATE_SPEECH",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HARASSMENT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+          "probability": "NEGLIGIBLE"
+        }
+      ],
+      "token_count": null
+    }
+  ],
+  "create_time": null,
+  "response_id": null,
+  "model_version": "gemini-2.5-pro",
+  "prompt_feedback": null,
+  "usage_metadata": {
+    "cache_tokens_details": null,
+    "cached_content_token_count": null,
+    "candidates_token_count": 136,
+    "candidates_tokens_details": null,
+    "prompt_token_count": 759,
+    "prompt_tokens_details": [
+      {
+        "modality": "TEXT",
+        "token_count": 501
+      },
+      {
+        "modality": "IMAGE",
+        "token_count": 258
+      }
+    ],
+    "thoughts_token_count": 3306,
+    "tool_use_prompt_token_count": null,
+    "tool_use_prompt_tokens_details": null,
+    "total_token_count": 4201,
+    "traffic_type": null
+  },
+  "automatic_function_calling_history": [],
+  "parsed": null,
+  "page_number": 328
+}

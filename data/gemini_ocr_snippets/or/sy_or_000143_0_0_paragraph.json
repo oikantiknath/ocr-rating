@@ -1,0 +1,79 @@
+{
+  "sdk_http_response": {
+    "headers": {
+      "content-type": "application/json; charset=UTF-8",
+      "vary": "Origin, X-Origin, Referer",
+      "content-encoding": "gzip",
+      "date": "Fri, 04 Jul 2025 04:04:21 GMT",
+      "server": "scaffolding on HTTPServer2",
+      "x-xss-protection": "0",
+      "x-frame-options": "SAMEORIGIN",
+      "x-content-type-options": "nosniff",
+      "server-timing": "gfet4t7; dur=61686",
+      "alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
+      "transfer-encoding": "chunked"
+    },
+    "body": null
+  },
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "ପ୍ରବନ୍ଧରେ ଗୋଟିଏ ସମ୍ବନ୍ଧର ସମାପ୍ତି ଏବଂ ଅନ୍ୟ ସମ୍ବନ୍ଧର ଆରମ୍ଭ ସୂଚାଇବା ପାଇଁ କୌଣସି ଚିହ୍ନ ଦେଖା\nନାହିଁ । ଯେତେବେଳେ ଦୁଇଟି ସମ୍ବନ୍ଧ ସଂଲଗ୍ନ ହୁଅନ୍ତି, ସେଠାରେ ସେମାନଙ୍କ ମଧ୍ୟରେ ସଂଯୋଗର ଏକ କ୍ଷୀଣ,\nଅତି, ସେଠାରେ ଦୁଇ ସମ୍ବନ୍ଧର ସ୍ଥଳଟି ଏକତ୍ରିତ ହୁଏ । ଦୁଇଟି ପୃଥକ୍ ସମ୍ବନ୍ଧ ମଧ୍ୟରେ ଥିବା ପରିବର୍ତ୍ତନ\nକିମ୍ବା ମାର୍ଜିତ ଲୋପ ପାଇଁ ପ୍ରତ୍ୟେକ ପରିଚ୍ଛେଦର ଆରମ୍ଭରେ କିଛି ସ୍ଥାନ ଛଡ଼ାଯାଏ ଏବଂ ଉପସଂହାର\nଲୋପ ବା ଶୂନ୍ୟସ୍ଥାନ ଲୋପ କରାଯାଏ । ତୃତୀୟ ଏବଂ ଚତୁର୍ଥ ଲୋପ ଥିବା ଯେକୌଣସି\nଦୁଇଟି ପୃଥକ୍ କିମ୍ବା ଭିନ୍ନ ସମ୍ବନ୍ଧଗୁଡ଼ିକର ମଧ୍ୟବର୍ତ୍ତୀ ଲୋପ କହେ – ପ୍ରଥମ ଉଦାହରଣ । ଦ୍ଵିତୀୟ ଭାଗରେ\nକହିବାକୁ ଗଲେ, ସଂଯୋଗ ଲୋପ, ଏକ ଲୋପ-ସ୍ଥଳ ଅଟେ, ଯଦି ଏକ ସମାପ୍ତ ସମ୍ବନ୍ଧ ମଧ୍ୟରେ ବିଷୟ\nବଦଳିଯାଏ । ଲୋପ, ସେହି ସ୍ଥଳଚିହ୍ନିତ ସ୍ଥାନ ଯାହାକି ପରବର୍ତ୍ତୀ କଥାବାର୍ତ୍ତା ଦ୍ଵାରା ସାଧାରଣତଃ ଉଭୟ\nପକ୍ଷର ସମ୍ବନ୍ଧରେ କେତେକ ବହୁମୂଲ୍ୟ ସୂଚନା ଏବଂ ସ୍ଥାନ ଦେଖାଯାଏ । ଏକ ନିୟମ ଅନୁଯାୟୀ,\nଲୋପ – ଲୋପ ସମୟରେ ରହୁଥିବା ସମ୍ବନ୍ଧ ଅପେକ୍ଷା ଅଧିକ ସ୍ଥଳଟି ଏବଂ ପ୍ରାସଙ୍ଗିକତା ଧାରଣ\nକରିଥାଏ । ଏହାକୁ “ତ୍ରିପିଟକ ଅଫ୍ ଏମ୍” ବା ପାଠର ମୂଳତତ୍ତ୍ଵ କୁହାଯାଏ । ଏହି ପାଠର ପ୍ରକାର ମଧ୍ୟରେ ଅନୁଚ୍ଛେଦ\nପରିଚ୍ଛେଦ ପରିବର୍ତ୍ତନ ବ୍ୟତୀତ ବିଷୟ ପରିବର୍ତ୍ତନ ପାଇଁ ବ୍ୟବହାର କରାଯାଏ ।"
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": "STOP",
+      "safety_ratings": [
+        {
+          "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HATE_SPEECH",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HARASSMENT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+          "probability": "NEGLIGIBLE"
+        }
+      ],
+      "token_count": null
+    }
+  ],
+  "create_time": null,
+  "response_id": null,
+  "model_version": "gemini-2.5-pro",
+  "prompt_feedback": null,
+  "usage_metadata": {
+    "cache_tokens_details": null,
+    "cached_content_token_count": null,
+    "candidates_token_count": 699,
+    "candidates_tokens_details": null,
+    "prompt_token_count": 783,
+    "prompt_tokens_details": [
+      {
+        "modality": "TEXT",
+        "token_count": 525
+      },
+      {
+        "modality": "IMAGE",
+        "token_count": 258
+      }
+    ],
+    "thoughts_token_count": 5462,
+    "tool_use_prompt_token_count": null,
+    "tool_use_prompt_tokens_details": null,
+    "total_token_count": 6944,
+    "traffic_type": null
+  },
+  "automatic_function_calling_history": [],
+  "parsed": null,
+  "page_number": 299
+}

@@ -1,0 +1,79 @@
+{
+  "sdk_http_response": {
+    "headers": {
+      "content-type": "application/json; charset=UTF-8",
+      "vary": "Origin, X-Origin, Referer",
+      "content-encoding": "gzip",
+      "date": "Fri, 04 Jul 2025 05:04:43 GMT",
+      "server": "scaffolding on HTTPServer2",
+      "x-xss-protection": "0",
+      "x-frame-options": "SAMEORIGIN",
+      "x-content-type-options": "nosniff",
+      "server-timing": "gfet4t7; dur=77831",
+      "alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
+      "transfer-encoding": "chunked"
+    },
+    "body": null
+  },
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "മഹാകവി കുമാരനാശാന്റെ ഒരുമഹദ് ഗ്രന്ഥം പ്രസി\nദ്ധം ചെയ്തപ്പോൾ ഗ്രന്ഥങ്ങളിൽ ചിലർ മഹാകവി\nയുടെ മതത്തെ ആക്ഷേപിച്ചുവെന്ന് ആരോ\nപണമുയർത്തിയ പ്രമേയം പാസ്സാക്കി. അതിൽ\nഈസ്ലാംമതത്തെയും സമുദായത്തെയും അകാരണ\nമായും അടിസ്ഥാനരഹിതമായും അവഹേളിക്കുക\nയും അധികാക്ഷേപകമായും ചെയ്യുന്ന ഒട്ടനവധി പ്ര\nയോഗങ്ങൾ കാണുന്നതിനാൽ ഈ കൃതി പ്രസി\nദ്ധീകരണത്തിൽനിന്ന് പിൻവലിക്കണമെന്നാ\nവശ്യപ്പെട്ടു. അതിന് ആശാൻ നൽകിയ\nമറുപടി പലരും വിസ്മരിക്കുന്നു. 'ഒരുമഹദ് ഗ്രന്ഥം\nഎന്റെ കൃതിയിൽ നിങ്ങളുടെ മതത്തെയും സമുദാ\nയത്തെയും പൊതുവെ സ്പർശിക്കുന്നതായി സന്ദേ\nഹമായ യാതൊരു വാക്കും പ്രയോഗിച്ചിട്ടുള്ളതാ\nയി ഓർക്കുന്നില്ല. മലബാറിൽ ലഹള നടത്തിയ\nആളുകളെയും ഖിലാഫത്തിനെയും, മതഭ്രാന്തിന\nടിൻനിർമ്മിതമായ അവരുടെ പൈശാചികപ്രവൃ\nത്തികളെയും അതിൽ കാവ്യയോജ്യമായവിധ\nത്തിൽ വർണ്ണിച്ചിട്ടുണ്ട്. ആ സന്ദർഭത്തിൽ രസാ\nത്മകമായും ലഘുവായും സംബന്ധിപ്പാനായി അവി\nടവിടെയും വന്നിട്ടുള്ള വാസ്തവങ്ങളെ അടിസ്ഥാനമാക്കിയും\nയുള്ള പ്രയോഗങ്ങൾ അവയെ ആ\nശ്ചര്യത്തെയോ മതത്തെയോ ദ്രോഹിക്കുന്നവയാണ്.\nഒരുമഹത്തായ മതത്തെയോ സമുദായത്തെയോ\nആക്ഷേപിക്കാൻ വിവേകികളാരും തുനിയുകയില്ല. ശരിയായ മതവി\nശ്വാസികളോടുള്ള പുസ്തകം ഭയവിഹ്വലതയോടെയല്ലാ\nതെ വായിച്ചുകേൾപ്പിക്കാവുന്നതാണ്, വസ്തുതകൾ നിങ്ങൾക്കു\nവെളിവാകുന്നതാണ്."
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": "STOP",
+      "safety_ratings": [
+        {
+          "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HATE_SPEECH",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HARASSMENT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+          "probability": "NEGLIGIBLE"
+        }
+      ],
+      "token_count": null
+    }
+  ],
+  "create_time": null,
+  "response_id": null,
+  "model_version": "gemini-2.5-pro",
+  "prompt_feedback": null,
+  "usage_metadata": {
+    "cache_tokens_details": null,
+    "cached_content_token_count": null,
+    "candidates_token_count": 407,
+    "candidates_tokens_details": null,
+    "prompt_token_count": 738,
+    "prompt_tokens_details": [
+      {
+        "modality": "TEXT",
+        "token_count": 480
+      },
+      {
+        "modality": "IMAGE",
+        "token_count": 258
+      }
+    ],
+    "thoughts_token_count": 6598,
+    "tool_use_prompt_token_count": null,
+    "tool_use_prompt_tokens_details": null,
+    "total_token_count": 7743,
+    "traffic_type": null
+  },
+  "automatic_function_calling_history": [],
+  "parsed": null,
+  "page_number": 41
+}

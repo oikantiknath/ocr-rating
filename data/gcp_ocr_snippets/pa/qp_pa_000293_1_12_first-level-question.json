@@ -1,0 +1,257 @@
+{
+  "page_number": 293,
+  "ocr_output": {
+    "blocks": [
+      {
+        "block_text": "27 .",
+        "lines": [
+          "27 ."
+        ],
+        "bounding_box": [
+          {
+            "x": 6,
+            "y": 2
+          },
+          {
+            "x": 20,
+            "y": 4
+          },
+          {
+            "x": 18,
+            "y": 13
+          },
+          {
+            "x": 5,
+            "y": 11
+          }
+        ],
+        "confidence": 0.9555418
+      },
+      {
+        "block_text": "Which feature of MS Word enables us to send same letter to different persons ?",
+        "lines": [
+          "Which feature of MS Word enables us to send same letter to different persons ?"
+        ],
+        "bounding_box": [
+          {
+            "x": 36,
+            "y": 2
+          },
+          {
+            "x": 439,
+            "y": 8
+          },
+          {
+            "x": 439,
+            "y": 24
+          },
+          {
+            "x": 36,
+            "y": 18
+          }
+        ],
+        "confidence": 0.99283105
+      },
+      {
+        "block_text": ".S",
+        "lines": [
+          ".S"
+        ],
+        "bounding_box": [
+          {
+            "x": 499,
+            "y": 9
+          },
+          {
+            "x": 508,
+            "y": 10
+          },
+          {
+            "x": 507,
+            "y": 17
+          },
+          {
+            "x": 498,
+            "y": 16
+          }
+        ],
+        "confidence": 0.5995359
+      },
+      {
+        "block_text": "ਹੇਠ ਕਿੱਤੇ ਵਿੱਚੋਂ ਕਿਹੜੀ MS Word ਦੀ ਵਿਸ਼ੇਸ਼ਤਾ ਸਾਨੂੰ ਵੱਖੋ ਵੱਖਰੇ ਵਿਅਕਤੀਆਂ ਨੂੰ ਇੱਕੋ ਚਿੱਠੀ ਭੇਜਣ ਦੇ ਯੋਗ ਬਣਾਉਦੀ",
+        "lines": [
+          "ਹੇਠ ਕਿੱਤੇ ਵਿੱਚੋਂ ਕਿਹੜੀ MS Word ਦੀ ਵਿਸ਼ੇਸ਼ਤਾ ਸਾਨੂੰ ਵੱਖੋ ਵੱਖਰੇ ਵਿਅਕਤੀਆਂ ਨੂੰ ਇੱਕੋ ਚਿੱਠੀ ਭੇਜਣ ਦੇ ਯੋਗ ਬਣਾਉਦੀ"
+        ],
+        "bounding_box": [
+          {
+            "x": 33,
+            "y": 16
+          },
+          {
+            "x": 514,
+            "y": 24
+          },
+          {
+            "x": 514,
+            "y": 46
+          },
+          {
+            "x": 33,
+            "y": 38
+          }
+        ],
+        "confidence": 0.9242923
+      },
+      {
+        "block_text": "ਹੋ ?",
+        "lines": [
+          "ਹੋ ?"
+        ],
+        "bounding_box": [
+          {
+            "x": 35,
+            "y": 36
+          },
+          {
+            "x": 49,
+            "y": 40
+          },
+          {
+            "x": 46,
+            "y": 53
+          },
+          {
+            "x": 31,
+            "y": 49
+          }
+        ],
+        "confidence": 0.6005108
+      },
+      {
+        "block_text": "( a ) Macros",
+        "lines": [
+          "( a ) Macros"
+        ],
+        "bounding_box": [
+          {
+            "x": 36,
+            "y": 59
+          },
+          {
+            "x": 104,
+            "y": 59
+          },
+          {
+            "x": 104,
+            "y": 71
+          },
+          {
+            "x": 36,
+            "y": 71
+          }
+        ],
+        "confidence": 0.96954006
+      },
+      {
+        "block_text": "Mail merge",
+        "lines": [
+          "Mail merge"
+        ],
+        "bounding_box": [
+          {
+            "x": 304,
+            "y": 60
+          },
+          {
+            "x": 365,
+            "y": 65
+          },
+          {
+            "x": 364,
+            "y": 74
+          },
+          {
+            "x": 303,
+            "y": 70
+          }
+        ],
+        "confidence": 0.9852361
+      },
+      {
+        "block_text": "( b ) Template",
+        "lines": [
+          "( b ) Template"
+        ],
+        "bounding_box": [
+          {
+            "x": 155,
+            "y": 61
+          },
+          {
+            "x": 234,
+            "y": 61
+          },
+          {
+            "x": 234,
+            "y": 72
+          },
+          {
+            "x": 155,
+            "y": 72
+          }
+        ],
+        "confidence": 0.98575974
+      },
+      {
+        "block_text": "( c )",
+        "lines": [
+          "( c )"
+        ],
+        "bounding_box": [
+          {
+            "x": 274,
+            "y": 61
+          },
+          {
+            "x": 287,
+            "y": 61
+          },
+          {
+            "x": 287,
+            "y": 72
+          },
+          {
+            "x": 274,
+            "y": 72
+          }
+        ],
+        "confidence": 0.93415844
+      },
+      {
+        "block_text": "( d ) Reviewing Pane .",
+        "lines": [
+          "( d ) Reviewing Pane ."
+        ],
+        "bounding_box": [
+          {
+            "x": 393,
+            "y": 61
+          },
+          {
+            "x": 510,
+            "y": 63
+          },
+          {
+            "x": 510,
+            "y": 77
+          },
+          {
+            "x": 393,
+            "y": 75
+          }
+        ],
+        "confidence": 0.9459366
+      }
+    ]
+  }
+}

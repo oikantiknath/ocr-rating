@@ -1,0 +1,257 @@
+{
+  "page_number": 258,
+  "ocr_output": {
+    "blocks": [
+      {
+        "block_text": "had a small kitchen garden that she tended to .",
+        "lines": [
+          "had a small kitchen garden that she tended to ."
+        ],
+        "bounding_box": [
+          {
+            "x": 102,
+            "y": 14
+          },
+          {
+            "x": 342,
+            "y": 27
+          },
+          {
+            "x": 341,
+            "y": 39
+          },
+          {
+            "x": 101,
+            "y": 26
+          }
+        ],
+        "confidence": 0.9859468
+      },
+      {
+        "block_text": "62 .",
+        "lines": [
+          "62 ."
+        ],
+        "bounding_box": [
+          {
+            "x": 9,
+            "y": 16
+          },
+          {
+            "x": 23,
+            "y": 16
+          },
+          {
+            "x": 23,
+            "y": 25
+          },
+          {
+            "x": 9,
+            "y": 25
+          }
+        ],
+        "confidence": 0.95049745
+      },
+      {
+        "block_text": "( a )",
+        "lines": [
+          "( a )"
+        ],
+        "bounding_box": [
+          {
+            "x": 37,
+            "y": 33
+          },
+          {
+            "x": 51,
+            "y": 33
+          },
+          {
+            "x": 51,
+            "y": 45
+          },
+          {
+            "x": 37,
+            "y": 45
+          }
+        ],
+        "confidence": 0.966624
+      },
+      {
+        "block_text": "He",
+        "lines": [
+          "He"
+        ],
+        "bounding_box": [
+          {
+            "x": 69,
+            "y": 35
+          },
+          {
+            "x": 85,
+            "y": 35
+          },
+          {
+            "x": 85,
+            "y": 43
+          },
+          {
+            "x": 69,
+            "y": 43
+          }
+        ],
+        "confidence": 0.94397914
+      },
+      {
+        "block_text": "( b )",
+        "lines": [
+          "( b )"
+        ],
+        "bounding_box": [
+          {
+            "x": 164,
+            "y": 37
+          },
+          {
+            "x": 177,
+            "y": 37
+          },
+          {
+            "x": 177,
+            "y": 49
+          },
+          {
+            "x": 164,
+            "y": 49
+          }
+        ],
+        "confidence": 0.96146405
+      },
+      {
+        "block_text": "Ladies",
+        "lines": [
+          "Ladies"
+        ],
+        "bounding_box": [
+          {
+            "x": 192,
+            "y": 37
+          },
+          {
+            "x": 230,
+            "y": 38
+          },
+          {
+            "x": 230,
+            "y": 51
+          },
+          {
+            "x": 192,
+            "y": 50
+          }
+        ],
+        "confidence": 0.99341226
+      },
+      {
+        "block_text": "Reshma",
+        "lines": [
+          "Reshma"
+        ],
+        "bounding_box": [
+          {
+            "x": 433,
+            "y": 44
+          },
+          {
+            "x": 474,
+            "y": 42
+          },
+          {
+            "x": 474,
+            "y": 51
+          },
+          {
+            "x": 434,
+            "y": 53
+          }
+        ],
+        "confidence": 0.98992074
+      },
+      {
+        "block_text": "( c )",
+        "lines": [
+          "( c )"
+        ],
+        "bounding_box": [
+          {
+            "x": 285,
+            "y": 44
+          },
+          {
+            "x": 297,
+            "y": 45
+          },
+          {
+            "x": 297,
+            "y": 53
+          },
+          {
+            "x": 285,
+            "y": 53
+          }
+        ],
+        "confidence": 0.9223934
+      },
+      {
+        "block_text": "People",
+        "lines": [
+          "People"
+        ],
+        "bounding_box": [
+          {
+            "x": 314,
+            "y": 44
+          },
+          {
+            "x": 349,
+            "y": 45
+          },
+          {
+            "x": 349,
+            "y": 53
+          },
+          {
+            "x": 314,
+            "y": 53
+          }
+        ],
+        "confidence": 0.76429856
+      },
+      {
+        "block_text": "( d )",
+        "lines": [
+          "( d )"
+        ],
+        "bounding_box": [
+          {
+            "x": 403,
+            "y": 44
+          },
+          {
+            "x": 417,
+            "y": 44
+          },
+          {
+            "x": 417,
+            "y": 53
+          },
+          {
+            "x": 403,
+            "y": 53
+          }
+        ],
+        "confidence": 0.9709797
+      }
+    ]
+  }
+}

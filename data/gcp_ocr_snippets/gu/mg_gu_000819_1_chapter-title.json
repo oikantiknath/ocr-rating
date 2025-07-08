@@ -1,0 +1,57 @@
+{
+  "page_number": 819,
+  "ocr_output": {
+    "blocks": [
+      {
+        "block_text": "CHAPTER - 24",
+        "lines": [
+          "CHAPTER - 24"
+        ],
+        "bounding_box": [
+          {
+            "x": 37,
+            "y": 18
+          },
+          {
+            "x": 175,
+            "y": 18
+          },
+          {
+            "x": 175,
+            "y": 30
+          },
+          {
+            "x": 37,
+            "y": 30
+          }
+        ],
+        "confidence": 0.9688468
+      },
+      {
+        "block_text": "Ophthalmological Disorders",
+        "lines": [
+          "Ophthalmological Disorders"
+        ],
+        "bounding_box": [
+          {
+            "x": 15,
+            "y": 45
+          },
+          {
+            "x": 196,
+            "y": 43
+          },
+          {
+            "x": 196,
+            "y": 63
+          },
+          {
+            "x": 15,
+            "y": 65
+          }
+        ],
+        "confidence": 0.987876
+      }
+    ]
+  }
+}

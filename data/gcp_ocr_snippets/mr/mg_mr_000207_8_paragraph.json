@@ -1,0 +1,32 @@
+{
+  "page_number": 207,
+  "ocr_output": {
+    "blocks": [
+      {
+        "block_text": "\" Yes ... Because you knew my es- say would be the best in the class and you can copy it and take all",
+        "lines": [
+          "\" Yes ... Because you knew my es- say would be the best in the class and you can copy it and take all"
+        ],
+        "bounding_box": [
+          {
+            "x": 1,
+            "y": 1
+          },
+          {
+            "x": 211,
+            "y": 1
+          },
+          {
+            "x": 211,
+            "y": 48
+          },
+          {
+            "x": 1,
+            "y": 48
+          }
+        ],
+        "confidence": 0.9771504
+      }
+    ]
+  }
+}

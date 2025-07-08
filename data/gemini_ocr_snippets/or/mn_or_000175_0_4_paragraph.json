@@ -1,0 +1,79 @@
+{
+  "sdk_http_response": {
+    "headers": {
+      "content-type": "application/json; charset=UTF-8",
+      "vary": "Origin, X-Origin, Referer",
+      "content-encoding": "gzip",
+      "date": "Fri, 04 Jul 2025 03:59:22 GMT",
+      "server": "scaffolding on HTTPServer2",
+      "x-xss-protection": "0",
+      "x-frame-options": "SAMEORIGIN",
+      "x-content-type-options": "nosniff",
+      "server-timing": "gfet4t7; dur=40225",
+      "alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
+      "transfer-encoding": "chunked"
+    },
+    "body": null
+  },
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "ପଠନ ଓ ବକ୍ତୃତା ।—ବିଦ୍ୟାଳୟେ ସକଳ ପ୍ରକାରର ଅଧ୍ୟୟନ\nକରାଇବାରେ ଏବଂ ସକଳ ପ୍ରକାର ସଂଶୋଧନ ଶିକ୍ଷା-\nପରେ ସେମାନଙ୍କୁ ଅଧ୍ୟୟନର ନିୟମ ଧରି, ତେବେ ସଂପୂର୍ଣ୍ଣ\nଏବଂ ଅଭ୍ୟାସ କରାଇଲେ ଯେତେ ଶ୍ରମ ସହିତ ଅଧ୍ୟୟନ\nକରିବା ସକାଶେ ଶିଖାଇବାକୁ ହେବ । ଗୋଟିଏ ପଦ୍ଧତି ଅନୁସରଣ\nକଲେ ପ୍ରଥମେ କଷ୍ଟ ହେବ ସତ କିନ୍ତୁ ପାଠ୍ୟାଭ୍ୟାସରେ ଏବଂ ଅଧ୍ୟୟନ\nଶିଖାଇବାକୁ ହେବ । ଶିକ୍ଷକ ଏହି ବିଷୟରେ ଯେତେ କେତେ\nହେବ ପାରନ୍ତି, ତଥା ପାଠଶିକ୍ଷା ଦେଲେ ତାହା ସବୁ ସହଜ\nକାର୍ଯ୍ୟରେ ପ୍ରବୃତ୍ତ ଓ ଶାସ୍ତ୍ରୀ ଜ୍ଞାନରେ ପ୍ରବୃତ୍ତ କରାଇବା କଥା\nବ୍ୟବହାର କରି ପାରନ୍ତି । ବିଦ୍ୟାଳୟେ ସବୁଠାରୁ ସମସ୍ତେ\nରଖିବେ, ସେମାନେ ନିଜ ନିଜ ଅଭ୍ୟାସରେ ସେମାନଙ୍କର ପ୍ରକୃତି\nହେବେ ; ପ୍ରକୃତି ଓ ପ୍ରକାରେ ନିର୍ବାହ ହେବ ତାହା ପ୍ରଥମ\nଶିକ୍ଷା ଦେଖାଇ ପାଠ୍ୟପୁସ୍ତକରେ ସଂଶୋଧନେ ଦୋଷ ସାଧନ ।\nସେମାନେ ଶିକ୍ଷିତ ସକଳ ସ୍ଥଳରେ ସ୍ଵଚ୍ଛନ୍ଦ ଭାବରେ କହିପାରିବେ ।"
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": "STOP",
+      "safety_ratings": [
+        {
+          "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HATE_SPEECH",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HARASSMENT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+          "probability": "NEGLIGIBLE"
+        }
+      ],
+      "token_count": null
+    }
+  ],
+  "create_time": null,
+  "response_id": null,
+  "model_version": "gemini-2.5-pro",
+  "prompt_feedback": null,
+  "usage_metadata": {
+    "cache_tokens_details": null,
+    "cached_content_token_count": null,
+    "candidates_token_count": 457,
+    "candidates_tokens_details": null,
+    "prompt_token_count": 782,
+    "prompt_tokens_details": [
+      {
+        "modality": "TEXT",
+        "token_count": 524
+      },
+      {
+        "modality": "IMAGE",
+        "token_count": 258
+      }
+    ],
+    "thoughts_token_count": 3365,
+    "tool_use_prompt_token_count": null,
+    "tool_use_prompt_tokens_details": null,
+    "total_token_count": 4604,
+    "traffic_type": null
+  },
+  "automatic_function_calling_history": [],
+  "parsed": null,
+  "page_number": 75
+}

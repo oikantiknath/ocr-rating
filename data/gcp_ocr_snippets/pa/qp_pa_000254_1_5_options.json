@@ -1,0 +1,104 @@
+{
+  "page_number": 254,
+  "ocr_output": {
+    "blocks": [
+      {
+        "block_text": "( a ) bacb",
+        "lines": [
+          "( a ) bacb"
+        ],
+        "bounding_box": [
+          {
+            "y": 2
+          },
+          {
+            "x": 56
+          },
+          {
+            "x": 56,
+            "y": 13
+          },
+          {
+            "y": 15
+          }
+        ],
+        "confidence": 0.9753154
+      },
+      {
+        "block_text": "( b ) acba",
+        "lines": [
+          "( b ) acba"
+        ],
+        "bounding_box": [
+          {
+            "x": 125,
+            "y": 2
+          },
+          {
+            "x": 181,
+            "y": 1
+          },
+          {
+            "x": 181,
+            "y": 15
+          },
+          {
+            "x": 125,
+            "y": 16
+          }
+        ],
+        "confidence": 0.9823448
+      },
+      {
+        "block_text": "( c ) caba",
+        "lines": [
+          "( c ) caba"
+        ],
+        "bounding_box": [
+          {
+            "x": 252,
+            "y": 6
+          },
+          {
+            "x": 309,
+            "y": 3
+          },
+          {
+            "x": 310,
+            "y": 17
+          },
+          {
+            "x": 253,
+            "y": 20
+          }
+        ],
+        "confidence": 0.95550025
+      },
+      {
+        "block_text": "( d ) abba",
+        "lines": [
+          "( d ) abba"
+        ],
+        "bounding_box": [
+          {
+            "x": 385,
+            "y": 5
+          },
+          {
+            "x": 448,
+            "y": 6
+          },
+          {
+            "x": 448,
+            "y": 19
+          },
+          {
+            "x": 385,
+            "y": 18
+          }
+        ],
+        "confidence": 0.98883903
+      }
+    ]
+  }
+}

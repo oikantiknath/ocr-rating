@@ -1,0 +1,57 @@
+{
+  "page_number": 292,
+  "ocr_output": {
+    "blocks": [
+      {
+        "block_text": "Kollam District",
+        "lines": [
+          "Kollam District"
+        ],
+        "bounding_box": [
+          {
+            "x": 40,
+            "y": 26
+          },
+          {
+            "x": 406,
+            "y": 26
+          },
+          {
+            "x": 406,
+            "y": 66
+          },
+          {
+            "x": 40,
+            "y": 66
+          }
+        ],
+        "confidence": 0.99143803
+      },
+      {
+        "block_text": "Kottarakkara Taluk",
+        "lines": [
+          "Kottarakkara Taluk"
+        ],
+        "bounding_box": [
+          {
+            "x": 28,
+            "y": 167
+          },
+          {
+            "x": 420,
+            "y": 167
+          },
+          {
+            "x": 420,
+            "y": 201
+          },
+          {
+            "x": 28,
+            "y": 201
+          }
+        ],
+        "confidence": 0.99149626
+      }
+    ]
+  }
+}

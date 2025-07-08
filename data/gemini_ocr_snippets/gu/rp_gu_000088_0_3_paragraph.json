@@ -1,0 +1,79 @@
+{
+  "sdk_http_response": {
+    "headers": {
+      "content-type": "application/json; charset=UTF-8",
+      "vary": "Origin, X-Origin, Referer",
+      "content-encoding": "gzip",
+      "date": "Fri, 04 Jul 2025 05:38:44 GMT",
+      "server": "scaffolding on HTTPServer2",
+      "x-xss-protection": "0",
+      "x-frame-options": "SAMEORIGIN",
+      "x-content-type-options": "nosniff",
+      "server-timing": "gfet4t7; dur=37870",
+      "alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
+      "transfer-encoding": "chunked"
+    },
+    "body": null
+  },
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "આ ઉપરાંત પ્રકરણ ચોત્રીસમાં વસુધાના ઘરમાં રહેલી સલીનાના જીવનમાં પણ કોઈ રહસ્ય\nછુપાયેલું છે. તે કોઈને પ્રેમ કરે છે. તેવી અધુરી માહિતી આલેખિત છે. જેની સ્પષ્ટતા એ જ પ્રકરણના\nઅંતમાં થઈ છે. પરંતુ વસુધા અને વ્યોમેશના જીવનની વાત શરૂ કરી લેખિકા સલીનાના જીવનને\nજાણવા માટે રાહ જોવડાવે છે. ત્યારપછી પણ સલીના કૃષ્ણને પ્રેમ કરે છે. અને એ બંને કોઈ ગુપ્ત\nક્રાંતિકરી સંસ્થા સાથે જોડાયેલ છે. સલીનાના હાલ સુધીના સ્થાપિત ચરિત્ર વિરુદ્ધની આ રહસ્યમય\nમાહિતીથી ભાવકની આંખો પહોળી થાય છે. ત્યારબાદ પ્રકરણ છત્રીસના અંતે વસુધાને મળવા માટે\nઆવેલી સલીના વ્યગ્રતાથી કહે છે. ‘માં, બહુ ભયંકર વાત બની છે.’ ત્યારે વસુધાના હૃદયમાં ફાડ પડે\nછે. અને ભાવક પણ T.V. સીરીયલના એપિસોડની જેમ નવું પ્રકરણ વાંચવા ઉત્સુક બને છે. પ્રકરણ\nસાડત્રીસમાં આ વાતનો રહસ્યસ્ફોટ રત્ના નામની છોકરીના બળાત્કારની ઘટના તરીકે સામે આવે છે.\nઅને કથા એક અલગ મુદ્દા તરફ ફંટાય છે: અને આનંદગ્રામના સ્ત્રી પાત્રો દ્વારા એક ઝુંબેશની\nશરૂઆત થાય છે. તેમની આ ઝુંબેશની સફળતાનું પરિણામ રત્ના પર બળાત્કાર કરનાર પ્રધાનપુત્રની\nઆત્મહત્યા દ્વારા મળે છે. જોકે તેમાં સુમિત્રાના જીવનનું બલિદાન ચડે છે."
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": "STOP",
+      "safety_ratings": [
+        {
+          "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HATE_SPEECH",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HARASSMENT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+          "probability": "NEGLIGIBLE"
+        }
+      ],
+      "token_count": null
+    }
+  ],
+  "create_time": null,
+  "response_id": null,
+  "model_version": "gemini-2.5-pro",
+  "prompt_feedback": null,
+  "usage_metadata": {
+    "cache_tokens_details": null,
+    "cached_content_token_count": null,
+    "candidates_token_count": 397,
+    "candidates_tokens_details": null,
+    "prompt_token_count": 758,
+    "prompt_tokens_details": [
+      {
+        "modality": "TEXT",
+        "token_count": 500
+      },
+      {
+        "modality": "IMAGE",
+        "token_count": 258
+      }
+    ],
+    "thoughts_token_count": 3258,
+    "tool_use_prompt_token_count": null,
+    "tool_use_prompt_tokens_details": null,
+    "total_token_count": 4413,
+    "traffic_type": null
+  },
+  "automatic_function_calling_history": [],
+  "parsed": null,
+  "page_number": 266
+}

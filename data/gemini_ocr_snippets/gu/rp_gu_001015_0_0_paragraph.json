@@ -1,0 +1,79 @@
+{
+  "sdk_http_response": {
+    "headers": {
+      "content-type": "application/json; charset=UTF-8",
+      "vary": "Origin, X-Origin, Referer",
+      "content-encoding": "gzip",
+      "date": "Fri, 04 Jul 2025 05:39:02 GMT",
+      "server": "scaffolding on HTTPServer2",
+      "x-xss-protection": "0",
+      "x-frame-options": "SAMEORIGIN",
+      "x-content-type-options": "nosniff",
+      "server-timing": "gfet4t7; dur=23306",
+      "alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
+      "transfer-encoding": "chunked"
+    },
+    "body": null
+  },
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "મોના, નીરા, શાલિની, ભારતી ફઈ, ઈશા, ગિરા અને બિન્દુ, નીરજ, જીતેન,\nનીરાના પપ્પા, અનવર તથા જ્હોન આટલાં પાત્રો વચ્ચે મૂળકથા પત્ની શાલિનીનાં મૃત્યુથી\nહતપ્રભ થયેલો સી.એ. જીતેન નીરાને પત્ની તરીકે મનથી અપનાવી શકતો નથી. નીરાને\nશ્રદ્ધા છે કે જીતેન તેને અપનાવશે અને મોનાના પ્રયત્નોથી આ શક્ય પણ બને છે.\nસકારાત્મક અભિગમથી, નીરાનાં તપ–ત્યાગથી, સમજદારીથી પુનઃ નીરા અને જીતેનનું\nમિલન થાય છે. વિખરાયેલો પંખીઓનો મેળો ફરી મળે છે. મોનાના પ્રયાસોથી એક જ\nમાળામાં અજાણ્યાં બનીને રહેલાં જીતેન અને નીરાના જીવનમાં ફરીથી ખુશીઓની વસંત\nઆવે છે. દીકરી ઈશાના કૈકારવથી......."
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": "STOP",
+      "safety_ratings": [
+        {
+          "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HATE_SPEECH",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HARASSMENT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+          "probability": "NEGLIGIBLE"
+        }
+      ],
+      "token_count": null
+    }
+  ],
+  "create_time": null,
+  "response_id": null,
+  "model_version": "gemini-2.5-pro",
+  "prompt_feedback": null,
+  "usage_metadata": {
+    "cache_tokens_details": null,
+    "cached_content_token_count": null,
+    "candidates_token_count": 251,
+    "candidates_tokens_details": null,
+    "prompt_token_count": 758,
+    "prompt_tokens_details": [
+      {
+        "modality": "TEXT",
+        "token_count": 500
+      },
+      {
+        "modality": "IMAGE",
+        "token_count": 258
+      }
+    ],
+    "thoughts_token_count": 1921,
+    "tool_use_prompt_token_count": null,
+    "tool_use_prompt_tokens_details": null,
+    "total_token_count": 2930,
+    "traffic_type": null
+  },
+  "automatic_function_calling_history": [],
+  "parsed": null,
+  "page_number": 299
+}

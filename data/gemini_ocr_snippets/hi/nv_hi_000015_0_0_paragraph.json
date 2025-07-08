@@ -1,0 +1,79 @@
+{
+  "sdk_http_response": {
+    "headers": {
+      "content-type": "application/json; charset=UTF-8",
+      "vary": "Origin, X-Origin, Referer",
+      "content-encoding": "gzip",
+      "date": "Fri, 04 Jul 2025 03:21:29 GMT",
+      "server": "scaffolding on HTTPServer2",
+      "x-xss-protection": "0",
+      "x-frame-options": "SAMEORIGIN",
+      "x-content-type-options": "nosniff",
+      "server-timing": "gfet4t7; dur=43061",
+      "alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
+      "transfer-encoding": "chunked"
+    },
+    "body": null
+  },
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "ज़रूर यह इतवार का दिन रहा होगा। तुम बाहर गए हुए थे, और तुम्हारा नौकर भारी\nगलीचों को पीटकर उनकी गर्द झाड़ चुका था और अब उन्हें फ्लैट के खुले दरवाज़े से खींचकर\nभीतर ले जा रहा था। वे उसकी शक्ति से अधिक भारी पड़ रहे थे। मैंने हिम्मत करके पूछा कि\nअगर मैं भी उसकी सहायता करूं, तो क्या उसे आपत्ति होगी? उसे आश्चर्य ज़रूर हुआ,\nलेकिन उसने आपत्ति नहीं की। क्या तुम कभी समझ सकते हो कि किस आतंक से, कितनी\nपावन श्रद्धा से, मैंने तुम्हारे निवास-स्थान के भीतर कदम रखा था, तुम्हारे संसार को देखा था।\nउस अध्ययन-मेज़ को देखा था, जिसके पास बैठकर तुम लिखने के अभ्यस्त थे (उसपर एक\nनीले पारदर्शी फूलदान में कुछ फूल सजे थे); उन चित्रों को, उन किताबों को देखा था? मैंने\nमहज़ एक छिपी नज़र ही उनपर डाली थी, हालांकि मुझे विश्वास है कि अगर मैंने उन सबको\nअधिक अच्छी तरह देखने देने के लिए जोन से पूछा होता, तो वह अस्वीकार नहीं करता,\nलेकिन उस समूचे माहौल को अपने भीतर समो लेने के लिए एक छिपी नज़र ही मेरे लिए\nकाफ़ी थी। इस तरह मैंने तुम्हारे बारे में सोते-जागते देखे जाने वाले अपने अनन्त स्वप्नों के\nलिए नई खुराक प्राप्त कर ली।"
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": "STOP",
+      "safety_ratings": [
+        {
+          "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HATE_SPEECH",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HARASSMENT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+          "probability": "NEGLIGIBLE"
+        }
+      ],
+      "token_count": null
+    }
+  ],
+  "create_time": null,
+  "response_id": null,
+  "model_version": "gemini-2.5-pro",
+  "prompt_feedback": null,
+  "usage_metadata": {
+    "cache_tokens_details": null,
+    "cached_content_token_count": null,
+    "candidates_token_count": 275,
+    "candidates_tokens_details": null,
+    "prompt_token_count": 758,
+    "prompt_tokens_details": [
+      {
+        "modality": "TEXT",
+        "token_count": 500
+      },
+      {
+        "modality": "IMAGE",
+        "token_count": 258
+      }
+    ],
+    "thoughts_token_count": 3895,
+    "tool_use_prompt_token_count": null,
+    "tool_use_prompt_tokens_details": null,
+    "total_token_count": 4928,
+    "traffic_type": null
+  },
+  "automatic_function_calling_history": [],
+  "parsed": null,
+  "page_number": 171
+}

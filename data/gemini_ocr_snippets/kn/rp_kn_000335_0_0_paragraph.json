@@ -1,0 +1,79 @@
+{
+  "sdk_http_response": {
+    "headers": {
+      "content-type": "application/json; charset=UTF-8",
+      "vary": "Origin, X-Origin, Referer",
+      "content-encoding": "gzip",
+      "date": "Fri, 04 Jul 2025 04:52:04 GMT",
+      "server": "scaffolding on HTTPServer2",
+      "x-xss-protection": "0",
+      "x-frame-options": "SAMEORIGIN",
+      "x-content-type-options": "nosniff",
+      "server-timing": "gfet4t7; dur=37753",
+      "alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
+      "transfer-encoding": "chunked"
+    },
+    "body": null
+  },
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "ಇ.ಟಿ. ಪಾಪ್ಯುಲಾರಿಟಿ ಪದಗಳಾದ ಪಾ. ಇ.ಎಂ.ತಿ.ಪೇಪ್ಯುಲಾರಿಟಿ ಪದಕ್ಕಾಗಿ ೧೯೭೩ರಲ್ಲಿ ಬಳಸಿದರು. ಇವರು ಸುಸಂಸ್ಕೃತ ಮನೆತನದ ಹಿನ್ನೆಲೆಯಿಂದ\nಬಂದವರಾಗಿದ್ದಾರೆ. ವಿದ್ಯಾರ್ಥಿ ದಸೆಯಿಂದಲೂ ಅತ್ಯಂತ ಪ್ರತಿಭಾವಂತರ. ಸಮಾಜದ ಬಗ್ಗೆ\nಕಾಳಜಿಯ ಬಗ್ಗೆ ಸಂಘಟಿಸಲು ಮನೋಭಾವದವರು. ಯಾವಾಗಲೂ ಕೂಡ ವಿಚಾರ ಪ್ರಚೋದಕ\nಚಿಂತನೆ, ಅಭಿವೃದ್ಧಿಪರ ವಿಚಾರಗಳು ಮೂಡಿ ಬರುತ್ತಿದ್ದುದನ್ನು ಸಮಾಜದಲ್ಲಿ\nನಡೆಯುವ ಅನ್ಯಾಯ, ಅಸಮಾನತೆ, ಲಿಂಗ ತಾರತಮ್ಯ, ಜಾತಿಯತೆಯಂತಹ ಪೀಡಿತವಾದ ಕುರಿತು\nಪ್ರತಿಭಟಿಸುತ್ತಾ ಹೋರಾಟವನ್ನು ಮಾಡುತ್ತ ಸಮಾಜ ಸೇವೆಯಲ್ಲಿ ತೊಡಗಿದ್ದಾರೆ. ಇವರು ದಲಿತ,\nಮಹಿಳೆಯರ, ಶೋಷಿತರವರ ಸಂಘಟನಾತ್ಮಕವಾಗಿ ಧ್ವನಿಯೆತ್ತುತ್ತಾ ಸಮಾಜಕ್ಕೆ ನ್ಯಾಯ\nಒದಗಿಸಿಕೊಡುವ ನಿಟ್ಟಿನಲ್ಲಿ ತಮ್ಮನ್ನು ತೊಡಗಿಸಿಕೊಂಡಿದ್ದಾರೆ. ಇವರು ಬರೆದ ಕಥಾ ಸಂಕಲನವನ್ನು\nಪ್ರಕಟಿಸಿದ್ದಾರೆ. ‘ಕಪ್ಪು ಕೊಂದವರು ಮತ್ತು ಇತರೆ ಕಥೆಗಳು’ ಹಾಗೂ ‘ಬಯಲು’ ಎಂಬ\nಕೃತಿಗಳನ್ನು. ಇವರ ಕಥೆಗಳಲ್ಲಿ ವಿಚಾರ ಲಹರಿಗಳು, ಘಟನೆಗಳು, ವಿಶ್ಲೇಷಣೆ ಬೆಳಕಿಗಿಂತಲೂ"
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": "STOP",
+      "safety_ratings": [
+        {
+          "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HATE_SPEECH",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HARASSMENT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+          "probability": "NEGLIGIBLE"
+        }
+      ],
+      "token_count": null
+    }
+  ],
+  "create_time": null,
+  "response_id": null,
+  "model_version": "gemini-2.5-pro",
+  "prompt_feedback": null,
+  "usage_metadata": {
+    "cache_tokens_details": null,
+    "cached_content_token_count": null,
+    "candidates_token_count": 310,
+    "candidates_tokens_details": null,
+    "prompt_token_count": 730,
+    "prompt_tokens_details": [
+      {
+        "modality": "TEXT",
+        "token_count": 472
+      },
+      {
+        "modality": "IMAGE",
+        "token_count": 258
+      }
+    ],
+    "thoughts_token_count": 3231,
+    "tool_use_prompt_token_count": null,
+    "tool_use_prompt_tokens_details": null,
+    "total_token_count": 4271,
+    "traffic_type": null
+  },
+  "automatic_function_calling_history": [],
+  "parsed": null,
+  "page_number": 264
+}

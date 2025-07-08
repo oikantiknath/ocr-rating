@@ -1,0 +1,32 @@
+{
+  "page_number": 2,
+  "ocr_output": {
+    "blocks": [
+      {
+        "block_text": "Rightly viewed , theirs ( Teachers ) is the foremost of the sciences , the nobleat of professions , the most intellectual of the arts . \"",
+        "lines": [
+          "Rightly viewed , theirs ( Teachers ) is the foremost of the sciences , the nobleat of professions , the most intellectual of the arts . \""
+        ],
+        "bounding_box": [
+          {
+            "x": 4,
+            "y": 5
+          },
+          {
+            "x": 299,
+            "y": 6
+          },
+          {
+            "x": 299,
+            "y": 53
+          },
+          {
+            "x": 4,
+            "y": 52
+          }
+        ],
+        "confidence": 0.9167356
+      }
+    ]
+  }
+}

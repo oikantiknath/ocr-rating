@@ -1,0 +1,82 @@
+{
+  "page_number": 450,
+  "ocr_output": {
+    "blocks": [
+      {
+        "block_text": "a . Integration of Princely States : Hyderabad , Junagarh and Jammu and Kashmir .",
+        "lines": [
+          "a . Integration of Princely States : Hyderabad , Junagarh and Jammu and Kashmir ."
+        ],
+        "bounding_box": [
+          {
+            "x": 12,
+            "y": 7
+          },
+          {
+            "x": 1099,
+            "y": 7
+          },
+          {
+            "x": 1099,
+            "y": 37
+          },
+          {
+            "x": 12,
+            "y": 37
+          }
+        ],
+        "confidence": 0.985344
+      },
+      {
+        "block_text": "b . Making of the Indian Constitution : Framing of Indian Constitution , Basic Features . c . Reorganization of the States- Dhar Committee , JVP Committee , Fazal Ali",
+        "lines": [
+          "b . Making of the Indian Constitution : Framing of Indian Constitution , Basic Features . c . Reorganization of the States- Dhar Committee , JVP Committee , Fazal Ali"
+        ],
+        "bounding_box": [
+          {
+            "x": 11,
+            "y": 50
+          },
+          {
+            "x": 1166,
+            "y": 50
+          },
+          {
+            "x": 1166,
+            "y": 123
+          },
+          {
+            "x": 11,
+            "y": 123
+          }
+        ],
+        "confidence": 0.9710975
+      },
+      {
+        "block_text": "Commission .",
+        "lines": [
+          "Commission ."
+        ],
+        "bounding_box": [
+          {
+            "x": 161,
+            "y": 139
+          },
+          {
+            "x": 337,
+            "y": 138
+          },
+          {
+            "x": 337,
+            "y": 161
+          },
+          {
+            "x": 161,
+            "y": 162
+          }
+        ],
+        "confidence": 0.96553844
+      }
+    ]
+  }
+}

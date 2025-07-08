@@ -1,0 +1,79 @@
+{
+  "sdk_http_response": {
+    "headers": {
+      "content-type": "application/json; charset=UTF-8",
+      "vary": "Origin, X-Origin, Referer",
+      "content-encoding": "gzip",
+      "date": "Fri, 04 Jul 2025 03:21:34 GMT",
+      "server": "scaffolding on HTTPServer2",
+      "x-xss-protection": "0",
+      "x-frame-options": "SAMEORIGIN",
+      "x-content-type-options": "nosniff",
+      "server-timing": "gfet4t7; dur=47630",
+      "alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
+      "transfer-encoding": "chunked"
+    },
+    "body": null
+  },
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "मुझे याद है कि एक बार इस न पहचाननेवाली बात से (हालांकि यह रोज़मर्रा की बात हो\nचुकी थी) बहुत पीड़ा हुई थी। मैं अपने एक मित्र के साथ ओपेरा देखने गई थी और एक बाक्स\nमें बैठी थी। बगल वाले बाक्स में तुम थे। जब प्रस्तावक ने बोलना शुरू किया, तो बत्तियां नीची\nकर दी गई। अब मैं तुम्हारा चेहरा नहीं देख सकती थी, लेकिन तुम्हारी सांस को अपने काफी\nनज़दीक महसूस कर सकती थी, ठीक उसी तरह जिस तरह कि मैंने उस समय महसूस किया\nथा, जब मैं तुम्हारे साथ तुम्हारे कमरे में लेटी थी। दोनों बॉक्सों के बीच की मखमली विभाजक\nदीवार पर तुम्हारा पतला हाथ रखा हुआ था। झुककर तुम्हारे उस हाथ को चूमने की अदम्य\nआकांक्षा मेरे मन-प्राण में भर गई। उस हाथ को, जिसका प्यारा स्पर्श मैं एक बार महसूस कर\nचुकी थी। ऑर्केस्ट्रा के बढ़ते शोर के समय, यह तमन्ना और अधिक तीव्र हो गई। तुम्हारे प्यारे\nहाथ से अपने होंठों को दूर रखने के लिए, मुझे स्वयं से अथक संघर्ष करना पड़ा। प्रथम अंक\nकी समाप्ति पर, मैंने अपने मित्र से कहा कि मैं जाना चाहती हूं। मेरे लिए यह असह्य था कि\nतुम वहां अंधकार में मेरी बगल में बैठे हुए थे। इतने निकट, फिर भी इतने दूर।"
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": "STOP",
+      "safety_ratings": [
+        {
+          "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HATE_SPEECH",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HARASSMENT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+          "probability": "NEGLIGIBLE"
+        }
+      ],
+      "token_count": null
+    }
+  ],
+  "create_time": null,
+  "response_id": null,
+  "model_version": "gemini-2.5-pro",
+  "prompt_feedback": null,
+  "usage_metadata": {
+    "cache_tokens_details": null,
+    "cached_content_token_count": null,
+    "candidates_token_count": 287,
+    "candidates_tokens_details": null,
+    "prompt_token_count": 758,
+    "prompt_tokens_details": [
+      {
+        "modality": "TEXT",
+        "token_count": 500
+      },
+      {
+        "modality": "IMAGE",
+        "token_count": 258
+      }
+    ],
+    "thoughts_token_count": 4248,
+    "tool_use_prompt_token_count": null,
+    "tool_use_prompt_tokens_details": null,
+    "total_token_count": 5293,
+    "traffic_type": null
+  },
+  "automatic_function_calling_history": [],
+  "parsed": null,
+  "page_number": 174
+}

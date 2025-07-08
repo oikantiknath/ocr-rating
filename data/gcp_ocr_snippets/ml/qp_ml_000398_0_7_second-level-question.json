@@ -1,0 +1,57 @@
+{
+  "page_number": 398,
+  "ocr_output": {
+    "blocks": [
+      {
+        "block_text": "ഉൽപാദകരുടെ അധിക ബാധ്യതാ സങ്കല്പനം ( Extended Producer Responsibility ) .",
+        "lines": [
+          "ഉൽപാദകരുടെ അധിക ബാധ്യതാ സങ്കല്പനം ( Extended Producer Responsibility ) ."
+        ],
+        "bounding_box": [
+          {
+            "x": 83,
+            "y": 12
+          },
+          {
+            "x": 599,
+            "y": 14
+          },
+          {
+            "x": 599,
+            "y": 65
+          },
+          {
+            "x": 83,
+            "y": 63
+          }
+        ],
+        "confidence": 0.91149557
+      },
+      {
+        "block_text": "3 .",
+        "lines": [
+          "3 ."
+        ],
+        "bounding_box": [
+          {
+            "x": 36,
+            "y": 17
+          },
+          {
+            "x": 49,
+            "y": 17
+          },
+          {
+            "x": 49,
+            "y": 28
+          },
+          {
+            "x": 36,
+            "y": 28
+          }
+        ],
+        "confidence": 0.9345118
+      }
+    ]
+  }
+}

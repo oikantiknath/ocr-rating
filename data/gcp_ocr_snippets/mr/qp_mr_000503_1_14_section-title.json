@@ -1,0 +1,32 @@
+{
+  "page_number": 503,
+  "ocr_output": {
+    "blocks": [
+      {
+        "block_text": "QUESTION PAPER SPECIFIC INSTRUCTIONS",
+        "lines": [
+          "QUESTION PAPER SPECIFIC INSTRUCTIONS"
+        ],
+        "bounding_box": [
+          {
+            "x": 3,
+            "y": 4
+          },
+          {
+            "x": 243,
+            "y": 3
+          },
+          {
+            "x": 243,
+            "y": 13
+          },
+          {
+            "x": 3,
+            "y": 14
+          }
+        ],
+        "confidence": 0.984288
+      }
+    ]
+  }
+}

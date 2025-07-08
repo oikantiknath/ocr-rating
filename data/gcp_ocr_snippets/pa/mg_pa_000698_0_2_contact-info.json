@@ -1,0 +1,82 @@
+{
+  "page_number": 698,
+  "ocr_output": {
+    "blocks": [
+      {
+        "block_text": "ਫੋਨ ਨੰਬਰ +919416497323",
+        "lines": [
+          "ਫੋਨ ਨੰਬਰ +919416497323"
+        ],
+        "bounding_box": [
+          {
+            "x": 27,
+            "y": 14
+          },
+          {
+            "x": 479,
+            "y": 22
+          },
+          {
+            "x": 478,
+            "y": 66
+          },
+          {
+            "x": 26,
+            "y": 58
+          }
+        ],
+        "confidence": 0.97887677
+      },
+      {
+        "block_text": "ਈਮੇਲ : a.paulkaur@gmail.com",
+        "lines": [
+          "ਈਮੇਲ : a.paulkaur@gmail.com"
+        ],
+        "bounding_box": [
+          {
+            "x": 27,
+            "y": 121
+          },
+          {
+            "x": 567,
+            "y": 131
+          },
+          {
+            "x": 566,
+            "y": 180
+          },
+          {
+            "x": 26,
+            "y": 170
+          }
+        ],
+        "confidence": 0.9580995
+      },
+      {
+        "block_text": "paul.kaur@rediffmail.com",
+        "lines": [
+          "paul.kaur@rediffmail.com"
+        ],
+        "bounding_box": [
+          {
+            "x": 30,
+            "y": 241
+          },
+          {
+            "x": 499,
+            "y": 238
+          },
+          {
+            "x": 499,
+            "y": 274
+          },
+          {
+            "x": 30,
+            "y": 277
+          }
+        ],
+        "confidence": 0.98772395
+      }
+    ]
+  }
+}

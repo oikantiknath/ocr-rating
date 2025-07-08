@@ -1,0 +1,79 @@
+{
+  "sdk_http_response": {
+    "headers": {
+      "content-type": "application/json; charset=UTF-8",
+      "vary": "Origin, X-Origin, Referer",
+      "content-encoding": "gzip",
+      "date": "Fri, 04 Jul 2025 04:04:32 GMT",
+      "server": "scaffolding on HTTPServer2",
+      "x-xss-protection": "0",
+      "x-frame-options": "SAMEORIGIN",
+      "x-content-type-options": "nosniff",
+      "server-timing": "gfet4t7; dur=38085",
+      "alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
+      "transfer-encoding": "chunked"
+    },
+    "body": null
+  },
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "ପ୍ରାଥମିକ ଭାବରେ ଆସନ ହେଉଛି ଶରୀରର ଭଙ୍ଗୀ ବା ସ୍ଥିତି ବା ଠାଣି । ଏହାକୁ ସ୍ଵାସ୍ଥ୍ୟ ଓ ସାମର୍ଥ୍ୟ ପରିଚାଳନା\nନିମନ୍ତେ ବ୍ୟବହାର କରାଯାଏ । ଅଂଶଗ୍ରହଣ ଆସନ ଥଲେ ମଧ୍ୟ ପ୍ରତିଯୋଗିତାରେ ଅନୁଷ୍ଠିତ ଆବଶ୍ୟକ ନାହିଁ । ଯୋଗରେ\nବିଭିନ୍ନ ଓ ଜଟିଳ ପ୍ରାଣାୟାମ ତଥା ନିମନ୍ତେ ଆସନ କେତେକ ଆସନ ଦରକାର ହୁଏ । ଆସନ ମୁଖ୍ୟତଃ ମାନସିକତା, ଶକ୍ତି,\nଧ୍ୟାନ ଓ ଶରୀରର ଅନ୍ୟାନ୍ୟ ଅଙ୍ଗକୁ ମିଶିବା ନିମନ୍ତେ ବ୍ୟବହାର କରାଯାଏ । ଏହା ସବୁ ପ୍ରଚାଳନ ରେ"
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": "STOP",
+      "safety_ratings": [
+        {
+          "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HATE_SPEECH",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HARASSMENT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+          "probability": "NEGLIGIBLE"
+        }
+      ],
+      "token_count": null
+    }
+  ],
+  "create_time": null,
+  "response_id": null,
+  "model_version": "gemini-2.5-pro",
+  "prompt_feedback": null,
+  "usage_metadata": {
+    "cache_tokens_details": null,
+    "cached_content_token_count": null,
+    "candidates_token_count": 246,
+    "candidates_tokens_details": null,
+    "prompt_token_count": 783,
+    "prompt_tokens_details": [
+      {
+        "modality": "TEXT",
+        "token_count": 525
+      },
+      {
+        "modality": "IMAGE",
+        "token_count": 258
+      }
+    ],
+    "thoughts_token_count": 3372,
+    "tool_use_prompt_token_count": null,
+    "tool_use_prompt_tokens_details": null,
+    "total_token_count": 4401,
+    "traffic_type": null
+  },
+  "automatic_function_calling_history": [],
+  "parsed": null,
+  "page_number": 318
+}

@@ -1,0 +1,32 @@
+{
+  "page_number": 306,
+  "ocr_output": {
+    "blocks": [
+      {
+        "block_text": "I / We hereby apply for authorisation under the Solid Waste Management Rules , 2016 for processing , recycling , treatment and disposal of solid waste .",
+        "lines": [
+          "I / We hereby apply for authorisation under the Solid Waste Management Rules , 2016 for processing , recycling , treatment and disposal of solid waste ."
+        ],
+        "bounding_box": [
+          {
+            "x": 14,
+            "y": 8
+          },
+          {
+            "x": 473,
+            "y": 7
+          },
+          {
+            "x": 473,
+            "y": 26
+          },
+          {
+            "x": 14,
+            "y": 27
+          }
+        ],
+        "confidence": 0.968543
+      }
+    ]
+  }
+}

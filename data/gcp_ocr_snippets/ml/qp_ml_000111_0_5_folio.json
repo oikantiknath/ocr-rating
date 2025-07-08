@@ -1,0 +1,32 @@
+{
+  "page_number": 111,
+  "ocr_output": {
+    "blocks": [
+      {
+        "block_text": "MUES 6208",
+        "lines": [
+          "MUES 6208"
+        ],
+        "bounding_box": [
+          {
+            "x": 16,
+            "y": 19
+          },
+          {
+            "x": 189,
+            "y": 18
+          },
+          {
+            "x": 189,
+            "y": 41
+          },
+          {
+            "x": 16,
+            "y": 42
+          }
+        ],
+        "confidence": 0.9869649
+      }
+    ]
+  }
+}

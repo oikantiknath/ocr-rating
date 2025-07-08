@@ -1,0 +1,57 @@
+{
+  "page_number": 380,
+  "ocr_output": {
+    "blocks": [
+      {
+        "block_text": "This is a digitally signed Gazette .",
+        "lines": [
+          "This is a digitally signed Gazette ."
+        ],
+        "bounding_box": [
+          {
+            "x": 19,
+            "y": 32
+          },
+          {
+            "x": 519,
+            "y": 32
+          },
+          {
+            "x": 519,
+            "y": 65
+          },
+          {
+            "x": 19,
+            "y": 65
+          }
+        ],
+        "confidence": 0.99104273
+      },
+      {
+        "block_text": "Authenticity may be verified through https://compose.kerala.gov.in/",
+        "lines": [
+          "Authenticity may be verified through https://compose.kerala.gov.in/"
+        ],
+        "bounding_box": [
+          {
+            "x": 17,
+            "y": 76
+          },
+          {
+            "x": 927,
+            "y": 76
+          },
+          {
+            "x": 927,
+            "y": 107
+          },
+          {
+            "x": 17,
+            "y": 107
+          }
+        ],
+        "confidence": 0.9880738
+      }
+    ]
+  }
+}

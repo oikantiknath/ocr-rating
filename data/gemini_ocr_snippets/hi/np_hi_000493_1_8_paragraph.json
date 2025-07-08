@@ -1,0 +1,79 @@
+{
+  "sdk_http_response": {
+    "headers": {
+      "content-type": "application/json; charset=UTF-8",
+      "vary": "Origin, X-Origin, Referer",
+      "content-encoding": "gzip",
+      "date": "Fri, 04 Jul 2025 03:21:03 GMT",
+      "server": "scaffolding on HTTPServer2",
+      "x-xss-protection": "0",
+      "x-frame-options": "SAMEORIGIN",
+      "x-content-type-options": "nosniff",
+      "server-timing": "gfet4t7; dur=36967",
+      "alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
+      "transfer-encoding": "chunked"
+    },
+    "body": null
+  },
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "बटलर ने शनिवार को दक्षिण अफ्रीका के\nखिलाफ खेले जाने वाले मैच से पहले यहां कहा,\n'हार को पचाने के लिए आगे के मैचों पर ध्यान देने\nके लिए हमें कुछ दिन मिले। हमारे बीच कुछ\nअच्छी बातचीत हुई और कल रात अभ्यास के\nदौरान खिलाड़ी जोश में थे और जीत की भूख\nअधिक थी।\" विश्व कप खिताब के बचाव के लिए\nइंग्लैंड ने करिश्माई ऑलराउंडर बेन स्टोक्स को\nसंन्यास से वापस बुलाया लेकिन फिटनेस\nसमस्याओं के कारण वह अब तक टीम के तीन\nमैचों में नहीं खेल पाए हैं। उन्होंने कहा, 'टीम चयन\nमें हमारे पास बहुत सारे विकल्प हैं, यह हमेशा\nकठिन होता है। आपको सही संतुलन पर काम\nकरना होता है, यह काफी कुछ पिच और\nपरिस्थितियों पर भी निर्भर करता है।'"
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": "STOP",
+      "safety_ratings": [
+        {
+          "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HATE_SPEECH",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HARASSMENT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+          "probability": "NEGLIGIBLE"
+        }
+      ],
+      "token_count": null
+    }
+  ],
+  "create_time": null,
+  "response_id": null,
+  "model_version": "gemini-2.5-pro",
+  "prompt_feedback": null,
+  "usage_metadata": {
+    "cache_tokens_details": null,
+    "cached_content_token_count": null,
+    "candidates_token_count": 173,
+    "candidates_tokens_details": null,
+    "prompt_token_count": 758,
+    "prompt_tokens_details": [
+      {
+        "modality": "TEXT",
+        "token_count": 500
+      },
+      {
+        "modality": "IMAGE",
+        "token_count": 258
+      }
+    ],
+    "thoughts_token_count": 3677,
+    "tool_use_prompt_token_count": null,
+    "tool_use_prompt_tokens_details": null,
+    "total_token_count": 4608,
+    "traffic_type": null
+  },
+  "automatic_function_calling_history": [],
+  "parsed": null,
+  "page_number": 140
+}

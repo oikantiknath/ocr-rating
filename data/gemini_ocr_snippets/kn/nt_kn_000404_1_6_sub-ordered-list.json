@@ -1,0 +1,79 @@
+{
+  "sdk_http_response": {
+    "headers": {
+      "content-type": "application/json; charset=UTF-8",
+      "vary": "Origin, X-Origin, Referer",
+      "content-encoding": "gzip",
+      "date": "Fri, 04 Jul 2025 04:50:16 GMT",
+      "server": "scaffolding on HTTPServer2",
+      "x-xss-protection": "0",
+      "x-frame-options": "SAMEORIGIN",
+      "x-content-type-options": "nosniff",
+      "server-timing": "gfet4t7; dur=45151",
+      "alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
+      "transfer-encoding": "chunked"
+    },
+    "body": null
+  },
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "16. ವ್ಯಕ್ತಿಯನ್ನು ರಕ್ಷಿಸುವುದು.- (1) ಪೋಲೀಸರಿಂದ ಅಥವಾ ಈ ಸಂಬಂಧದಲ್ಲಿ ರಾಜ್ಯ ಸರ್ಕಾರವು\nಅಧಿಕೃತಗೊಳಿಸಿದ ಯಾರೇ ಇತರ ವ್ಯಕ್ತಿಯಿಂದ ಅಥವಾ ಇತರ ರೀತಿಯಲ್ಲಿ ಸ್ವೀಕರಿಸಿದ ಮಾಹಿತಿಯಲ್ಲಿ ಯಾರೇ\nವ್ಯಕ್ತಿಯು ವೇಷ್ಯಾಗಾರದಲ್ಲಿ ವಾಸಿಸುತ್ತಿರುವನೆಂದು ಅಥವಾ ವೇಷ್ಯಾವೃತ್ತಿಯನ್ನು ನಡೆಸುತ್ತಿರುವನೆಂದು ಅಥವಾ\nಅವನನ್ನು ವೇಷ್ಯಾವೃತ್ತಿ ನಡೆಸುವಂತೆ ಮಾಡಲಾಗುತ್ತಿದೆಯೆಂದು ಮ್ಯಾಜಿಸ್ಟ್ರೇಟನಿಗೆ ನಂಬಲು ಕಾರಣವಿದ್ದಲ್ಲಿ, ಅಂಥ\nವೇಷ್ಯಾಗಾರವನ್ನು ಪ್ರವೇಶಿಸಲು ಮತ್ತು ಅಂಥ ವ್ಯಕ್ತಿಯನ್ನು ಅಲ್ಲಿಂದ ಸ್ಥಳಾಂತರಿಸಲು ಮತ್ತು ಅವನನ್ನು ತನ್ನ\nಮುಂದೆ ಹಾಜರುಪಡಿಸಲು ಸಬ್‌ಇನ್‌ಸ್ಪೆಕ್ಟರನ ದರ್ಜೆಗಿಂತ ಕಡಿಮೆಯಲ್ಲದ ದರ್ಜೆಯ ಪೋಲೀಸ್ ಅಧಿಕಾರಿಗೆ\nಅವನು ನಿರ್ದೇಶಿಸಬಹುದು.\n\n(2) ಆ ವ್ಯಕ್ತಿಯನ್ನು ಸ್ಥಳಾಂತರಿಸಿದ ತರುವಾಯ ಪೋಲೀಸ್ ಅಧಿಕಾರಿಯು, ಆದೇಶವನ್ನು ಹೊರಡಿಸುವ\nಮ್ಯಾಜಿಸ್ಟ್ರೇಟನ ಮುಂದೆ ಅವನನ್ನು ಕೂಡಲೇ ಹಾಜರುಪಡಿಸತಕ್ಕದ್ದು."
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": "STOP",
+      "safety_ratings": [
+        {
+          "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HATE_SPEECH",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HARASSMENT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+          "probability": "NEGLIGIBLE"
+        }
+      ],
+      "token_count": null
+    }
+  ],
+  "create_time": null,
+  "response_id": null,
+  "model_version": "gemini-2.5-pro",
+  "prompt_feedback": null,
+  "usage_metadata": {
+    "cache_tokens_details": null,
+    "cached_content_token_count": null,
+    "candidates_token_count": 248,
+    "candidates_tokens_details": null,
+    "prompt_token_count": 732,
+    "prompt_tokens_details": [
+      {
+        "modality": "TEXT",
+        "token_count": 474
+      },
+      {
+        "modality": "IMAGE",
+        "token_count": 258
+      }
+    ],
+    "thoughts_token_count": 4441,
+    "tool_use_prompt_token_count": null,
+    "tool_use_prompt_tokens_details": null,
+    "total_token_count": 5421,
+    "traffic_type": null
+  },
+  "automatic_function_calling_history": [],
+  "parsed": null,
+  "page_number": 168
+}

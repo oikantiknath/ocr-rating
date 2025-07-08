@@ -1,0 +1,31 @@
+{
+  "page_number": 323,
+  "ocr_output": {
+    "blocks": [
+      {
+        "block_text": "Digitized by PPRACHIN , SOA",
+        "lines": [
+          "Digitized by PPRACHIN , SOA"
+        ],
+        "bounding_box": [
+          {
+            "x": 6,
+            "y": 2
+          },
+          {
+            "x": 232
+          },
+          {
+            "x": 232,
+            "y": 19
+          },
+          {
+            "x": 6,
+            "y": 22
+          }
+        ],
+        "confidence": 0.9815811
+      }
+    ]
+  }
+}

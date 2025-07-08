@@ -1,0 +1,32 @@
+{
+  "page_number": 389,
+  "ocr_output": {
+    "blocks": [
+      {
+        "block_text": "Digitized By Roja Muthiah Research Library",
+        "lines": [
+          "Digitized By Roja Muthiah Research Library"
+        ],
+        "bounding_box": [
+          {
+            "x": 19,
+            "y": 14
+          },
+          {
+            "x": 597,
+            "y": 14
+          },
+          {
+            "x": 597,
+            "y": 40
+          },
+          {
+            "x": 19,
+            "y": 40
+          }
+        ],
+        "confidence": 0.98659873
+      }
+    ]
+  }
+}

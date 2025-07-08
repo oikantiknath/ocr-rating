@@ -1,0 +1,32 @@
+{
+  "page_number": 401,
+  "ocr_output": {
+    "blocks": [
+      {
+        "block_text": "b ) This a blue shirt is . d ) This a shirt is blue .",
+        "lines": [
+          "b ) This a blue shirt is . d ) This a shirt is blue ."
+        ],
+        "bounding_box": [
+          {
+            "x": 13,
+            "y": 18
+          },
+          {
+            "x": 315,
+            "y": 18
+          },
+          {
+            "x": 315,
+            "y": 103
+          },
+          {
+            "x": 13,
+            "y": 103
+          }
+        ],
+        "confidence": 0.9747864
+      }
+    ]
+  }
+}

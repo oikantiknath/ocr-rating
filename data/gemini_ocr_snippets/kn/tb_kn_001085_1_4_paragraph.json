@@ -1,0 +1,79 @@
+{
+  "sdk_http_response": {
+    "headers": {
+      "content-type": "application/json; charset=UTF-8",
+      "vary": "Origin, X-Origin, Referer",
+      "content-encoding": "gzip",
+      "date": "Fri, 04 Jul 2025 04:54:55 GMT",
+      "server": "scaffolding on HTTPServer2",
+      "x-xss-protection": "0",
+      "x-frame-options": "SAMEORIGIN",
+      "x-content-type-options": "nosniff",
+      "server-timing": "gfet4t7; dur=37472",
+      "alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
+      "transfer-encoding": "chunked"
+    },
+    "body": null
+  },
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "ಲೋಲುಪತೆಯನ್ನು ತುಂಬುವುದರಲ್ಲಿಯೇ ತನ್ನ ಶಕ್ತಿಯ ಸಾರ್ಥಕತೆಯನ್ನು\nಅನುಭವಿಸಿತು. ಸಾಮಾಜಿಕವಾಗಿ ಅದರ ಪರ್ಯಾಯ ಪ್ರಯೋಜನ ಏನೇ\nಇದ್ದರೂ ಅವರ ಮೂಲ ಪ್ರೇರಣೆ ಸಾಮಾಜಿಕತೆಯಲ್ಲ. ಅವರಲ್ಲಿ ಒಂದು\nಸ್ಥಗಿತ ವ್ಯವಸ್ಥೆಗೆ ಸಾರ್ವಜನಿಕರಿಂದ ಬಂದ ದೂರಿಗಿಂತ ಸಾಮಾಜಿಕ\nಪರಿವರ್ತನೆ ಅಗತ್ಯವೆನಿಸಲಿಲ್ಲ. ಆದ್ದರಿಂದ ಸಾಮಾಜಿಕ ವ್ಯವಸ್ಥೆಯ ಹಿನ್ನೆಲೆಯಲ್ಲಿ\nಅವರು ಮಾಡಿದ್ದು-ಬರೆದದ್ದು ಹೋರಾಟಕ್ಕೆ ಹೊರಗೆ ಹಾಕುವ, ಹರಿವ\nಹೋರಾಟಕ್ಕೆ ತಡೆ ಹಾಕುವ ಕೆಲಸವಲ್ಲ. ಆದ್ದರಿಂದ ಅವರ ಸಾಮಾಜಿಕ\nಪ್ರಜ್ಞೆ ಮುಖ್ಯವಾಗಿ ಅಜ್ಞಾನಿಗಳಿಗೆ ಮಾಡುವ ಉಪದೇಶದ ಮೂಲಕ, ಶೋಷಕರಿಗೆ\nಬುದ್ಧಿ ಬುದ್ಧಿ ಹೇಳುವ ಮೂಲಕ, ಇಲ್ಲವೆ ಸಾಮಾಜಿಕವಾಗಿ ಸೌಲಭ್ಯಗಳಿಂದ\nವಂಚಿತರಾದ ದೀನರಿಗೆ ಕರ್ತವ್ಯವನ್ನು ಮುಂದೆ ಮಾಡಿ ಶಾಂತ\nಸೂಚಿಸುವ ಮೂಲಕ ನಿಂತುಬಿಡುತ್ತದೆ."
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": "STOP",
+      "safety_ratings": [
+        {
+          "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HATE_SPEECH",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HARASSMENT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+          "probability": "NEGLIGIBLE"
+        }
+      ],
+      "token_count": null
+    }
+  ],
+  "create_time": null,
+  "response_id": null,
+  "model_version": "gemini-2.5-pro",
+  "prompt_feedback": null,
+  "usage_metadata": {
+    "cache_tokens_details": null,
+    "cached_content_token_count": null,
+    "candidates_token_count": 212,
+    "candidates_tokens_details": null,
+    "prompt_token_count": 728,
+    "prompt_tokens_details": [
+      {
+        "modality": "TEXT",
+        "token_count": 470
+      },
+      {
+        "modality": "IMAGE",
+        "token_count": 258
+      }
+    ],
+    "thoughts_token_count": 3289,
+    "tool_use_prompt_token_count": null,
+    "tool_use_prompt_tokens_details": null,
+    "total_token_count": 4229,
+    "traffic_type": null
+  },
+  "automatic_function_calling_history": [],
+  "parsed": null,
+  "page_number": 367
+}

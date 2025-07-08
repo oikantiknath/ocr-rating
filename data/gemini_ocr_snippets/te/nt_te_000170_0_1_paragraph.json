@@ -1,0 +1,79 @@
+{
+  "sdk_http_response": {
+    "headers": {
+      "content-type": "application/json; charset=UTF-8",
+      "vary": "Origin, X-Origin, Referer",
+      "content-encoding": "gzip",
+      "date": "Fri, 04 Jul 2025 04:29:54 GMT",
+      "server": "scaffolding on HTTPServer2",
+      "x-xss-protection": "0",
+      "x-frame-options": "SAMEORIGIN",
+      "x-content-type-options": "nosniff",
+      "server-timing": "gfet4t7; dur=42574",
+      "alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
+      "transfer-encoding": "chunked"
+    },
+    "body": null
+  },
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "నుండి మరియు ఫోల్డర్లనిన కేసులలో అవార్డుల నుండి పొందిన సాంప్రదాయక అంకెల నుండి⁴\nపొందనివి లాస్ట్ డిస్పోసింగ్ గమనించినారు.అందువలన అపజయమును కోల్పోయిన లేక నారతత\nఅర్హతత లేక నైశల్యము కలిగియున్న కేసులలో బాధితునకు నిర్దిష్ట నిశ్చయముతో ఎటువంటి మార్పుతో\nకూడినది సరిపోవునని పేర్కొనుట కష్టతరమైనది.వ్యక్తి అపజయము కోల్పోవుట లేక దాని యొక్క\nనైశ్యత నైశల్యమును గానీ డ్యూటో కాలపరిణామము మరియు డ్యూటో మార్పువలనము.బాధితునకు\nలేక హఠాన్మరణము వలన ఆయన లేక ఆమె యొక్క చట్టబద్ధమైన వారసులను కల్గిన కష్టమును\nతగ్గించుటే దీని ఉద్దేశ్యము. ఇవ్వబడిన పరిహారము చాలినంతగా లేకపోవుట గాని\nఅసమంజసముగనుగాని గాని అతి హెచ్చుగా గాని తక్కువగా గాని ఉండరాదు.మానవ ప్రాణము యొక్క\nవిలువను లేక అపజయము లేక బాధను గాని కొలుచుటకు ఖచ్చితమైన , ఒకే విధమైన నిబంధన\nఉండదు మరియు ఖచ్చితమైన లెక్కించుట ద్వారా, నష్టము ఊహించలేము. ప్రతి ఒక్క కేసు యొక్క\nవాస్తవములు మరియు పరిస్థితులపై పొందవలయున్న నష్ట పరిహారము ఆధారపడి\nయుండును.నష్టపరిహారము అంచనావేయుట ఎన్నడూ ఖచ్చితమైన ప్రమాణము కాదని, ఇది తప్పని\nసరిగాఉపదేశాత్మకమైనదని,వార్డ్ ఆన్ జౌన్ బ్రదర్ మరియు టార్టోలో,ఆఫ్ జాన్ ఎల్.జె.\nవ్యాఖ్యానించెను.ఫ్యార్ మరియు క్లసర్6 లోని లార్డ్ మోరిస్, నొక్కి కోశం మరియు శారీరక\nపరిణామాలను డ్యూటో తగ్గ చేయుట కొన్ని అంచనాలు లేకుండా చాలా కష్టమని, అయితే డబ్బును\nమానవ బాధలతో వ్యక్తిగత నష్టముతో సమానం చేయుట అసాధ్యమైనప్పటికీ ఆర్థిక అంచనావేయుట"
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": "STOP",
+      "safety_ratings": [
+        {
+          "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HATE_SPEECH",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HARASSMENT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+          "probability": "NEGLIGIBLE"
+        }
+      ],
+      "token_count": null
+    }
+  ],
+  "create_time": null,
+  "response_id": null,
+  "model_version": "gemini-2.5-pro",
+  "prompt_feedback": null,
+  "usage_metadata": {
+    "cache_tokens_details": null,
+    "cached_content_token_count": null,
+    "candidates_token_count": 514,
+    "candidates_tokens_details": null,
+    "prompt_token_count": 713,
+    "prompt_tokens_details": [
+      {
+        "modality": "TEXT",
+        "token_count": 455
+      },
+      {
+        "modality": "IMAGE",
+        "token_count": 258
+      }
+    ],
+    "thoughts_token_count": 2964,
+    "tool_use_prompt_token_count": null,
+    "tool_use_prompt_tokens_details": null,
+    "total_token_count": 4191,
+    "traffic_type": null
+  },
+  "automatic_function_calling_history": [],
+  "parsed": null,
+  "page_number": 130
+}

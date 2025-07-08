@@ -1,0 +1,79 @@
+{
+  "sdk_http_response": {
+    "headers": {
+      "content-type": "application/json; charset=UTF-8",
+      "vary": "Origin, X-Origin, Referer",
+      "content-encoding": "gzip",
+      "date": "Fri, 04 Jul 2025 05:25:32 GMT",
+      "server": "scaffolding on HTTPServer2",
+      "x-xss-protection": "0",
+      "x-frame-options": "SAMEORIGIN",
+      "x-content-type-options": "nosniff",
+      "server-timing": "gfet4t7; dur=35916",
+      "alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
+      "transfer-encoding": "chunked"
+    },
+    "body": null
+  },
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "ही जाणीव होण्यासाठी माणसाने समाजाचे, स्वतःच्या मनाचे आणि जगण्याचे अत्यंत\nतटस्थपणे, दूरस्थ वृत्तीने चिंतन करणे आवश्यक आहे. पण माणूस जेव्हा या व्यवस्थेचा एक\nभाग बनून प्रवाहपतितासारखे जीवन जगत असतो तोवर हे साध्य होत नाही. ज्यावेळी अलिप्तता\nयेते तेव्हाच जगण्यातला फोलपणा दृष्टीस येतो आणि निरर्थकतेच्या कटू सत्याची जाणीव होते.\nहा अलिप्तपणा आणण्यासाठी आळेकरांनी नायकस्थानी भाऊरावांच्या मृतात्म्याची योजना करून\nत्यांना जड समाजापासून बाजूला काढले आहे. जोवर भाऊराव जिवंत होते तोवर जगण्यातली ही\nहीनता त्यांना जाणवतही नव्हती कारण ते त्याच समाजाचा एक भाग होते. तेही त्याच प्रकारच्या\nजगण्याचे अवलंबन करीत होते. पण मृत्यूमुळे या समाजात आणि त्यांच्यात एक अंतर निर्माण\nझाले आहे. स्वतःच्या देहाला अग्नी मिळण्याची प्रतिक्षा करणारा हा आत्मा या विशिष्ट अंतरावरून\nआपल्यानंतरच्या समाजाचे, रीतीरूढींचे निरिक्षण करतो आहे. या भूमिकेतून नाटकाची सूत्रे हाती\nआलेल्या ह्या विदेही नायकाला जाणवलेला जगण्याविषयीचा आशय नाटकात मांडला जातो.\nआळेकरांनी विलक्षण कल्पकतेने अशा प्रकारचा जिवंत नसलेला, मृतात्म्याच्या स्वरूपात नाटकात\nवावरणारा नायक उभा केला आहे. या नायकाच्या सोबतीने प्रेक्षकही नकळतपणे तटस्थतेने\nजगण्याकडे पाहू लागतात. मानवी जीवनातील निरर्थकतेने अस्वस्थ होतात."
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": "STOP",
+      "safety_ratings": [
+        {
+          "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HATE_SPEECH",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HARASSMENT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+          "probability": "NEGLIGIBLE"
+        }
+      ],
+      "token_count": null
+    }
+  ],
+  "create_time": null,
+  "response_id": null,
+  "model_version": "gemini-2.5-pro",
+  "prompt_feedback": null,
+  "usage_metadata": {
+    "cache_tokens_details": null,
+    "cached_content_token_count": null,
+    "candidates_token_count": 353,
+    "candidates_tokens_details": null,
+    "prompt_token_count": 716,
+    "prompt_tokens_details": [
+      {
+        "modality": "TEXT",
+        "token_count": 458
+      },
+      {
+        "modality": "IMAGE",
+        "token_count": 258
+      }
+    ],
+    "thoughts_token_count": 2882,
+    "tool_use_prompt_token_count": null,
+    "tool_use_prompt_tokens_details": null,
+    "total_token_count": 3951,
+    "traffic_type": null
+  },
+  "automatic_function_calling_history": [],
+  "parsed": null,
+  "page_number": 259
+}

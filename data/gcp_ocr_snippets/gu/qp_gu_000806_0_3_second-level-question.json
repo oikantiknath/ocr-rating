@@ -1,0 +1,57 @@
+{
+  "page_number": 806,
+  "ocr_output": {
+    "blocks": [
+      {
+        "block_text": "What are the objectives of Factor Analysis ?",
+        "lines": [
+          "What are the objectives of Factor Analysis ?"
+        ],
+        "bounding_box": [
+          {
+            "x": 111,
+            "y": 2
+          },
+          {
+            "x": 1061,
+            "y": 11
+          },
+          {
+            "x": 1061,
+            "y": 56
+          },
+          {
+            "x": 111,
+            "y": 47
+          }
+        ],
+        "confidence": 0.94800645
+      },
+      {
+        "block_text": "1+ V ,",
+        "lines": [
+          "1+ V ,"
+        ],
+        "bounding_box": [
+          {
+            "x": 385,
+            "y": 49
+          },
+          {
+            "x": 463,
+            "y": 48
+          },
+          {
+            "x": 463,
+            "y": 61
+          },
+          {
+            "x": 385,
+            "y": 61
+          }
+        ],
+        "confidence": 0.78878915
+      }
+    ]
+  }
+}

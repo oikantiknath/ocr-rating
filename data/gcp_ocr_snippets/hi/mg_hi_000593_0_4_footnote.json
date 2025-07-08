@@ -1,0 +1,32 @@
+{
+  "page_number": 593,
+  "ocr_output": {
+    "blocks": [
+      {
+        "block_text": "CC - 0 . In Public Domain . Maharaja Krishna Bharat Jammu Collection",
+        "lines": [
+          "CC - 0 . In Public Domain . Maharaja Krishna Bharat Jammu Collection"
+        ],
+        "bounding_box": [
+          {
+            "x": 43,
+            "y": 6
+          },
+          {
+            "x": 717,
+            "y": 6
+          },
+          {
+            "x": 717,
+            "y": 29
+          },
+          {
+            "x": 43,
+            "y": 29
+          }
+        ],
+        "confidence": 0.95896614
+      }
+    ]
+  }
+}

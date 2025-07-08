@@ -1,0 +1,32 @@
+{
+  "page_number": 44,
+  "ocr_output": {
+    "blocks": [
+      {
+        "block_text": "KERALA GAZETTE",
+        "lines": [
+          "KERALA GAZETTE"
+        ],
+        "bounding_box": [
+          {
+            "x": 26,
+            "y": 25
+          },
+          {
+            "x": 429,
+            "y": 25
+          },
+          {
+            "x": 429,
+            "y": 55
+          },
+          {
+            "x": 26,
+            "y": 55
+          }
+        ],
+        "confidence": 0.9913917
+      }
+    ]
+  }
+}

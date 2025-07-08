@@ -1,0 +1,131 @@
+{
+  "page_number": 678,
+  "ocr_output": {
+    "blocks": [
+      {
+        "block_text": "3. Find the odd one :",
+        "lines": [
+          "3. Find the odd one :"
+        ],
+        "bounding_box": [
+          {
+            "x": 4
+          },
+          {
+            "x": 387,
+            "y": 4
+          },
+          {
+            "x": 386,
+            "y": 38
+          },
+          {
+            "x": 3,
+            "y": 32
+          }
+        ],
+        "confidence": 0.9777609
+      },
+      {
+        "block_text": "a ) leather",
+        "lines": [
+          "a ) leather"
+        ],
+        "bounding_box": [
+          {
+            "x": 83,
+            "y": 54
+          },
+          {
+            "x": 247,
+            "y": 53
+          },
+          {
+            "x": 247,
+            "y": 83
+          },
+          {
+            "x": 83,
+            "y": 84
+          }
+        ],
+        "confidence": 0.9729209
+      },
+      {
+        "block_text": "b ) shoes",
+        "lines": [
+          "b ) shoes"
+        ],
+        "bounding_box": [
+          {
+            "x": 398,
+            "y": 55
+          },
+          {
+            "x": 546,
+            "y": 54
+          },
+          {
+            "x": 546,
+            "y": 83
+          },
+          {
+            "x": 398,
+            "y": 84
+          }
+        ],
+        "confidence": 0.9745603
+      },
+      {
+        "block_text": "c ) laces",
+        "lines": [
+          "c ) laces"
+        ],
+        "bounding_box": [
+          {
+            "x": 722,
+            "y": 55
+          },
+          {
+            "x": 861,
+            "y": 54
+          },
+          {
+            "x": 861,
+            "y": 84
+          },
+          {
+            "x": 722,
+            "y": 85
+          }
+        ],
+        "confidence": 0.96164083
+      },
+      {
+        "block_text": "d ) hammar",
+        "lines": [
+          "d ) hammar"
+        ],
+        "bounding_box": [
+          {
+            "x": 1063,
+            "y": 55
+          },
+          {
+            "x": 1249,
+            "y": 55
+          },
+          {
+            "x": 1249,
+            "y": 84
+          },
+          {
+            "x": 1063,
+            "y": 84
+          }
+        ],
+        "confidence": 0.97316074
+      }
+    ]
+  }
+}

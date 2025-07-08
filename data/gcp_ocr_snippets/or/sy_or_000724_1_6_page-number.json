@@ -1,0 +1,32 @@
+{
+  "page_number": 724,
+  "ocr_output": {
+    "blocks": [
+      {
+        "block_text": "Page 6",
+        "lines": [
+          "Page 6"
+        ],
+        "bounding_box": [
+          {
+            "x": 1,
+            "y": 1
+          },
+          {
+            "x": 30,
+            "y": 1
+          },
+          {
+            "x": 30,
+            "y": 11
+          },
+          {
+            "x": 1,
+            "y": 11
+          }
+        ],
+        "confidence": 0.98714954
+      }
+    ]
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "page_number": 186,
+  "ocr_output": {
+    "blocks": [
+      {
+        "block_text": "Time - 3 Hours",
+        "lines": [
+          "Time - 3 Hours"
+        ],
+        "bounding_box": [
+          {
+            "x": 14,
+            "y": 10
+          },
+          {
+            "x": 200,
+            "y": 10
+          },
+          {
+            "x": 200,
+            "y": 30
+          },
+          {
+            "x": 14,
+            "y": 30
+          }
+        ],
+        "confidence": 0.98021555
+      }
+    ]
+  }
+}

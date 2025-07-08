@@ -1,0 +1,79 @@
+{
+  "sdk_http_response": {
+    "headers": {
+      "content-type": "application/json; charset=UTF-8",
+      "vary": "Origin, X-Origin, Referer",
+      "content-encoding": "gzip",
+      "date": "Fri, 04 Jul 2025 05:09:30 GMT",
+      "server": "scaffolding on HTTPServer2",
+      "x-xss-protection": "0",
+      "x-frame-options": "SAMEORIGIN",
+      "x-content-type-options": "nosniff",
+      "server-timing": "gfet4t7; dur=35928",
+      "alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
+      "transfer-encoding": "chunked"
+    },
+    "body": null
+  },
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "നവോത്ഥാനാനന്തരവാദികൾ പട്ടാളവാഴ്ചയുടെ ‘ക്രിസ്തുമതനിരൂപണം’\nഎന്ന ഗ്രന്ഥം താമ്രലിഖിതമാണെന്നോ വെങ്കലവർണ്ണമാണെന്നോ എതിർക്കുന്നു. കൊച്ചോ\nബ്ലിയർ ശക്തികൾ പല സാധീനങ്ങൾ ഉപയോഗിച്ച് നിർബന്ധപൂർവ്വം\nനടത്തിവന്നിരുന്ന മതപരിവർത്തനത്തെ അർഹിക്കുന്നതിലും അധികം പട്ടാളവാഴ്ച\nകർശന കഴിഞ്ഞുവെന്നു തന്നെ പറയാം. തന്റെ ബോധപൂർവ്വമല്ലാത്തതിനാലോ\nഅറിവിന്റെ / വേദത്തിന്റെ കേവലുള്ള (സാമാന്യ ബോധമായയെ എതിർത്തു\nതോൽപ്പിച്ചു. ആധുനികമായ വിദ്യാഭ്യാസം എല്ലാവർക്കും ലഭ്യമാക്കാനും അതുവഴി\nഅദ്ദേഹത്തിന്റെ നയമായിരുന്നു. (സാമൂഹ്യവിപ്ലവത്തെയും കൊച്ചോബ്ലിയർ\nഅധിനിവേശത്തെയും ഒരുപോലെ ചോദ്യം ചെയ്യാൻ സാഹചര്യം കഴിഞ്ഞിരുന്നു.\nതന്റെ (പ്രയോഗികജീവിതത്തിൽ നിന്നും ഉരുത്തിരിഞ്ഞുവന്ന വാദമുഖങ്ങളായി\nരുന്നു അദ്ദേഹം ഉന്നയിച്ചത്. അതനുസരിച്ച് അദ്ദേഹവുമായി നിലനിന്നുവന്നതും, ജീവകാരു\nണ്യനിരൂപണം എന്നീ താമ്രലിഖിതങ്ങളും അദ്ദേഹത്തെ, (പ്രാചീനമലയാളം മുത\nലായ ഭാഷയെ സംബന്ധിക്കുന്ന കൃതികളും വ്യത്യസ്തമായ അറിവുകൾ\nപ്രദാനം ചെയ്യുന്നു."
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": "STOP",
+      "safety_ratings": [
+        {
+          "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HATE_SPEECH",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HARASSMENT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+          "probability": "NEGLIGIBLE"
+        }
+      ],
+      "token_count": null
+    }
+  ],
+  "create_time": null,
+  "response_id": null,
+  "model_version": "gemini-2.5-pro",
+  "prompt_feedback": null,
+  "usage_metadata": {
+    "cache_tokens_details": null,
+    "cached_content_token_count": null,
+    "candidates_token_count": 307,
+    "candidates_tokens_details": null,
+    "prompt_token_count": 740,
+    "prompt_tokens_details": [
+      {
+        "modality": "TEXT",
+        "token_count": 482
+      },
+      {
+        "modality": "IMAGE",
+        "token_count": 258
+      }
+    ],
+    "thoughts_token_count": 2811,
+    "tool_use_prompt_token_count": null,
+    "tool_use_prompt_tokens_details": null,
+    "total_token_count": 3858,
+    "traffic_type": null
+  },
+  "automatic_function_calling_history": [],
+  "parsed": null,
+  "page_number": 294
+}

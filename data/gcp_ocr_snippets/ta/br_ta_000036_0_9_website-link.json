@@ -1,0 +1,32 @@
+{
+  "page_number": 36,
+  "ocr_output": {
+    "blocks": [
+      {
+        "block_text": "https://www.fssai.gov.in/home",
+        "lines": [
+          "https://www.fssai.gov.in/home"
+        ],
+        "bounding_box": [
+          {
+            "x": 21,
+            "y": 9
+          },
+          {
+            "x": 590,
+            "y": 6
+          },
+          {
+            "x": 590,
+            "y": 54
+          },
+          {
+            "x": 21,
+            "y": 57
+          }
+        ],
+        "confidence": 0.98328084
+      }
+    ]
+  }
+}

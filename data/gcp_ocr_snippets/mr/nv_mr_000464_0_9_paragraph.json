@@ -1,0 +1,32 @@
+{
+  "page_number": 464,
+  "ocr_output": {
+    "blocks": [
+      {
+        "block_text": "Robbery of a fragrant stuff , called abir used by devotees of Pandharinàth , discovered by a strata- gem ; the artifice reviled by Ghasiram and torture of all accused parties recommended .",
+        "lines": [
+          "Robbery of a fragrant stuff , called abir used by devotees of Pandharinàth , discovered by a strata- gem ; the artifice reviled by Ghasiram and torture of all accused parties recommended ."
+        ],
+        "bounding_box": [
+          {
+            "x": 15,
+            "y": 2
+          },
+          {
+            "x": 801,
+            "y": 9
+          },
+          {
+            "x": 800,
+            "y": 171
+          },
+          {
+            "x": 14,
+            "y": 166
+          }
+        ],
+        "confidence": 0.9767446
+      }
+    ]
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "page_number": 861,
+  "ocr_output": {
+    "blocks": [
+      {
+        "block_text": "INDEX",
+        "lines": [
+          "INDEX"
+        ],
+        "bounding_box": [
+          {
+            "x": 3,
+            "y": 5
+          },
+          {
+            "x": 65,
+            "y": 5
+          },
+          {
+            "x": 65,
+            "y": 18
+          },
+          {
+            "x": 3,
+            "y": 18
+          }
+        ],
+        "confidence": 0.9902399
+      }
+    ]
+  }
+}

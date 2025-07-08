@@ -1,0 +1,79 @@
+{
+  "sdk_http_response": {
+    "headers": {
+      "content-type": "application/json; charset=UTF-8",
+      "vary": "Origin, X-Origin, Referer",
+      "content-encoding": "gzip",
+      "date": "Fri, 04 Jul 2025 05:25:14 GMT",
+      "server": "scaffolding on HTTPServer2",
+      "x-xss-protection": "0",
+      "x-frame-options": "SAMEORIGIN",
+      "x-content-type-options": "nosniff",
+      "server-timing": "gfet4t7; dur=19137",
+      "alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
+      "transfer-encoding": "chunked"
+    },
+    "body": null
+  },
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "नाटकाच्या दुसऱ्या अंकात संजय, नीला आणि कांचन या तिघांमध्ये घडणाऱ्या घडामोडी\nपुन्हा माणसातलत्या स्वार्थी, दुष्टवृत्तीचे दर्शन घडवतात. सिनेमात नऊवारी नेसून तुळशी वृंदावनाला\nप्रदक्षिणा घालणाऱ्या पतिव्रता वहिनीची भूमिका करणारी कांचन वास्तवात चारित्र्यशून्य असली तरी\nतिच्याही मनात संसाराचे स्वप्न आहे. हे स्वप्न साकारण्यासाठी ती पैसा, शरीर यांचे अमिष\nदाखवून संजयला नीलापासून तोडते. आणि संजयही नीलाचा अव्हेर करून कांचन सोबत तिथून\nनिघून गेल्यानंतर नीलाची आत्महत्या झरोक्यातून गंगाधर पाहतो आहे. चोरून शृंगार पाहण्याहून\nएखाद्याची आत्महत्या चोरून पाहण्यातला मजा काही और असतो असे तो म्हणतो. तेव्हा प्रकट\nगंगाधरचे क्रौर्य दिसते. सैतानी वृत्ती दिसते. ते अनुभवणारा अप्रकट गंगाधर म्हणतो. “तू\nमाझ्याच वाढत होतास आजपर्यंत? केवढा भयानक वाढला आहेस तू?” प्रकट गंगाधर मात्र\nनीलाच्या आत्महत्येतील पाशवी आनंद लुटत राहतो. अप्रकट गंगाधरची तिला वाचवण्याची विनंती\nधुडकावून लावत तो बळी पाहत राहतो. प्रकट गंगाधरचे हे सैतानी रूप पाहिलेला अप्रकट गंगाधर\nमात्र नाटकाच्या शेवटी त्याला नष्ट करण्याचा निर्णय घेतो.“..आज पुन्हा एकदा हजारो वर्षांनंतर\nसैतानाचा वध करायचा आहे. इथं मरणारा आणि मारणारा एकच आहे....मी कुणी सामान्य\nअसामी आज माझ्यातले हजारो वर्षांचे संस्कार जागृत करतोय. ते सामर्थ्य घेऊन आज उभा\nराहतोय. माझ्यातल्या सैतानाला शिक्षा सुनावतोय, नीलू--‘गंगाधर, तू दोषी आहेस. गुन्हेगार\nआहेस!”१६६"
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": "STOP",
+      "safety_ratings": [
+        {
+          "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HATE_SPEECH",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_HARASSMENT",
+          "probability": "NEGLIGIBLE"
+        },
+        {
+          "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+          "probability": "NEGLIGIBLE"
+        }
+      ],
+      "token_count": null
+    }
+  ],
+  "create_time": null,
+  "response_id": null,
+  "model_version": "gemini-2.5-pro",
+  "prompt_feedback": null,
+  "usage_metadata": {
+    "cache_tokens_details": null,
+    "cached_content_token_count": null,
+    "candidates_token_count": 411,
+    "candidates_tokens_details": null,
+    "prompt_token_count": 716,
+    "prompt_tokens_details": [
+      {
+        "modality": "TEXT",
+        "token_count": 458
+      },
+      {
+        "modality": "IMAGE",
+        "token_count": 258
+      }
+    ],
+    "thoughts_token_count": 1062,
+    "tool_use_prompt_token_count": null,
+    "tool_use_prompt_tokens_details": null,
+    "total_token_count": 2189,
+    "traffic_type": null
+  },
+  "automatic_function_calling_history": [],
+  "parsed": null,
+  "page_number": 258
+}
