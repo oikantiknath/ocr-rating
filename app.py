@@ -30,6 +30,27 @@ COLS          = ['image_name', 'lang', 'domain', 'image_rating', 'ocr_pred_ratin
 DEFAULT, SKIP = -1, -2      # -1 = not rated, -2 = skipped
 
 # ───────── HELPERS ───────────────────────────────────────────────────────────
+
+import sqlite3, contextlib, pathlib
+
+DB_FILE = "ratings.db"
+
+def init_db():
+    if not pathlib.Path(DB_FILE).exists():
+        with sqlite3.connect(DB_FILE) as conn:
+            conn.execute("""
+                CREATE TABLE IF NOT EXISTS ratings (
+                    image_name TEXT PRIMARY KEY,
+                    lang       TEXT,
+                    domain     TEXT,
+                    image_rating     INTEGER,
+                    ocr_pred_rating  INTEGER
+                )
+            """)
+init_db()
+with sqlite3.connect(DB_FILE) as conn:
+    conn.execute("PRAGMA journal_mode=WAL;")
+
 def read_json(path, default):
     try:
         with open(path) as f:
@@ -144,7 +165,13 @@ def diff_html(a: str, b: str) -> tuple[str, str]:
 
 
 # ───────── STATE INIT ────────────────────────────────────────────────────────
-ratings_df = load_ratings()
+# ratings_df = load_ratings()
+def load_from_db():
+    with sqlite3.connect(DB_FILE) as conn:
+        return pd.read_sql_query("SELECT * FROM ratings", conn)
+
+ratings_df = load_from_db()
+
 
 # force numeric ints so comparisons work
 ratings_df['image_rating']     = pd.to_numeric(ratings_df['image_rating'],
@@ -213,12 +240,20 @@ write_json(UI_STATE_FILE, ui_state)
 with open(RATING_FILE, "rb") as f:
     csv_bytes = f.read()
 
+# st.sidebar.download_button(
+#     label="⬇️ Download ratings.csv",
+#     data=csv_bytes,
+#     file_name="ratings.csv",
+#     mime="text/csv",
+# )
+
+with sqlite3.connect(DB_FILE) as conn:
+    csv_bytes = pd.read_sql_query("SELECT * FROM ratings", conn).to_csv(index=False).encode()
+
 st.sidebar.download_button(
-    label="⬇️ Download ratings.csv",
-    data=csv_bytes,
-    file_name="ratings.csv",
-    mime="text/csv",
+    "⬇️ Download ratings.csv", csv_bytes, file_name="ratings.csv", mime="text/csv"
 )
+
 
 with open(UI_STATE_FILE, "rb") as f:
     st.sidebar.download_button(
@@ -234,55 +269,94 @@ view_mode = st.radio(
     'Show snippets:',
     ['Unfinished', 'Completed'],
     horizontal=True,
+    label_visibility='collapsed'
 )
 
 # ───────── CSV UPDATE --------------------------------------------------------
-from filelock import FileLock
 
-def update_csv(name, img=None, ocr=None, skip=False):
+import sqlite3, time
+
+DB_FILE = "ratings.db"
+DEFAULT, SKIP = -1, -2     # already defined above
+
+def upsert_db(name: str, img_val: int | None, ocr_val: int | None) -> None:
+    """Atomic UPSERT; retries if the DB is momentarily busy."""
+    if img_val is None:
+        img_val = DEFAULT
+    if ocr_val is None:
+        ocr_val = DEFAULT
+
+    sql = """
+        INSERT INTO ratings
+              (image_name, lang, domain, image_rating, ocr_pred_rating)
+        VALUES (?, ?, ?, ?, ?)
+        ON CONFLICT(image_name) DO UPDATE SET
+            image_rating    = excluded.image_rating,
+            ocr_pred_rating = excluded.ocr_pred_rating;
     """
-    Concurrency-safe upsert of one annotation row.
-    - Reloads the freshest ratings.csv under a file-lock → no overwriting
-      of other users’ edits.
-    - Applies the caller’s changes (or marks as skipped).
-    - Writes back, then refreshes the in-memory ratings_df so UI stats update.
-    """
-    global ratings_df
 
-    if skip:
-        img = ocr = SKIP
+    for attempt in range(3):                      # ≤3 tries
+        try:
+            with sqlite3.connect(DB_FILE, timeout=30) as conn:
+                conn.execute(sql,
+                             (name,
+                              lang_code,
+                              name[:2],
+                              img_val,
+                              ocr_val))
+            break                                 # success → leave the loop
+        except sqlite3.OperationalError as e:
+            if "locked" in str(e):                # busy DB → wait & retry
+                time.sleep(0.2 * (attempt + 1))
+                continue
+            raise                                 # other errors → propagate
 
-    new_row = {
-        'image_name'     : name,
-        'lang'           : lang_code,
-        'domain'         : name[:2],
-        'image_rating'   : img  if img  is not None else DEFAULT,
-        'ocr_pred_rating': ocr if ocr is not None else DEFAULT,
-    }
 
-    lock = FileLock("ratings.lock")
+# from filelock import FileLock
 
-    with lock:
-        # 1️⃣ always start from the latest on disk
-        if os.path.exists(RATING_FILE):
-            current = pd.read_csv(RATING_FILE)
-        else:
-            current = pd.DataFrame(columns=COLS)
+# def update_csv(name, img=None, ocr=None, skip=False):
+#     """
+#     Concurrency-safe upsert of one annotation row.
+#     - Reloads the freshest ratings.csv under a file-lock → no overwriting
+#       of other users’ edits.
+#     - Applies the caller’s changes (or marks as skipped).
+#     - Writes back, then refreshes the in-memory ratings_df so UI stats update.
+#     """
+#     global ratings_df
 
-        # 2️⃣ upsert
-        mask = current.image_name == name
-        if mask.any():
-            if img  is not None: current.loc[mask, 'image_rating']    = img
-            if ocr is not None: current.loc[mask, 'ocr_pred_rating']  = ocr
-        else:
-            current = pd.concat([current, pd.DataFrame([new_row])],
-                                ignore_index=True)
+#     if skip:
+#         img = ocr = SKIP
 
-        # 3️⃣ persist
-        current.to_csv(RATING_FILE, index=False)
+#     new_row = {
+#         'image_name'     : name,
+#         'lang'           : lang_code,
+#         'domain'         : name[:2],
+#         'image_rating'   : img  if img  is not None else DEFAULT,
+#         'ocr_pred_rating': ocr if ocr is not None else DEFAULT,
+#     }
 
-    # 4️⃣ keep session cache in sync
-    ratings_df = current
+#     lock = FileLock("ratings.lock")
+
+#     with lock:
+#         # starting from the latest on disk
+#         if os.path.exists(RATING_FILE):
+#             current = pd.read_csv(RATING_FILE)
+#         else:
+#             current = pd.DataFrame(columns=COLS)
+
+#         mask = current.image_name == name
+#         if mask.any():
+#             if img  is not None: current.loc[mask, 'image_rating']    = img
+#             if ocr is not None: current.loc[mask, 'ocr_pred_rating']  = ocr
+#         else:
+#             current = pd.concat([current, pd.DataFrame([new_row])],
+#                                 ignore_index=True)
+
+#         # persist
+#         current.to_csv(RATING_FILE, index=False)
+
+#     # keep session cache in sync
+#     ratings_df = current
 
 
 
@@ -328,6 +402,7 @@ if view_mode == 'Unfinished':
                             index=[0,1,2,SKIP].index(st.session_state.get(img_key, 1)),
                             horizontal=True,
                             key=img_key,
+                            label_visibility='collapsed'
                         )
 
                     # -------- diff + OCR comparison radio -----------------------
@@ -351,20 +426,32 @@ if view_mode == 'Unfinished':
                             index=[0,1,2,SKIP].index(st.session_state.get(ocr_key, 1)),
                             horizontal=True,
                             key=ocr_key,
+                            label_visibility='collapsed'
                         )
 
                     st.markdown('---')
 
                 # ---------- submit once for the whole batch ---------------------
-                if st.form_submit_button('💾 Save batch'):
+                # if st.form_submit_button('💾 Save batch'):
+                #     for file in batch:
+                #         name  = os.path.basename(file)
+                #         stem  = os.path.splitext(name)[0]
+                #         img_val = st.session_state[f'img_{stem}']
+                #         ocr_val = st.session_state[f'ocr_{stem}']
+                #         skip = (img_val == SKIP) or (ocr_val == SKIP)
+                #         update_csv(name, img_val, ocr_val, skip)
+                #     st.experimental_rerun()          # next 10 load
+
+                if st.form_submit_button("💾 Save batch"):
                     for file in batch:
-                        name  = os.path.basename(file)
-                        stem  = os.path.splitext(name)[0]
+                        stem  = os.path.splitext(os.path.basename(file))[0]
                         img_val = st.session_state[f'img_{stem}']
                         ocr_val = st.session_state[f'ocr_{stem}']
-                        skip = (img_val == SKIP) or (ocr_val == SKIP)
-                        update_csv(name, img_val, ocr_val, skip)
-                    st.experimental_rerun()          # next 10 load
+                        skip    = (img_val == SKIP) or (ocr_val == SKIP)
+                        if skip: img_val = ocr_val = SKIP
+                        upsert_db(f"{stem}.png", img_val, ocr_val)   # one UPSERT per snippet
+                    st.experimental_rerun()
+
 
 
 # ───────── VISUALISE COMPLETED ───────────────────────────────────────────────
