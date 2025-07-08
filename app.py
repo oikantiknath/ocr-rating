@@ -29,7 +29,7 @@ CLIENT_SECRET = st.secrets.google_oauth.client_secret
 REDIRECT_URI = st.secrets.google_oauth.redirect_uri
 AUTHORIZATION_URL = "https://accounts.google.com/o/oauth2/auth"
 TOKEN_URL = "https://oauth2.googleapis.com/token"
-SCOPE = ["https://www.googleapis.com/auth/userinfo.profile", "https://www.googleapis.com/auth/userinfo.email"]
+SCOPE = ["openid", "https://www.googleapis.com/auth/userinfo.profile", "https://www.googleapis.com/auth/userinfo.email"]
 
 # --- 2. DATABASE AND HELPER FUNCTIONS ---
 
