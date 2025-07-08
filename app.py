@@ -1,536 +1,240 @@
-# base = '/Users/oikantik/expts_check_samples_ocr_quality'
-import streamlit as st, os, json, glob, pandas as pd
-st.set_page_config(layout="wide")
-from PIL import Image
-
-# ───────── CONFIG ────────────────────────────────────────────────────────────
-langs_dict = {
-    'hi': 'Hindi', 'bn': 'Bengali', 'pa': 'Punjabi', 'or': 'Odia',  'ta': 'Tamil',
-    'te': 'Telugu', 'kn': 'Kannada', 'ml': 'Malayalam', 'mr': 'Marathi', 'gu': 'Gujarati'
-}
-doc_categories = {
-    'mg': 'magazines', 'tb': 'textbooks', 'nv': 'novels', 'np': 'newspapers',
-    'rp': 'research-papers', 'br': 'brochures', 'nt': 'notices', 'sy': 'syllabi',
-    'qp': 'question-papers', 'mn': 'manuals'
-}
+import streamlit as st
 import os
-base = 'data'
-# STATE_DIR = "app_state"
-# os.makedirs(STATE_DIR, exist_ok=True)
-# RATING_FILE   = os.path.join(STATE_DIR, "ratings.csv")
-# UI_STATE_FILE = os.path.join(STATE_DIR, "ui_state.json")
+import json
+import glob
+import pandas as pd
+from PIL import Image
+import libsql_client as libsql
+import html as _html
+import unicodedata
+import difflib
+import re
+from requests_oauthlib import OAuth2Session
 
+# --- 1. AUTHORIZATION AND CONFIGURATION ---
 
-img_dir, gcp_dir, gem_dir = [f'{base}/{d}' for d in
-    ('ocr_snippets_testing', 'gcp_ocr_snippets', 'gemini_ocr_snippets')]
+st.set_page_config(layout="wide", page_title="OCR Rating Tool")
 
-RATING_FILE   = 'ratings.csv'
-UI_STATE_FILE = 'ui_state.json'
-COLS          = ['image_name', 'lang', 'domain', 'image_rating', 'ocr_pred_rating']
-DEFAULT, SKIP = -1, -2      # -1 = not rated, -2 = skipped
+# Constants
+LANGS = { 'hi': 'Hindi', 'bn': 'Bengali', 'pa': 'Punjabi', 'or': 'Odia', 'ta': 'Tamil', 'te': 'Telugu', 'kn': 'Kannada', 'ml': 'Malayalam', 'mr': 'Marathi', 'gu': 'Gujarati' }
+DOC_CATEGORIES = { 'mg': 'magazines', 'tb': 'textbooks', 'nv': 'novels', 'np': 'newspapers', 'rp': 'research-papers', 'br': 'brochures', 'nt': 'notices', 'sy': 'syllabi', 'qp': 'question-papers', 'mn': 'manuals' }
+BASE_DIR = 'data'
+IMG_DIR, GCP_DIR, GEM_DIR = [f'{BASE_DIR}/{d}' for d in ('ocr_snippets_testing', 'gcp_ocr_snippets', 'gemini_ocr_snippets')]
+COLS = ['image_name', 'lang', 'domain', 'image_rating', 'ocr_pred_rating', 'rated_at', 'rated_by_email']
+DEFAULT, SKIP = -1, -2
 
-# ───────── HELPERS ───────────────────────────────────────────────────────────
+# Google OAuth Configuration from secrets
+CLIENT_ID = st.secrets.google_oauth.client_id
+CLIENT_SECRET = st.secrets.google_oauth.client_secret
+REDIRECT_URI = st.secrets.google_oauth.redirect_uri
+AUTHORIZATION_URL = "https://accounts.google.com/o/oauth2/auth"
+TOKEN_URL = "https://oauth2.googleapis.com/token"
+SCOPE = ["https://www.googleapis.com/auth/userinfo.profile", "https://www.googleapis.com/auth/userinfo.email"]
 
-import sqlite3, contextlib, pathlib
+# --- 2. DATABASE AND HELPER FUNCTIONS ---
 
-DB_FILE = "ratings.db"
+@st.cache_resource
+def get_db_connection():
+    """Establishes and caches a persistent connection to the Turso database."""
+    url = st.secrets["TURSO_DB_URL"]
+    if url.startswith("libsql://"):
+        url = url.replace("libsql://", "https://")
+    auth_token = st.secrets["TURSO_AUTH_TOKEN"]
+    return libsql.create_client_sync(url=url, auth_token=auth_token)
+    
+def load_ratings_from_db() -> pd.DataFrame:
+    """Loads all ratings from the Turso database and returns them as a DataFrame."""
+    conn = get_db_connection()
+    rs = conn.execute("SELECT * FROM ratings")
+    rows = [dict(zip(rs.columns, row)) for row in rs.rows]
+    if not rows: return pd.DataFrame(columns=COLS)
+    df = pd.DataFrame(rows)
+    df['image_rating'] = pd.to_numeric(df['image_rating'], errors='coerce').fillna(DEFAULT).astype(int)
+    df['ocr_pred_rating'] = pd.to_numeric(df['ocr_pred_rating'], errors='coerce').fillna(DEFAULT).astype(int)
+    return df
 
-def init_db():
-    if not pathlib.Path(DB_FILE).exists():
-        with sqlite3.connect(DB_FILE) as conn:
-            conn.execute("""
-                CREATE TABLE IF NOT EXISTS ratings (
-                    image_name TEXT PRIMARY KEY,
-                    lang       TEXT,
-                    domain     TEXT,
-                    image_rating     INTEGER,
-                    ocr_pred_rating  INTEGER
-                )
-            """)
-init_db()
-with sqlite3.connect(DB_FILE) as conn:
-    conn.execute("PRAGMA journal_mode=WAL;")
+def upsert_rating_to_db(name: str, lang: str, domain: str, img_val: int, ocr_val: int, user_email: str):
+    """Inserts or updates a rating, including the timestamp and user email."""
+    sql = """
+        INSERT INTO ratings (image_name, lang, domain, image_rating, ocr_pred_rating, rated_at, rated_by_email)
+        VALUES (?, ?, ?, ?, ?, CURRENT_TIMESTAMP, ?)
+        ON CONFLICT(image_name) DO UPDATE SET
+            image_rating = excluded.image_rating, ocr_pred_rating = excluded.ocr_pred_rating,
+            rated_at = CURRENT_TIMESTAMP, rated_by_email = excluded.rated_by_email;
+    """
+    conn = get_db_connection()
+    conn.execute(sql, (name, lang, domain, img_val, ocr_val, user_email))
 
-def read_json(path, default):
+def safe_json(path: str):
+    """Safely loads a JSON file, returning None if it doesn't exist."""
     try:
-        with open(path) as f:
-            return json.load(f)
-    except FileNotFoundError:
-        return default
+        with open(path) as f: return json.load(f)
+    except FileNotFoundError: return None
 
-def write_json(path, obj):
-    with open(path, 'w') as f:
-        json.dump(obj, f, indent=2)
-
-def load_ratings():
-    if os.path.exists(RATING_FILE):
-        return pd.read_csv(RATING_FILE)
-    pd.DataFrame(columns=COLS).to_csv(RATING_FILE, index=False)
-    return pd.read_csv(RATING_FILE)
-
-def safe_json(path):
-    try:
-        with open(path) as f:
-            return json.load(f)
-    except FileNotFoundError:
-        return None
-
-def gcp_text(path):
+def get_ocr_text(path: str, source: str) -> str:
+    """Extracts OCR text from GCP or Gemini JSON output files."""
     js = safe_json(path)
-    if js:
-        return ' '.join(
-            b['block_text'] for b in js.get('ocr_output', {}).get('blocks', [])
-        )
+    if not js: return '—'
+    if source == 'gcp': return ' '.join(b.get('block_text', '') for b in js.get('ocr_output', {}).get('blocks', []))
+    if source == 'gemini':
+        parts = js.get('candidates', [{}])[0].get('content', {}).get('parts')
+        if not parts: return '—'
+        return ' '.join(p.get('text', '') for p in parts if isinstance(p, dict))
     return '—'
 
-def gem_text(path):
-    js = safe_json(path)
-    if js:
-        parts = (
-            js.get('candidates', [{}])[0]
-            .get('content', {})
-            .get('parts', [])
-        )
-        if parts:
-            return ' '.join(
-                p.get('text', '') for p in parts if isinstance(p, dict)
-            )
-    return '—'
-
-def md15(label, txt):
-    st.markdown(
-        f'<div style="font-size:15px;"><b>{label}</b><br>{txt}</div>',
-        unsafe_allow_html=True,
-    )
-# ---------- coloured-diff helpers -------------------------------------------
-import html as _html, unicodedata, difflib, re
-
-_quote_map = str.maketrans({
-    '“':'"', '”':'"', '„':'"', '‟':'"',
-    '‘':"'", '’':"'", '‚':"'", '‛':"'",
-})
-_punct_close = r"[\.,;:!?\u0964\u0965\u2026'\")\]\}\»]"
-_punct_open  = r"['\"(\[\{\«]"
-
-SPACE_BEFORE_CLOSE = re.compile(rf"\s+({_punct_close})")
-SPACE_AFTER_OPEN  = re.compile(rf"({_punct_open})\s+")
-
-# extra patterns
-DIGIT          = r"[0-9\u0966-\u096F]"          # ASCII + Devanagari ०–९
-SPACE_IN_DIGIT = re.compile(rf"({DIGIT})\s+(?={DIGIT})")   # 4 9 0  → 490
-SPACE_AROUND_DANDA = re.compile(r"\s*॥\s*")                # trim blanks around ॥
-
-DASH          = r"[-–—]"                       # hyphen, en-dash, em-dash
-SPACE_AROUND_DASH = re.compile(rf"\s*{DASH}\s*")   # " - "  →  "-"
-
-def _norm(s: str) -> str:
-    if not s:                                  # (unchanged pre-checks)
-        return ""
-    s = s.translate(_quote_map)
+def normalize_text(s: str) -> str:
+    """Applies a series of normalization rules to a string for better diffing."""
+    if not s: return ""
+    quote_map = str.maketrans({'“':'"', '”':'"', '„':'"', '‟':'"', '‘':"'", '’':"'", '‚':"'", '‛':"'"})
+    s = s.translate(quote_map)
     s = unicodedata.normalize("NFC", s.replace("\ufeff", ""))
-
-    # existing rules
-    s = SPACE_BEFORE_CLOSE.sub(r"\1", s)
-    s = SPACE_AFTER_OPEN.sub(r"\1", s)
-    s = SPACE_IN_DIGIT.sub(r"\1", s)            # your ४ ९ ० → ४९० rule
-    s = SPACE_AROUND_DANDA.sub("॥", s)          # keep exactly one danda
-
-    # NEW rule
-    s = SPACE_AROUND_DASH.sub("-", s)           # remove blanks around - / – / —
-
+    punct_close, punct_open, digit, dash = r"[\.,;:!?\u0964\u0965\u2026'\")\]\}\»]", r"['\"(\[\{\«]", r"[0-9\u0966-\u096F]", r"[-–—]"
+    s = re.sub(rf"\s+({punct_close})", r"\1", s); s = re.sub(rf"({punct_open})\s+", r"\1", s)
+    s = re.sub(rf"({digit})\s+(?={digit})", r"\1", s); s = re.sub(r"\s*॥\s*", "॥", s)
+    s = re.sub(rf"\s*{dash}\s*", "-", s)
     return " ".join(s.split())
 
-
-def diff_html(a: str, b: str) -> tuple[str, str]:
-    a, b = _norm(a), _norm(b)
-    sm = difflib.SequenceMatcher(None, a, b)
-    out_a, out_b = [], []
-
+def generate_diff_html(a: str, b: str) -> tuple[str, str]:
+    """Compares two strings and returns HTML with colored differences."""
+    a, b = normalize_text(a), normalize_text(b)
+    sm = difflib.SequenceMatcher(None, a, b); out_a, out_b = [], []
     for tag, i1, i2, j1, j2 in sm.get_opcodes():
-        seg_a = _html.escape(a[i1:i2])
-        seg_b = _html.escape(b[j1:j2])
-
-        if tag == "equal":
-            out_a.append(seg_a)        # plain black
-            out_b.append(seg_b)
-        elif tag == "replace":
-            out_a.append(f'<span style="background:#ffcccc">{seg_a}</span>')
-            out_b.append(f'<span style="background:#ffcccc">{seg_b}</span>')
-        elif tag == "delete":
-            out_a.append(f'<span style="background:#ffcccc">{seg_a}</span>')
-        elif tag == "insert":
-            out_b.append(f'<span style="background:#ffcccc">{seg_b}</span>')
-
+        seg_a, seg_b = _html.escape(a[i1:i2]), _html.escape(b[j1:j2])
+        if tag == "equal": out_a.append(seg_a); out_b.append(seg_b)
+        else:
+            if tag in ("replace", "delete"): out_a.append(f'<span style="background:#ffcccc">{seg_a}</span>')
+            if tag in ("replace", "insert"): out_b.append(f'<span style="background:#ffcccc">{seg_b}</span>')
     return "".join(out_a), "".join(out_b)
 
 
-# ───────── STATE INIT ────────────────────────────────────────────────────────
-# ratings_df = load_ratings()
-def load_from_db():
-    with sqlite3.connect(DB_FILE) as conn:
-        return pd.read_sql_query("SELECT * FROM ratings", conn)
+# --- 3. MAIN APP LOGIC ---
 
-ratings_df = load_from_db()
+def main_app():
+    """This function contains and runs the main part of your Streamlit app."""
+    user_email = st.session_state.user_info['email']
+    st.sidebar.write(f"Welcome, {st.session_state.user_info['name']}")
+    if st.sidebar.button("Logout"):
+        del st.session_state.user_info
+        st.rerun()
+    
+    # --- UI STATE & SIDEBAR ---
+    ratings_df = load_ratings_from_db()
+    
+    if "last_lang" not in st.session_state: st.session_state.last_lang = "Hindi"
+    if "show_completed" not in st.session_state: st.session_state.show_completed = False
 
+    st.sidebar.title("OCR Rating Tool")
+    default_lang_idx = list(LANGS.values()).index(st.session_state.last_lang)
+    lang_name = st.sidebar.selectbox('Language', list(LANGS.values()), index=default_lang_idx)
+    st.session_state.last_lang = lang_name
+    lang_code = next(k for k, v in LANGS.items() if v == lang_name)
+    
+    total_lang_files = len(glob.glob(os.path.join(IMG_DIR, lang_code, '*')))
+    done_lang_files = ratings_df[ratings_df.lang == lang_code].image_name.nunique()
+    st.sidebar.markdown(f'**Progress:** {done_lang_files}/{total_lang_files}')
+    with st.sidebar.expander('Per-domain progress'):
+        for dk, dn in DOC_CATEGORIES.items():
+            total = len(glob.glob(os.path.join(IMG_DIR, lang_code, f'{dk}_{lang_code}_*')))
+            done_count = ratings_df[(ratings_df.lang == lang_code) & (ratings_df.domain == dk)].image_name.nunique()
+            st.write(f'{dn}: {done_count}/{total}')
+            
+    st.session_state.show_completed = st.sidebar.checkbox('Show completed table', value=st.session_state.show_completed)
+    if st.session_state.show_completed:
+        st.sidebar.dataframe(ratings_df[ratings_df.lang == lang_code][COLS], use_container_width=True)
+        
+    st.sidebar.header("Downloads")
+    live_ratings_df = load_ratings_from_db()
+    csv_bytes = live_ratings_df.to_csv(index=False).encode('utf-8')
+    st.sidebar.download_button(label="⬇️ Download Live Ratings", data=csv_bytes, file_name="live_ratings.csv", mime="text/csv")
+    
+    # --- MAIN PANEL UI ---
+    view_mode = st.radio('View:', ['Unfinished', 'Completed'], horizontal=True, label_visibility='collapsed')
 
-# force numeric ints so comparisons work
-ratings_df['image_rating']     = pd.to_numeric(ratings_df['image_rating'],
-                                               errors='coerce').fillna(DEFAULT).astype(int)
-ratings_df['ocr_pred_rating']  = pd.to_numeric(ratings_df['ocr_pred_rating'],
-                                               errors='coerce').fillna(DEFAULT).astype(int)
+    if view_mode == 'Unfinished':
+        BATCH_SIZE = 10; tabs = st.tabs(list(DOC_CATEGORIES.values()))
+        for (dk, dn), tab in zip(DOC_CATEGORIES.items(), tabs):
+            with tab:
+                all_imgs = sorted(glob.glob(os.path.join(IMG_DIR, lang_code, f'{dk}_{lang_code}_*')))
+                done_imgs = set(ratings_df[(ratings_df.lang == lang_code) & (ratings_df.domain == dk)].image_name.tolist())
+                pending_imgs = [p for p in all_imgs if os.path.basename(p) not in done_imgs]
+                if not pending_imgs:
+                    st.success('All snippets done for this domain!'); continue
+                batch = pending_imgs[:BATCH_SIZE]
+                with st.form(key=f'form_{dk}'):
+                    for file_path in batch:
+                        name, stem = os.path.basename(file_path), os.path.splitext(os.path.basename(file_path))[0]
+                        st.markdown(f"#### {name}"); c1, c2 = st.columns([1, 2], gap='large')
+                        with c1:
+                            st.image(Image.open(file_path))
+                            st.radio('', [0,1,2,SKIP], format_func=lambda x:{0:'👎',1:'😐',2:'👍',SKIP:'⏭️'}[x],
+                                     index=1, horizontal=True, key=f'img_{stem}', label_visibility='collapsed')
+                        with c2:
+                            gcp_html, gem_html = generate_diff_html(get_ocr_text(os.path.join(GCP_DIR, lang_code, f'{stem}.json'), 'gcp'), get_ocr_text(os.path.join(GEM_DIR, lang_code, f'{stem}.json'), 'gemini'))
+                            st.markdown('**GCP OCR**', unsafe_allow_html=True); st.markdown(f'<div class="ocr-text">{gcp_html}</div>', unsafe_allow_html=True)
+                            st.markdown('<hr style="margin: 0.5rem 0">', unsafe_allow_html=True)
+                            st.markdown('**Gemini OCR**', unsafe_allow_html=True); st.markdown(f'<div class="ocr-text">{gem_html}</div>', unsafe_allow_html=True)
+                            st.radio('Which is better?', [0, 1, 2, SKIP], format_func=lambda x: {0:'GCP',1:'Equal',2:'Gemini',SKIP:'⏭️'}[x],
+                                     index=1, horizontal=True, key=f'ocr_{stem}', label_visibility='collapsed')
+                        st.markdown("---")
+                    if st.form_submit_button("💾 Save Batch Ratings"):
+                        for file_path in batch:
+                            name = os.path.basename(file_path)
+                            stem = os.path.splitext(name)[0]
+                            domain = name[:2]
+                            img_val, ocr_val = st.session_state[f'img_{stem}'], st.session_state[f'ocr_{stem}']
+                            is_skipped = (img_val == SKIP) or (ocr_val == SKIP)
+                            final_img_val, final_ocr_val = (SKIP, SKIP) if is_skipped else (img_val, ocr_val)
+                            upsert_rating_to_db(name, lang_code, domain, final_img_val, final_ocr_val, user_email)
+                        st.rerun()
 
-ui_state   = read_json(
-    UI_STATE_FILE,
-    {"last_lang": None, "show_completed": False, "view_completed": False},
-)
+    elif view_mode == 'Completed':
+        st.header('✅ Completed Snippets'); badge_map_img = {0: '👎', 1: '😐', 2: '👍', SKIP: '⏭️', DEFAULT: '—'}; badge_map_ocr = {0: 'GCP', 1: 'Equal', 2: 'Gemini', SKIP: 'Skipped', DEFAULT: '—'}
+        comp_tabs = st.tabs(list(DOC_CATEGORIES.values()))
+        for (dk, dn), tab in zip(DOC_CATEGORIES.items(), comp_tabs):
+            with tab:
+                done_rows = ratings_df[(ratings_df.lang == lang_code) & (ratings_df.domain == dk)]
+                if done_rows.empty: st.info('Nothing completed for this domain yet.'); continue
+                for _, row in done_rows.iterrows():
+                    name, stem = row['image_name'], os.path.splitext(row['image_name'])[0]
+                    file_path = os.path.join(IMG_DIR, lang_code, name)
+                    if not os.path.exists(file_path): continue
+                    st.markdown(f"#### {name}"); c1, c2 = st.columns([1, 2], gap='large')
+                    with c1:
+                        st.image(Image.open(file_path))
+                        st.markdown(f"**Image Rating:** {badge_map_img.get(row['image_rating'], '—')}")
+                        st.caption(f"Rated by {row.get('rated_by_email', 'N/A')} on {pd.to_datetime(row.get('rated_at')).strftime('%d %b %Y')}")
+                    with c2:
+                        gcp_html, gem_html = generate_diff_html(get_ocr_text(os.path.join(GCP_DIR, lang_code, f'{stem}.json'), 'gcp'), get_ocr_text(os.path.join(GEM_DIR, lang_code, f'{stem}.json'), 'gemini'))
+                        st.markdown('**GCP OCR**', unsafe_allow_html=True); st.markdown(f'<div class="ocr-text">{gcp_html}</div>', unsafe_allow_html=True)
+                        st.markdown('<hr style="margin: 0.5rem 0">', unsafe_allow_html=True)
+                        st.markdown('**Gemini OCR**', unsafe_allow_html=True); st.markdown(f'<div class="ocr-text">{gem_html}</div>', unsafe_allow_html=True)
+                        st.success(f"**Comparison Choice:** {badge_map_ocr.get(row['ocr_pred_rating'], '—')}")
+                    st.markdown("---")
 
-# ───────── SIDEBAR ───────────────────────────────────────────────────────────
+# --- 4. AUTHENTICATION FLOW ---
 
-# language selector
-default_lang = ui_state.get("last_lang")
-default_lang_idx = (
-    list(langs_dict.values()).index(default_lang)
-    if default_lang in langs_dict.values()
-    else 0
-)
-lang_name = st.sidebar.selectbox(
-    'Language', list(langs_dict.values()), index=default_lang_idx
-)
-ui_state["last_lang"] = lang_name                 # remember selection
-lang_code = next(k for k, v in langs_dict.items() if v == lang_name)
-
-# overall progress
-total_lang = len(glob.glob(os.path.join(img_dir, lang_code, '*')))
-done_lang  = ratings_df[ratings_df.lang == lang_code].image_name.nunique()
-st.sidebar.markdown(f'**Progress:** {done_lang}/{total_lang}')
-
-# per-domain progress
-with st.sidebar.expander('Per-domain progress'):
-    for dk, dn in doc_categories.items():
-        total = len(glob.glob(os.path.join(img_dir, lang_code, f'{dk}_{lang_code}_*')))
-        done  = ratings_df[
-            (ratings_df.lang == lang_code) & (ratings_df.domain == dk)
-        ].image_name.nunique()
-        st.write(f'{dn}: {done}/{total}')
-
-# completed-table toggle
-show_tbl = st.sidebar.checkbox(
-    'Show completed table',
-    value=ui_state.get("show_completed", False)       # safe default
-)
-ui_state["show_completed"] = show_tbl
-
-if show_tbl:
-    st.sidebar.dataframe(
-        ratings_df[ratings_df.lang == lang_code][COLS],
-        use_container_width=True,
-    )
-
-# visual review toggle
-view_comp = st.sidebar.checkbox(
-    'View completed visually',
-    value=ui_state.get("view_completed", False)       # safe default
-)
-ui_state["view_completed"] = view_comp
-
-# persist sidebar choices immediately
-write_json(UI_STATE_FILE, ui_state)
-
-# ───────── DOWNLOAD CURRENT CSV ────────────────────────────────────────────
-with open(RATING_FILE, "rb") as f:
-    csv_bytes = f.read()
-
-# st.sidebar.download_button(
-#     label="⬇️ Download ratings.csv",
-#     data=csv_bytes,
-#     file_name="ratings.csv",
-#     mime="text/csv",
-# )
-
-with sqlite3.connect(DB_FILE) as conn:
-    csv_bytes = pd.read_sql_query("SELECT * FROM ratings", conn).to_csv(index=False).encode()
-
-st.sidebar.download_button(
-    "⬇️ Download ratings.csv", csv_bytes, file_name="ratings.csv", mime="text/csv"
-)
-
-
-with open(UI_STATE_FILE, "rb") as f:
-    st.sidebar.download_button(
-        "⬇️ Download ui_state.json",
-        f.read(),
-        file_name="ui_state.json",
-        mime="application/json",
-    )
-
-
-# ───────── MAIN-VIEW TOGGLE ──────────────────────────────────────────────
-view_mode = st.radio(
-    'Show snippets:',
-    ['Unfinished', 'Completed'],
-    horizontal=True,
-    label_visibility='collapsed'
-)
-
-# ───────── CSV UPDATE --------------------------------------------------------
-
-import sqlite3, time
-
-DB_FILE = "ratings.db"
-DEFAULT, SKIP = -1, -2     # already defined above
-
-def upsert_db(name: str, img_val: int | None, ocr_val: int | None) -> None:
-    """Atomic UPSERT; retries if the DB is momentarily busy."""
-    if img_val is None:
-        img_val = DEFAULT
-    if ocr_val is None:
-        ocr_val = DEFAULT
-
-    sql = """
-        INSERT INTO ratings
-              (image_name, lang, domain, image_rating, ocr_pred_rating)
-        VALUES (?, ?, ?, ?, ?)
-        ON CONFLICT(image_name) DO UPDATE SET
-            image_rating    = excluded.image_rating,
-            ocr_pred_rating = excluded.ocr_pred_rating;
-    """
-
-    for attempt in range(3):                      # ≤3 tries
+if 'user_info' not in st.session_state:
+    query_params = st.query_params
+    if "code" in query_params:
+        # Step 2: User has been redirected back from Google with a code
+        code = query_params['code']
+        google = OAuth2Session(CLIENT_ID, scope=SCOPE, redirect_uri=REDIRECT_URI)
         try:
-            with sqlite3.connect(DB_FILE, timeout=30) as conn:
-                conn.execute(sql,
-                             (name,
-                              lang_code,
-                              name[:2],
-                              img_val,
-                              ocr_val))
-            break                                 # success → leave the loop
-        except sqlite3.OperationalError as e:
-            if "locked" in str(e):                # busy DB → wait & retry
-                time.sleep(0.2 * (attempt + 1))
-                continue
-            raise                                 # other errors → propagate
-
-
-# from filelock import FileLock
-
-# def update_csv(name, img=None, ocr=None, skip=False):
-#     """
-#     Concurrency-safe upsert of one annotation row.
-#     - Reloads the freshest ratings.csv under a file-lock → no overwriting
-#       of other users’ edits.
-#     - Applies the caller’s changes (or marks as skipped).
-#     - Writes back, then refreshes the in-memory ratings_df so UI stats update.
-#     """
-#     global ratings_df
-
-#     if skip:
-#         img = ocr = SKIP
-
-#     new_row = {
-#         'image_name'     : name,
-#         'lang'           : lang_code,
-#         'domain'         : name[:2],
-#         'image_rating'   : img  if img  is not None else DEFAULT,
-#         'ocr_pred_rating': ocr if ocr is not None else DEFAULT,
-#     }
-
-#     lock = FileLock("ratings.lock")
-
-#     with lock:
-#         # starting from the latest on disk
-#         if os.path.exists(RATING_FILE):
-#             current = pd.read_csv(RATING_FILE)
-#         else:
-#             current = pd.DataFrame(columns=COLS)
-
-#         mask = current.image_name == name
-#         if mask.any():
-#             if img  is not None: current.loc[mask, 'image_rating']    = img
-#             if ocr is not None: current.loc[mask, 'ocr_pred_rating']  = ocr
-#         else:
-#             current = pd.concat([current, pd.DataFrame([new_row])],
-#                                 ignore_index=True)
-
-#         # persist
-#         current.to_csv(RATING_FILE, index=False)
-
-#     # keep session cache in sync
-#     ratings_df = current
-
-
-
-# ───────── MAIN – PENDING SNIPPETS (FORM VERSION) ───────────────────────────
-if view_mode == 'Unfinished':
-    BATCH = 10
-    tabs = st.tabs(list(doc_categories.values()))
-
-    for (dk, dn), tab in zip(doc_categories.items(), tabs):
-        with tab:
-            all_imgs = sorted(glob.glob(os.path.join(img_dir, lang_code, f'{dk}_{lang_code}_*')))
-            done_imgs = ratings_df[(ratings_df.lang == lang_code) & (ratings_df.domain == dk)].image_name.tolist()
-            pending = [p for p in all_imgs if os.path.basename(p) not in done_imgs]
-
-            if not pending:
-                st.success('All snippets done for this domain!')
-                continue
-
-            batch = pending[:BATCH]                       # first 10
-
-            with st.form(key=f'batch_{dk}'):
-                for file in batch:
-                    name  = os.path.basename(file)
-                    stem  = os.path.splitext(name)[0]
-                    uid   = '_'.join(name.split('_')[2:-1])
-                    region = name.split('_')[-1].split('.')[0]
-
-                    c1, c2 = st.columns([1, 2], gap='large')
-
-                    # -------- image + image-rating radio ------------------------
-                    with c1:
-                        st.image(Image.open(file))
-                        st.markdown(
-                            f'**File:** {name}<br>**UID:** {uid}<br>**Region:** {region}',
-                            unsafe_allow_html=True,
-                        )
-
-                        img_key  = f'img_{stem}'
-                        img_choice = st.radio(
-                            '',                                  # no label
-                            options=[0, 1, 2, SKIP],             # 👎 😐 👍 ⏭️
-                            format_func=lambda x: {0:'👎',1:'😐',2:'👍',SKIP:'⏭️'}[x],
-                            index=[0,1,2,SKIP].index(st.session_state.get(img_key, 1)),
-                            horizontal=True,
-                            key=img_key,
-                            label_visibility='collapsed'
-                        )
-
-                    # -------- diff + OCR comparison radio -----------------------
-                    with c2:
-                        gcp_html, gem_html = diff_html(
-                            gcp_text(os.path.join(gcp_dir, lang_code, f'{stem}.json')),
-                            gem_text(os.path.join(gem_dir, lang_code, f'{stem}.json'))
-                        )
-
-                        st.markdown('**GCP OCR**', unsafe_allow_html=True)
-                        st.markdown(gcp_html, unsafe_allow_html=True)
-                        st.markdown('<hr>', unsafe_allow_html=True)
-                        st.markdown('**Gemini OCR**', unsafe_allow_html=True)
-                        st.markdown(gem_html, unsafe_allow_html=True)
-
-                        ocr_key  = f'ocr_{stem}'
-                        ocr_choice = st.radio(
-                            'Which is better?',
-                            options=[0, 1, 2, SKIP],             # GCP / Equal / Gemini / Skip
-                            format_func=lambda x: {0:'GCP',1:'Equal',2:'Gemini',SKIP:'⏭️'}[x],
-                            index=[0,1,2,SKIP].index(st.session_state.get(ocr_key, 1)),
-                            horizontal=True,
-                            key=ocr_key,
-                            label_visibility='collapsed'
-                        )
-
-                    st.markdown('---')
-
-                # ---------- submit once for the whole batch ---------------------
-                # if st.form_submit_button('💾 Save batch'):
-                #     for file in batch:
-                #         name  = os.path.basename(file)
-                #         stem  = os.path.splitext(name)[0]
-                #         img_val = st.session_state[f'img_{stem}']
-                #         ocr_val = st.session_state[f'ocr_{stem}']
-                #         skip = (img_val == SKIP) or (ocr_val == SKIP)
-                #         update_csv(name, img_val, ocr_val, skip)
-                #     st.experimental_rerun()          # next 10 load
-
-                if st.form_submit_button("💾 Save batch"):
-                    for file in batch:
-                        stem  = os.path.splitext(os.path.basename(file))[0]
-                        img_val = st.session_state[f'img_{stem}']
-                        ocr_val = st.session_state[f'ocr_{stem}']
-                        skip    = (img_val == SKIP) or (ocr_val == SKIP)
-                        if skip: img_val = ocr_val = SKIP
-                        upsert_db(f"{stem}.png", img_val, ocr_val)   # one UPSERT per snippet
-                    st.experimental_rerun()
-
-
-
-# ───────── VISUALISE COMPLETED ───────────────────────────────────────────────
-if view_mode == 'Completed':
-    st.header('✅ Completed snippets')
-    comp_tabs = st.tabs(list(doc_categories.values()))
-
-    badge_map_img = {0: '👎', 1: '😐', 2: '👍', SKIP: '⏭️', DEFAULT: '—'}
-    badge_map_ocr = {
-        0: 'GCP better',
-        1: 'Equal',
-        2: 'Gemini better',
-        SKIP: 'Skipped',
-        DEFAULT: '—',
-    }
-
-    for (dk, dn), ctab in zip(doc_categories.items(), comp_tabs):
-        with ctab:
-            done_rows = ratings_df[
-                (ratings_df.lang == lang_code)
-                & (ratings_df.domain == dk)
-                & (
-                    (ratings_df.image_rating != DEFAULT)
-                    | (ratings_df.ocr_pred_rating != DEFAULT)
-                )
-            ]
-
-            if done_rows.empty:
-                st.info('Nothing completed here yet.')
-                continue
-
-            for _, row in done_rows.iterrows():
-                file = os.path.join(img_dir, lang_code, row.image_name)
-                stem = os.path.splitext(row.image_name)[0]
-                region = row.image_name.split('_')[-1].split('.')[0]
-                uid = '_'.join(row.image_name.split('_')[2:-1])
-
-                with st.container():
-                    c1, c2 = st.columns([1, 2], gap='large')
-
-                    # image + static badge
-                    with c1:
-                        st.image(Image.open(file))
-                        st.markdown(
-                            f'**File:** {row.image_name}<br>'
-                            f'**UID:** {uid}<br>'
-                            f'**Region:** {region}',
-                            unsafe_allow_html=True,
-                        )
-                        img_badge = badge_map_img.get(int(row.image_rating), '—')
-                        st.markdown(f'Image rating: **{img_badge}**')
-
-                    # OCR texts + static badge
-                    # with c2:
-                    #     md15(
-                    #         'GCP OCR',
-                    #         gcp_text(os.path.join(gcp_dir, lang_code, f'{stem}.json')),
-                    #     )
-                    #     st.markdown('<hr>', unsafe_allow_html=True)
-                    #     md15(
-                    #         'Gemini OCR',
-                    #         gem_text(os.path.join(gem_dir, lang_code, f'{stem}.json')),
-                    #     )
-                    #     ocr_badge = badge_map_ocr.get(int(row.ocr_pred_rating), '—')
-                    #     st.success(f'Chosen: {ocr_badge}')
-
-                    # st.markdown('---')
-
-                    with c2:
-                        gcp_h, gem_h = diff_html(
-                            gcp_text(os.path.join(gcp_dir, lang_code, f'{stem}.json')),
-                            gem_text(os.path.join(gem_dir, lang_code, f'{stem}.json'))
-                        )
-                        st.markdown('**GCP OCR**', unsafe_allow_html=True)
-                        st.markdown(gcp_h, unsafe_allow_html=True)
-                        st.markdown('<hr>', unsafe_allow_html=True)
-                        st.markdown('**Gemini OCR**', unsafe_allow_html=True)
-                        st.markdown(gem_h, unsafe_allow_html=True)
-                        st.success(f'Chosen: {badge_map_ocr[int(row.ocr_pred_rating)]}')
-
-                    st.markdown('---')
-
+            token = google.fetch_token(TOKEN_URL, client_secret=CLIENT_SECRET, code=code)
+            google = OAuth2Session(CLIENT_ID, token=token)
+            user_info = google.get('https://www.googleapis.com/oauth2/v1/userinfo').json()
+            st.session_state.user_info = user_info
+            st.rerun()
+        except Exception as e:
+            st.error(f"An error occurred during token fetch: {e}")
+            st.link_button("Try Logging In Again", "/")
+    else:
+        # Step 1: Show the login button
+        st.title("Welcome to the OCR Rating Tool")
+        st.write("Please log in with your Google account to continue.")
+        google = OAuth2Session(CLIENT_ID, scope=SCOPE, redirect_uri=REDIRECT_URI)
+        authorization_url, state = google.authorization_url(AUTHORIZATION_URL, access_type="offline", prompt="select_account")
+        st.link_button("Login with Google", authorization_url)
+else:
+    # If user is already logged in, run the main app
+    main_app()
