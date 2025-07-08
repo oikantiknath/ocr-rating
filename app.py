@@ -1,5 +1,6 @@
 # base = '/Users/oikantik/expts_check_samples_ocr_quality'
 import streamlit as st, os, json, glob, pandas as pd
+st.set_page_config(layout="wide")
 from PIL import Image
 
 # ───────── CONFIG ────────────────────────────────────────────────────────────
@@ -13,18 +14,18 @@ doc_categories = {
     'qp': 'question-papers', 'mn': 'manuals'
 }
 import os
-base = os.environ.get("DATA_DIR", "data/expts_check_samples_ocr_quality")
-STATE_DIR = "app_state"
-os.makedirs(STATE_DIR, exist_ok=True)
-RATING_FILE   = os.path.join(STATE_DIR, "ratings.csv")
-UI_STATE_FILE = os.path.join(STATE_DIR, "ui_state.json")
+base = '/Users/oikantik/expts_check_samples_ocr_quality'
+# STATE_DIR = "app_state"
+# os.makedirs(STATE_DIR, exist_ok=True)
+# RATING_FILE   = os.path.join(STATE_DIR, "ratings.csv")
+# UI_STATE_FILE = os.path.join(STATE_DIR, "ui_state.json")
 
 
 img_dir, gcp_dir, gem_dir = [f'{base}/{d}' for d in
     ('ocr_snippets_testing', 'gcp_ocr_snippets', 'gemini_ocr_snippets')]
 
-# RATING_FILE   = 'ratings.csv'
-# UI_STATE_FILE = 'ui_state.json'
+RATING_FILE   = 'ratings.csv'
+UI_STATE_FILE = 'ui_state.json'
 COLS          = ['image_name', 'lang', 'domain', 'image_rating', 'ocr_pred_rating']
 DEFAULT, SKIP = -1, -2      # -1 = not rated, -2 = skipped
 
@@ -80,9 +81,77 @@ def md15(label, txt):
         f'<div style="font-size:15px;"><b>{label}</b><br>{txt}</div>',
         unsafe_allow_html=True,
     )
+# ---------- coloured-diff helpers -------------------------------------------
+import html as _html, unicodedata, difflib, re
+
+_quote_map = str.maketrans({
+    '“':'"', '”':'"', '„':'"', '‟':'"',
+    '‘':"'", '’':"'", '‚':"'", '‛':"'",
+})
+_punct_close = r"[\.,;:!?\u0964\u0965\u2026'\")\]\}\»]"
+_punct_open  = r"['\"(\[\{\«]"
+
+SPACE_BEFORE_CLOSE = re.compile(rf"\s+({_punct_close})")
+SPACE_AFTER_OPEN  = re.compile(rf"({_punct_open})\s+")
+
+# extra patterns
+DIGIT          = r"[0-9\u0966-\u096F]"          # ASCII + Devanagari ०–९
+SPACE_IN_DIGIT = re.compile(rf"({DIGIT})\s+(?={DIGIT})")   # 4 9 0  → 490
+SPACE_AROUND_DANDA = re.compile(r"\s*॥\s*")                # trim blanks around ॥
+
+DASH          = r"[-–—]"                       # hyphen, en-dash, em-dash
+SPACE_AROUND_DASH = re.compile(rf"\s*{DASH}\s*")   # " - "  →  "-"
+
+def _norm(s: str) -> str:
+    if not s:                                  # (unchanged pre-checks)
+        return ""
+    s = s.translate(_quote_map)
+    s = unicodedata.normalize("NFC", s.replace("\ufeff", ""))
+
+    # existing rules
+    s = SPACE_BEFORE_CLOSE.sub(r"\1", s)
+    s = SPACE_AFTER_OPEN.sub(r"\1", s)
+    s = SPACE_IN_DIGIT.sub(r"\1", s)            # your ४ ९ ० → ४९० rule
+    s = SPACE_AROUND_DANDA.sub("॥", s)          # keep exactly one danda
+
+    # NEW rule
+    s = SPACE_AROUND_DASH.sub("-", s)           # remove blanks around - / – / —
+
+    return " ".join(s.split())
+
+
+def diff_html(a: str, b: str) -> tuple[str, str]:
+    a, b = _norm(a), _norm(b)
+    sm = difflib.SequenceMatcher(None, a, b)
+    out_a, out_b = [], []
+
+    for tag, i1, i2, j1, j2 in sm.get_opcodes():
+        seg_a = _html.escape(a[i1:i2])
+        seg_b = _html.escape(b[j1:j2])
+
+        if tag == "equal":
+            out_a.append(seg_a)        # plain black
+            out_b.append(seg_b)
+        elif tag == "replace":
+            out_a.append(f'<span style="background:#ffcccc">{seg_a}</span>')
+            out_b.append(f'<span style="background:#ffcccc">{seg_b}</span>')
+        elif tag == "delete":
+            out_a.append(f'<span style="background:#ffcccc">{seg_a}</span>')
+        elif tag == "insert":
+            out_b.append(f'<span style="background:#ffcccc">{seg_b}</span>')
+
+    return "".join(out_a), "".join(out_b)
+
 
 # ───────── STATE INIT ────────────────────────────────────────────────────────
 ratings_df = load_ratings()
+
+# force numeric ints so comparisons work
+ratings_df['image_rating']     = pd.to_numeric(ratings_df['image_rating'],
+                                               errors='coerce').fillna(DEFAULT).astype(int)
+ratings_df['ocr_pred_rating']  = pd.to_numeric(ratings_df['ocr_pred_rating'],
+                                               errors='coerce').fillna(DEFAULT).astype(int)
+
 ui_state   = read_json(
     UI_STATE_FILE,
     {"last_lang": None, "show_completed": False, "view_completed": False},
@@ -140,6 +209,12 @@ ui_state["view_completed"] = view_comp
 # persist sidebar choices immediately
 write_json(UI_STATE_FILE, ui_state)
 
+# ───────── MAIN-VIEW TOGGLE ──────────────────────────────────────────────
+view_mode = st.radio(
+    'Show snippets:',
+    ['Unfinished', 'Completed'],
+    horizontal=True,
+)
 
 # ───────── CSV UPDATE --------------------------------------------------------
 def update_csv(name, img=None, ocr=None, skip=False):
@@ -172,88 +247,110 @@ def update_csv(name, img=None, ocr=None, skip=False):
         )
     ratings_df.to_csv(RATING_FILE, index=False)
 
-# ───────── MAIN – PENDING SNIPPETS ───────────────────────────────────────────
-tabs = st.tabs(list(doc_categories.values()))
+# ───────── MAIN – PENDING SNIPPETS (FORM VERSION) ───────────────────────────
+if view_mode == 'Unfinished':
+    BATCH = 10
+    tabs = st.tabs(list(doc_categories.values()))
 
-for (dk, dn), tab in zip(doc_categories.items(), tabs):
-    with tab:
-        all_imgs = sorted(
-            glob.glob(os.path.join(img_dir, lang_code, f'{dk}_{lang_code}_*'))
-        )
-        done_imgs = ratings_df[
-            (ratings_df.lang == lang_code) & (ratings_df.domain == dk)
-        ].image_name.tolist()
-        pending = [p for p in all_imgs if os.path.basename(p) not in done_imgs]
+    for (dk, dn), tab in zip(doc_categories.items(), tabs):
+        with tab:
+            all_imgs = sorted(glob.glob(os.path.join(img_dir, lang_code, f'{dk}_{lang_code}_*')))
+            done_imgs = ratings_df[(ratings_df.lang == lang_code) & (ratings_df.domain == dk)].image_name.tolist()
+            pending = [p for p in all_imgs if os.path.basename(p) not in done_imgs]
 
-        if not pending:
-            st.success('All snippets done for this domain!')
-        else:
-            for file in pending:
-                name = os.path.basename(file)
-                stem = os.path.splitext(name)[0]
-                region = name.split('_')[-1].split('.')[0]
-                uid = '_'.join(name.split('_')[2:-1])
+            if not pending:
+                st.success('All snippets done for this domain!')
+                continue
 
-                with st.container():
+            batch = pending[:BATCH]                       # first 10
+
+            with st.form(key=f'batch_{dk}'):
+                for file in batch:
+                    name  = os.path.basename(file)
+                    stem  = os.path.splitext(name)[0]
+                    uid   = '_'.join(name.split('_')[2:-1])
+                    region = name.split('_')[-1].split('.')[0]
+
                     c1, c2 = st.columns([1, 2], gap='large')
 
-                    # image + rating buttons
+                    # -------- image + image-rating radio ------------------------
                     with c1:
                         st.image(Image.open(file))
                         st.markdown(
                             f'**File:** {name}<br>**UID:** {uid}<br>**Region:** {region}',
                             unsafe_allow_html=True,
                         )
-                        b1, b2, b3, b4 = st.columns(4)
-                        if b1.button('👎', key=f'{stem}_img0'):
-                            update_csv(name, img=0)
-                        if b2.button('😐', key=f'{stem}_img1'):
-                            update_csv(name, img=1)
-                        if b3.button('👍', key=f'{stem}_img2'):
-                            update_csv(name, img=2)
-                        if b4.button('⏭️', key=f'{stem}_skip'):
-                            update_csv(name, skip=True)
 
-                    # ocr texts + comparison buttons
+                        img_key  = f'img_{stem}'
+                        img_choice = st.radio(
+                            '',                                  # no label
+                            options=[0, 1, 2, SKIP],             # 👎 😐 👍 ⏭️
+                            format_func=lambda x: {0:'👎',1:'😐',2:'👍',SKIP:'⏭️'}[x],
+                            index=[0,1,2,SKIP].index(st.session_state.get(img_key, 1)),
+                            horizontal=True,
+                            key=img_key,
+                        )
+
+                    # -------- diff + OCR comparison radio -----------------------
                     with c2:
-                        md15(
-                            'GCP OCR',
+                        gcp_html, gem_html = diff_html(
                             gcp_text(os.path.join(gcp_dir, lang_code, f'{stem}.json')),
+                            gem_text(os.path.join(gem_dir, lang_code, f'{stem}.json'))
                         )
+
+                        st.markdown('**GCP OCR**', unsafe_allow_html=True)
+                        st.markdown(gcp_html, unsafe_allow_html=True)
                         st.markdown('<hr>', unsafe_allow_html=True)
-                        md15(
-                            'Gemini OCR',
-                            gem_text(os.path.join(gem_dir, lang_code, f'{stem}.json')),
+                        st.markdown('**Gemini OCR**', unsafe_allow_html=True)
+                        st.markdown(gem_html, unsafe_allow_html=True)
+
+                        ocr_key  = f'ocr_{stem}'
+                        ocr_choice = st.radio(
+                            'Which is better?',
+                            options=[0, 1, 2, SKIP],             # GCP / Equal / Gemini / Skip
+                            format_func=lambda x: {0:'GCP',1:'Equal',2:'Gemini',SKIP:'⏭️'}[x],
+                            index=[0,1,2,SKIP].index(st.session_state.get(ocr_key, 1)),
+                            horizontal=True,
+                            key=ocr_key,
                         )
-                        st.markdown('<hr>', unsafe_allow_html=True)
-                        t1, t2, t3 = st.columns(3)
-                        if t1.button(
-                            '👍 GCP', key=f'{stem}_ocr0'
-                        ):
-                            update_csv(name, ocr=0)
-                        if t2.button(
-                            '😐 Equal', key=f'{stem}_ocr1'
-                        ):
-                            update_csv(name, ocr=1)
-                        if t3.button(
-                            '👍 Gemini', key=f'{stem}_ocr2'
-                        ):
-                            update_csv(name, ocr=2)
 
                     st.markdown('---')
 
+                # ---------- submit once for the whole batch ---------------------
+                if st.form_submit_button('💾 Save batch'):
+                    for file in batch:
+                        name  = os.path.basename(file)
+                        stem  = os.path.splitext(name)[0]
+                        img_val = st.session_state[f'img_{stem}']
+                        ocr_val = st.session_state[f'ocr_{stem}']
+                        skip = (img_val == SKIP) or (ocr_val == SKIP)
+                        update_csv(name, img_val, ocr_val, skip)
+                    st.experimental_rerun()          # next 10 load
+
+
 # ───────── VISUALISE COMPLETED ───────────────────────────────────────────────
-if ui_state["view_completed"]:
+if view_mode == 'Completed':
     st.header('✅ Completed snippets')
     comp_tabs = st.tabs(list(doc_categories.values()))
+
+    badge_map_img = {0: '👎', 1: '😐', 2: '👍', SKIP: '⏭️', DEFAULT: '—'}
+    badge_map_ocr = {
+        0: 'GCP better',
+        1: 'Equal',
+        2: 'Gemini better',
+        SKIP: 'Skipped',
+        DEFAULT: '—',
+    }
 
     for (dk, dn), ctab in zip(doc_categories.items(), comp_tabs):
         with ctab:
             done_rows = ratings_df[
                 (ratings_df.lang == lang_code)
                 & (ratings_df.domain == dk)
-                & (ratings_df.image_rating != DEFAULT)
-                & (ratings_df.ocr_pred_rating != DEFAULT)
+                & (
+                    (ratings_df.image_rating != DEFAULT)
+                    | (ratings_df.ocr_pred_rating != DEFAULT)
+                )
             ]
 
             if done_rows.empty:
@@ -278,32 +375,36 @@ if ui_state["view_completed"]:
                             f'**Region:** {region}',
                             unsafe_allow_html=True,
                         )
-                        img_badge = {0: '👎', 1: '😐', 2: '👍', SKIP: '⏭️'}[
-                            row.image_rating
-                        ]
+                        img_badge = badge_map_img.get(int(row.image_rating), '—')
                         st.markdown(f'Image rating: **{img_badge}**')
 
                     # OCR texts + static badge
+                    # with c2:
+                    #     md15(
+                    #         'GCP OCR',
+                    #         gcp_text(os.path.join(gcp_dir, lang_code, f'{stem}.json')),
+                    #     )
+                    #     st.markdown('<hr>', unsafe_allow_html=True)
+                    #     md15(
+                    #         'Gemini OCR',
+                    #         gem_text(os.path.join(gem_dir, lang_code, f'{stem}.json')),
+                    #     )
+                    #     ocr_badge = badge_map_ocr.get(int(row.ocr_pred_rating), '—')
+                    #     st.success(f'Chosen: {ocr_badge}')
+
+                    # st.markdown('---')
+
                     with c2:
-                        md15(
-                            'GCP OCR',
-                            gcp_text(
-                                os.path.join(gcp_dir, lang_code, f'{stem}.json')
-                            ),
+                        gcp_h, gem_h = diff_html(
+                            gcp_text(os.path.join(gcp_dir, lang_code, f'{stem}.json')),
+                            gem_text(os.path.join(gem_dir, lang_code, f'{stem}.json'))
                         )
+                        st.markdown('**GCP OCR**', unsafe_allow_html=True)
+                        st.markdown(gcp_h, unsafe_allow_html=True)
                         st.markdown('<hr>', unsafe_allow_html=True)
-                        md15(
-                            'Gemini OCR',
-                            gem_text(
-                                os.path.join(gem_dir, lang_code, f'{stem}.json')
-                            ),
-                        )
-                        ocr_badge = {
-                            0: 'GCP better',
-                            1: 'Equal',
-                            2: 'Gemini better',
-                            SKIP: 'Skipped',
-                        }[row.ocr_pred_rating]
-                        st.success(f'Chosen: {ocr_badge}')
+                        st.markdown('**Gemini OCR**', unsafe_allow_html=True)
+                        st.markdown(gem_h, unsafe_allow_html=True)
+                        st.success(f'Chosen: {badge_map_ocr[int(row.ocr_pred_rating)]}')
 
                     st.markdown('---')
+
